@@ -1,0 +1,2711 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="review" dtd-version="1.0" xml:lang="en">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">BioOne</journal-id>
+<journal-id journal-id-type="journal-id">Elementa</journal-id>
+<journal-title-group>
+<journal-title>Elementa</journal-title>
+<journal-subtitle>Science of the Anthropocene</journal-subtitle>
+<abbrev-journal-title>Elem. Sci. Anth.</abbrev-journal-title>
+</journal-title-group>
+<contrib-group>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Helmig</surname><given-names>Detlev</given-names></name>
+<xref ref-type="aff" rid="affa"/>
+<role>Editor-in-Chief: Atmospheric Science</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/detlev-helmig/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Blum</surname><given-names>Joel D.</given-names></name>
+<xref ref-type="aff" rid="affb"/>
+<role>Editor-in-Chief: Earth &amp; Environmental Science</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/joel-d-blum/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Zak</surname><given-names>Donald R.</given-names></name>
+<xref ref-type="aff" rid="affb"/>
+<role>Editor-in-Chief: Ecology</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/donald-r-zak/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Deming</surname><given-names>Jody W.</given-names></name>
+<xref ref-type="aff" rid="affc"/>
+<role>Editor-in-Chief: Ocean Science</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/jody-w-deming/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Chang</surname><given-names>Michael E.</given-names></name>
+<xref ref-type="aff" rid="affd"/>
+<role>Editor-in-Chief: Sustainable Engineering</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/michael-e-chang/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Kapuscinski</surname><given-names>Anne</given-names></name>
+<xref ref-type="aff" rid="affe"/>
+<role>Editor-in-Chief: Sustainability Transitions</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/anne-kapuscinski/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Peart</surname><given-names>David R.</given-names></name>
+<xref ref-type="aff" rid="affe"/>
+<role>Editor-in-Chief: Sustainability Transitions</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/david-r-peart/</uri>
+</contrib>
+</contrib-group>
+<aff id="affa">
+<institution>University of Colorado Boulder</institution>
+<country>United States</country>
+</aff>
+<aff id="affb">
+<institution>University of Michigan</institution>
+<country>United States</country>
+</aff>
+<aff id="affc">
+<institution>University of Washington</institution>
+<country>United States</country>
+</aff>
+<aff id="affd">
+<institution>Georgia Institute of Technology</institution>
+<country>United States</country>
+</aff>
+<aff id="affe">
+<institution>Dartmouth</institution>
+<country>United States</country>
+</aff>
+<issn pub-type="epub">2325-1026</issn>
+<publisher>
+<publisher-name>BioOne</publisher-name>
+<publisher-loc>21 Dupont Circle NW, Suite 800, Washington, DC 20036, United States<email>team@elementascience.org</email>
+<uri>http://bioone.org</uri><uri>http://elementascience.org</uri>
+</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">ELEMENTA-D-13-00018</article-id>
+<article-id pub-id-type="doi">10.12952/journal.elementa.000026</article-id>
+<article-categories>
+<subj-group subj-group-type="article-type">
+<subject>Review</subject>
+</subj-group>
+<subj-group subj-group-type="domain">
+<subject>Ocean Science</subject>
+</subj-group>
+<subj-group subj-group-type="classification">
+<subject>Ocean Science</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>The evolution and future of carbonate precipitation in marine invertebrates: Witnessing extinction or documenting resilience in the Anthropocene?</article-title>
+<alt-title alt-title-type="short-title">Invertebrate carbonate precipitation in the oceans</alt-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Drake</surname><given-names>Jeana L.</given-names></name>
+<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+</contrib>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Mass</surname><given-names>Tali</given-names></name>
+<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+</contrib>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Falkowski</surname><given-names>Paul G.</given-names></name>
+<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+<xref ref-type="corresp" rid="cor1"><sup>*</sup></xref>
+</contrib>
+</contrib-group>
+<aff id="aff1"><label>1</label><institution content-type="dept">Environmental Biophysics and Molecular Ecology Laboratory</institution>, <institution content-type="dept">Institute of Marine and Coastal Sciences</institution>, <institution>Rutgers University</institution>, <addr-line content-type="city">New Brunswick</addr-line>, <addr-line content-type="state">New Jersey</addr-line>, <country>United States</country></aff>
+<aff id="aff2"><label>2</label><institution content-type="dept">Department of Earth and Planetary Sciences</institution>, <institution>Rutgers University</institution>, <addr-line content-type="city">Piscataway</addr-line>, <addr-line content-type="state">New Jersey</addr-line>, <country>United States</country></aff>
+<contrib-group>
+<contrib contrib-type="domain-editor-in-chief" xlink:type="simple">
+<name name-style="western"><surname>Deming</surname><given-names>Jody W.</given-names></name>
+<xref ref-type="aff" rid="afff"/>
+<role>Domain Editor-in-Chief</role>
+</contrib>
+<contrib contrib-type="associate-editor" xlink:type="simple">
+<name name-style="western"><surname>Thomsen</surname><given-names>Laurenz</given-names></name>
+<xref ref-type="aff" rid="affg"/>
+<role>Associate Editor</role>
+</contrib>
+</contrib-group>
+<aff id="afff">
+<institution content-type="dept">Department of Biological Oceanography</institution>
+<institution>University of Washington</institution>
+<addr-line content-type="city">Seattle</addr-line>
+<addr-line content-type="state">Washington</addr-line>
+<country>United States</country>
+</aff>
+<aff id="affg">
+<institution content-type="dept">Department of Earth and Space Sciences</institution>
+<institution>Jacobs University Bremen, Germany</institution>
+<addr-line content-type="city">Bremen</addr-line>
+<country>Germany</country>
+</aff>
+<author-notes><corresp id="cor1"><label><sup>*</sup></label><email xlink:type="simple">falko@marine.rutgers.edu</email></corresp>
+<fn fn-type="conflict"><p>The authors declare no competing interests.</p></fn>
+<fn fn-type="con"><p>Contributed to conception and design, drafted and revised, approved the submitted version for publication: JLD, TM, PGF</p></fn>
+</author-notes>
+<pub-date pub-type="epub" iso-8601-date="2014-05-07">
+<day>07</day>
+<month>05</month>
+<year>2014</year>
+</pub-date>
+<volume content-type="volume">2</volume>
+<elocation-id>000026</elocation-id>
+<history>
+<date date-type="received" iso-8601-date="2013-09-11">
+<day>11</day>
+<month>09</month>
+<year>2013</year>
+</date>
+<date date-type="rev-recd" iso-8601-date="2014-02-07">
+<day>07</day>
+<month>02</month>
+<year>2014</year>
+</date>
+<date date-type="accepted" iso-8601-date="2014-03-01">
+<day>01</day>
+<month>03</month>
+<year>2014</year>
+</date>
+</history>
+<permissions>
+<copyright-year>2014</copyright-year>
+<copyright-holder>Drake, Mass and Falkowski</copyright-holder>
+<license license-type="open-access" xlink:type="simple">
+<license-p><open-access><p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</p>
+</open-access>
+</license-p>
+</license>
+</permissions>
+<abstract><title>Abstract</title>
+<p>Morphological and phylogenetic analyses suggest that the ability to precipitate carbonates evolved several times in marine invertebrates in the past 600 million years. Over the past decade, there has been a profusion of genomic, transcriptomic, and proteomic analyses of calcifying representatives from three metazoan phyla: Cnidaria, Echinodermata, and Mollusca. Based on this information, we compared proteins intimately associated with precipitated calcium carbonate in these three phyla. Specifically, we used a cluster analysis and gene ontology approach to compare ∼1500 proteins, from over 100 studies, extracted from calcium carbonates in stony corals, in bivalve and gastropod mollusks, and in adult and larval sea urchins to identify common motifs and differences. Our analysis suggests that there are few sequence similarities across all three phyla, supporting the independent evolution of biomineralization. However, there are core sets of conserved motifs in all three phyla we examined. These motifs include acidic proteins that appear to be responsible for the nucleation reaction as well as inhibition; structural and adhesion proteins that determine spatial patterning; and signaling proteins that modify enzymatic activities. Based on this analysis and the fossil record, we propose that biomineralization is an extremely robust and highly controlled process in metazoans that can withstand extremes in pH predicted for the coming century, similar to their persistence through the Paleocene-Eocene Thermal Maximum (∼55 Mya).</p>
+</abstract>
+<kwd-group>
+<kwd>Biomineralization</kwd>
+<kwd>metazoan</kwd>
+<kwd>Ocean Acidification</kwd>
+</kwd-group>
+<funding-group>
+<award-group>
+<funding-source country="US">NSF</funding-source>
+<award-id>EF1041143</award-id></award-group>
+<funding-statement>Our research on biomineralization is supported by the National Science Foundation grant EF1041143 to PGF.</funding-statement>
+</funding-group>
+</article-meta>
+</front>
+<body>
+<sec id="s1"><title>Introduction</title>
+<p>The cumulative and continuing emissions of anthropogenic emissions of CO<sub>2</sub> since the beginning of the industrial revolution are projected to decrease the pH of the surface oceans an additional 0.2 to 0.5 pH units by the year 2100 (IPCC, <xref ref-type="bibr" rid="bibr057">2013</xref>), leading to a nearly 50% drop in carbonate ion concentration (<xref ref-type="bibr" rid="bibr035">Feely et al., 2009</xref>). It has also been suggested that the average pH decrease and overall diel pH variability could be even more pronounced in specific areas, such as coastal seas (<xref ref-type="bibr" rid="bibr062">Jury et al., 2013</xref>; <xref ref-type="bibr" rid="bibr099">Melzner et al., 2013</xref>). The change in carbonate chemistry potentially could result in a decreased ability for marine organisms to precipitate CaCO<sub>3</sub> (<xref ref-type="bibr" rid="bibr025">Doney et al., 2009</xref>), and has been experimentally correlated with reduced calcification rates as well as changes in ecosystem structure (<xref ref-type="bibr" rid="bibr040">Gazeau et al., 2007</xref>; <xref ref-type="bibr" rid="bibr007">Anthony et al., 2008</xref>; <xref ref-type="bibr" rid="bibr018">Cohen et al., 2009</xref>; <xref ref-type="bibr" rid="bibr125">Sheppard Brennand et al., 2010</xref>). However, the effects of ocean acidification on calcifying marine invertebrates are not consistent and suggest a degree of physiological acclimation and potential genetic adaptation (<xref ref-type="bibr" rid="bibr037">Fine and Tchernov, 2007</xref>; <xref ref-type="bibr" rid="bibr119">Ries et al., 2009</xref>; <xref ref-type="bibr" rid="bibr064">Kelly et al., 2013</xref>; <xref ref-type="bibr" rid="bibr124">Shamberger et al., 2014</xref>). One suggested mechanism for the retention of biological calcification is low-pCO<sub>2</sub> refugia (<xref ref-type="bibr" rid="bibr140">Tittensor et al., 2010</xref>; <xref ref-type="bibr" rid="bibr086">Manzello et al., 2012</xref>). While processes responsible for carbonate precipitation in marine invertebrates are not completely understood, we suggest that a specific suite of proteins allows biomineralization to persist in these organisms even under low pH conditions.</p>
+<p>Although biomineralization is a common phenomenon across the tree of life, it is difficult to reduce the process to simple, general principles (<xref ref-type="bibr" rid="bibr076">Lowenstam and Weiner, 1989</xref>; <xref ref-type="bibr" rid="bibr026">Dove et al., 2003</xref>; <xref ref-type="bibr" rid="bibr106">Müller, 2011</xref>). By far, the most common biominerals produced in the contemporary ocean are calcium carbonates, especially aragonite and calcite. Although the two ingredients required to produce these mineral forms, calcium and bicarbonate ions, are present in seawater in excess of 10 and 2 mM, respectively, CaCO<sub>3</sub> does not spontaneously precipitate in the contemporary ocean. The precipitation reaction requires catalysis by living organisms to overcome kinetic barriers.</p>
+<p>The carbonate structures formed by metazoans are often well preserved in the fossil record. Their elemental and isotopic compositions have been extremely helpful in reconstructing the thermal and chemical history of the ocean. Carbonates themselves have been examined at different stages of the biomineralization process in marine invertebrates. For more than 50 years, it has been generally understood that the precipitation and organization of biominerals is modulated by specific biomolecules, especially proteins (<xref ref-type="bibr" rid="bibr106">Müller, 2011</xref>). However, how the proteins function to facilitate the precipitation of minerals in marine invertebrates is poorly understood.</p>
+<p>Over the past decade there has been a proliferation in the number of genomes and transcriptomes of mineralizing invertebrates (<xref ref-type="bibr" rid="bibr058">Jackson et al., 2006</xref>; <xref ref-type="bibr" rid="bibr123">Sea Urchin Genome Sequencing Consortium et al., 2006</xref>; <xref ref-type="bibr" rid="bibr061">Joubert et al., 2010</xref>; <xref ref-type="bibr" rid="bibr126">Shinzato et al., 2011</xref>; <xref ref-type="bibr" rid="bibr142">Traylor-Knowles et al., 2011</xref>; <xref ref-type="bibr" rid="bibr135">Takeuchi et al., 2012</xref>). These data sets have allowed numerous studies of the proteomes of sea urchin teeth and spicules, mollusk shells, and most recently coral skeletons (e.g., <xref ref-type="bibr" rid="bibr081">Mann et al., 2008b</xref>, <xref ref-type="bibr" rid="bibr080">a</xref>; <xref ref-type="bibr" rid="bibr083">Mann et al., 2010b</xref>; <xref ref-type="bibr" rid="bibr088">Marie et al., 2010</xref>; <xref ref-type="bibr" rid="bibr089">Marie et al., 2011a</xref>; <xref ref-type="bibr" rid="bibr090">Marie et al., 2011b</xref>; <xref ref-type="bibr" rid="bibr163">Zhang et al., 2012</xref>; <xref ref-type="bibr" rid="bibr027">Drake et al., 2013</xref>; <xref ref-type="bibr" rid="bbibr095">Marin et al., 2013</xref>; <xref ref-type="bibr" rid="bibr117">Ramos-Silva et al., 2013</xref>). We are poised to compare the evolutionary history of biomineralizers in the fossil record (<xref ref-type="bibr" rid="bibr068">Knoll, 2003</xref>) with this developing biochemical and molecular biological understanding of how the minerals are formed by the animals.</p>
+<p>Here we review over 100 studies in a search for similarities between marine invertebrate carbonate organic matrix (COM) proteins that have been identified through genomics, transcriptomics, and proteomics. We focus on stony corals (Cnidaria), bivalve and gastropod mollusks (Mollusca), and sea urchins (Echinodermata), thereby covering representatives from three widely divergent metazoan phyla. We first outline the physiology and known biomineralization processes in each phylum, then detail the COM protein groups conserved, if not in sequence, then in function. Finally, we discuss the affects of impending ocean acidification on both the function of some of these COM proteins as well as the continuation of these organisms.</p></sec>
+<sec id="s2"><title>Background and context for biomineralization in the three invertebrate phyla</title>
+<p>Despite their shared use of CaCO<sub>3</sub>, evolutionary evidence suggests that biomineralization evolved independently several times across the tree of life (<xref ref-type="bibr" rid="bibr068">Knoll, 2003</xref>; <xref ref-type="bibr" rid="bibr107">Murdock and Donoghue, 2011</xref>). Over the ∼600 million years during which Cnidaria, Mollusca, and Echinodermata diverged from shared ancestors (<xref ref-type="bibr" rid="bibr029">Erwin et al., 2011</xref>), biomineralization was selected to support several functions. The first is as a substrate for growth. In modern stony corals, precipitation of aragonite allows for growth of the thin film of animal on a hard, continuous substrate. The process begins when larvae settle and colonies adhere to a benthic matrix. In contrast, bivalve and gastropod mollusks precipitate aragonite and/or calcite shells as a protective wall surrounding soft tissues. These structures are very effective in defending against predators. In sea urchins, calcitic spines are also a deterrent to predators, but being relatively light, they do not interfere with motility of the animal.</p>
+<sec id="s2a"><title>Body plan and calcifying tissues</title>
+<sec id="s2a1"><title>Corals</title>
+<p>Stony corals in the phylum Cnidaria are the earliest known metazoans to precipitate calcium carbonate (<xref ref-type="bibr" rid="bibr068">Knoll, 2003</xref>). Cnidaria also contain Order Alcyonacea, or soft corals, which, unlike stony corals, produce small internal sclerites, or ∼ mm-sized calcite plates. In Paleozoic time, stony coral structures appear to have been formed primarily from the precipitation of calcite, whereas over the past ∼ 250 Ma, with the appearance of Scleractinian corals, these organisms have evolved a <italic>de novo</italic> aragonite precipitation process (<xref ref-type="bibr" rid="bibr115">Porter, 2010</xref>). This period also broadly corresponds to their transition as host animals to symbiotic photosynthetic dinoflagellates of the genus <italic>Symbiodinium</italic> (<xref ref-type="bibr" rid="bibr128">Stanley and Schootbrugge, 2009</xref>; <xref ref-type="bibr" rid="bibr139">Tchernov et al., 2012</xref>). While some corals that lack symbionts can produce CaCO<sub>3</sub> skeletons, the builders of the relatively rapidly accreting massive reefs observable from space are hermatypic, or symbiont-containing.</p>
+<p>Up to 90% of the carbon requirement of the coral host is translocated in the form of glycerol and/or glucose from <italic>Symbiodinium</italic> spp. (<xref ref-type="bibr" rid="bibr033">Falkowski et al., 1984</xref>; <xref ref-type="bibr" rid="bibr015">Burriesci et al., 2012</xref>); additionally, corals can obtain nitrogen and phosphorus by feeding on dissolved and particulate matter from the overlying water supply (reviewed by <xref ref-type="bibr" rid="bibr051">Houlbrèque and Ferrier-Pagès, 2009</xref>). Some of the energy in the translocated carbon is suggested to support biomineralization, a phenomenon termed ‘light enhanced calcification’ (<xref ref-type="bibr" rid="bibr063">Kawaguti and Sakumoto, 1948</xref>; <xref ref-type="bibr" rid="bibr043">Goreau, 1959</xref>; <xref ref-type="bibr" rid="bibr120">Rinkevich and Loya, 1984</xref>)– although the mechanism(s) remain unclear (review by <xref ref-type="bibr" rid="bibr138">Tambutté et al., 2011</xref>).</p>
+<p>Stony corals precipitate an extracellular skeleton in the form of aragonite under their calicoblastic ectodermal layer (<xref ref-type="fig" rid="elementa.000026.f001">Figures 1A &amp; B</xref>). Recently, there have been suggestions of an amorphous phase through atomic force microscopy and synchrotron-based XANES (<xref ref-type="bibr" rid="bibr023">Cuif et al., 2008</xref>; <xref ref-type="bibr" rid="bibr032">Falini et al., 2013</xref>). Planulae begin to precipitate aragonite only upon settling. Proteins related to adhesion have been localized toward the aboral end immediately prior to settlement (<xref ref-type="bibr" rid="bibr045">Hayward et al., 2011</xref>). Growth rate depends strongly on environmental factors, including irradiance and temperature, with some corals showing gross precipitation as high as 10 kg m<sup>-2</sup> yr<sup>-1</sup> (<xref ref-type="bibr" rid="bibr101">Milliman, 1993</xref>). Several N-terminal sequences have been obtained from proteins associated with soft coral calcitic sclerites, but the vast majority of research on COM proteins from corals has focused on the tropical symbiotic stony corals.</p>
+<fig id="elementa.000026.f001" position="float">
+<object-id pub-id-type="doi">10.12952/journal.elementa.000026.f001</object-id>
+<label>Figure 1. </label>
+<caption><title>Schematic of drawings three biomineralizing marine invertebrates.</title>
+<p>(A–B) Four cell layers separate the external aragonite skeleton from overlying seawater (after <xref ref-type="bibr" rid="bibr002">Allemand et al., 2004</xref>). (C–D) Mollusk aragonite, calcite, and/or ACC are precipitated in the extrapallial space between the periostracum and mantle (after <xref ref-type="bibr" rid="bibr094">Marin and Luquet, 2004</xref>). (E–F) Primary mesenchyme cells precipitate larval sea urchin ACC and/or calcite after (<xref ref-type="bibr" rid="bibr144">Urry et al., 2000</xref>).</p></caption>
+<graphic position="float" mimetype="image" xlink:type="simple" xlink:href="info:doi/10.12952/journal.elementa.000026.f001">
+</graphic>
+</fig>
+</sec>
+<sec id="s2a2"><title>Mollusks</title>
+<p>Mollusks, the oldest extant biomineralizing bilaterians (reviewed by <xref ref-type="bibr" rid="bibr068">Knoll, 2003</xref>), encompass a far more advanced and varied body plan than stony corals. Generally, the interior of the body with defined digestive organs is protected from the exterior environment by one or two CaCO<sub>3</sub> shells (although in some classes this protection is much reduced or absent; <xref ref-type="bibr" rid="bibr093">Marin et al., 2012</xref>). The shell is generally covered with a thin organic layer, the periostracum, which not only separates the shell from the overlying water, but also plays a role in the biomineralization process. While some gastropod and bivalve mollusks contain endosymbiotic <italic>Symbiodinium</italic> spp., the majority are filter feeders, particularly when sessile, or scrape off algae from surfaces when motile (<xref ref-type="bibr" rid="bibr067">Klumpp et al., 1992</xref>).</p>
+<p>In larval gastropods and bivalves, a protein-rich layer, the periostracum, is secreted from a gland in the shell prior to onset of biomineralization (<xref ref-type="fig" rid="elementa.000026.f001">Figure 1</xref>). Ancestral mollusks have been proposed as solely aragonite producers (<xref ref-type="bibr" rid="bibr115">Porter, 2010</xref>), but in modern species the initial mineral is often amorphous calcium carbonate (ACC), though can be calcite or aragonite (<xref ref-type="bibr" rid="bibr150">Weiss et al., 2002</xref>). In adults, the periostracum is secreted by cells in the mantle folds and is maintained throughout the life of the mollusk, thus providing a barrier between the mineral CaCO<sub>3</sub> and the environment (<xref ref-type="bibr" rid="bibr093">Marin et al., 2012</xref>; <xref ref-type="fig" rid="elementa.000026.f001">Figure 1C &amp; D</xref>). Additionally, the periostracum serves as a preliminary scaffold on which the organism lays down CaCO<sub>3</sub> (<xref ref-type="bibr" rid="bibr017">Checa, 2000</xref>). Together the periostracum and mantle provide a distinct area, the extrapallial space, in which calcification occurs in the presence of COM composed of chitin and proteins (<xref ref-type="bibr" rid="bibr109">Nudelman et al., 2006</xref>; <xref ref-type="bibr" rid="bibr093">Marin et al., 2012</xref>; <xref ref-type="fig" rid="elementa.000026.f001">Figure 1D</xref>). The COM proteins, polysaccharides, and lipids secreted by the mantle guide nucleation, elongation, and finally termination of aragonite and/or calcite crystals in well-defined locations and morphologies (reviewed by <xref ref-type="bibr" rid="bibr094">Marin and Luquet, 2004</xref>). Additionally, specific COM proteins, such as Asprich, stabilize the ACC (<xref ref-type="bibr" rid="bibr113">Politi et al., 2007</xref>) and influence the mechanical properties of the biomineral (reviewed by <xref ref-type="bibr" rid="bibr148">Weiner and Addadi, 2011</xref>). Vesicles containing mineral precursors are also exported from specific cells within the animal and aid in facilitating biomineralization in some mollusks (reviewed by <xref ref-type="bibr" rid="bibr001">Addadi et al., 2006</xref>).</p></sec>
+<sec id="s2a3"><title>Echinoderms</title>
+<p>Although echinoderms display radial symmetry as adults, they evolved from a bilaterian ancestor shared with mollusks and display bilateral symmetry as embryos (<xref ref-type="bibr" rid="bibr054">Hyman, 1955</xref>). Echinoderms have a defined digestive tract consisting of mouth, pharynx, esophagus, stomach, intestine, and anus. While some echinoderms are carnivorous, sea urchins – currently the only echinoderm with a sequenced genome (<xref ref-type="bibr" rid="bibr123">Sea Urchin Genome Sequencing Consortium et al., 2006</xref>) – are predominately herbivores. They use calcified spicules for motility, protection, and to preserve body shape, and five polycrystalline magnesium calcite teeth for foraging (<xref ref-type="bibr" rid="bibr077">Ma et al., 2008</xref>).</p>
+<p>Larval planktonic sea urchins secrete CaCO<sub>3</sub> spicules and juveniles produce a calcified test and spines, while adults construct these features plus magnesium-enriched calcite teeth, pedicellariae, and ossicles in their tube feet, all in close proximity to mineralizing cells (<xref ref-type="bibr" rid="bibr066">Killian and Wilt, 2008</xref>). Larval sea urchins begin to precipitate CaCO<sub>3</sub>, guided by COM from primary mesenchyme cells, prior to settling (<xref ref-type="fig" rid="elementa.000026.f001">Figure 1E &amp; F</xref>). As is often the case with bivalve and gastropod mollusks, it appears that this CaCO<sub>3</sub> precipitation begins in the form of amorphous calcium carbonate (ACC) but within days changes to calcite (<xref ref-type="bibr" rid="bibr114">Politi et al., 2008</xref>). Conversion of ACC to calcite is also known in adult urchins (<xref ref-type="bibr" rid="bibr112">Politi et al., 2004</xref>; <xref ref-type="bibr" rid="bibr065">Killian et al., 2009</xref>), and has been suggested as a general tactic in biomineralization, to have mineral precursors ready for crystallization (reviewed by <xref ref-type="bibr" rid="bibr042">Gilbert and Wilt, 2011</xref>).</p></sec></sec>
+<sec id="s2b"><title>Biomineralizing Proteins</title>
+<p>The concept of biologically controlled mineralization is widely accepted (<xref ref-type="bibr" rid="bibr084">Mann, 2001</xref>). In stony corals, the “biomineralome” contains an organic component that is 0.1 to 5% by weight with respect to that of the total biomineral and contains a high preponderance of acidic residues in the skeletal proteins (<xref ref-type="bibr" rid="bibr157">Young, 1971</xref>; <xref ref-type="bibr" rid="bibr022">Cuif et al., 2004</xref>; <xref ref-type="bibr" rid="bibr097">Mass et al., 2012</xref>). The proteome of coral COM contains an assemblage of adhesion and structural proteins as well as highly acidic proteins (<xref ref-type="bibr" rid="bibr027">Drake et al., 2013</xref>; <xref ref-type="bibr" rid="bibr117">Ramos-Silva et al., 2013</xref>). These highly acidic proteins exhibit pKas of &lt; 5 and a high relative composition (≥ 28%) of the acidic amino acids, aspartic (Asp) and/or glutamic (Glu) acid. Four coral-acid rich proteins (CARPs), one of which was found in both coral skeleton proteomic studies (<xref ref-type="bibr" rid="bibr027">Drake et al., 2013</xref>; <xref ref-type="bibr" rid="bibr117">Ramos-Silva et al., 2013</xref>), were individually cloned and purified. All four proteins precipitate calcium carbonate <italic>in vitro</italic> in artificial seawater at ambient carbonate concentrations at pH 8.2 and 7.6 (<xref ref-type="bibr" rid="bibr096">Mass et al., 2013</xref>). These results have led to the proposal of a nucleation mechanism in corals in which clusters of Asp and/or Glu residues coordinately bind Ca<sup>2+</sup> ions, potentially leading to a Lewis acid displacement of protons in bicarbonate anions (<xref ref-type="bibr" rid="bibr096">Mass et al., 2013</xref>). The resulting reaction alters the mineralizing environment below the calicoblastic ectoderm such that the pKa of the local environment on the protein surface decreases and carbonate crystals are precipitated on the protein matrix, even at relatively low ambient pH (<xref ref-type="bibr" rid="bibr096">Mass et al., 2013</xref>).</p>
+<p>As with stony corals, the organic component of the bivalve and gastropod mollusk shell minerals generally comprises between 0.01 to 5% by weight, with many of the (glyco)proteins containing a high proportion of Asp residues and/or post-translational decorations of sulfate groups (<xref ref-type="bibr" rid="bibr076">Lowenstam and Weiner, 1989</xref>). As in corals, these proteins are highly acidic. Initially much of the focus on biomineralizing proteins in mollusks focused on these highly acidic proteins and their possible template-specific roles in nucleating precipitation, with distances between acidic residues in β-sheet conformation corresponding to distances between Ca<sup>2+</sup> ions in both calcite and aragonite (<xref ref-type="bibr" rid="bibr149">Weiner and Hood, 1975</xref>). More recently, the role of highly acidic proteins in mollusk and echinoderm mineralization has grown to encompass the inclusion of these proteins in a hypothesized organic gel, the potential stabilization of a transitional amorphous calcium carbonate step, and the binding and inhibition of growing crystal growth faces (reviewed by <xref ref-type="bibr" rid="bibr091">Marin, 2007</xref>). Additionally, a number of proteomic comparisons have shown that COM proteins include many of unknown function as well as those specific to aragonite <italic>versus</italic> calcite (e.g., (<xref ref-type="bibr" rid="bibr058">Jackson et al., 2006</xref>; <xref ref-type="bibr" rid="bibr088">Marie et al., 2010</xref>; <xref ref-type="bibr" rid="bibr087">Marie et al., 2012</xref>; <xref ref-type="bibr" rid="bbibr095">Marin et al., 2013</xref>)). Of the proteins with known function, many are involved in maintenance of the extrapallial environment and in reworking of calcium carbonate.</p>
+<p>Analyses of the proteins in COM from spicules, tests, and teeth of sea urchins have yielded a non-redundant list of over 200 individual molecules (<xref ref-type="bibr" rid="bibr081">Mann et al., 2008b</xref>, <xref ref-type="bibr" rid="bibr080">a</xref>; <xref ref-type="bibr" rid="bibr083">Mann et al., 2010b</xref>). While some of these proteins appear to be specific to one type of mineral or structure (spines versus teeth, etc.), many overlaps are observed (reviewed by <xref ref-type="bibr" rid="bibr042">Gilbert and Wilt, 2011</xref>). Some of these proteins have been localized to larval primary mesenchyme cells, but other cells, potentially secondary mesenchyme cells, are more likely responsible for biomineralization in adult animals (<xref ref-type="bibr" rid="bibr066">Killian and Wilt, 2008</xref>). Although highly acidic proteins are also found in sea urchin biominerals (<xref ref-type="bibr" rid="bibr041">George et al., 1991</xref>; <xref ref-type="bibr" rid="bibr055">Illies et al., 2002</xref>; <xref ref-type="bibr" rid="bibr080">Mann et al., 2008a</xref>), non-acidic proteins that control either the mineralizing environment or activity of other proteins are also appreciated as essential (example is SM30 family <xref ref-type="bibr" rid="bibr152">Wilt et al., 2013</xref>).</p></sec></sec>
+<sec id="s3"><title>Comparison of carbonate organic matrix proteins across marine invertebrate phyla</title>
+<sec id="s3a"><title>Evolution of the acidic proteins</title>
+<p>The term ‘acidic’ protein has a variety of definitions, but ultimately describes a protein that possesses a net negative charge on some or all of the primary sequence or through post-translational modification. In an attempt at clarity, we compiled a list of the ‘acidic’ proteins and their gene accession numbers in <xref ref-type="table" rid="elementa.000026.t001">Table 1</xref>. It is clear from a phylogenetic analysis that these proteins arose independently several times in the evolution of animals through convergent evolution, with gene fusion potentially conferring additional roles to these peptides (<xref ref-type="bibr" rid="bibr102">Miyamoto et al., 1996</xref>; <xref ref-type="bibr" rid="bibr096">Mass et al., 2013</xref>). These proteins appear to be essential for biomineralization. We conducted a protein sequence similarity analysis, using &gt; 1500 non-redundant coral, mollusk, and sea urchin mineral-derived proteins reported in the literature. Through these analyses, we found only one case of cross-phyla sequence similarity among any of the acidic biomineralization proteins for which sequences are available. Prismalins, shematrins, and some shell matrix proteins from mollusks show 30 to 40% similarity with several collagens from echinoderms and corals (<xref ref-type="fig" rid="elementa.000026.f002">Figure 2</xref>, <xref ref-type="supplementary-material" rid="elementa.000026.s001">SI Table 1</xref>); this is likely due to the high glycine content of shematrins (<xref ref-type="bibr" rid="bibr156">Yano et al., 2006</xref>) similar to the primary structure of collagens.</p>
+<table-wrap id="elementa.000026.t001" position="float">
+<object-id pub-id-type="doi">10.12952/journal.elementa.000026.t001</object-id>
+<label>Table 1. </label>
+<caption><title>Proteins from coral, mollusk, and sea urchin carbonate organic matrices that have been characterized as ‘acidic’</title></caption>
+<alternatives>
+<graphic id="elementa.000026.t001-i" position="float" mimetype="image" xlink:type="simple" xlink:href="info:doi/10.12952/journal.elementa.000026.t001"/>
+<table>
+<colgroup span="1">
+<col width="10%" span="1"/>
+<col width="10%" span="1"/>
+<col width="10%" span="1"/>
+</colgroup>
+<thead>
+<tr>
+<th rowspan="1" colspan="1">
+<bold>CORAL</bold>
+</th>
+<th rowspan="1" colspan="1">
+<bold>MOLLUSK</bold>
+</th>
+<th rowspan="1" colspan="1">
+<bold>SEA URCHIN</bold>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="3" rowspan="1">
+<bold>Aspartic acid-rich regions</bold>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+CARP4 (KC493647) and CARP5 (KC493648) (<xref ref-type="bibr" rid="bibr027">Drake et al., 2013</xref>)
+</td>
+<td rowspan="1" colspan="1">
+Aspein (AB094512) (<xref ref-type="bibr" rid="bibr143">Tsukamoto et al., 2004</xref>)
+</td>
+<td align="center" rowspan="1" colspan="1">—
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+SAARP1 (JT001945), SAARP2 (JT991407), Amil-SAP2 (JR983041) (<xref ref-type="bibr" rid="bibr117">Ramos-Silva et al., 2013</xref>)
+</td>
+<td rowspan="1" colspan="1">
+Asprich (AAU04807-15) (<xref ref-type="bibr" rid="bibr044">Gotliv et al., 2005</xref>)
+</td>
+<td align="center" rowspan="1" colspan="1">—
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+EMCP-67 (no accession #) (<xref ref-type="bibr" rid="bibr116">Rahman et al., 2011a</xref>)
+</td>
+<td rowspan="1" colspan="1">
+Pif (AB236929) (<xref ref-type="bibr" rid="bibr133">Suzuki et al., 2009</xref>)
+</td>
+<td align="center" rowspan="1" colspan="1">—
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1" colspan="1">—
+</td>
+<td rowspan="1" colspan="1">
+Prismalin (AB159512) (<xref ref-type="bibr" rid="bibr132">Suzuki et al., 2004</xref>)
+</td>
+<td align="center" rowspan="1" colspan="1">—
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1" colspan="1">—
+</td>
+<td rowspan="1" colspan="1">
+Nacrein (Q27908) (<xref ref-type="bibr" rid="bibr102">Miyamoto et al., 1996</xref>)
+</td>
+<td align="center" rowspan="1" colspan="1">—
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1" colspan="1">—
+</td>
+<td rowspan="1" colspan="1">
+MSI60 (O02402) (<xref ref-type="bibr" rid="bibr130">Sudo et al., 1997</xref>)
+</td>
+<td align="center" rowspan="1" colspan="1">—
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1" colspan="1">—
+</td>
+<td rowspan="1" colspan="1">
+AP7 (AF225916) (<xref ref-type="bibr" rid="bibr100">Michenfelder et al., 2003</xref>)
+</td>
+<td align="center" rowspan="1" colspan="1">—
+</td>
+</tr>
+<tr>
+<td colspan="3" rowspan="1">
+<bold>Low pI, serine-rich regions</bold>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1" colspan="1">—
+</td>
+<td rowspan="1" colspan="1">
+Mucoperlin (AF145215) (<xref ref-type="bibr" rid="bibr092">Marin et al., 2000</xref>)
+</td>
+<td rowspan="1" colspan="1">
+P16 (AF519415) (<xref ref-type="bibr" rid="bibr055">Illies et al., 2002</xref>)
+</td>
+</tr>
+<tr>
+<td colspan="3" rowspan="1">
+<bold>Glutamic acid-rich regions</bold>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1" colspan="1">—
+</td>
+<td rowspan="1" colspan="1">
+MSI31 (O02401) (<xref ref-type="bibr" rid="bibr130">Sudo et al., 1997</xref>)
+</td>
+<td rowspan="1" colspan="1">
+P19 (AF519413) (<xref ref-type="bibr" rid="bibr055">Illies et al., 2002</xref>)
+</td>
+</tr>
+<tr>
+<td colspan="3" rowspan="1">
+<bold>Tyrosine-rich regions</bold>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1" colspan="1">—
+</td>
+<td rowspan="1" colspan="1">
+N14 (Q9NL39) (<xref ref-type="bibr" rid="bibr069">Kono et al., 2000</xref>)
+</td>
+<td align="center" rowspan="1" colspan="1">—
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1" colspan="1">—
+</td>
+<td rowspan="1" colspan="1">
+Pearlin (O97048) (<xref ref-type="bibr" rid="bibr103">Miyashita et al., 2000</xref>)
+</td>
+<td align="center" rowspan="1" colspan="1">—
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1" colspan="1">—
+</td>
+<td rowspan="1" colspan="1">
+N16 (AB023067) (<xref ref-type="bibr" rid="bibr121">Samata et al., 1999</xref>)
+</td>
+<td rowspan="1" colspan="1">
+</td>
+</tr>
+<tr>
+<td colspan="3" rowspan="1">
+<bold>Aspartic and glutamic acid-rich regions</bold>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1" colspan="1">—
+</td>
+<td rowspan="1" colspan="1">AP24 (AF225915) (<xref ref-type="bibr" rid="bibr100">Michenfelder et al., 2003</xref>)
+</td>
+<td align="center" rowspan="1" colspan="1">—
+</td>
+</tr>
+<tr>
+<td colspan="3" rowspan="1">
+<bold>Serine- and aspartic acid-rich regions</bold>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1" colspan="1">—
+</td>
+<td rowspan="1" colspan="1">
+MSP-1 (Q95YF6) (<xref ref-type="bibr" rid="bibr122">Sarashina and Endo, 2001</xref>)
+</td>
+<td align="center" rowspan="1" colspan="1">—
+</td>
+</tr>
+<tr>
+<td colspan="3" rowspan="1">
+<bold>Phosphorylated</bold>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1" colspan="1">—
+</td>
+<td align="center" rowspan="1" colspan="1">—
+</td>
+<td rowspan="1" colspan="1">
+34 phosphoproteins (<sup>*</sup>) (<xref ref-type="bibr" rid="bibr082">Mann et al., 2010a</xref>)
+</td>
+</tr>
+</tbody>
+</table>
+</alternatives>
+<table-wrap-foot>
+<fn-group>
+<fn id="tfn1"><p>The gene accession number is given along with the primary reference to the work describing the proteins.</p></fn>
+<fn id="tfn2"><p>See reference cited for the available 34 sequence ID numbers and to download sequences from publisher.</p></fn>
+<fn id="tfn3"><p>Dashes indicate no available data.</p></fn>
+</fn-group>
+</table-wrap-foot>
+</table-wrap>
+<fig id="elementa.000026.f002" position="float">
+<object-id pub-id-type="doi">10.12952/journal.elementa.000026.f002</object-id>
+<label>Figure 2. </label>
+<caption><title>Cellular component ontology of COM proteins conserved across phyla.</title>
+<p>Sequences from over 100 biomineral proteome studies were grouped by hierarchical clustering using the CD-HIT suite web server (<xref ref-type="bibr" rid="bibr075">Li and Godzik, 2006</xref>; <xref ref-type="bibr" rid="bibr052">Huang et al., 2010</xref>; <uri>http://weizhong-lab.ucsd.edu/cd-hit/</uri>) and assigned GO terms using Blast2Go software (<xref ref-type="bibr" rid="bibr019">Conesa et al., 2005</xref>). Although 1531 proteins reduced to 1051 clusters at 30% similarity, only 64 clusters showed sequence similarity across phyla. Studies published from the 1990s through June 2013, using N-terminal and mass spectrometry COM sequencing, RT-PCR, or GO and KEGG annotation of genomic and transcriptomic data sets are included. Mass spectrometry sequences were excluded if the experimental data were compared with gene models from a different species. Area marked by red outline in B is associated with cell membrane and extracellular proteins. Nuclear, mitrochondrial, and Gogli/ER proteins are likely cellular contaminants.</p></caption>
+<graphic position="float" mimetype="image" xlink:type="simple" xlink:href="info:doi/10.12952/journal.elementa.000026.f002">
+</graphic>
+</fig>
+<p>Within corals, several acidic proteins show sequence similarity across Orders Scleractinia and Alcyonacea. These include stony coral CARPs 4 and 5 (<xref ref-type="bibr" rid="bibr027">Drake et al., 2013</xref>), SAARPs 1 and 2, SOMP, and Amil-SAP2 (<xref ref-type="bibr" rid="bibr104">Moya et al., 2012</xref>; <xref ref-type="bibr" rid="bibr117">Ramos-Silva et al., 2013</xref>) and the soft coral protein ECMP-67 (Rahman et al., 2011b; <xref ref-type="supplementary-material" rid="elementa.000026.s002">SI Table 2</xref>). Although not yet analyzed in <italic>Acropora digitifera</italic> and <italic>Pocillopora damicornis</italic> skeleton, CARP4 homologues are found in transcriptomes of these species as well (<xref ref-type="bibr" rid="bibr126">Shinzato et al., 2011</xref>; <xref ref-type="bibr" rid="bibr146">Vidal-Dupiol et al., 2013</xref>). The CARP4 sub-family has been shown to be both highly conserved across and limited to stony corals (<xref ref-type="bibr" rid="bibr027">Drake et al., 2013</xref>), and now the N-terminal sequence from the soft coral, <italic>Lobophytum crassum,</italic> may be assigned to this family based on sequence alignment (<xref ref-type="fig" rid="elementa.000026.f003">Figure 3</xref>).</p>
+<table-wrap id="elementa.000026.t002" position="float">
+<object-id pub-id-type="doi">10.12952/journal.elementa.000026.t002</object-id>
+<label>Table 2. </label>
+<caption><title>Proteins of shared function, but not shared sequence, found in carbonate organic matrices across the three marine invertebrate phyla</title></caption>
+<alternatives>
+<graphic id="elementa.000026.t002-i" position="float" mimetype="image" xlink:type="simple" xlink:href="info:doi/10.12952/journal.elementa.000026.t002"/>
+<table>
+<colgroup span="1">
+<col width="15%" span="1"/>
+<col width="15%" span="1"/>
+<col width="15%" span="1"/>
+</colgroup>
+<thead>
+<tr>
+<th rowspan="1" colspan="1">
+<bold>CORAL</bold>
+</th>
+<th rowspan="1" colspan="1">
+<bold>MOLLUSK</bold>
+</th>
+<th rowspan="1" colspan="1">
+<bold>SEA URCHIN</bold>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="3" rowspan="1">
+<bold>Bone morphogenic protein</bold><xref ref-type="table-fn" rid="tfn6"><sup>*</sup></xref>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<italic>Acropora</italic> sp. (EU785982) (<xref ref-type="bibr" rid="bibr164">Zoccola et al., 2009</xref>)
+</td>
+<td rowspan="1" colspan="1">
+<italic>Pinctada margaritifera</italic> (90c_1652_1) (<xref ref-type="bibr" rid="bibr061">Joubert et al., 2010</xref>)
+</td>
+<td rowspan="1" colspan="1">
+<italic>Strongylocentrotus purpuratus</italic> (NP_999820) (<xref ref-type="bibr" rid="bibr083">Mann et al., 2010b</xref>)
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<italic>Stylophora pistillata</italic> (EU78981) (<xref ref-type="bibr" rid="bibr164">Zoccola et al., 2009</xref>)
+</td>
+<td align="center" rowspan="1" colspan="1">—
+</td>
+<td align="center" rowspan="1" colspan="1">—
+</td>
+</tr>
+<tr>
+<td colspan="3" rowspan="1">
+<bold>C-type lectin</bold>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1" colspan="1">—
+</td>
+<td rowspan="1" colspan="1">
+<italic>P. margaritifera</italic> (90c_3116_2, 298867_2192_0444_6) (<xref ref-type="bibr" rid="bibr061">Joubert et al., 2010</xref>)
+</td>
+<td rowspan="1" colspan="1">
+<italic>S. purpuratus</italic> (XP_003726084, XP_003726239, XP_793473, AF519418) (<xref ref-type="bibr" rid="bibr055">lllies et al., 2002</xref>; <xref ref-type="bibr" rid="bibr081">Mann et al., 2008b</xref>;
+ <xref ref-type="bibr" rid="bibr083">Mann et al., 2010b</xref>)
+</td>
+</tr>
+<tr>
+<td colspan="3" rowspan="1">
+<bold>Carbonic anhydrase</bold>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<italic>S. pistillata</italic> (EU532164, ACE95141, ACA53457) (<xref ref-type="bibr" rid="bibr105">Moya et al., 2008</xref>; <xref ref-type="bibr" rid="bibr012">Bertucci et al., 2011</xref>; <xref ref-type="bibr" rid="bibr027">Drake et al., 2013</xref>)
+</td>
+<td rowspan="1" colspan="1">
+<italic>P. margaritifera</italic> (90c_299_1) (<xref ref-type="bibr" rid="bibr061">Joubert et al., 2010</xref>)
+</td>
+<td rowspan="1" colspan="1">
+<italic>S. purpuratus</italic> (XP784796, XP_003726289, XP_784328_ABE27963) (<xref ref-type="bibr" rid="bibr081">Mann et al., 2008b</xref>; <xref ref-type="bibr" rid="bibr083">Mann et al., 2010b</xref>; <xref ref-type="bibr" rid="bibr129">Stumpp et al., 2011</xref>)
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<italic>Acropora millepora</italic> (JR995761, JR973601, JR998380, JT002659, JT014542, JR989434, JT018935, JR979146, JR996464, JR990087, JR998014) (<xref ref-type="bibr" rid="bibr104">Moya et al., 2012</xref>; <xref ref-type="bibr" rid="bibr117">Ramos-Silva et al., 2013</xref>)
+</td>
+<td rowspan="1" colspan="1">
+<italic>Crassostrea gigas</italic> (EKC19847.1) (<xref ref-type="bibr" rid="bibr163">Zhang et al., 2012</xref>)
+</td>
+<td align="center" rowspan="1" colspan="1">—
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1" colspan="1">—
+</td>
+<td rowspan="1" colspan="1">
+<italic>Lottia gigantea</italic> (lotgi66515, lotgi205401) (<xref ref-type="bibr" rid="bibr079">Mann et al., 2012</xref>)
+</td>
+<td align="center" rowspan="1" colspan="1">—
+</td>
+</tr>
+<tr>
+<td colspan="3" rowspan="1">
+<bold>Collagen</bold><xref ref-type="table-fn" rid="tfn6"><sup>*</sup></xref>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<italic>A. millepora</italic> (JR991083,) (<xref ref-type="bibr" rid="bibr117">Ramos-Silva et al., 2013</xref>)
+</td>
+<td rowspan="1" colspan="1">
+<italic>Haliotis asinina</italic> (GT274423) (<xref ref-type="bibr" rid="bibr088">Marie et al., 2010</xref>)
+</td>
+<td rowspan="1" colspan="1">
+<italic>S. purpuratus</italic> (SPU009076, SPU015708, SPU003768, SPU022116, NP_999676, (<xref ref-type="bibr" rid="bibr141">Todgham and Hofmann, 2009</xref>; <xref ref-type="bibr" rid="bibr083">Mann et al., 2010b</xref>)
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<italic>S. pistillata</italic> (KC479166, KC479163, KC342195, KC342197) (<xref ref-type="bibr" rid="bibr027">Drake et al., 2013</xref>)
+</td>
+<td rowspan="1" colspan="1">
+<italic>C. gigas</italic> (EKC3725.1) (<xref ref-type="bibr" rid="bibr163">Zhang et al., 2012</xref>)
+</td>
+<td align="center" rowspan="1" colspan="1">—
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1" colspan="1">—
+</td>
+<td rowspan="1" colspan="1">
+<italic>L. gigantea</italic>(lotgi123902) (<xref ref-type="bibr" rid="bibr079">Mann et al., 2012</xref>)
+</td>
+<td align="center" rowspan="1" colspan="1">—
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<bold>Fibronectin</bold><xref ref-type="table-fn" rid="tfn6"><sup>*</sup></xref>
+</td>
+<td align="center" rowspan="1" colspan="1">—
+</td>
+<td align="center" rowspan="1" colspan="1">—
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1" colspan="1">—
+</td>
+<td rowspan="1" colspan="1">
+<italic>Mytilus californianus</italic> (P86861) (<xref ref-type="bibr" rid="bibr089">Marie et al., 2011a</xref>)
+</td>
+<td rowspan="1" colspan="1">
+<italic>S. purpuratus</italic> (XP_003729283) (<xref ref-type="bibr" rid="bibr083">Mann et al., 2010b</xref>)
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="1" colspan="1">—
+</td>
+<td rowspan="1" colspan="1">
+<italic>C. gigas</italic> (EKC41461.1 - EKC41463.1) (<xref ref-type="bibr" rid="bibr163">Zhang et al., 2012</xref>)
+</td>
+<td align="center" rowspan="1" colspan="1">—
+</td>
+</tr>
+<tr>
+<td colspan="3" rowspan="1">
+<bold>Hemicentin/ Thrombospondin</bold><xref ref-type="table-fn" rid="tfn6"><sup>*</sup></xref>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<italic>A. millepora</italic> (JT016638, JR989905) (<xref ref-type="bibr" rid="bibr104">Moya et al., 2012</xref>; <xref ref-type="bibr" rid="bibr117">Ramos-Silva et al.,
+2013</xref>)
+</td>
+<td align="center" rowspan="1" colspan="1">—
+</td>
+<td rowspan="1" colspan="1">
+<italic>S. purpuratus</italic> (XP_794971, XP003727369, XP003728681, XP784935, XP_780466,
+XP001198520, XP_786756) (<xref ref-type="bibr" rid="bibr081">Mann et al., 2008b</xref>; <xref ref-type="bibr" rid="bibr083">Mann et al., 2010b</xref>)
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<italic>S. pistillata</italic> (KC342189, KC150884) (<xref ref-type="bibr" rid="bibr027">Drake et al., 2013</xref>)
+</td>
+<td align="center" rowspan="1" colspan="1">—
+</td>
+<td align="center" rowspan="1" colspan="1">—
+</td>
+</tr>
+<tr>
+<td colspan="3" rowspan="1">
+<bold>Integrin</bold>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<italic>S. pistillata</italic> (KC479167) (<xref ref-type="bibr" rid="bibr027">Drake et al., 2013</xref>)
+</td>
+<td align="center" rowspan="1" colspan="1">—
+</td>
+<td rowspan="1" colspan="1">
+<italic>S. purpuratus</italic> (XP_794080) (<xref ref-type="bibr" rid="bibr083">Mann et al., 2010b</xref>)
+</td>
+</tr>
+<tr>
+<td colspan="3" rowspan="1">
+<bold>Laminin/ Neurexin</bold>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<italic>A. millepora</italic> (JR980881) (<xref ref-type="bibr" rid="bibr117">Ramos-Silva et al., 2013</xref>)
+</td>
+<td rowspan="1" colspan="1">
+(receptor) <italic>P. margaritifera</italic> (90c_665_4) (<xref ref-type="bibr" rid="bibr061">Joubert et al., 2010</xref>)
+</td>
+<td rowspan="1" colspan="1">
+<italic>S. purpuratus</italic> (XP781951, XP_003726434, XP_780725.3, XP_001197577.1) (<xref ref-type="bibr" rid="bibr081">Mann
+et al., 2008b</xref>; <xref ref-type="bibr" rid="bibr083">Mann et al., 2010b</xref>)
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<italic>S. pistillata</italic> (KC342198, KC479169) (<xref ref-type="bibr" rid="bibr027">Drake et al., 2013</xref>)
+</td>
+<td rowspan="1" colspan="1">
+<italic>L. gigantea</italic> (lotgi203487) (<xref ref-type="bibr" rid="bibr079">Mann et al., 2012</xref>)
+</td>
+<td align="center" rowspan="1" colspan="1">—
+</td>
+</tr>
+</tbody>
+</table>
+</alternatives>
+<table-wrap-foot>
+<fn-group>
+<fn id="tfn4"><p>Protein classifications follow those found in their original publications unless they grouped with another classification during similarity clustering. The gene accession numbers are provided.</p></fn>
+<fn id="tfn5"><p>Dashes indicate no available data.</p></fn>
+<fn id="tfn6"><p><sup>*</sup>Indicates that some sequences show sequence similarity across phyla. See <xref ref-type="supplementary-material" rid="elementa.000026.s001">Table S1</xref>.</p></fn>
+</fn-group>
+</table-wrap-foot>
+</table-wrap>
+<fig id="elementa.000026.f003" position="float">
+<object-id pub-id-type="doi">10.12952/journal.elementa.000026.f003</object-id>
+<label>Figure 3. </label>
+<caption><title>Multiple sequence alignment of CARP4 sub-family homologues.</title>
+<p>Alignment of homologues from four stony corals places a previously un-aligned soft coral N-terminal sequence into this family. The CARP4 subfamily is not found in sea anemones even though anemones are thought to have diverged from stony corals after the soft coral divergence.</p></caption>
+<graphic position="float" mimetype="image" xlink:type="simple" xlink:href="info:doi/10.12952/journal.elementa.000026.f003">
+</graphic>
+</fig>
+<p>Stony corals precipitate aragonite whereas soft corals form calcite, suggesting that the CARP4 sub-family arose in Anthozoa prior to divergence between Scleractinia and Alcyonacea. However, because Actiniarians, or sea anemones, which lack the CARP4 subfamily, diverged from Scleractinia after Alcyonacea (<xref ref-type="bibr" rid="bibr010">Berntson et al., 1999</xref>), they may have lost the gene. It has been proposed that ECMP-67 encourages the precipitation of only calcite (Rahman et al., 2011b), despite its similarity to the aragonite-associated CARP4 and SAARP1 (<xref ref-type="fig" rid="elementa.000026.f003">Figure 3</xref>). Interestingly, several mollusk proteins have also been suggested to function in both aragonite and calcite precipitation (MS17; <xref ref-type="bibr" rid="bibr036">Feng et al., 2009</xref>) or in polymorph control (Aspein; <xref ref-type="bibr" rid="bibr136">Takeuchi et al., 2008</xref>). Additionally, Aspein, Asprich, and Pif, which all are components of molluscan shells, share 30% sequence similarity (<xref ref-type="supplementary-material" rid="elementa.000026.s002">SI Table 2</xref>; <xref ref-type="bibr" rid="bibr143">Tsukamoto et al., 2004</xref>; <xref ref-type="bibr" rid="bibr044">Gotliv et al., 2005</xref>; <xref ref-type="bibr" rid="bibr133">Suzuki et al., 2009</xref>). Thus although the acidic proteins are independently derived, this sequence comparison suggests a common mechanism of CaCO<sub>3</sub> precipitation by acidic proteins in the three marine invertebrate phyla.</p>
+<p>Some of the biomineralizing proteins appear to have dual functions. For example, perlwapin, prismalin, molluscan shell prism nacre protein, shematrins, and several collagens, are all implicated in organization and structural support of the bioinorganic matrix. These are called ‘other’ gene ontology (GO) terms in <xref ref-type="fig" rid="elementa.000026.f002">Figure 2</xref> due to equal distribution of collagen, membrane, and extracellular GO assignments. These proteins may also serve a dual role as terminators of biomineralization and are not the only COM proteins, both acidic and non-acidic alike, shown to have crystallization inhibition activities (e.g., <xref ref-type="bibr" rid="bibr078">Ma et al., 2007</xref>; <xref ref-type="bibr" rid="bibr113">Politi et al., 2007</xref>; <xref ref-type="bibr" rid="bibr036">Feng et al., 2009</xref>). A dual nature of a biomineralizing protein is also observed for the mollusk protein, nacrein, which exhibits both internal acidic regions and carbonic anhydrase activity (<xref ref-type="bibr" rid="bibr102">Miyamoto et al., 1996</xref>). In sea urchins, SpP16 is an acidic protein with a transmembrane region, suggesting that it is anchored to the primary mesenchyme cells to which it has been localized; while its precise mechanism in calcitic spicule formation remains to be determined, it shows some similarities to other calcium binding proteins to regulate calcium transport, again suggesting dual function (<xref ref-type="bibr" rid="bibr055">Illies et al., 2002</xref>).</p>
+<p>Carbonic anhydrases, which interconvert CO<sub>2</sub> and HCO<sub>3</sub><sup>-</sup>, are integral within carbonate-based biominerals (<xref ref-type="bibr" rid="bibr011">Bertucci et al., 2013</xref>). Their use in biomineralization has been suggested to date back to the earliest calcifying metazoans (<xref ref-type="bibr" rid="bibr059">Jackson et al., 2007</xref>). Gene duplication events and further mutations since the Paleozoic have resulted in a wide variety of the enzyme, many of which are localized within the bioinorganic matrix. Our proteomic analysis revealed representatives of divergent carbonic anhydrases in the biomineral matrix in each of the three invertebrate phyla (<xref ref-type="table" rid="elementa.000026.t002">Table 2</xref>), which reinforces their functional necessity in the evolution of the precipitation of extracellular calcium carbonate in each of the three metazoan phyla. Indeed, multiple carbonic anhydrases are found in COM of each phylum, suggesting a level of redundancy for the biomineralization process.</p>
+<p>Just as bicarbonate is required for the biomineralization mechanism, so is Ca<sup>2+</sup>. In animals, Ca<sup>2+</sup> is transported into and out of cells by plasma membrane-bound Ca-dependent ATPases. These enzymes are widely distributed in mollusks, sea urchins, and corals (<xref ref-type="bibr" rid="bibr165">Zoccola et al., 2004</xref>; <xref ref-type="bibr" rid="bibr147">Wang et al., 2008</xref>; <xref ref-type="bibr" rid="bibr141">Todgham and Hofmann, 2009</xref>). However, of the more than 100 reports of COM, only one identified a Ca-ATPase in a ‘biomineralome’ (<xref ref-type="bibr" rid="bibr061">Joubert et al., 2010</xref>). An additional mechanism for Ca<sup>2+</sup> transport in corals is the translocation of calcium from the bulk water to the site of mineralization (<xref ref-type="bibr" rid="bibr039">Gagnon et al., 2012</xref>) by a so-called “paracellular” pathway (<xref ref-type="bibr" rid="bibr137">Tambutté et al., 2012</xref>). However, without a chelating or trapping molecule, this mechanism would not concentrate calcium ions. Finally, proton pumps not associated with mitochondrial ATPases, an additional method to modify the saturation state of the mineralizing environment (<xref ref-type="bibr" rid="bibr020">Corstjens et al., 2001</xref>), were not observed in COM by the authors of any of the studies used in our bioinformatics analysis. Additionally, none of the 295 non-redundant proteins conserved across phyla returned molecular function GO terms associated with non-mitochondrial proton pumps.</p></sec>
+<sec id="s3b"><title>Conserved non-acidic proteins across phyla</title>
+<p>A number of non-acidic COM proteins are either conserved by sequence (<xref ref-type="fig" rid="elementa.000026.f002">Figure 2</xref>) or function (<xref ref-type="table" rid="elementa.000026.t002">Table 2</xref>). For heuristic purposes, we have aggregated these proteins by function into major groups: (i) proteins that participate in adhesion of cells to their substrates and/or provide a scaffold for organizing the biomineral, and (ii) proteins that signal and regulate biomineralization. Our list is not exhaustive (see <xref ref-type="supplementary-material" rid="elementa.000026.s002">SI Table 2</xref>). However, it is useful in providing a framework for comparing similarities and differences in COM proteins across the three phyla.</p></sec>
+<sec id="s3c"><title>Adhesion and microstructure</title>
+<p>Actins and beta-tubulin, cytoskeletal proteins that work as polymerization molecular motors, are present in COM of stony corals, mollusks, and sea urchins (<xref ref-type="fig" rid="elementa.000026.f002">Figure 2</xref>). Although they could be contaminants from the animal component (i.e., not truly part of the COM; <xref ref-type="bibr" rid="bibr081">Mann et al., 2008b</xref>), physiological and genomic data suggest they may be part of the biomineralization “toolkits” for these organisms. Inhibition of these proteins significantly reduces organic matrix synthesis and calcification in corals (<xref ref-type="bibr" rid="bibr003">Allemand et al., 1998</xref>). While similar studies have not been conducted on sea urchin biomineralization, actin is crucial to the primary mesenchyme cell ingression stage just prior to onset of embryonic biomineralization, with actin inhibition resulting in loss of ingression (<xref ref-type="bibr" rid="bibr154">Wu et al., 2007</xref>). Secondly, biomineralization in paralogue organisms such as diatoms, which precipitate amorphous silicate, involves actins and tubulins (<xref ref-type="bibr" rid="bibr047">Hildebrand et al., 2008</xref>). In contrast, more likely contaminant proteins, such as nuclear and mitochondrial proteins, are noted in <xref ref-type="supplementary-material" rid="elementa.000026.s001">SI Table 1</xref>.</p>
+<p>A number of proteins that adhere to or interact with actin and tubulin are found in COM across marine invertebrate phyla, but are not conserved by amino acid sequence, and therefore are assumed to be independently evolved (<xref ref-type="table" rid="elementa.000026.t002">Table 2</xref>). For example, laminins, a family of glycoproteins, along with fibronectins and integrins, serve as structural support in mollusks, echinoderms, and corals, respectively (<xref ref-type="table" rid="elementa.000026.t002">Table 2</xref>). Peroxidasins and thrombospondins (in corals and sea urchins) may also serve as extracellular structural and adhesive proteins (<xref ref-type="table" rid="elementa.000026.t002">Table 2</xref>; <xref ref-type="bibr" rid="bibr111">Péterfi et al., 2009</xref>).</p>
+<p>Finally, collagens, which provide a flexible framework and confer structural support for biominerals, appear to be widely distributed in corals and sea urchins (<xref ref-type="fig" rid="elementa.000026.f002">Figure 2</xref>, <xref ref-type="table" rid="elementa.000026.t002">Table 2</xref>). It is unclear whether collagens are actually found in mollusks (<xref ref-type="bibr" rid="bibr014">Blank et al., 2003</xref>; <xref ref-type="bibr" rid="bibr155">Xuan Ri et al., 2007</xref>). Alternatively, chitin, a potential structural replacement for collagen is found in mollusks (reviewed by <xref ref-type="bibr" rid="bibr028">Ehrlich, 2010</xref>). In this case, chitin, like collagen, can provide a highly structured scaffold on which COM proteins can bind (reviewed by <xref ref-type="bibr" rid="bibr031">Falini and Fermani, 2004</xref>). It has also been suggested to have a more direct role in polymorph control (<xref ref-type="bibr" rid="bibr030">Falini et al., 1996</xref>). Chitin synthase (<xref ref-type="bibr" rid="bibr061">Joubert et al., 2010</xref>) and a chitin-binding protein (<xref ref-type="bibr" rid="bibr079">Mann et al., 2012</xref>) have been detected in mollusk shell proteomes; they do not show cross-phyla sequence similarities in our analysis (<xref ref-type="supplementary-material" rid="elementa.000026.s002">SI Table 2</xref>).</p></sec>
+<sec id="s3d"><title>Signaling and regulation</title>
+<p>Low-density lipoprotein (LDL) receptors are ancient proteins that aid in signal transduction across cell membranes and are responsible for cell specification and axis patterning in cnidarians and sea urchins (<xref ref-type="bibr" rid="bibr151">Wikramanayake et al., 2004</xref>; <xref ref-type="bibr" rid="bibr074">Lee et al., 2006</xref>; <xref ref-type="bibr" rid="bibr073">Lee et al., 2007</xref>). Notch proteins, which contain an epidermal growth factor domain (EGF), are calcium-binding transmembrane signal transduction pathway proteins that interact with LDL receptors (<xref ref-type="bibr" rid="bibr008">Baron, 2003</xref>). In sea urchins, they direct secondary mesenchyme cell development and spiculogenesis (<xref ref-type="bibr" rid="bibr131">Suyemitsu et al., 1990</xref>; <xref ref-type="bibr" rid="bibr098">McClay et al., 2000</xref>). Several of these proteins, with ‘membrane’ GO terms assigned, are reported in sea urchin and coral COM (<xref ref-type="fig" rid="elementa.000026.f002">Figure 2</xref>).</p>
+<p>Bone morphogenic proteins (BMPs) are responsible for signal gene regulation in apatite producing cells (reviewed by <xref ref-type="bibr" rid="bibr016">Canalis et al., 2003</xref>) and up-regulate Notch signaling genes in osteoblast precursor cells (<xref ref-type="bibr" rid="bibr024">de Jong et al., 2004</xref>). BMPs are reported in COM from all three phyla (<xref ref-type="table" rid="elementa.000026.t002">Table 2</xref>) but, as ‘extracellular’ GO terms, are only conserved between mollusks and sea urchins (<xref ref-type="fig" rid="elementa.000026.f002">Figure 2</xref>). As signal transduction pathway proteins, BMPs from corals and mollusks induce mesenchyme cell differentiation and osteogenesis (<xref ref-type="bibr" rid="bibr164">Zoccola et al., 2009</xref>; <xref ref-type="bibr" rid="bibr134">Takami et al., 2013</xref>) and are involved in sea urchin cell specification and axis patterning (<xref ref-type="bibr" rid="bibr006">Angerer et al., 2000</xref>). They have also been immunolocalized to calicoblastic ectodermal cells in corals (<xref ref-type="bibr" rid="bibr164">Zoccola et al., 2009</xref>) and a novel protein that shows structural (from structure prediction) but not sequence similarity to the BMP inhibitor Noggin was recently observed in coral COM (<xref ref-type="bibr" rid="bibr027">Drake et al., 2013</xref>).</p>
+<p>In addition to cell signaling, reworking of individual COM proteins is important to the function of the complex. Matrix metalloproteinases (MMPs) are specific extracellular matrix degradation enzymes that require cations for their catalytic activity. COM MMPs, as extracellular proteins, show sequence similarity between corals and sea urchins (<xref ref-type="fig" rid="elementa.000026.f002">Figure 2</xref>). MMPs affect sea urchin spicule elongation but not nucleation (<xref ref-type="bibr" rid="bibr056">Ingersoll and Wilt, 1998</xref>) and regulate extracellular matrix in humans (reviewed by <xref ref-type="bibr" rid="bibr153">Woessner, 1991</xref>; <xref ref-type="bibr" rid="bibr013">Birkedal-Hansen et al., 1993</xref>). They are found in mollusk hemolymph and an MMP inhibitor has been extracted from mussel pearls (<xref ref-type="bibr" rid="bibr085">Mannello et al., 2001</xref>; <xref ref-type="bibr" rid="bibr060">Jian-Ping et al., 2010</xref>), suggesting that they may be present in mollusk COM as well.</p>
+<p>Ubiquitin is a protein that attaches to and signals other proteins for degradation or relocation, or inhibits protein binding or activity. It is highly conserved in COM proteins across all three phyla and is generally assigned a ‘membrane’ cellular component GO term (<xref ref-type="fig" rid="elementa.000026.f002">Figure 2</xref>). Ubiquitylated proteins are reported from the prismatic layer of mollusks; removal of ubiquitin decreased the ability of these proteins to inhibit calcium carbonate mineralization (<xref ref-type="bibr" rid="bibr034">Fang et al., 2012</xref>). <xref ref-type="bibr" rid="bibr046">Hazelaar et al. (2003)</xref> proposed that, in diatoms, ubiquitin may signal templating proteins for degradation as the cell walls develop pores; a similar role in invertebrate calcium mineralization has yet to be examined.</p></sec>
+<sec id="s3e"><title>Summary of conservation of biomineralizing proteins</title>
+<p>Morphological, phylogenetic, and now proteomic evidence indicates that marine CaCO<sub>3</sub> precipitation is a convergent evolutionary process. Coral, mollusks, and sea urchins have all evolved their own suites of acidic proteins to catalyze the nucleation of CaCO<sub>3</sub> (<xref ref-type="bibr" rid="bibr055">Illies et al., 2002</xref>; <xref ref-type="bibr" rid="bibr044">Gotliv et al., 2005</xref>; <xref ref-type="bibr" rid="bibr027">Drake et al., 2013</xref>) and co-opted a number of adhesion, structural, signaling, and regulation proteins to provide structure and environmental stability to the calcifying regions (<xref ref-type="bibr" rid="bibr094">Marin and Luquet, 2004</xref>; <xref ref-type="bibr" rid="bibr161">Zhang and Zhang, 2006</xref>; <xref ref-type="bibr" rid="bibr004">Allemand et al., 2011</xref>). This convergence suggests that there are general roles for biomolecules in the biomineralization process and that, although biomineralization toolkits may not be conserved across phyla, the requirements to have these biological roles fulfilled is. Further, the precise macroscopic morphologies of skeleton, shell, and spicule/teeth, etc. may then be driven by those proteins or other biomolecules that are functionally individual not only to each phylum, but also often to specific minerals. Examples of these functionally individual proteins, which in some cases have been reviewed elsewhere, are lysine-rich matrix proteins and amorphous calcium carbonate binding proteins in mollusks (<xref ref-type="bibr" rid="bibr161">Zhang et al., 2006</xref>; <xref ref-type="bibr" rid="bibr078">Ma et al., 2007</xref>), galaxins in corals (<xref ref-type="bibr" rid="bibr038">Fukuda et al., 2003</xref>), and the mesenchyme specific cell surface glycoproteins in sea urchins (<xref ref-type="bibr" rid="bibr072">Leaf et al., 1987</xref>; <xref ref-type="bibr" rid="bibr066">Killian and Wilt, 2008</xref>).</p></sec></sec>
+<sec id="s4"><title>Future of marine invertebrate biomineralizers</title>
+<p>Estimates of CO<sub>2</sub> emissions and the projected effects on upper ocean ecosystems over the next 100 years are dire, especially for marine calcifiers that will face the combined issues of warming and ocean acidification (<xref ref-type="bibr" rid="bibr118">Raven, 2005</xref>; <xref ref-type="bibr" rid="bibr035">Feely et al., 2009</xref>; <xref ref-type="bibr" rid="bibr119">Ries et al., 2009</xref>; <xref ref-type="bibr" rid="bibr048">Hoegh-Guldberg and Bruno, 2010</xref>; <xref ref-type="bibr" rid="bibr110">Pandolfi et al., 2011</xref>). Models of the average calcite saturation state (Ω<sub>calcite</sub>) in the surface ocean projects a decrease from 5 to 2 in the next 100 years (<xref ref-type="bibr" rid="bibr025">Doney et al., 2009</xref>; <xref ref-type="bibr" rid="bibr108">Norris et al., 2013</xref>). Studies of biomineralizing marine invertebrates indicate a variety of potential responses to ocean acidification, from potential decreased calcification rates (<xref ref-type="bibr" rid="bibr119">Ries et al., 2009</xref>; <xref ref-type="bibr" rid="bibr050">Holcomb et al., 2010</xref>; <xref ref-type="bibr" rid="bibr070">Kroeker et al., 2010</xref>) to ecosystem shifts (<xref ref-type="bibr" rid="bibr007">Anthony et al., 2008</xref>; <xref ref-type="bibr" rid="bibr021">Crook et al., 2012</xref>). Additionally, each of the marine invertebrate mineralizers discussed here have representatives that naturally persist in waters with low calcium carbonate saturation (i.e., &gt; 1000 m depth or in regions of upwelling, high respiration rates, or rainwater runoff; e.g., (<xref ref-type="bibr" rid="bibr005">Anagnostou et al., 2011</xref>; <xref ref-type="bibr" rid="bibr124">Shamberger et al., 2014</xref>)). However, in addition to examining the responses of current marine biomineralizers, it is useful to consider both the micro- and macroscopic effects of increased atmospheric CO<sub>2</sub>, particularly as it pertains to ocean acidification.</p>
+<p>As detailed above, several highly acidic coral proteins function at ambient and low pH (<xref ref-type="bibr" rid="bibr096">Mass et al., 2013</xref>). This capacity suggests that while crystal growth rate and morphology can be dependent of the saturation state of the medium (<xref ref-type="bibr" rid="bibr049">Holcomb et al., 2009</xref>), the pKas of these and likely other highly acidic proteins are three orders of magnitude lower than seawater. Thus, in spite of the fact that pH may decline by up to 0.5 pH units in the coming century, the reactivity of these proteins in the precipitation of carbonates will remain virtually unchanged. This built-in molecular resilience will likely allow the nucleation reaction to continue. Although this resilience does not address the physiological response of marine biomineralizers to a surrounding medium whose pH is stressful to processes beyond the nucleation of minerals (<xref ref-type="bibr" rid="bibr071">Lannig et al., 2010</xref>; <xref ref-type="bibr" rid="bibr129">Stumpp et al., 2011</xref>; <xref ref-type="bibr" rid="bibr104">Moya et al., 2012</xref>), these organisms are not static and there is evidence of genetic and transcriptional adaptation to low pH conditions (<xref ref-type="bibr" rid="bibr104">Moya et al., 2012</xref>; <xref ref-type="bibr" rid="bibr053">Hüning et al., 2013</xref>; <xref ref-type="bibr" rid="bibr064">Kelly et al., 2013</xref>).</p>
+<p>Given the inevitable acidification of the contemporary ocean in the coming decades it is potentially also instructive to examine the geological record of analogues. One possible analogue is the Paleocene Eocene Thermal Maximum (PETM; <xref ref-type="bibr" rid="bibr108">Norris et al., 2013</xref>). This period, 55.5 to 55.9 million years ago, was characterized by a 4 to 5° C increase in sea surface temperatures in the tropics (<xref ref-type="bibr" rid="bibr160">Zachos et al., 2003</xref>) and nearly 1000 ppm increase in CO<sub>2</sub> in the atmosphere (<xref ref-type="bibr" rid="bibr009">Beerling and Royer, 2011</xref>). While the PETM corresponds with a dramatic reduction in CaCO<sub>3</sub> in the geologic record (<xref ref-type="bibr" rid="bibr159">Zachos et al., 2005</xref>) and a decrease in the coverage of coral reefs (reviewed by <xref ref-type="bibr" rid="bibr108">Norris et al., 2013</xref>), all marine invertebrate taxa discussed here survived through this extraordinary period. Indeed, some experienced rapid radiation and diversification in the Eocene (e.g., <xref ref-type="bibr" rid="bibr127">Stanley, 2003</xref>).</p>
+<p>The survival of the major carbonate-precipitating marine invertebrates in the face of ocean acidification is likely because (i) the site of biomineralization is removed from the surrounding medium, (ii) the proteins responsible for the precipitation of carbonates function at low pH, and (iii) genetic adaptation allows the organisms to persist, albeit perhaps not optimally, in their new environments. Additionally, recent research suggests that these organisms are able to modify their mineralizing environment in response to pH stress (<xref ref-type="bibr" rid="bibr158">Yuen et al., 2006</xref>; <xref ref-type="bibr" rid="bibr145">Venn et al., 2013</xref>). This ability suggests that the biomineralization processes will almost certainly persist throughout the Anthropocene. It appears that these organisms are far more resilient than is often acknowledged. However, from a molecular biology perspective, significant research remains toward understanding 1) the expression rates of known COM proteins under variable environments, as well as the biochemical cascades responsible for any changes; 2) the interactions of the COM proteins with each other to regulate the initiation, elongation, and termination steps of mineralization; and 3) how signals of COM protein evolution, which also guided biomineralization in the past, may be retained in fossil minerals.</p></sec>
+<sec id="s5"><title>Data accessibility statement</title>
+<p>All data were taken from publically available datasets. Original sources and accession numbers of all sequences are noted in <xref ref-type="supplementary-material" rid="elementa.000026.s002">Table S2</xref>.</p>
+</sec>
+<sec id="s6" sec-type="copyright-statement"><title>Copyright</title>
+<p>© 2014 Drake, Mass and Falkowski. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</p></sec>
+<sec id="s7"><title>Supplemental material</title>
+<supplementary-material id="elementa.000026.s001" position="float" mimetype="aplication/MSExcel" xlink:type="simple" xlink:href="info:doi/10.12952/journal.elementa.000026.s001">
+<label>Table S1. </label>
+<caption>
+<title>Protein sequences with &gt;=30% sequence similarity between phyla.</title>
+<p>Cross-phyla clustering of non-redundant carbonate organic matrix proteins from N-terminal and mass spectrometry COM sequencing, RT-PCR, or GO and KEGG annotation of genomic and transcriptomic data sets (from over 100 studies) grouped by hierarchical clustering using the CD-HIT suite web server (<uri>http://weizhong-lab.ucsd.edu/cd-hit/</uri>). The gene accession numbers are included. 1531 proteins reduced to 1051 clusters at 30% or greater similarity, although only 64 clusters showed sequence similarity across phyla. Studies published from the 1990s through June 2013 are included. Clusters with the same name have been combined. Note: Mass spectrometry sequences were excluded if the experimental data were compared with gene models from a different species. <sup>*</sup> indicates that non-homologous proteins with similar function were also observed. See <xref ref-type="table" rid="elementa.000026.t002">Table 2</xref> in main document. <sup>**</sup> indicates a likely cellular contaminant due to location based on cellular component GO term.</p>
+<p specific-use="supplementary-material-metadata">
+<named-content content-type="file-type">XLSX</named-content>
+<named-content content-type="file-size">0.04 MB</named-content>
+</p>
+</caption>
+</supplementary-material>
+<supplementary-material id="elementa.000026.s002" position="float" mimetype="aplication/MSExcel" xlink:type="simple" xlink:href="info:doi/10.12952/journal.elementa.000026.s002">
+<label>Table S2. </label>
+<caption>
+<title>Proteins from coral, mollusk, and sea urchin COM sequencing, RT-PCR, or GO and KEGG annotation.</title>
+<p>1076 proteins, including redundancy when noted by multiple sources, reduced to 1031 non-redundant sequences.</p>
+<p specific-use="supplementary-material-metadata">
+<named-content content-type="file-type">XLSX</named-content>
+<named-content content-type="file-size">0.13 MB</named-content>
+</p>
+</caption>
+</supplementary-material>
+</sec>
+</body>
+<back><ack><title>Acknowledgments</title>
+<p>We thank Athena Fu for collecting sequence data, Mary Katherine Battles for drawings, and Morgan Schaller and Ehud Zelzion for constructive discussions.</p></ack>
+<ref-list content-type="parsed"><title>References</title>
+<ref id="bibr001">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Addadi</surname><given-names>L</given-names></name>, 
+<name name-style="western"><surname>Joester</surname><given-names>D</given-names></name>, 
+<name name-style="western"><surname>Nudelman</surname><given-names>F</given-names></name>, 
+<name name-style="western"><surname>Weiner</surname><given-names>S</given-names></name>. 
+<year>2006</year>. 
+<article-title>Mollusk shell formation: a source of new concepts for understanding biomineralization process</article-title>. 
+<source>Chemical European Journal</source> 
+<volume>12</volume>: 
+<fpage>980</fpage>–<lpage>987</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr002">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Allemand</surname><given-names>D</given-names></name>, 
+<name name-style="western"><surname>Ferrier-Pagès</surname><given-names>C</given-names></name>, 
+<name name-style="western"><surname>Furla</surname><given-names>P</given-names></name>, 
+<name name-style="western"><surname>Houlbrèque</surname><given-names>F</given-names></name>, 
+<name name-style="western"><surname>Puverel</surname><given-names>S</given-names></name>, <etal>et al.</etal> 
+<year>2004</year>. 
+<article-title>Biomineralisation in reef-building corals: from molecular mechanisms to environmental control</article-title>. 
+<source>Comptes Rendus Palevol</source> 
+<volume>3</volume>(<issue>6–7</issue>): 
+<fpage>453</fpage>–<lpage>467</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr003">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Allemand</surname><given-names>D</given-names></name>, 
+<name name-style="western"><surname>Tambutte</surname><given-names>E</given-names></name>, 
+<name name-style="western"><surname>Girard</surname><given-names>J</given-names></name>, 
+<name name-style="western"><surname>Jaubert</surname><given-names>J</given-names></name>. 
+<year>1998</year>. 
+<article-title>Organic matrix synthesis in the scleractinian coral<italic> Stylophora pistillata</italic>: Role in biomineralization and potential target of the organotin tributyltin</article-title>. 
+<source>J Exp Biol</source> 
+<volume>201</volume>(<issue>13</issue>): 
+<fpage>2001</fpage>–<lpage>9</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr004">
+<mixed-citation publication-type="book">
+<name name-style="western"><surname>Allemand</surname><given-names>D</given-names></name>, 
+<name name-style="western"><surname>Tambutté</surname><given-names>É</given-names></name>, 
+<name name-style="western"><surname>Zoccola</surname><given-names>D</given-names></name>, 
+<name name-style="western"><surname>Tambutté</surname><given-names>S</given-names></name>. 
+<year>2011</year>. 
+<article-title>Coral calcification, cells to reefs</article-title>. 
+<source>Coral reefs: an ecosystem in transition</source>. 
+<publisher-name>Springer</publisher-name>.</mixed-citation>
+</ref>
+<ref id="bibr005">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Anagnostou</surname><given-names>E</given-names></name>, 
+<name name-style="western"><surname>Sherrell</surname><given-names>RM</given-names></name>, 
+<name name-style="western"><surname>Gagnon</surname><given-names>A</given-names></name>, 
+<name name-style="western"><surname>Lavigne</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>Field</surname><given-names>MP</given-names></name> <etal>et al.</etal> 
+<year>2011</year>. 
+<article-title>Seawater nutrient and carbonate ion concentrations recorded as P/Ca, Ba/Ca, and U/Ca in the deep-sea coral <italic>Desmophyllum dianthus</italic></article-title>. 
+<source>Geochim Cosmochim Acta</source> 
+<volume>75</volume>(<issue>9</issue>): 
+<fpage>2529</fpage>–<lpage>2543</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr006">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Angerer</surname><given-names>LM</given-names></name>, 
+<name name-style="western"><surname>Oleksyn</surname><given-names>DW</given-names></name>, 
+<name name-style="western"><surname>Logan</surname><given-names>CY</given-names></name>, 
+<name name-style="western"><surname>Mcclay</surname><given-names>DR</given-names></name>, 
+<name name-style="western"><surname>Dale</surname><given-names>L</given-names></name>, <etal>et al.</etal> C. 
+<year>2000</year>. 
+<article-title>A BMP pathway regulates cell fate allocation along the sea urchin animal-vegetal embryonic axis</article-title>. 
+<source>Development</source> 
+<volume>127</volume>(<issue>5</issue>): 
+<fpage>1105</fpage>–<lpage>1114</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr007">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Anthony</surname><given-names>KRN</given-names></name>, 
+<name name-style="western"><surname>Kline</surname><given-names>DI</given-names></name>, 
+<name name-style="western"><surname>Diaz-Pulido</surname><given-names>G</given-names></name>, 
+<name name-style="western"><surname>Dove</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Hoegh-Guldberg</surname><given-names>O</given-names></name>. 
+<year>2008</year>. 
+<article-title>Ocean acidification causes bleaching and productivity loss in coral reef builders</article-title>. 
+<source>P Natl Acad Sci USA</source> 
+<volume>105</volume>(<issue>45</issue>): 
+<fpage>17442</fpage>–<lpage>17446</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr008">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Baron</surname><given-names>M</given-names></name>. 
+<year>2003</year>. 
+<article-title>An overview of the Notch signalling pathway</article-title>. 
+<source>Semin Cell Dev Biol</source> 
+<volume>14</volume>(<issue>2</issue>): 
+<fpage>113</fpage>–<lpage>119</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr009">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Beerling</surname><given-names>DJ</given-names></name>, 
+<name name-style="western"><surname>Royer</surname><given-names>DL</given-names></name>. 
+<year>2011</year>. 
+<article-title>Convergent Cenozoic CO<sub>2</sub> history</article-title>. 
+<source>Nature Geosci</source> 
+<volume>4</volume>(<issue>7</issue>): 
+<fpage>418</fpage>–<lpage>420</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr010">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Berntson</surname><given-names>EA</given-names></name>, 
+<name name-style="western"><surname>France</surname><given-names>SC</given-names></name>, 
+<name name-style="western"><surname>Mullineaux</surname><given-names>LS</given-names></name>. 
+<year>1999</year>. 
+<article-title>Phylogenetic relationships within the class Anthozoa (phylum Cnidaria) based on nuclear 18S rDNA sequences</article-title>. 
+<source>Mol Phylogen Evol</source> 
+<volume>13</volume>(<issue>2</issue>): 
+<fpage>417</fpage>–<lpage>433</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr011">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Bertucci</surname><given-names>A</given-names></name>, 
+<name name-style="western"><surname>Moya</surname><given-names>A</given-names></name>, 
+<name name-style="western"><surname>Tambutté</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Allemand</surname><given-names>D</given-names></name>, 
+<name name-style="western"><surname>Supuran</surname><given-names>CT</given-names></name> <etal>et al.</etal> 
+<year>2013</year>. 
+<article-title>Carbonic anhydrases in anthozoan corals—A review</article-title>. 
+<source>Bioorgan Med Chem</source> 
+<volume>21</volume>(<issue>6</issue>): 
+<fpage>1437</fpage>–<lpage>1450</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr012">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Bertucci</surname><given-names>A</given-names></name>, 
+<name name-style="western"><surname>Tambutté</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Supuran</surname><given-names>C</given-names></name>, 
+<name name-style="western"><surname>Allemand</surname><given-names>D</given-names></name>, 
+<name name-style="western"><surname>Zoccola</surname><given-names>D</given-names></name>. 
+<year>2011</year>. 
+<article-title>A new coral carbonic anhydrase in <italic>Stylophora pistillata</italic></article-title>. 
+<source>Mar Biotechnol</source> 
+<volume>13</volume>(<issue>5</issue>): 
+<fpage>992</fpage>–<lpage>1002</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr013">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Birkedal-Hansen</surname><given-names>H</given-names></name>, 
+<name name-style="western"><surname>Moore</surname><given-names>WGI</given-names></name>, 
+<name name-style="western"><surname>Bodden</surname><given-names>MK</given-names></name>, 
+<name name-style="western"><surname>Windsor</surname><given-names>LJ</given-names></name>, 
+<name name-style="western"><surname>Birkedal-Hansen</surname><given-names>B</given-names></name>, <etal>et al.</etal> 
+<year>1993</year>. 
+<article-title>Matrix metalloproteinases: A review</article-title>. 
+<source>Crit Rev Oral Biol Medicine</source> 
+<volume>4</volume>(<issue>2</issue>): 
+<fpage>197</fpage>–<lpage>250</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr014">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Blank</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Arnoldi</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>Khoshnavaz</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Treccani</surname><given-names>L</given-names></name>, 
+<name name-style="western"><surname>Kuntz</surname><given-names>M</given-names></name>, <etal>et al.</etal> 
+<year>2003</year>. 
+<article-title>The nacre protein perlucin nucleates growth of calcium carbonate crystals</article-title>. 
+<source>Journal of Microscopy</source> 
+<volume>212</volume>(<issue>3</issue>): 
+<fpage>280</fpage>–<lpage>291</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr015">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Burriesci</surname><given-names>MS</given-names></name>, 
+<name name-style="western"><surname>Raab</surname><given-names>TK</given-names></name>, 
+<name name-style="western"><surname>Pringle</surname><given-names>JR</given-names></name>. 
+<year>2012</year>. 
+<article-title>Evidence that glucose is the major transferred metabolite in dinoflagellate–cnidarian symbiosis</article-title>. 
+<source>J Exp Biol</source> 
+<volume>215</volume>(<issue>19</issue>): 
+<fpage>3467</fpage>–<lpage>3477</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr016">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Canalis</surname><given-names>E</given-names></name>, 
+<name name-style="western"><surname>Economides</surname><given-names>AN</given-names></name>, 
+<name name-style="western"><surname>Gazzerro</surname><given-names>E</given-names></name>. 
+<year>2003</year>. 
+<article-title>Bone morphogenetic proteins, their antagonists, and the skeleton</article-title>. 
+<source>Endocr Rev</source> 
+<volume>24</volume>(<issue>2</issue>): 
+<fpage>218</fpage>–<lpage>235</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr017">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Checa</surname><given-names>A</given-names></name>. 
+<year>2000</year>. 
+<article-title>A new model for periostracum and shell formation in Unionidae (Bivalvia, Mollusca)</article-title>. 
+<source>Tissue Cell</source> 
+<volume>32</volume>(<issue>5</issue>): 
+<fpage>405</fpage>–<lpage>416</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr018">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Cohen</surname><given-names>AL</given-names></name>, 
+<name name-style="western"><surname>Mccorkle</surname><given-names>DC</given-names></name>, 
+<name name-style="western"><surname>Putron</surname><given-names>SD</given-names></name>, 
+<name name-style="western"><surname>Gaetani</surname><given-names>GA</given-names></name>, 
+<name name-style="western"><surname>Rose</surname><given-names>K. A</given-names></name>. 
+<year>2009</year>. 
+<article-title>Morphological and compositional changes in the skeletons of new coral recruits reared in acidified seawater : Insights into the biomineralization response to ocean acidification</article-title>. 
+<source>Geochem Geophys Geosyst</source> 
+<volume>10</volume>: 
+<fpage>1</fpage>–<lpage>12</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr019">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Conesa</surname><given-names>A</given-names></name>, 
+<name name-style="western"><surname>Götz</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>García-Gómez</surname><given-names>JM</given-names></name>, 
+<name name-style="western"><surname>Terol</surname><given-names>J</given-names></name>, 
+<name name-style="western"><surname>Talón</surname><given-names>M</given-names></name>, <etal>et al.</etal> 
+<year>2005</year>. 
+<article-title>Blast2GO: a universal tool for annotation, visualization and analysis in functional genomics research</article-title>. 
+<source>Bioinformatics</source> 
+<volume>21</volume>(<issue>18</issue>): 
+<fpage>3674</fpage>–<lpage>3676</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr020">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Corstjens</surname><given-names>PLAM</given-names></name>, 
+<name name-style="western"><surname>Araki</surname><given-names>Y</given-names></name>, 
+<name name-style="western"><surname>González</surname><given-names>EL</given-names></name>. 
+<year>2001</year>. 
+<article-title>A coccolithophorid calcifying vesicle with a vacuolar-type ATPase proton pump: cloning and immunolocalization of the V0 subunit c</article-title>. 
+<source>J Phycol</source> 
+<volume>37</volume>(<issue>1</issue>): 
+<fpage>71</fpage>–<lpage>78</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr021">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Crook</surname><given-names>E</given-names></name>, 
+<name name-style="western"><surname>Potts</surname><given-names>D</given-names></name>, 
+<name name-style="western"><surname>Rebolledo-Vieyra</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>Hernandez</surname><given-names>L</given-names></name>, 
+<name name-style="western"><surname>Paytan</surname><given-names>A</given-names></name>. 
+<year>2012</year>. 
+<article-title>Calcifying coral abundance near low-pH springs: Implications for future ocean acidification</article-title>. 
+<source>Coral Reefs</source> 
+<volume>31</volume>(<issue>1</issue>): 
+<fpage>239</fpage>–<lpage>245</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr022">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Cuif</surname><given-names>J-P</given-names></name>, 
+<name name-style="western"><surname>Dauphin</surname><given-names>Y</given-names></name>, 
+<name name-style="western"><surname>Berthet</surname><given-names>P</given-names></name>, 
+<name name-style="western"><surname>Jegoudez</surname><given-names>J</given-names></name>. 
+<year>2004</year>. 
+<article-title>Associated water and organic compounds in coral skeletons: Quantitative thermogravimetry coupled to infrared absorption spectrometry</article-title>. 
+<source>Geochem Geophys Geosyst</source> 
+<volume>5</volume>(<issue>11</issue>): 
+<fpage>Q11011</fpage>.</mixed-citation>
+</ref>
+<ref id="bibr023">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Cuif</surname><given-names>JP</given-names></name>, 
+<name name-style="western"><surname>Dauphin</surname><given-names>Y</given-names></name>, 
+<name name-style="western"><surname>Farre</surname><given-names>B</given-names></name>, 
+<name name-style="western"><surname>Nehrke</surname><given-names>G</given-names></name>, 
+<name name-style="western"><surname>Nouet</surname><given-names>J</given-names></name>, <etal>et al.</etal> 
+<year>2008</year>. 
+<article-title>Distribution of sulphated polysaccharides within calcareous biominerals suggests a widely shared two-step crystallization process for the microstructural growth units</article-title>. 
+<source>Mineral Mag</source> 
+<volume>72</volume>(<issue>1</issue>): 
+<fpage>233</fpage>–<lpage>237</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr024">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>De Jong</surname><given-names>DS</given-names></name>, 
+<name name-style="western"><surname>Steegenga</surname><given-names>WT</given-names></name>, 
+<name name-style="western"><surname>Hendriks</surname><given-names>JMA</given-names></name>, 
+<name name-style="western"><surname>Van Zoelen</surname><given-names>EJJ</given-names></name>, 
+<name name-style="western"><surname>Olijve</surname><given-names>W</given-names></name>, <etal>et al.</etal> 
+<year>2004</year>. 
+<article-title>Regulation of Notch signaling genes during BMP2-induced differentiation of osteoblast precursor cells</article-title>. 
+<source>Biochem Biophys Res Commun</source> 
+<volume>320</volume>(<issue>1</issue>): 
+<fpage>100</fpage>–<lpage>107</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr025">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Doney</surname><given-names>SC</given-names></name>, 
+<name name-style="western"><surname>Fabry</surname><given-names>VJ</given-names></name>, 
+<name name-style="western"><surname>Feely</surname><given-names>RA</given-names></name>, 
+<name name-style="western"><surname>Kleypas</surname><given-names>JA</given-names></name>. 
+<year>2009</year>. 
+<article-title>Ocean acidification: The other CO<sub>2</sub> problem</article-title>. 
+<source>Annual Review of Marine Science</source> 
+<volume>1</volume>(<issue>1</issue>): 
+<fpage>169</fpage>–<lpage>192</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr026">
+<mixed-citation publication-type="book">
+<name name-style="western"><surname>Dove</surname><given-names>PM</given-names></name>, 
+<name name-style="western"><surname>Yoreo</surname><given-names>JJD</given-names></name>, 
+<name name-style="western"><surname>Weiner</surname><given-names>S</given-names></name>, eds. 
+<year>2003</year>. 
+<source>Reviews in Mineralogy and Geochemistry: Biomineralization</source>, 
+<publisher-loc>Washington, D.C.</publisher-loc>: 
+<publisher-name>Mineralogical Society of America</publisher-name>.</mixed-citation>
+</ref>
+<ref id="bibr027">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Drake</surname><given-names>JL</given-names></name>, 
+<name name-style="western"><surname>Mass</surname><given-names>T</given-names></name>, 
+<name name-style="western"><surname>Haramaty</surname><given-names>L</given-names></name>, 
+<name name-style="western"><surname>Zelzion</surname><given-names>E</given-names></name>, 
+<name name-style="western"><surname>Bhattacharya</surname><given-names>D</given-names></name>, <etal>et al.</etal> 
+<year>2013</year>. 
+<article-title>Proteomic analysis of skeletal organic matrix from the stony coral <italic>Stylophora pistillata</italic></article-title>. 
+<source>P Natl Acad Sci USA</source> 
+<volume>110</volume>(<issue>10</issue>): 
+<fpage>3788</fpage>–<lpage>3793</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr028">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Ehrlich</surname><given-names>H</given-names></name>. 
+<year>2010</year>. 
+<article-title>Chitin and collagen as universal and alternative templates in biomineralization</article-title>. 
+<source>Int Geol Rev</source> 
+<volume>52</volume>(<issue>7–8</issue>): 
+<fpage>661</fpage>–<lpage>699</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr029">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Erwin</surname><given-names>DH</given-names></name>, 
+<name name-style="western"><surname>Laflamme</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>Tweedt</surname><given-names>SM</given-names></name>, 
+<name name-style="western"><surname>Sperling</surname><given-names>EA</given-names></name>, 
+<name name-style="western"><surname>Pisani</surname><given-names>D</given-names></name>, <etal>et al.</etal> 
+<year>2011</year>. 
+<article-title>The Cambrian conundrum: Early divergence and later ecological success in the early history of animals</article-title>. 
+<source>Science</source> 
+<volume>334</volume>(<issue>6059</issue>): 
+<fpage>1091</fpage>–<lpage>1097</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr030">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Falini</surname><given-names>G</given-names></name>, 
+<name name-style="western"><surname>Albeck</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Weiner</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Addadi</surname><given-names>L</given-names></name>. 
+<year>1996</year>. 
+<article-title>Control of aragonite or calcite precipitation by mollusk shell macromolecules</article-title>. 
+<source>Science</source> 
+<volume>271</volume>: 
+<fpage>67</fpage>–<lpage>69</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr031">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Falini</surname><given-names>G</given-names></name>, 
+<name name-style="western"><surname>Fermani</surname><given-names>S</given-names></name>. 
+<year>2004</year>. 
+<article-title>Chitin mineralization</article-title>. 
+<source>Tissue Eng</source> 
+<volume>10</volume>(<issue>1–2</issue>): 
+<fpage>1</fpage>–<lpage>6</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr032">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Falini</surname><given-names>G</given-names></name>, 
+<name name-style="western"><surname>Reggi</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>Fermani</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Sparla</surname><given-names>F</given-names></name>, 
+<name name-style="western"><surname>Goffredo</surname><given-names>S</given-names></name>, <etal>et al.</etal> 
+<year>2013</year>. 
+<article-title>Control of aragonite deposition in colonial corals by intra-skeletal macromolecules</article-title>. 
+<source>J Struct Biol</source> 
+<volume>183</volume>(<issue>2</issue>): 
+<fpage>226</fpage>–<lpage>238</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr033">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Falkowski</surname><given-names>PG</given-names></name>, 
+<name name-style="western"><surname>Dubinsky</surname><given-names>Z</given-names></name>, 
+<name name-style="western"><surname>Muscatine</surname><given-names>L</given-names></name>, 
+<name name-style="western"><surname>Porter</surname><given-names>JW</given-names></name>. 
+<year>1984</year>. 
+<article-title>Light and the bioenergetics of a symbiotic coral</article-title>. 
+<source>Bioscience</source> 
+<volume>34</volume>(<issue>11</issue>): 
+<fpage>705</fpage>–<lpage>709</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr034">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Fang</surname><given-names>D</given-names></name>, 
+<name name-style="western"><surname>Pan</surname><given-names>C</given-names></name>, 
+<name name-style="western"><surname>Lin</surname><given-names>H</given-names></name>, 
+<name name-style="western"><surname>Lin</surname><given-names>Y</given-names></name>, 
+<name name-style="western"><surname>Xu</surname><given-names>G</given-names></name>, <etal>et al.</etal> 
+<year>2012</year>. 
+<article-title>Ubiquitylation functions in the calcium carbonate biomineralization in the extracellular matrix</article-title>. 
+<source>PLoS ONE</source> 
+<volume>7</volume>(<issue>4</issue>): 
+<fpage>e35715</fpage>.</mixed-citation>
+</ref>
+<ref id="bibr035">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Feely</surname><given-names>RA</given-names></name>, 
+<name name-style="western"><surname>Doney</surname><given-names>SC</given-names></name>, 
+<name name-style="western"><surname>Cooley</surname><given-names>SR</given-names></name>. 
+<year>2009</year>. 
+<article-title>Ocean acidification: Present conditions and future changes in a high-CO<sub>2</sub> world</article-title>. 
+<source>Oceanography</source> 
+<volume>22</volume>(<issue>4</issue>): 
+<fpage>36</fpage>–<lpage>47</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr036">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Feng</surname><given-names>Q</given-names></name>, 
+<name name-style="western"><surname>Fang</surname><given-names>Z</given-names></name>, 
+<name name-style="western"><surname>Yan</surname><given-names>Z</given-names></name>, 
+<name name-style="western"><surname>Xing</surname><given-names>R</given-names></name>, 
+<name name-style="western"><surname>Xie</surname><given-names>L</given-names></name>, <etal>et al.</etal> 
+<year>2009</year>. 
+<article-title>The structure–function relationship of MSI7, a matrix protein from pearl oyster Pinctada fucata</article-title>. 
+<source>Acta Bioch Bioph Sin</source> 
+<volume>41</volume>(<issue>11</issue>): 
+<fpage>955</fpage>–<lpage>962</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr037">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Fine</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>Tchernov</surname><given-names>D</given-names></name>. 
+<year>2007</year>. 
+<article-title>Scleractinian coral species survive and recover from decalcification</article-title>. 
+<source>Science</source> 
+<volume>315</volume>(<issue>5820</issue>): 
+<fpage>1811</fpage>.</mixed-citation>
+</ref>
+<ref id="bibr038">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Fukuda</surname><given-names>I</given-names></name>, 
+<name name-style="western"><surname>Ooki</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Fujita</surname><given-names>T</given-names></name>, 
+<name name-style="western"><surname>Murayama</surname><given-names>E</given-names></name>, 
+<name name-style="western"><surname>Nagasawa</surname><given-names>H</given-names></name>, <etal>et al.</etal> 
+<year>2003</year>. 
+<article-title>Molecular cloning of a cDNA encoding a soluble protein in the coral exoskeleton</article-title>. 
+<source>Biochem Biophys Res Commun</source> 
+<volume>304</volume>(<issue>1</issue>): 
+<fpage>11</fpage>–<lpage>17</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr039">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Gagnon</surname><given-names>AC</given-names></name>, 
+<name name-style="western"><surname>Adkins</surname><given-names>JF</given-names></name>, 
+<name name-style="western"><surname>Erez</surname><given-names>J</given-names></name>. 
+<year>2012</year>. 
+<article-title>Seawater transport during coral biomineralization</article-title>. 
+<source>Earth Planetary Sc Lett</source> 
+<volume>329–330</volume>(<issue>0</issue>): 
+<fpage>150</fpage>–<lpage>161</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr040">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Gazeau</surname><given-names>F</given-names></name>, 
+<name name-style="western"><surname>Quiblier</surname><given-names>C</given-names></name>, 
+<name name-style="western"><surname>Jansen</surname><given-names>JM</given-names></name>, 
+<name name-style="western"><surname>Gattuso</surname><given-names>J-P</given-names></name>, 
+<name name-style="western"><surname>Middelburg</surname><given-names>JJ</given-names></name>, <etal>et al.</etal> 
+<year>2007</year>. 
+<article-title>Impact of elevated CO<sub>2</sub> on shellfish calcification</article-title>. 
+<source>Geophys Res Lett</source> 
+<volume>34</volume>(<issue>7</issue>): 
+<fpage>L07603</fpage>.</mixed-citation>
+</ref>
+<ref id="bibr041">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>George</surname><given-names>NC</given-names></name>, 
+<name name-style="western"><surname>Killian</surname><given-names>CE</given-names></name>, 
+<name name-style="western"><surname>Wilt</surname><given-names>FH</given-names></name>. 
+<year>1991</year>. 
+<article-title>Characterization and expression of a gene encoding a 30.6-kDa <italic>Strongylocentrotus purpuratus</italic> spicule matrix protein</article-title>. 
+<source>Dev Biol</source> 
+<volume>147</volume>(<issue>2</issue>): 
+<fpage>334</fpage>–<lpage>342</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr042">
+<mixed-citation publication-type="inbook">
+<name name-style="western"><surname>Gilbert</surname><given-names>PUPA</given-names></name>, 
+<name name-style="western"><surname>Wilt</surname><given-names>F</given-names></name>. 
+<year>2011</year>. 
+<chapter-title>Molecular Aspects of Biomineralization of the Echinoderm Endoskeleton</chapter-title>, in 
+<name name-style="western"><surname>Müller</surname><given-names>WEG</given-names></name>, eds., 
+<source>Molecular Biomineralization</source>. 
+<publisher-loc>Berlin Heidelberg</publisher-loc>: 
+<publisher-name>Springer</publisher-name>.</mixed-citation>
+</ref>
+<ref id="bibr043">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Goreau</surname><given-names>TF</given-names></name>. 
+<year>1959</year>. 
+<article-title>The physiology of skeleton formation in corals. I. A method for measuring the rate of calcium deposition by corals under different conditions</article-title>. 
+<source>Biol Bull</source> 
+<volume>116</volume>: 
+<fpage>59</fpage>–<lpage>75</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr044">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Gotliv</surname><given-names>BA</given-names></name>, 
+<name name-style="western"><surname>Kessler</surname><given-names>N</given-names></name>, 
+<name name-style="western"><surname>Sumerel</surname><given-names>JL</given-names></name>, 
+<name name-style="western"><surname>Morse</surname><given-names>DE</given-names></name>, 
+<name name-style="western"><surname>Tuross</surname><given-names>N</given-names></name>, <etal>et al.</etal> 
+<year>2005</year>. 
+<article-title>Asprich: A novel aspartic acid-rich protein family from the prismatic shell matrix of the bivalve <italic>Atrina rigida</italic></article-title>. 
+<source>ChemBioChem</source> 
+<volume>6</volume>(<issue>2</issue>): 
+<fpage>304</fpage>–<lpage>314</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr045">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Hayward</surname><given-names>DC</given-names></name>, 
+<name name-style="western"><surname>Hetherington</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Behm</surname><given-names>CA</given-names></name>, 
+<name name-style="western"><surname>Grasso</surname><given-names>LC</given-names></name>, 
+<name name-style="western"><surname>Foret</surname><given-names>S</given-names></name>, <etal>et al.</etal> 
+<year>2011</year>. 
+<article-title>Differential gene expression at coral settlement and metamorphosis — a subtractive hybridization study</article-title>. 
+<source>PLoS ONE</source> 
+<volume>6</volume>(<issue>10</issue>): 
+<fpage>e26411</fpage>.</mixed-citation>
+</ref>
+<ref id="bibr046">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Hazelaar</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Van Der Strate</surname><given-names>HJ</given-names></name>, 
+<name name-style="western"><surname>Gieskes</surname><given-names>WWC</given-names></name>, 
+<name name-style="western"><surname>Vrieling</surname><given-names>EG</given-names></name>. 
+<year>2003</year>. 
+<article-title>Possible role of ubiquitin in silica biomineralization in diatoms: Identification of a homologue with high silica affinity</article-title>. 
+<source>Biomol Eng</source> 
+<volume>20</volume>(<issue>4–6</issue>): 
+<fpage>163</fpage>–<lpage>169</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr047">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Hildebrand</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>Doktycz</surname><given-names>MJ</given-names></name>, 
+<name name-style="western"><surname>Allison</surname><given-names>DP</given-names></name>. 
+<year>2008</year>. 
+<article-title>Application of AFM in understanding biomineral formation in diatoms</article-title>. 
+<source>Pflüg Arch Eur J Phy</source> 
+<volume>456</volume>: 
+<fpage>127</fpage>–<lpage>137</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr048">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Hoegh-Guldberg</surname><given-names>O</given-names></name>, 
+<name name-style="western"><surname>Bruno</surname><given-names>JF</given-names></name>. 
+<year>2010</year>. 
+<article-title>The impact of climate change on the world's marine ecosystems</article-title>. 
+<source>Science</source> 
+<volume>328</volume>(<issue>5985</issue>): 
+<fpage>1523</fpage>–<lpage>1528</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr049">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Holcomb</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>Cohen</surname><given-names>AL</given-names></name>, 
+<name name-style="western"><surname>Gabitov</surname><given-names>RI</given-names></name>, 
+<name name-style="western"><surname>Hutter</surname><given-names>JL</given-names></name>. 
+<year>2009</year>. 
+<article-title>Compositional and morphological features of aragonite precipitated experimentally from seawater and biogenically by corals</article-title>. 
+<source>Geochim Cosmochim Acta</source> 
+<volume>73</volume>(<issue>14</issue>): 
+<fpage>4166</fpage>–<lpage>4179</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr050">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Holcomb</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>Mccorkle</surname><given-names>DC</given-names></name>, 
+<name name-style="western"><surname>Cohen</surname><given-names>AL</given-names></name>. 
+<year>2010</year>. 
+<article-title>Long-term effects of nutrient and CO<sub>2</sub> enrichment on the temperate coral <italic>Astrangia poculata</italic> (Ellis and Solander, 1786)</article-title>. 
+<source>J Exp Mar Biol Ecol</source> 
+<volume>386</volume>(<issue>1–2</issue>): 
+<fpage>27</fpage>–<lpage>33</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr051">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Houlbrèque</surname><given-names>F</given-names></name>, 
+<name name-style="western"><surname>Ferrier-Pagès</surname><given-names>C</given-names></name>. 
+<year>2009</year>. 
+<article-title>Heterotrophy in tropical scleractinian corals</article-title>. 
+<source>Biol Rev</source> 
+<volume>84</volume>(<issue>1</issue>): 
+<fpage>1</fpage>–<lpage>17</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr052">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Huang</surname><given-names>Y</given-names></name>, 
+<name name-style="western"><surname>Niu</surname><given-names>B</given-names></name>, 
+<name name-style="western"><surname>Gao</surname><given-names>Y</given-names></name>, 
+<name name-style="western"><surname>Fu</surname><given-names>L</given-names></name>, 
+<name name-style="western"><surname>Li</surname><given-names>W</given-names></name>. 
+<year>2010</year>. 
+<article-title>CD-HIT Suite: A web server for clustering and comparing biological sequences</article-title>. 
+<source>Bioinformatics</source> 
+<volume>26</volume>(<issue>5</issue>): 
+<fpage>680</fpage>–<lpage>82</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr053">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Hüning</surname><given-names>A</given-names></name>, 
+<name name-style="western"><surname>Melzner</surname><given-names>F</given-names></name>, 
+<name name-style="western"><surname>Thomsen</surname><given-names>J</given-names></name>, 
+<name name-style="western"><surname>Gutowska</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>Krämer</surname><given-names>L</given-names></name>, <etal>et al.</etal> 
+<year>2013</year>. 
+<article-title>Impacts of seawater acidification on mantle gene expression patterns of the Baltic Sea blue mussel: implications for shell formation and energy metabolism</article-title>. 
+<source>Mar Biol</source> 
+<volume>160</volume>(<issue>8</issue>): 
+<fpage>1845</fpage>–<lpage>1861</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr054">
+<mixed-citation publication-type="book">
+<name name-style="western"><surname>Hyman</surname><given-names>LH</given-names></name>. 
+<year>1955</year>. 
+<source>The Invertebrates</source>, 
+<publisher-loc>New York</publisher-loc>: 
+<publisher-name>McGraw-Hill</publisher-name>.</mixed-citation>
+</ref>
+<ref id="bibr055">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Illies</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>Peeler</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>Dechtiaruk</surname><given-names>A</given-names></name>, 
+<name name-style="western"><surname>Ettensohn</surname><given-names>C</given-names></name>. 
+<year>2002</year>. 
+<article-title>Identification and developmental expression of new biomineralization proteins in the sea urchin <italic>Strongylocentrotus purpuratus</italic></article-title>. 
+<source>Dev Genes Evol</source> 
+<volume>212</volume>(<issue>9</issue>): 
+<fpage>419</fpage>–<lpage>431</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr056">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Ingersoll</surname><given-names>EP</given-names></name>, 
+<name name-style="western"><surname>Wilt</surname><given-names>FH</given-names></name>. 
+<year>1998</year>. 
+<article-title>Matrix metalloproteinase inhibitors disrupt spicule formation by primary mesenchyme cells in the sea urchin embryo</article-title>. 
+<source>Dev Biol</source> 
+<volume>196</volume>(<issue>1</issue>): 
+<fpage>95</fpage>–<lpage>106</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr057">
+<mixed-citation publication-type="inbook">
+<name name-style="western"><surname>IPCC</surname></name>, 
+<year>2013</year>. 
+<chapter-title>Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change</chapter-title>, in 
+<name name-style="western"><surname>Stocker</surname><given-names>TF</given-names></name>, 
+<name name-style="western"><surname>Qin</surname><given-names>D</given-names></name>, 
+<name name-style="western"><surname>Plattner</surname><given-names>G-K</given-names></name>, 
+<name name-style="western"><surname>Tignor</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>Allen</surname><given-names>SK</given-names></name>, 
+<name name-style="western"><surname>Boschung</surname><given-names>J</given-names></name>, 
+<name name-style="western"><surname>Nauels</surname><given-names>A</given-names></name>, 
+<name name-style="western"><surname>Xia</surname><given-names>Y</given-names></name>, 
+<name name-style="western"><surname>Bex</surname><given-names>V</given-names></name> and 
+<name name-style="western"><surname>Midgley</surname><given-names>PM</given-names></name>, eds., 
+<source>Climate Change 2013: The Physical Science Basis</source>. 
+<publisher-loc>Cambridge, United Kingdom and New York, NY, USA</publisher-loc>: 
+<publisher-name>Cambridge University Press</publisher-name>:
+<fpage>1535</fpage> pp.</mixed-citation>
+</ref>
+<ref id="bibr058">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Jackson</surname><given-names>D</given-names></name>, 
+<name name-style="western"><surname>Mcdougall</surname><given-names>C</given-names></name>, 
+<name name-style="western"><surname>Green</surname><given-names>K</given-names></name>, 
+<name name-style="western"><surname>Simpson</surname><given-names>F</given-names></name>, 
+<name name-style="western"><surname>Worheide</surname><given-names>G</given-names></name>, <etal>et al.</etal> 
+<year>2006</year>. 
+<article-title>A rapidly evolving secretome builds and patterns a sea shell</article-title>. 
+<source>BMC Biol</source> 
+<volume>4</volume>(<issue>1</issue>): 
+<fpage>40</fpage>.</mixed-citation>
+</ref>
+<ref id="bibr059">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Jackson</surname><given-names>DJ</given-names></name>, 
+<name name-style="western"><surname>Macis</surname><given-names>L</given-names></name>, 
+<name name-style="western"><surname>Reitner</surname><given-names>J</given-names></name>, 
+<name name-style="western"><surname>Degnan</surname><given-names>BM</given-names></name>, 
+<name name-style="western"><surname>Wörheide</surname><given-names>G</given-names></name>.
+<year>2007</year>. 
+<article-title>Sponge paleogenomics reveals an ancient role for carbonic anhydrase in skeletogenes is</article-title>. 
+<source>Science</source> 
+<volume>316</volume>(<issue>5833</issue>): 
+<fpage>1893</fpage>–<lpage>1895</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr060">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Jian-Ping</surname><given-names>D</given-names></name>, 
+<name name-style="western"><surname>Jun</surname><given-names>C</given-names></name>, 
+<name name-style="western"><surname>Yi-Fei</surname><given-names>B</given-names></name>, 
+<name name-style="western"><surname>Bang-Xing</surname><given-names>H</given-names></name>, 
+<name name-style="western"><surname>Shang-Bin</surname><given-names>G</given-names></name>, <etal>et al.</etal>
+<year>2010</year>.
+<article-title>Effects of pearl powder extract and its fractions on fibroblast function relevant to wound repair</article-title>. 
+<source>Pharm Biol</source> 
+<volume>48</volume>(<issue>2</issue>): 
+<fpage>122</fpage>–<lpage>127</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr061">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Joubert</surname><given-names>C</given-names></name>, 
+<name name-style="western"><surname>Piquemal</surname><given-names>D</given-names></name>, 
+<name name-style="western"><surname>Marie</surname><given-names>B</given-names></name>, 
+<name name-style="western"><surname>Manchon</surname><given-names>L</given-names></name>, 
+<name name-style="western"><surname>Pierrat</surname><given-names>F</given-names></name>, <etal>et al.</etal> 
+<year>2010</year>. 
+<article-title>Transcriptome and proteome analysis of <italic>Pinctada margaritifera</italic> calcifying mantle and shell: Focus on biomineralization</article-title>. 
+<source>BMC Genomics</source> 
+<volume>11</volume>(<issue>1</issue>): 
+<fpage>613</fpage>.</mixed-citation>
+</ref>
+<ref id="bibr062">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Jury</surname><given-names>C</given-names></name>, 
+<name name-style="western"><surname>Thomas</surname><given-names>F</given-names></name>, 
+<name name-style="western"><surname>Atkinson</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>Toonen</surname><given-names>R</given-names></name>. 
+<year>2013</year>. 
+<article-title>Buffer capacity, ecosystem feedbacks, and seawater chemistry under global change</article-title>. 
+<source>Water</source> 
+<volume>5</volume>(<issue>3</issue>): 
+<fpage>1303</fpage>–<lpage>1325</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr063">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Kawaguti</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Sakumoto</surname><given-names>D</given-names></name>. 
+<year>1948</year>. 
+<article-title>The effect of light on the calcium deposition of corals</article-title>. 
+<source>Bulletin of the Oceanographical Institute of Taiwan</source> 
+<volume>4</volume>: 
+<fpage>65</fpage>–<lpage>70</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr064">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Kelly</surname><given-names>MW</given-names></name>, 
+<name name-style="western"><surname>Padilla-Gamiño</surname><given-names>JL</given-names></name>, 
+<name name-style="western"><surname>Hofmann</surname><given-names>GE</given-names></name>. 
+<year>2013</year>. 
+<article-title>Natural variation and the capacity to adapt to ocean acidification in the keystone sea urchin <italic>Strongylocentrotus purpuratus</italic></article-title>. 
+<source>Global Change Biol</source>
+<volume>19</volume>(<issue>8</issue>):
+<fpage>2536</fpage>–<lpage>2546</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr065">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Killian</surname><given-names>CE</given-names></name>, 
+<name name-style="western"><surname>Metzler</surname><given-names>RA</given-names></name>, 
+<name name-style="western"><surname>Gong</surname><given-names>YUT</given-names></name>, 
+<name name-style="western"><surname>Olson</surname><given-names>IC</given-names></name>, 
+<name name-style="western"><surname>Aizenberg</surname><given-names>J</given-names></name>, <etal>et al.</etal> 
+<year>2009</year>. 
+<article-title>Mechanism of calcite co-orientation in the sea urchin tooth</article-title>. 
+<source>J Am Chem Soc</source> 
+<volume>131</volume>(<issue>51</issue>): 
+<fpage>18404</fpage>–<lpage>18409</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr066">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Killian</surname><given-names>CE</given-names></name>, 
+<name name-style="western"><surname>Wilt</surname><given-names>FH</given-names></name>. 
+<year>2008</year>. 
+<article-title>Molecular aspects of biomineralization of the echinoderm endoskeleton</article-title>. 
+<source>Chem Rev</source>
+<volume>108</volume>(<issue>11</issue>):
+<fpage>4463</fpage>–<lpage>4474</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr067">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Klumpp</surname><given-names>DW</given-names></name>, 
+<name name-style="western"><surname>Bayne</surname><given-names>BL</given-names></name>, 
+<name name-style="western"><surname>Hawkins</surname><given-names>AJS</given-names></name>. 
+<year>1992</year>. 
+<article-title>Nutrition of the giant clam <italic>Tridacna gigas</italic> (L.) I. Contribution of filter feeding and photosynthates to respiration and growth</article-title>. 
+<source>J Exp Mar Biol Ecol</source> 
+<volume>155</volume>(<issue>1</issue>): 
+<fpage>105</fpage>–<lpage>122</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr068">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Knoll</surname><given-names>AH</given-names></name>. 
+<year>2003</year>. 
+<article-title>Biomineralization and evolutionary history</article-title>. 
+<source>Reviews in Mineralogy and Geochemistry</source> 
+<volume>54</volume>(<issue>1</issue>): 
+<fpage>329</fpage>–<lpage>356</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr069">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Kono</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>Hayashi</surname><given-names>N</given-names></name>, 
+<name name-style="western"><surname>Samata</surname><given-names>T</given-names></name>. 
+<year>2000</year>. 
+<article-title>Molecular Mechanism of the Nacreous Layer Formation in Pinctada maxima</article-title>. 
+<source>Biochem Biophys Res Commun</source> 
+<volume>269</volume>(<issue>1</issue>): 
+<fpage>213</fpage>–<lpage>218</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr070">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Kroeker</surname><given-names>KJ</given-names></name>, 
+<name name-style="western"><surname>Kordas</surname><given-names>RL</given-names></name>, 
+<name name-style="western"><surname>Crim</surname><given-names>RN</given-names></name>, 
+<name name-style="western"><surname>Singh</surname><given-names>GG</given-names></name>. 
+<year>2010</year>. 
+<article-title>Meta-analysis reveals negative yet variable effects of ocean acidification on marine organisms</article-title>. 
+<source>Ecol Lett</source> 
+<volume>13</volume>(<issue>11</issue>): 
+<fpage>1419</fpage>–<lpage>1434</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr071">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Lannig</surname><given-names>G</given-names></name>, 
+<name name-style="western"><surname>Eilers</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Pörtner</surname><given-names>HO</given-names></name>, 
+<name name-style="western"><surname>Sokolova</surname><given-names>IM</given-names></name>, 
+<name name-style="western"><surname>Bock</surname><given-names>C</given-names></name>. 
+<year>2010</year>. 
+<article-title>Impact of ocean acidification on energy metabolism of oyster, <italic>Crassostrea gigas</italic>–changes in metabolic pathways and thermal response</article-title>. 
+<source>Mar Drugs</source> 
+<volume>8</volume>(<issue>8</issue>): 
+<fpage>2318</fpage>–<lpage>2339</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr072">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Leaf</surname><given-names>DS</given-names></name>, 
+<name name-style="western"><surname>Anstrom</surname><given-names>JA</given-names></name>, 
+<name name-style="western"><surname>Chin</surname><given-names>JE</given-names></name>, 
+<name name-style="western"><surname>Harkey</surname><given-names>MA</given-names></name>, 
+<name name-style="western"><surname>Showman</surname><given-names>RM</given-names></name>, <etal>et al.</etal> 
+<year>1987</year>. 
+<article-title>Antibodies to a fusion protein identify a cDNA clone encoding MSP130, a primary mesenchyme-specific cell surface protein of the sea urchin embryo</article-title>. 
+<source>Dev Biol</source> 
+<volume>121</volume>(<issue>1</issue>): 
+<fpage>29</fpage>–<lpage>40</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr073">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Lee</surname><given-names>PN</given-names></name>, 
+<name name-style="western"><surname>Kumburegama</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Marlow</surname><given-names>HQ</given-names></name>, 
+<name name-style="western"><surname>Martindale</surname><given-names>MQ</given-names></name>, 
+<name name-style="western"><surname>Wikramanayake</surname><given-names>AH</given-names></name>. 
+<year>2007</year>. 
+<article-title>Asymmetric developmental potential along the animal–vegetal axis in the anthozoan cnidarian, <italic>Nematostella vectensis</italic>, is mediated by Dishevelled</article-title>.
+<source>Dev Biol</source> 
+<volume>310</volume>(<issue>1</issue>): 
+<fpage>169</fpage>–<lpage>186</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr074">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Lee</surname><given-names>PN</given-names></name>, 
+<name name-style="western"><surname>Pang</surname><given-names>K</given-names></name>, 
+<name name-style="western"><surname>Matus</surname><given-names>DQ</given-names></name>, 
+<name name-style="western"><surname>Martindale</surname><given-names>MQ</given-names></name>. 
+<year>2006</year>. 
+<article-title>A WNT of things to come: Evolution of Wnt signaling and polarity in cnidarians</article-title>. 
+<source>Semin Cell Dev Biol</source> 
+<volume>17</volume>(<issue>2</issue>): 
+<fpage>157</fpage>–<lpage>167</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr075">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Li</surname><given-names>W</given-names></name>, 
+<name name-style="western"><surname>Godzik</surname><given-names>A</given-names></name>. 
+<year>2006</year>. 
+<article-title>CD-Hit: a fast program for clustering and comparing large sets of protein or nucleotide sequences</article-title>. 
+<source>Bioinformatics</source> 
+<volume>22</volume>(<issue>13</issue>): 
+<fpage>1658</fpage>–<lpage>1659</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr076">
+<mixed-citation publication-type="book">
+<name name-style="western"><surname>Lowenstam</surname><given-names>HA</given-names></name>, 
+<name name-style="western"><surname>Weiner</surname><given-names>S</given-names></name>. 
+<year>1989</year>. 
+<source>On Biomineralization</source>, 
+<publisher-loc>New York, NY</publisher-loc>: 
+<publisher-name>Oxford University Press</publisher-name>.</mixed-citation>
+</ref>
+<ref id="bibr077">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Ma</surname><given-names>Y</given-names></name>, 
+<name name-style="western"><surname>Cohen</surname><given-names>SR</given-names></name>, 
+<name name-style="western"><surname>Addadi</surname><given-names>L</given-names></name>, 
+<name name-style="western"><surname>Weiner</surname><given-names>S</given-names></name>. 
+<year>2008</year>. 
+<article-title>Sea urchin tooth design: An “all-calcite” polycrystalline reinforced fiber composite for grinding rocks</article-title>. 
+<source>Adv Mater</source> 
+<volume>20</volume>(<issue>8</issue>): 
+<fpage>1555</fpage>–<lpage>1559</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr078">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Ma</surname><given-names>Z</given-names></name>, 
+<name name-style="western"><surname>Huang</surname><given-names>J</given-names></name>, 
+<name name-style="western"><surname>Sun</surname><given-names>J</given-names></name>, 
+<name name-style="western"><surname>Wang</surname><given-names>G</given-names></name>, 
+<name name-style="western"><surname>Li</surname><given-names>C</given-names></name>, <etal>et al.</etal> 
+<year>2007</year>. 
+<article-title>A novel extrapallial fluid protein controls the morphology of nacre lamellae in the pearl oyster, <italic>Pinctada fucata</italic></article-title>. 
+<source>J Biol Chem</source> 
+<volume>282</volume>(<issue>32</issue>): 
+<fpage>23253</fpage>–<lpage>23263</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr079">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Mann</surname><given-names>K</given-names></name>, 
+<name name-style="western"><surname>Edsinger-Gonzales</surname><given-names>E</given-names></name>, 
+<name name-style="western"><surname>Mann</surname><given-names>M</given-names></name>. 
+<year>2012</year>. 
+<article-title>In-depth proteomic analysis of a mollusc shell: acid-soluble and acid-insoluble matrix of the limpet <italic>Lottia gigantea</italic></article-title>. 
+<source>Proteome science</source> 
+<volume>10</volume>(<issue>1</issue>): 
+<fpage>1</fpage>–<lpage>18</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr080">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Mann</surname><given-names>K</given-names></name>, 
+<name name-style="western"><surname>Poustka</surname><given-names>A</given-names></name>, 
+<name name-style="western"><surname>Mann</surname><given-names>M</given-names></name>. 
+<year>2008a</year>. 
+<article-title>In-depth, high-accuracy proteomics of sea urchin tooth organic matrix</article-title>. 
+<source>Proteome Sci</source> 
+<volume>6</volume>(<issue>1</issue>): 
+<fpage>33</fpage>.</mixed-citation>
+</ref>
+<ref id="bibr081">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Mann</surname><given-names>K</given-names></name>, 
+<name name-style="western"><surname>Poustka</surname><given-names>A</given-names></name>, 
+<name name-style="western"><surname>Mann</surname><given-names>M</given-names></name>. 
+<year>2008b</year>. 
+<article-title>The sea urchin (<italic>Strongylocentrotus purpuratus</italic>) test and spine proteomes</article-title>. 
+<source>Proteome Sci</source> 
+<volume>6</volume>(<issue>1</issue>): 
+<fpage>22</fpage>.</mixed-citation>
+</ref>
+<ref id="bibr082">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Mann</surname><given-names>K</given-names></name>, 
+<name name-style="western"><surname>Poustka</surname><given-names>AJ</given-names></name>, 
+<name name-style="western"><surname>Mann</surname><given-names>M</given-names></name>. 
+<year>2010a</year>. 
+<article-title>Phosphoproteomes of Strongylocentrotus purpuratus shell and tooth matrix: identification of a major acidic sea urchin tooth phosphoprotein, phosphodontin</article-title>. 
+<source>Proteome Sci</source> 
+<volume>8</volume>(<issue>6</issue>).</mixed-citation>
+</ref>
+<ref id="bibr083">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Mann</surname><given-names>K</given-names></name>, 
+<name name-style="western"><surname>Wilt</surname><given-names>FH</given-names></name>, 
+<name name-style="western"><surname>Poustka</surname><given-names>AJ</given-names></name>. 
+<year>2010b</year>. 
+<article-title>Proteomic analysis of sea urchin (<italic>Strongylocentrotus purpuratus</italic>) spicule matrix</article-title>. 
+<source>Proteome Sci</source> 
+<volume>8</volume>:
+<fpage>33</fpage>.</mixed-citation>
+</ref>
+<ref id="bibr084">
+<mixed-citation publication-type="book">
+<name name-style="western"><surname>Mann</surname><given-names>S</given-names></name>. 
+<year>2001</year>. 
+<source>Biomineralization: Principles and Concepts in Bioinorganic Materials Chemistry</source>. 
+<publisher-loc>New York</publisher-loc>: 
+<publisher-name>Oxford University Press</publisher-name>.</mixed-citation>
+</ref>
+<ref id="bibr085">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Mannello</surname><given-names>F</given-names></name>, 
+<name name-style="western"><surname>Canesi</surname><given-names>L</given-names></name>, 
+<name name-style="western"><surname>Gazzanelli</surname><given-names>G</given-names></name>, 
+<name name-style="western"><surname>Gallo</surname><given-names>G</given-names></name>. 
+<year>2001</year>. 
+<article-title>Biochemical properties of metalloproteinases from the hemolymph of the mussel <italic>Mytilus galloprovincialis</italic> Lam</article-title>. 
+<source>Comp Bioch Phys B</source> 
+<volume>128</volume>(<issue>3</issue>): 
+<fpage>507</fpage>–<lpage>515</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr086">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Manzello</surname><given-names>DP</given-names></name>, 
+<name name-style="western"><surname>Enochs</surname><given-names>IC</given-names></name>, 
+<name name-style="western"><surname>Melo</surname><given-names>N</given-names></name>, 
+<name name-style="western"><surname>Gledhill</surname><given-names>DK</given-names></name>, 
+<name name-style="western"><surname>Johns</surname><given-names>EM</given-names></name>. 
+<year>2012</year>. 
+<article-title>Ocean acidification refugia of the Florida Reef Tract</article-title>. 
+<source>PLoS ONE</source> 
+<volume>7</volume>(<issue>7</issue>): 
+<fpage>e41715</fpage>.</mixed-citation>
+</ref>
+<ref id="bibr087">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Marie</surname><given-names>B</given-names></name>, 
+<name name-style="western"><surname>Joubert</surname><given-names>C</given-names></name>, 
+<name name-style="western"><surname>Tayalé</surname><given-names>A</given-names></name>, 
+<name name-style="western"><surname>Zanella-Cléon</surname><given-names>I</given-names></name>, 
+<name name-style="western"><surname>Belliard</surname><given-names>C</given-names></name>, <etal>et al.</etal> 
+<year>2012</year>. 
+<article-title>Different secretory repertoires control the biomineralization processes of prism and nacre deposition of the pearl oyster shell</article-title>. 
+<source>P Natl Acad Sci USA</source> 
+<volume>109</volume>(<issue>51</issue>): 
+<fpage>20986</fpage>–<lpage>20991</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr088">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Marie</surname><given-names>B</given-names></name>, 
+<name name-style="western"><surname>Marie</surname><given-names>A</given-names></name>, 
+<name name-style="western"><surname>Jackson</surname><given-names>D</given-names></name>, 
+<name name-style="western"><surname>Dubost</surname><given-names>L</given-names></name>, 
+<name name-style="western"><surname>Degnan</surname><given-names>B</given-names></name>, <etal>et al.</etal> 
+<year>2010</year>. 
+<article-title>Proteomic analysis of the organic matrix of the abalone <italic>Haliotis asinina</italic> calcified shell</article-title>. 
+<source>Proteome Sci</source> 
+<volume>8</volume>(<issue>1</issue>): 
+<fpage>54</fpage>.</mixed-citation>
+</ref>
+<ref id="bibr089">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Marie</surname><given-names>B</given-names></name>, 
+<name name-style="western"><surname>Roy</surname><given-names>N</given-names></name>, 
+<name name-style="western"><surname>Zanella-Cléon</surname><given-names>I</given-names></name>, 
+<name name-style="western"><surname>Becchi</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>Marin</surname><given-names>F</given-names></name>. 
+<year>2011a</year>. 
+<article-title>Molecular evolution of mollusc shell proteins: Insights from proteomic analysis of the edible mussel Mytilus</article-title>. 
+<source>J Mol Evol</source> 
+<volume>72</volume>(<issue>5–6</issue>): 
+<fpage>531</fpage>–<lpage>546</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr090">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Marie</surname><given-names>B</given-names></name>, 
+<name name-style="western"><surname>Trinkler</surname><given-names>N</given-names></name>, 
+<name name-style="western"><surname>Zanella-Cleon</surname><given-names>I</given-names></name>, 
+<name name-style="western"><surname>Guichard</surname><given-names>N</given-names></name>, 
+<name name-style="western"><surname>Becchi</surname><given-names>M</given-names></name>, <etal>et al.</etal> 
+<year>2011b</year>. 
+<article-title>Proteomic identification of novel proteins from the calcifying shell matrix of the Manila clam <italic>Venerupis philippinarum</italic></article-title>. 
+<source>Mar Biotechnol</source> 
+<volume>13</volume>(<issue>5</issue>): 
+<fpage>955</fpage>–<lpage>962</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr091">
+<mixed-citation publication-type="inbook">
+<name name-style="western"><surname>Marin</surname><given-names>F</given-names></name>. 
+<year>2007</year>. 
+<chapter-title>Unusually Acidic Proteins in Biomineralization</chapter-title>, in 
+<name name-style="western"><surname>Baurlein</surname><given-names>E</given-names></name>, 
+<name name-style="western"><surname>Picket-Heaps</surname><given-names>J</given-names></name>, eds., 
+<source>Handbook of Biomineralization</source>. 
+<publisher-loc>Munich</publisher-loc>: 
+<publisher-name>Max Planck Institute for Biochemistry</publisher-name>.</mixed-citation>
+</ref>
+<ref id="bibr092">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Marin</surname><given-names>F</given-names></name>, 
+<name name-style="western"><surname>Corstjens</surname><given-names>P</given-names></name>, 
+<name name-style="western"><surname>De Gaulejac</surname><given-names>B</given-names></name>, 
+<name name-style="western"><surname>De Vrind-De Jong</surname><given-names>E</given-names></name>, 
+<name name-style="western"><surname>Westbroek</surname><given-names>P</given-names></name>. 
+<year>2000</year>. 
+<article-title>Mucins and Molluscan Calcification: Molecular characterization of mucoperlin, a novel mucin-like protein from the nacreous shell layer of the fan mussel <italic>Pinna nobilis</italic> (Bivalvia, Pteriomorphia)</article-title>. 
+<source>J Biol Chem</source> 
+<volume>275</volume>(<issue>27</issue>): 
+<fpage>20667</fpage>–<lpage>20675</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr093">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Marin</surname><given-names>F</given-names></name>, 
+<name name-style="western"><surname>Le Roy</surname><given-names>N</given-names></name>, 
+<name name-style="western"><surname>Marie</surname><given-names>B</given-names></name>. 
+<year>2012</year>. 
+<article-title>The formation and mineralization of mollusc shell</article-title>. 
+<source>Frontiers in Bioscience</source> 
+<volume>4</volume>: 
+<fpage>1099</fpage>–<lpage>1125</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr094">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Marin</surname><given-names>F</given-names></name>, 
+<name name-style="western"><surname>Luquet</surname><given-names>G</given-names></name>. 
+<year>2004</year>. 
+<article-title>Molluscan shell proteins</article-title>. 
+<source>Comptes Rendus Palevol</source> 
+<volume>3</volume>(<issue>6–7</issue>): 
+<fpage>469</fpage>–<lpage>492</lpage>.</mixed-citation>
+</ref>
+<ref id="bbibr095">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Marin</surname><given-names>F</given-names></name>, 
+<name name-style="western"><surname>Marie</surname><given-names>B</given-names></name>, 
+<name name-style="western"><surname>Hamada</surname><given-names>SB</given-names></name>, 
+<name name-style="western"><surname>Ramos-Silva</surname><given-names>P</given-names></name>, 
+<name name-style="western"><surname>Le Roy</surname><given-names>N</given-names></name>, <etal>et al.</etal> 
+<year>2013</year>. 
+<article-title>‘Shellome’: Proteins involved in mollusk shell biomineralization-diversity, functions</article-title>. 
+<source>Recent Advances in Pearl Research</source>: 
+<fpage>149</fpage>–<lpage>66</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr096">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Mass</surname><given-names>T</given-names></name>, 
+<name name-style="western"><surname>Drake</surname><given-names>JL</given-names></name>, 
+<name name-style="western"><surname>Haramaty</surname><given-names>L</given-names></name>, 
+<name name-style="western"><surname>Kim</surname><given-names>JD</given-names></name>, 
+<name name-style="western"><surname>Zelzion</surname><given-names>E</given-names></name>, <etal>et al.</etal> 
+<year>2013</year>. 
+<article-title>Cloning and characterization of four novel coral acid-rich proteins that precipitate carbonates in vitro</article-title>. 
+<source>Curr Biol</source> 
+<volume>23</volume>(<issue>12</issue>): 
+<fpage>1126</fpage>–<lpage>1131</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr097">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Mass</surname><given-names>T</given-names></name>, 
+<name name-style="western"><surname>Drake</surname><given-names>JL</given-names></name>,
+<name name-style="western"><surname>Haramaty</surname><given-names>L</given-names></name>, 
+<name name-style="western"><surname>Rosenthal</surname><given-names>Y</given-names></name>, 
+<name name-style="western"><surname>Schofield</surname><given-names>OME</given-names></name>, <etal>et al.</etal>
+<year>2012</year>. 
+<article-title>Aragonite precipitation by “proto-polyps” in coral cell cultures</article-title>. 
+<source>PLoS ONE</source> 
+<volume>7</volume>(<issue>4</issue>): 
+<fpage>e35049</fpage>.</mixed-citation>
+</ref>
+<ref id="bibr098">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Mcclay</surname><given-names>DR</given-names></name>, 
+<name name-style="western"><surname>Peterson</surname><given-names>RE</given-names></name>, 
+<name name-style="western"><surname>Range</surname><given-names>RC</given-names></name>, 
+<name name-style="western"><surname>Winter-Vann</surname><given-names>AM</given-names></name>, 
+<name name-style="western"><surname>Ferkowicz</surname><given-names>MJ</given-names></name>. 
+<year>2000</year>. 
+<article-title>A micromere induction signal is activated by beta-catenin and acts through Notch to initiate specification of secondary mesenchyme cells in the sea urchin embryo</article-title>. 
+<source>Development</source> 
+<volume>127</volume>(<issue>23</issue>): 
+<fpage>5113</fpage>–<lpage>5122</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr099">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Melzner</surname><given-names>F</given-names></name>, 
+<name name-style="western"><surname>Thomsen</surname><given-names>J</given-names></name>, 
+<name name-style="western"><surname>Koeve</surname><given-names>W</given-names></name>, 
+<name name-style="western"><surname>Oschlies</surname><given-names>A</given-names></name>, 
+<name name-style="western"><surname>Gutowska</surname><given-names>M</given-names></name>, <etal>et al.</etal> 
+<year>2013</year>. 
+<article-title>Future ocean acidification will be amplified by hypoxia in coastal habitats</article-title>. 
+<source>Mar Biol</source> 
+<volume>160</volume>(<issue>8</issue>): 
+<fpage>1875</fpage>–<lpage>1888</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr100">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Michenfelder</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>Fu</surname><given-names>G</given-names></name>, 
+<name name-style="western"><surname>Lawrence</surname><given-names>C</given-names></name>, 
+<name name-style="western"><surname>Weaver</surname><given-names>JC</given-names></name>, 
+<name name-style="western"><surname>Wustman</surname><given-names>BA</given-names></name>, <etal>et al.</etal> 
+<year>2003</year>. 
+<article-title>Characterization of two molluscan crystal-modulating biomineralization proteins and identification of putative mineral binding domains</article-title>. 
+<source>Biopolymers</source> 
+<volume>70</volume>(<issue>4</issue>): 
+<fpage>522</fpage>–<lpage>533</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr101">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Milliman</surname><given-names>JD</given-names></name>. 
+<year>1993</year>. 
+<article-title>Production and accumulation of calcium carbonate in the ocean: Budget of a nonsteady state</article-title>. 
+<source>Global Biogeochem Cy</source> 
+<volume>7</volume>(<issue>4</issue>): 
+<fpage>927</fpage>–<lpage>957</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr102">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Miyamoto</surname><given-names>H</given-names></name>, 
+<name name-style="western"><surname>Miyashita</surname><given-names>T</given-names></name>, 
+<name name-style="western"><surname>Okushima</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>Nakano</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Morita</surname><given-names>T</given-names></name>, <etal>et al.</etal> 
+<year>1996</year>. 
+<article-title>A carbonic anhydrase from the nacreous layer in oyster pearls</article-title>. 
+<source>P Natl Acad Sci</source> 
+<volume>93</volume>(<issue>18</issue>): 
+<fpage>9657</fpage>–<lpage>9660</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr103">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Miyashita</surname><given-names>T</given-names></name>, 
+<name name-style="western"><surname>Takagi</surname><given-names>R</given-names></name>, 
+<name name-style="western"><surname>Okushima</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>Nakano</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Miyamoto</surname><given-names>H</given-names></name>, <etal>et al.</etal> 
+<year>2000</year>. 
+<article-title>Complementary DNA cloning and characterization of pearlin, a new class of matrix protein in the nacreous layer of oyster pearls</article-title>. 
+<source>Mar Biotechnol</source> 
+<volume>2</volume>(<issue>5</issue>): 
+<fpage>409</fpage>–<lpage>418</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr104">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Moya</surname><given-names>A</given-names></name>, 
+<name name-style="western"><surname>Huisman</surname><given-names>L</given-names></name>, 
+<name name-style="western"><surname>Ball</surname><given-names>EE</given-names></name>, 
+<name name-style="western"><surname>Hayward</surname><given-names>DC</given-names></name>, 
+<name name-style="western"><surname>Grasso</surname><given-names>LC</given-names></name>, <etal>et al.</etal> 
+<year>2012</year>. 
+<article-title>Whole transcriptome analysis of the coral <italic>Acropora millepora</italic> reveals complex responses to CO<sub>2</sub>-driven acidification during the initiation of calcification</article-title>. 
+<source>Mol Ecol</source> 
+<volume>21</volume>(<issue>10</issue>): 
+<fpage>2440</fpage>–<lpage>2454</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr105">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Moya</surname><given-names>A</given-names></name>, 
+<name name-style="western"><surname>Tambutté</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Bertucci</surname><given-names>A</given-names></name>, 
+<name name-style="western"><surname>Tambutté</surname><given-names>E</given-names></name>, 
+<name name-style="western"><surname>Lotto</surname><given-names>S</given-names></name>, <etal>et al.</etal> 
+<year>2008</year>. 
+<article-title>Carbonic anhydrase in the scleractinian coral <italic>Stylophora pistillata</italic></article-title>. 
+<source>J Biol Chem</source> 
+<volume>283</volume>(<issue>37</issue>): 
+<fpage>25475</fpage>–<lpage>25484</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr106">
+<mixed-citation publication-type="book">
+<name name-style="western"><surname>Müller</surname><given-names>WEG</given-names></name>. 
+<year>2011</year>. 
+<source>Molecular Biomineralization: Aquatic Organisms Forming Extraordinary Materials</source>. 
+<publisher-loc>New York, NY</publisher-loc>: 
+<publisher-name>Springer</publisher-name>.</mixed-citation>
+</ref>
+<ref id="bibr107">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Murdock</surname><given-names>DJE</given-names></name>, 
+<name name-style="western"><surname>Donoghue</surname><given-names>PCJ</given-names></name>. 
+<year>2011</year>. 
+<article-title>Evolutionary origins of animal skeletal biomineralization</article-title>. 
+<source>Cells Tissues Organs</source> 
+<volume>194</volume>(<issue>2–4</issue>): 
+<fpage>98</fpage>–<lpage>102</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr108">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Norris</surname><given-names>RD</given-names></name>, 
+<name name-style="western"><surname>Turner</surname><given-names>SK</given-names></name>, 
+<name name-style="western"><surname>Hull</surname><given-names>PM</given-names></name>, 
+<name name-style="western"><surname>Ridgwell</surname><given-names>A</given-names></name>. 
+<year>2013</year>. 
+<article-title>Marine ecosystem responses to cenozoic global change</article-title>. 
+<source>Science</source> 
+<volume>341</volume>(<issue>6145</issue>): 
+<fpage>492</fpage>–<lpage>498</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr109">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Nudelman</surname><given-names>F</given-names></name>, 
+<name name-style="western"><surname>Gotliv</surname><given-names>BA</given-names></name>, 
+<name name-style="western"><surname>Addadi</surname><given-names>L</given-names></name>, 
+<name name-style="western"><surname>Weiner</surname><given-names>S</given-names></name>. 
+<year>2006</year>. 
+<article-title>Mollusk shell formation: Mapping the distribution of organic matrix components underlying a single aragonitic tablet in nacre</article-title>.  
+<source>J Struct Biol</source> 
+<volume>153</volume>(<issue>2</issue>): 
+<fpage>176</fpage>–<lpage>187</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr110">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Pandolfi</surname><given-names>JM</given-names></name>, 
+<name name-style="western"><surname>Connolly</surname><given-names>SR</given-names></name>, 
+<name name-style="western"><surname>Marshall</surname><given-names>DJ</given-names></name>, 
+<name name-style="western"><surname>Cohen</surname><given-names>AL</given-names></name>. 
+<year>2011</year>. 
+<article-title>Projecting coral reef futures under global warming and ocean acidification</article-title>. 
+<source>Science</source> 
+<volume>333</volume>(<issue>6041</issue>): 
+<fpage>418</fpage>–<lpage>422</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr111">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Péterfi</surname><given-names>Z</given-names></name>, 
+<name name-style="western"><surname>Donkó</surname><given-names>Á</given-names></name>, 
+<name name-style="western"><surname>Orient</surname><given-names>A</given-names></name>, 
+<name name-style="western"><surname>Sum</surname><given-names>A</given-names></name>, 
+<name name-style="western"><surname>Prókai</surname><given-names>Á</given-names></name>, <etal>et al.</etal> 
+<year>2009</year>. 
+<article-title>Peroxidasin is secreted and incorporated into the extracellular matrix of myofibroblasts and fibrotic kidney</article-title>. 
+<source>Am J Pathol</source> 
+<volume>175</volume>(<issue>2</issue>): 
+<fpage>725</fpage>–<lpage>735</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr112">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Politi</surname><given-names>Y</given-names></name>, 
+<name name-style="western"><surname>Arad</surname><given-names>T</given-names></name>, 
+<name name-style="western"><surname>Klein</surname><given-names>E</given-names></name>, 
+<name name-style="western"><surname>Weiner</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Addadi</surname><given-names>L</given-names></name>. 
+<year>2004</year>. 
+<article-title>Sea urchin spine calcite forms via a transient amorphous calcium carbonate phase</article-title>. 
+<source>Science</source> 
+<volume>306</volume>(<issue>5699</issue>): 
+<fpage>1161</fpage>–<lpage>1164</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr113">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Politi</surname><given-names>Y</given-names></name>, 
+<name name-style="western"><surname>Mahamid</surname><given-names>J</given-names></name>, 
+<name name-style="western"><surname>Goldberg</surname><given-names>H</given-names></name>, 
+<name name-style="western"><surname>Weiner</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Addadi</surname><given-names>L</given-names></name>. 
+<year>2007</year>. 
+<article-title>Asprich mollusk shell protein: in vitro experiments aimed at elucidating function in CaCO<sub>3</sub> crystallization</article-title>. 
+<source>CrystEngComm</source> 
+<volume>9</volume>(<issue>12</issue>): 
+<fpage>1171</fpage>–<lpage>1177</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr114">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Politi</surname><given-names>Y</given-names></name>, 
+<name name-style="western"><surname>Metzler</surname><given-names>RA</given-names></name>, 
+<name name-style="western"><surname>Abrecht</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>Gilbert</surname><given-names>B</given-names></name>, 
+<name name-style="western"><surname>Wilt</surname><given-names>FH</given-names></name>, <etal>et al.</etal> 
+<year>2008</year>. 
+<article-title>Transformation mechanism of amorphous calcium carbonate into calcite in the sea urchin larval spicule</article-title>. 
+<source>P Natl Acad Sci</source> 
+<volume>105</volume>(<issue>45</issue>): 
+<fpage>17362</fpage>–<lpage>17366</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr115">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Porter</surname><given-names>SM</given-names></name>. 
+<year>2010</year>. 
+<article-title>Calcite and aragonite seas and the de novo acquisition of carbonate skeletons</article-title>. 
+<source>Geobiology</source> 
+<volume>8</volume>(<issue>4</issue>): 
+<fpage>256</fpage>–<lpage>277</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr116">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Rahman</surname><given-names>MA</given-names></name>, 
+<name name-style="western"><surname>Oomori</surname><given-names>T</given-names></name>, 
+<name name-style="western"><surname>Woerheide</surname><given-names>G</given-names></name>. 
+<year>2011a</year>. 
+<article-title>Calcite formation in soft coral sclerites is determined by a single reactive extracellular protein</article-title>. 
+<source>J Biol Chem</source> 
+<volume>286</volume>(<issue>36</issue>): 
+<fpage>31638</fpage>–<lpage>31649</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr117">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Ramos-Silva</surname><given-names>P</given-names></name>, 
+<name name-style="western"><surname>Kaandorp</surname><given-names>J</given-names></name>, 
+<name name-style="western"><surname>Huisman</surname><given-names>L</given-names></name>, 
+<name name-style="western"><surname>Marie</surname><given-names>B</given-names></name>, 
+<name name-style="western"><surname>Zanella-Cleon</surname><given-names>I</given-names></name>, <etal>et al.</etal> 
+<year>2013</year>. 
+<article-title>The skeletal proteome of the coral <italic>Acropora millepora</italic>: The evolution of calcification by cooption and domain shuffling</article-title>. 
+<source>Mol Biol Evol</source>.</mixed-citation>
+</ref>
+<ref id="bibr118">
+<mixed-citation publication-type="other">
+<name name-style="western"><surname>Raven</surname><given-names>J</given-names></name>. 
+<year>2005</year>. 
+<article-title>Acidification due to increasing carbon dioxide</article-title>. 
+<pub-id pub-id-type="other">Policy Document 12/05</pub-id>. 
+<source>London:The Royal Society</source>.</mixed-citation>
+</ref>
+<ref id="bibr119">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Ries</surname><given-names>JB</given-names></name>, 
+<name name-style="western"><surname>Cohen</surname><given-names>AL</given-names></name>, 
+<name name-style="western"><surname>Mccorkle</surname><given-names>DC</given-names></name>.
+<year>2009</year>. 
+<article-title>Marine calcifiers exhibit mixed responses to CO<sub>2</sub>-induced ocean acidification</article-title>. 
+<source>Geology</source> 
+<volume>37</volume>(<issue>12</issue>): 
+<fpage>1131</fpage>–<lpage>1134</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr120">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Rinkevich</surname><given-names>B</given-names></name>, 
+<name name-style="western"><surname>Loya</surname><given-names>Y</given-names></name>. 
+<year>1984</year>. 
+<article-title>Does light enhance calcification in hermatypic corals?</article-title> 
+<source>Mar Biol</source> 
+<volume>80</volume>(<issue>1</issue>): 
+<fpage>1</fpage>–<lpage>6</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr121">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Samata</surname><given-names>T</given-names></name>, 
+<name name-style="western"><surname>Hayashi</surname><given-names>N</given-names></name>, 
+<name name-style="western"><surname>Kono</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>Hasegawa</surname><given-names>K</given-names></name>, 
+<name name-style="western"><surname>Horita</surname><given-names>C</given-names></name>, <etal>et al.</etal> 
+<year>1999</year>. 
+<article-title>A new matrix protein family related to the nacreous layer formation of <italic>Pinctada fucata</italic></article-title>. 
+<source>FEBS Lett</source> 
+<volume>462</volume>(<issue>1–2</issue>): 
+<fpage>225</fpage>–<lpage>229</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr122">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Sarashina</surname><given-names>I</given-names></name>, 
+<name name-style="western"><surname>Endo</surname><given-names>K</given-names></name>. 
+<year>2001</year>. 
+<article-title>The complete primary structure of molluscan shell protein 1 (MSP-1), an acidic glycoprotein in the shell matrix of the scallop <italic>Patinopecten yessoensis</italic></article-title>. 
+<source>Mar Biotechnol</source> 
+<volume>3</volume>(<issue>4</issue>): 
+<fpage>362</fpage>–<lpage>369</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr123">
+<mixed-citation publication-type="journal">
+<collab>Sea Urchin Genome Sequencing Consortium</collab>, 
+<name name-style="western"><surname>Sodergren</surname><given-names>E</given-names></name>, 
+<name name-style="western"><surname>Weinstock</surname><given-names>GM</given-names></name>, 
+<name name-style="western"><surname>Davidson</surname><given-names>EH</given-names></name>, 
+<name name-style="western"><surname>Cameron</surname><given-names>RA</given-names></name>, <etal>et al.</etal> 
+<year>2006</year>. 
+<article-title>The genome of the sea urchin <italic>Strongylocentrotus purpuratus</italic></article-title>. 
+<source>Science</source> 
+<volume>314</volume>(<issue>5801</issue>): 
+<fpage>941</fpage>–<lpage>952</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr124">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Shamberger</surname><given-names>KEF</given-names></name>, 
+<name name-style="western"><surname>Cohen</surname><given-names>AL</given-names></name>, 
+<name name-style="western"><surname>Golbuu</surname><given-names>Y</given-names></name>, 
+<name name-style="western"><surname>Mccorkle</surname><given-names>DC</given-names></name>, 
+<name name-style="western"><surname>Lentz</surname><given-names>SJ</given-names></name>, <etal>et al.</etal> 
+<year>2014</year>. 
+<article-title>Diverse coral communities in naturally acidified waters of a Western Pacific reef</article-title>. 
+<source>Geophys Res Lett</source>: 
+<fpage>2013GL058489</fpage>.</mixed-citation>
+</ref>
+<ref id="bibr125">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Sheppard Brennand</surname><given-names>H</given-names></name>, 
+<name name-style="western"><surname>Soars</surname><given-names>N</given-names></name>, 
+<name name-style="western"><surname>Dworjanyn</surname><given-names>SA</given-names></name>, 
+<name name-style="western"><surname>Davis</surname><given-names>AR</given-names></name>, 
+<name name-style="western"><surname>Byrne</surname><given-names>M</given-names></name>. 
+<year>2010</year>. 
+<article-title>Impact of ocean warming and ocean acidification on larval development and calcification in the sea rchin <italic>Tripneustes gratilla</italic></article-title>. 
+<source>PLoS ONE</source> 
+<volume>5</volume>(<issue>6</issue>): 
+<fpage>e11372</fpage>.</mixed-citation>
+</ref>
+<ref id="bibr126">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Shinzato</surname><given-names>C</given-names></name>, 
+<name name-style="western"><surname>Shoguchi</surname><given-names>E</given-names></name>, 
+<name name-style="western"><surname>Kawashima</surname><given-names>T</given-names></name>, 
+<name name-style="western"><surname>Hamada</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>Hisata</surname><given-names>K</given-names></name>, <etal>et al.</etal> 
+<year>2011</year>. 
+<article-title>Using the <italic>Acropora digitifera</italic> genome to understand coral responses to environmental change</article-title>. 
+<source>Nature</source> 
+<volume>476</volume>(<issue>7360</issue>): 
+<fpage>320</fpage>–<lpage>323</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr127">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Stanley</surname><given-names>GD</given-names></name>. 
+<year>2003</year>. 
+<article-title>The evolution of modern corals and their early history</article-title>. 
+<source>Earth-Sci Rev</source> 
+<volume>60</volume>(<issue>3–4</issue>): 
+<fpage>195</fpage>–<lpage>225</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr128">
+<mixed-citation publication-type="inbook">
+<name name-style="western"><surname>Stanley</surname><given-names>GD</given-names><suffix>Jr</suffix></name>, 
+<name name-style="western"><surname>Schootbrugge</surname><given-names>B</given-names></name>. 
+<year>2009</year>. 
+<chapter-title>The Evolution of the Coral–Algal Symbiosis</chapter-title>, in 
+<name name-style="western"><surname>Oppen</surname><given-names>MH</given-names></name>, 
+<name name-style="western"><surname>Lough</surname><given-names>J</given-names></name>, eds., 
+<source>Coral Bleaching</source>. 
+<publisher-loc>Berlin Heidelberg</publisher-loc>: 
+<publisher-name>Springer</publisher-name>.</mixed-citation>
+</ref>
+<ref id="bibr129">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Stumpp</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>Dupont</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Thorndyke</surname><given-names>MC</given-names></name>, 
+<name name-style="western"><surname>Melzner</surname><given-names>F</given-names></name>. 
+<year>2011</year>. 
+<article-title>CO<sub>2</sub> induced seawater acidification impacts sea urchin larval development II: Gene expression patterns in pluteus larvae</article-title>. 
+<source>Comp Biochem Physiol A</source> 
+<volume>160</volume>(<issue>3</issue>): 
+<fpage>320</fpage>–<lpage>330</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr130">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Sudo</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Fujikawa</surname><given-names>T</given-names></name>, 
+<name name-style="western"><surname>Nagakura</surname><given-names>T</given-names></name>, 
+<name name-style="western"><surname>Ohkubo</surname><given-names>T</given-names></name>, 
+<name name-style="western"><surname>Sakaguchi</surname><given-names>K</given-names></name>, <etal>et al.</etal> 
+<year>1997</year>. 
+<article-title>Structures of mollusc shell framework proteins</article-title>. 
+<source>Nature</source> 
+<volume>387</volume>(<issue>6633</issue>): 
+<fpage>563</fpage>–<lpage>564</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr131">
+<mixed-citation publication-type="book">
+<name name-style="western"><surname>Suyemitsu</surname><given-names>T</given-names></name>, 
+<name name-style="western"><surname>Tonegawa</surname><given-names>Y</given-names></name>, 
+<name name-style="western"><surname>Ishihara</surname><given-names>K</given-names></name>. 
+<year>1990</year>. 
+<source>Similarities between the primary structures of exogastrula-inducing peptides and peptide B purified from embryos of the Sea Urchin, Anthocidaris crassipina</source>, 
+<publisher-loc>Tokyo</publisher-loc>: 
+<publisher-name>Zoological Society of Japan</publisher-name>.</mixed-citation>
+</ref>
+<ref id="bibr132">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Suzuki</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>Murayama</surname><given-names>E</given-names></name>, 
+<name name-style="western"><surname>Inoue</surname><given-names>H</given-names></name>, 
+<name name-style="western"><surname>Ozaki</surname><given-names>N</given-names></name>, 
+<name name-style="western"><surname>Tohse</surname><given-names>H</given-names></name>, <etal>et al.</etal> 
+<year>2004</year>. 
+<article-title>Characterization of Prismalin-14, a novel matrix protein from the prismatic layer of the Japanese pearl oyster (<italic>Pinctada fucata</italic>)</article-title>. 
+<source>Biochem J</source> 
+<volume>382</volume>(<issue>1</issue>): 
+<fpage>205</fpage>–<lpage>213</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr133">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Suzuki</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>Saruwatari</surname><given-names>K</given-names></name>, 
+<name name-style="western"><surname>Kogure</surname><given-names>T</given-names></name>, 
+<name name-style="western"><surname>Yamamoto</surname><given-names>Y</given-names></name>, 
+<name name-style="western"><surname>Nishimura</surname><given-names>T</given-names></name>, <etal>et al.</etal> 
+<year>2009</year>. 
+<article-title>An acidic matrix protein, Pif, Is a key macromolecule for nacre formation</article-title>. 
+<source>Science</source> 
+<volume>325</volume>(<issue>5946</issue>): 
+<fpage>1388</fpage>–<lpage>1390</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr134">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Takami</surname><given-names>A</given-names></name>, 
+<name name-style="western"><surname>Kato</surname><given-names>H</given-names></name>, 
+<name name-style="western"><surname>Takagi</surname><given-names>R</given-names></name>, 
+<name name-style="western"><surname>Miyashita</surname><given-names>T</given-names></name>. 
+<year>2013</year>. 
+<article-title>Studies on the <italic>Pinctada fucata</italic> BMP-2 gene: Structural similarity and functional conservation of its osteogenic potential within the animal kingdom</article-title>. 
+<source>International Journal of Zoology</source> 
+<volume>2013</volume>: 
+<fpage>9</fpage>.</mixed-citation>
+</ref>
+<ref id="bibr135">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Takeuchi</surname><given-names>T</given-names></name>, 
+<name name-style="western"><surname>Kawashima</surname><given-names>T</given-names></name>, 
+<name name-style="western"><surname>Koyanagi</surname><given-names>R</given-names></name>, 
+<name name-style="western"><surname>Gyoja</surname><given-names>F</given-names></name>, 
+<name name-style="western"><surname>Tanaka</surname><given-names>M</given-names></name>, <etal>et al.</etal> 
+<year>2012</year>. 
+<article-title>Draft genome of the pearl oyster <italic>Pinctada fucata</italic>: A platform for understanding bivalve biology</article-title>. 
+<source>DNA Res</source> 
+<volume>19</volume>(<issue>2</issue>): 
+<fpage>117</fpage>–<lpage>130</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr136">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Takeuchi</surname><given-names>T</given-names></name>, 
+<name name-style="western"><surname>Sarashina</surname><given-names>I</given-names></name>, 
+<name name-style="western"><surname>Iijima</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>Endo</surname><given-names>K</given-names></name>. 
+<year>2008</year>. 
+<article-title>In vitro regulation of CaCO<sub>3</sub> crystal polymorphism by the highly acidic molluscan shell protein Aspein</article-title>. 
+<source>FEBS Lett</source> 
+<volume>582</volume>(<issue>5</issue>): 
+<fpage>591</fpage>–<lpage>596</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr137">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Tambutté</surname><given-names>E</given-names></name>, 
+<name name-style="western"><surname>Tambutté</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Segonds</surname><given-names>N</given-names></name>, 
+<name name-style="western"><surname>Zoccola</surname><given-names>D</given-names></name>, 
+<name name-style="western"><surname>Venn</surname><given-names>A</given-names></name>, <etal>et al.</etal> 
+<year>2012</year>. 
+<article-title>Calcein labelling and electrophysiology: Insights on coral tissue permeability and calcification</article-title>. 
+<source>Proc Roy Soc Lond B Bio</source> 
+<volume>279</volume>(<issue>1726</issue>): 
+<fpage>19</fpage>–<lpage>27</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr138">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Tambutté</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Holcomb</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>Ferrier-Pagès</surname><given-names>C</given-names></name>, 
+<name name-style="western"><surname>Reynaud</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Tambutté</surname><given-names>É</given-names></name>, <etal>et al.</etal> 
+<year>2011</year>. 
+<article-title>Coral biomineralization: From the gene to the environment</article-title>. 
+<source>J Exp Mar Biol Ecol</source> 
+<volume>408</volume>(<issue>1–2</issue>): 
+<fpage>58</fpage>–<lpage>78</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr139">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Tchernov</surname><given-names>D</given-names></name>, 
+<name name-style="western"><surname>Mass</surname><given-names>T</given-names></name>, 
+<name name-style="western"><surname>Gruber</surname><given-names>DF</given-names></name>. 
+<year>2012</year>. 
+<article-title>Symbiotic transition of algae–coral triggered by paleoclimatic events?</article-title> 
+<source>Trends Ecol Evol</source> 
+<volume>27</volume>(<issue>4</issue>): 
+<fpage>194</fpage>–<lpage>195</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr140">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Tittensor</surname><given-names>DP</given-names></name>, 
+<name name-style="western"><surname>Baco</surname><given-names>AR</given-names></name>, 
+<name name-style="western"><surname>Hall-Spencer</surname><given-names>JM</given-names></name>, 
+<name name-style="western"><surname>Orr</surname><given-names>JC</given-names></name>, 
+<name name-style="western"><surname>Rogers</surname><given-names>AD</given-names></name>. 
+<year>2010</year>. 
+<article-title>Seamounts as refugia from ocean acidification for cold-water stony corals</article-title>. 
+<source>Mar Ecol</source> 
+<volume>31</volume>: 
+<fpage>212</fpage>–<lpage>225</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr141">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Todgham</surname><given-names>AE</given-names></name>, 
+<name name-style="western"><surname>Hofmann</surname><given-names>GE</given-names></name>. 
+<year>2009</year>. 
+<article-title>Transcriptomic response of sea urchin larvae <italic>Strongylocentrotus purpuratus</italic> to CO<sub>2</sub>-driven seawater acidification</article-title>. 
+<source>J Exp Biol</source> 
+<volume>212</volume>(<issue>16</issue>): 
+<fpage>2579</fpage>–<lpage>2594</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr142">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Traylor-Knowles</surname><given-names>N</given-names></name>, 
+<name name-style="western"><surname>Granger</surname><given-names>B</given-names></name>, 
+<name name-style="western"><surname>Lubinski</surname><given-names>T</given-names></name>, 
+<name name-style="western"><surname>Parikh</surname><given-names>J</given-names></name>, 
+<name name-style="western"><surname>Garamszegi</surname><given-names>S</given-names></name>, <etal>et al.</etal> 
+<year>2011</year>. 
+<article-title>Production of a reference transcriptome and a transcriptomic database (PocilloporaBase) for the cauliflower coral, <italic>Pocillopora damicornis</italic></article-title>. 
+<source>BMC Genomics</source> 
+<volume>12</volume>(<issue>1</issue>): 
+<fpage>585</fpage>.</mixed-citation>
+</ref>
+<ref id="bibr143">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Tsukamoto</surname><given-names>D</given-names></name>, 
+<name name-style="western"><surname>Sarashina</surname><given-names>I</given-names></name>, 
+<name name-style="western"><surname>Endo</surname><given-names>K</given-names></name>. 
+<year>2004</year>. 
+<article-title>Structure and expression of an unusually acidic matrix protein of pearl oyster shells</article-title>. 
+<source>Biochem Biophys Res Commun</source> 
+<volume>320</volume>(<issue>4</issue>): 
+<fpage>1175</fpage>–<lpage>1180</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr144">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Urry</surname><given-names>LA</given-names></name>, 
+<name name-style="western"><surname>Hamilton</surname><given-names>PC</given-names></name>, 
+<name name-style="western"><surname>Killian</surname><given-names>CE</given-names></name>, 
+<name name-style="western"><surname>Wilt</surname><given-names>FH</given-names></name>. 
+<year>2000</year>. 
+<article-title>Expression of Spicule Matrix Proteins in the Sea Urchin Embryo during Normal and Experimentally Altered Spiculogenesis</article-title>. 
+<source>Dev Biol</source> 
+<volume>225</volume>(<issue>1</issue>): 
+<fpage>201</fpage>–<lpage>213</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr145">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Venn</surname><given-names>AA</given-names></name>, 
+<name name-style="western"><surname>Tambutté</surname><given-names>E</given-names></name>, 
+<name name-style="western"><surname>Holcomb</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>Laurent</surname><given-names>J</given-names></name>, 
+<name name-style="western"><surname>Allemand</surname><given-names>D</given-names></name>, <etal>et al.</etal> 
+<year>2013</year>. 
+<article-title>Impact of seawater acidification on pH at the tissue–skeleton interface and calcification in reef corals</article-title>. 
+<source>P Natl Acad Sci</source> 
+<volume>110</volume>(<issue>5</issue>): 
+<fpage>1634</fpage>–<lpage>1639</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr146">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Vidal-Dupiol</surname><given-names>J</given-names></name>, 
+<name name-style="western"><surname>Zoccola</surname><given-names>D</given-names></name>, 
+<name name-style="western"><surname>Tambutté</surname><given-names>E</given-names></name>, 
+<name name-style="western"><surname>Grunau</surname><given-names>C</given-names></name>, 
+<name name-style="western"><surname>Cosseau</surname><given-names>C</given-names></name>, <etal>et al.</etal> 
+<year>2013</year>. 
+<article-title>Genes related to ion-transport and energy production are upregulated in response to CO<sub>2</sub>-driven pH decrease in corals: New insights from transcriptome analysis</article-title>. 
+<source>PLoS ONE</source> 
+<volume>8</volume>(<issue>3</issue>): 
+<fpage>e58652</fpage>.</mixed-citation>
+</ref>
+<ref id="bibr147">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Wang</surname><given-names>X</given-names></name>, 
+<name name-style="western"><surname>Fan</surname><given-names>W</given-names></name>, 
+<name name-style="western"><surname>Xie</surname><given-names>L</given-names></name>, 
+<name name-style="western"><surname>Zhang</surname><given-names>R</given-names></name>. 
+<year>2008</year>. 
+<article-title>Molecular cloning and distribution of a plasma membrane calcium ATPase homolog from the pearl oyster <italic>Pinctada fucata</italic></article-title>. 
+<source>Tsinghua Science &amp; Technology</source> 
+<volume>13</volume>(<issue>4</issue>): 
+<fpage>439</fpage>–<lpage>446</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr148">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Weiner</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Addadi</surname><given-names>L</given-names></name>. 
+<year>2011</year>. 
+<article-title>Crystallization pathways in biomineralization</article-title>. 
+<source>Annual Review of Materials Research</source> 
+<volume>41</volume>: 
+<fpage>21</fpage>–<lpage>40</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr149">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Weiner</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Hood</surname><given-names>L</given-names></name>. 
+<year>1975</year>. 
+<article-title>Soluble protein of the organic matrix of mollusk shells: a potential template for shell formation</article-title>. 
+<source>Science</source> 
+<volume>190</volume>(<issue>4218</issue>): 
+<fpage>987</fpage>–<lpage>989</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr150">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Weiss</surname><given-names>IM</given-names></name>, 
+<name name-style="western"><surname>Tuross</surname><given-names>N</given-names></name>, 
+<name name-style="western"><surname>Addadi</surname><given-names>L</given-names></name>, 
+<name name-style="western"><surname>Weiner</surname><given-names>S.</given-names></name> 
+<year>2002</year>. 
+<article-title>Mollusc larval shell formation: amorphous calcium carbonate is a precursor phase for aragonite</article-title>. 
+<source>J Exp Zool</source>
+<volume>293</volume>(<issue>5</issue>): 
+<fpage>478</fpage>–<lpage>491</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr151">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Wikramanayake</surname><given-names>AH</given-names></name>, 
+<name name-style="western"><surname>Peterson</surname><given-names>R</given-names></name>, 
+<name name-style="western"><surname>Chen</surname><given-names>J</given-names></name>, 
+<name name-style="western"><surname>Huang</surname><given-names>L</given-names></name>, 
+<name name-style="western"><surname>Bince</surname><given-names>JM</given-names></name>, <etal>et al.</etal> 
+<year>2004</year>. 
+<article-title>Nuclear β-catenin-dependent Wnt8 signaling in vegetal cells of the early sea urchin embryo regulates gastrulation and differentiation of endoderm and mesodermal cell lineages</article-title>. 
+<source>Genesis</source> 
+<volume>39</volume>(<issue>3</issue>): 
+<fpage>194</fpage>–<lpage>205</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr152">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Wilt</surname><given-names>F</given-names></name>, 
+<name name-style="western"><surname>Killian</surname><given-names>CE</given-names></name>, 
+<name name-style="western"><surname>Croker</surname><given-names>L</given-names></name>, 
+<name name-style="western"><surname>Hamilton</surname><given-names>P</given-names></name>. 
+<year>2013</year>. 
+<article-title>SM30 protein function during sea urchin larval spicule formation</article-title>. 
+<source>J Struct Biol</source> 
+<volume>183</volume>(<issue>2</issue>): 
+<fpage>199</fpage>–<lpage>204</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr153">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Woessner</surname><given-names>JF</given-names></name>. 
+<year>1991</year>. 
+<article-title>Matrix metalloproteinases and their inhibitors in connective tissue remodeling</article-title>. 
+<source>FASEB J</source> 
+<volume>5</volume>(<issue>8</issue>): 
+<fpage>2145</fpage>–<lpage>54</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr154">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Wu</surname><given-names>S-Y</given-names></name>, 
+<name name-style="western"><surname>Ferkowicz</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>Mcclay</surname><given-names>DR</given-names></name>. 
+<year>2007</year>. 
+<article-title>Ingression of primary mesenchyme cells of the sea urchin embryo: A precisely timed epithelial mesenchymal transition</article-title>. 
+<source>Birth Defects Res C Embryo Today Rev</source> 
+<volume>81</volume>(<issue>4</issue>): 
+<fpage>241</fpage>–<lpage>252</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr155">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Xuan Ri</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Hideyuki</surname><given-names>K</given-names></name>, 
+<name name-style="western"><surname>Koretaro</surname><given-names>T</given-names></name>. 
+<year>2007</year>. 
+<article-title>Characterization of molecular species of collagen in scallop mantle</article-title>. 
+<source>Food Chem</source> 
+<volume>102</volume>(<issue>4</issue>): 
+<fpage>1187</fpage>–<lpage>1191</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr156">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Yano</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>Nagai</surname><given-names>K</given-names></name>, 
+<name name-style="western"><surname>Morimoto</surname><given-names>K</given-names></name>, 
+<name name-style="western"><surname>Miyamoto</surname><given-names>H</given-names></name>. 
+<year>2006</year>. 
+<article-title>Shematrin: A family of glycine-rich structural proteins in the shell of the pearl oyster <italic>Pinctada fucata</italic></article-title>. 
+<source>Comp Biochem Phys B</source> 
+<volume>144</volume>(<issue>2</issue>): 
+<fpage>254</fpage>–<lpage>262</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr157">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Young</surname><given-names>SD</given-names></name>. 
+<year>1971</year>. 
+<article-title>Organic material from scleractinian coral skeletons - I. Variation in composition between several species</article-title>. 
+<source>Comp Biochem Phys</source> 
+<volume>40B</volume>: 
+<fpage>113</fpage>–<lpage>120</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr158">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Ip</surname><given-names>YK</given-names></name>, 
+<name name-style="western"><surname>Loong</surname><given-names>AM</given-names></name>, 
+<name name-style="western"><surname>Hiong</surname><given-names>KC</given-names></name>, 
+<name name-style="western"><surname>Wong</surname><given-names>WP</given-names></name>, 
+<name name-style="western"><surname>Chew</surname><given-names>SF</given-names></name>, <etal>et al.</etal> 
+<year>2006</year>. 
+<article-title>Light induces an increase in the pH of and a decrease in the ammonia concentration in the extrapallial luid of the giant clam <italic>Tridacna squamosa</italic></article-title>. 
+<source>Physiol Biochem Zool</source> 
+<volume>79</volume>(<issue>3</issue>): 
+<fpage>656</fpage>–<lpage>664</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr159">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Zachos</surname><given-names>JC</given-names></name>, 
+<name name-style="western"><surname>Röhl</surname><given-names>U</given-names></name>, 
+<name name-style="western"><surname>Schellenberg</surname><given-names>SA</given-names></name>, 
+<name name-style="western"><surname>Sluijs</surname><given-names>A</given-names></name>, 
+<name name-style="western"><surname>Hodell</surname><given-names>DA</given-names></name>, <etal>et al.</etal> 
+<year>2005</year>. 
+<article-title>Rapid acidification of the ocean during the Paleocene-Eocene Thermal Maximum</article-title>. 
+<source>Science</source> 
+<volume>308</volume>(<issue>5728</issue>): 
+<fpage>1611</fpage>–<lpage>1615</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr160">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Zachos</surname><given-names>JC</given-names></name>, 
+<name name-style="western"><surname>Wara</surname><given-names>MW</given-names></name>, 
+<name name-style="western"><surname>Bohaty</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Delaney</surname><given-names>ML</given-names></name>, 
+<name name-style="western"><surname>Petrizzo</surname><given-names>MR</given-names></name>, <etal>et al.</etal> 
+<year>2003</year>. 
+<article-title>A transient rise in tropical sea surface temperature during the Paleocene-Eocene Thermal Maximum</article-title>. 
+<source>Science</source> 
+<volume>302</volume>(<issue>5650</issue>): 
+<fpage>1551</fpage>–<lpage>1554</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr161">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Zhang</surname><given-names>C</given-names></name>, 
+<name name-style="western"><surname>Xie</surname><given-names>L</given-names></name>, 
+<name name-style="western"><surname>Huang</surname><given-names>J</given-names></name>, 
+<name name-style="western"><surname>Liu</surname><given-names>X</given-names></name>, 
+<name name-style="western"><surname>Zhang</surname><given-names>R</given-names></name>. 
+<year>2006</year>. 
+<article-title>A novel matrix protein family participating in the prismatic layer framework formation of pearl oyster, <italic>Pinctada fucata</italic></article-title>. 
+<source>Biochem Biophys Res Commun</source> 
+<volume>344</volume>(<issue>3</issue>): 
+<fpage>735</fpage>–<lpage>740</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr162">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Zhang</surname><given-names>C</given-names></name>, 
+<name name-style="western"><surname>Zhang</surname><given-names>R</given-names></name>. 
+<year>2006</year>. 
+<article-title>Matrix proteins in the outer shells of molluscs</article-title>. 
+<source>Mar Biotechnol</source> 
+<volume>8</volume>(<issue>6</issue>): 
+<fpage>572</fpage>–<lpage>586</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr163">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Zhang</surname><given-names>G</given-names></name>, 
+<name name-style="western"><surname>Fang</surname><given-names>X</given-names></name>, 
+<name name-style="western"><surname>Guo</surname><given-names>X</given-names></name>, 
+<name name-style="western"><surname>Li</surname><given-names>L</given-names></name>, 
+<name name-style="western"><surname>Luo</surname><given-names>R</given-names></name>, <etal>et al.</etal> 
+<year>2012</year>. 
+<article-title>The oyster genome reveals stress adaptation and complexity of shell formation</article-title>. 
+<source>Nature</source> 
+<volume>490</volume>(<issue>7418</issue>): 
+<fpage>49</fpage>–<lpage>54</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr164">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Zoccola</surname><given-names>D</given-names></name>, 
+<name name-style="western"><surname>Moya</surname><given-names>A</given-names></name>, 
+<name name-style="western"><surname>Béranger</surname><given-names>G</given-names></name>, 
+<name name-style="western"><surname>Tambutté</surname><given-names>E</given-names></name>, 
+<name name-style="western"><surname>Allemand</surname><given-names>D</given-names></name>, <etal>et al.</etal> 
+<year>2009</year>. 
+<article-title>Specific expression of BMP2/4 ortholog in biomineralizing tissues of corals and action on mouse BMP receptor</article-title>. 
+<source>Mar Biotechnol</source> 
+<volume>11</volume>(<issue>2</issue>): 
+<fpage>260</fpage>–<lpage>269</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr165">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Zoccola</surname><given-names>D</given-names></name>, 
+<name name-style="western"><surname>Tambutté</surname><given-names>E</given-names></name>, 
+<name name-style="western"><surname>Kulhanek</surname><given-names>E</given-names></name>, 
+<name name-style="western"><surname>Puverel</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Scimeca</surname><given-names>J-C</given-names></name>, <etal>et al.</etal> 
+<year>2004</year>. 
+<article-title>Molecular cloning and localization of a PMCA P-type calcium ATPase from the coral <italic>Stylophora pistillata</italic></article-title>. 
+<source>BBA- Biomembranes</source> 
+<volume>1663</volume>(<issue>1–2</issue>): 
+<fpage>117</fpage>–<lpage>126</lpage>.</mixed-citation>
+</ref>
+</ref-list>
+</back>
+</article>

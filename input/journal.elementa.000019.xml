@@ -1,0 +1,978 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="commentary" dtd-version="1.0" xml:lang="en">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">BioOne</journal-id>
+<journal-id journal-id-type="journal-id">Elementa</journal-id>
+<journal-title-group>
+<journal-title>Elementa</journal-title>
+<journal-subtitle>Science of the Anthropocene</journal-subtitle>
+<abbrev-journal-title>Elem. Sci. Anth.</abbrev-journal-title>
+</journal-title-group>
+<contrib-group>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Helmig</surname><given-names>Detlev</given-names></name>
+<xref ref-type="aff" rid="affa"/>
+<role>Editor-in-Chief: Atmospheric Science</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/detlev-helmig/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Blum</surname><given-names>Joel D.</given-names></name>
+<xref ref-type="aff" rid="affb"/>
+<role>Editor-in-Chief: Earth &amp; Environmental Science</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/joel-d-blum/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Zak</surname><given-names>Donald R.</given-names></name>
+<xref ref-type="aff" rid="affb"/>
+<role>Editor-in-Chief: Ecology</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/donald-r-zak/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Deming</surname><given-names>Jody W.</given-names></name>
+<xref ref-type="aff" rid="affc"/>
+<role>Editor-in-Chief: Ocean Science</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/jody-w-deming/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Chang</surname><given-names>Michael E.</given-names></name>
+<xref ref-type="aff" rid="affd"/>
+<role>Editor-in-Chief: Sustainable Engineering</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/michael-e-chang/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Kapuscinski</surname><given-names>Anne</given-names></name>
+<xref ref-type="aff" rid="affe"/>
+<role>Editor-in-Chief: Sustainability Transitions</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/anne-kapuscinski/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Peart</surname><given-names>David R.</given-names></name>
+<xref ref-type="aff" rid="affe"/>
+<role>Editor-in-Chief: Sustainability Transitions</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/david-r-peart/</uri>
+</contrib>
+</contrib-group>
+<aff id="affa">
+<institution>University of Colorado Boulder</institution>
+<country>United States</country>
+</aff>
+<aff id="affb">
+<institution>University of Michigan</institution>
+<country>United States</country>
+</aff>
+<aff id="affc">
+<institution>University of Washington</institution>
+<country>United States</country>
+</aff>
+<aff id="affd">
+<institution>Georgia Institute of Technology</institution>
+<country>United States</country>
+</aff>
+<aff id="affe">
+<institution>Dartmouth</institution>
+<country>United States</country>
+</aff>
+<issn pub-type="epub">2325-1026</issn>
+<publisher>
+<publisher-name>BioOne</publisher-name>
+<publisher-loc>21 Dupont Circle NW, Suite 800, Washington, DC 20036, United States<email>team@elementascience.org</email>
+<uri>http://bioone.org</uri><uri>http://elementascience.org</uri>
+</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">ELEMENTA-D-13-00008</article-id>
+<article-id pub-id-type="doi">10.12952/journal.elementa.000019</article-id>
+<article-categories>
+<subj-group subj-group-type="article-type">
+<subject>Commentary</subject>
+</subj-group>
+<subj-group subj-group-type="domain">
+<subject>Earth &amp; Environmental Science</subject>
+</subj-group>
+<subj-group subj-group-type="classification">
+<subject>Earth and Environmental Science</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Earthcasting the future Critical Zone</article-title>
+<alt-title alt-title-type="short-title">Earthcasting the Future Critical Zone</alt-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Goddéris</surname><given-names>Yves</given-names></name>
+<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+<xref ref-type="corresp" rid="cor1"><sup>*</sup></xref>
+</contrib>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Brantley</surname><given-names>Susan L</given-names></name>
+<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+</contrib>
+</contrib-group>
+<aff id="aff1"><label>1</label>
+<institution content-type="dept">Géosciences Environnement Toulouse</institution>, <institution>CNRS</institution>, <institution>Observatoire Midi-Pyrénées</institution>, <addr-line content-type="state">Toulouse</addr-line>, <country>France</country>
+</aff>
+<aff id="aff2"><label>2</label><institution content-type="dept">Earth and Environmental Systems Institute</institution>, <institution>Pennsylvania State University</institution>, <addr-line content-type="city">University Park</addr-line>, <addr-line content-type="state">Pennsylvania</addr-line>, <country>United States</country></aff>
+<contrib-group>
+<contrib contrib-type="domain-editor-in-chief" xlink:type="simple">
+<name name-style="western"><surname>Blum</surname><given-names>Joel D.</given-names></name>
+<xref ref-type="aff" rid="afff"/>
+<role>Domain Editor-in-Chief</role>
+</contrib>
+</contrib-group>
+<aff id="afff">
+<institution content-type="dept">Department of Earth &amp; Environmental Sciences</institution>
+<institution>University of Michigan</institution>
+<addr-line content-type="city">Ann Arbor</addr-line>
+<addr-line content-type="state">Michigan</addr-line>
+<country>United States</country>
+</aff>
+<author-notes><corresp id="cor1"><label><sup>*</sup></label><email xlink:type="simple">yves.godderis@get.obs-mip.fr</email></corresp>
+</author-notes>
+<pub-date pub-type="epub" iso-8601-date="2013-12-04">
+<day>04</day>
+<month>12</month>
+<year>2013</year>
+</pub-date>
+<volume content-type="volume">1</volume>
+<elocation-id>000019</elocation-id>
+<history>
+<date date-type="received" iso-8601-date="2013-07-19">
+<day>19</day>
+<month>07</month>
+<year>2013</year>
+</date>
+<date date-type="rev-recd" iso-8601-date="2013-11-14">
+<day>14</day>
+<month>11</month>
+<year>2013</year>
+</date>
+<date date-type="rev-recd" iso-8601-date="2013-08-12">
+<day>12</day>
+<month>08</month>
+<year>2013</year>
+</date>
+<date date-type="accepted" iso-8601-date="2013-11-14">
+<day>14</day>
+<month>11</month>
+<year>2013</year>
+</date>
+</history>
+<permissions>
+<copyright-year>2013</copyright-year>
+<copyright-holder>Goddéris and Brantley</copyright-holder>
+<license license-type="open-access" xlink:type="simple">
+<license-p><open-access><p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</p>
+</open-access>
+</license-p>
+</license>
+</permissions>
+<abstract><title>Abstract</title>
+<p>As humans continue to impact the Critical Zone, we need to project how our environment will evolve into the future. To model such change requires the ability to simulate interactions among the lithosphere, pedosphere, hydrosphere, biosphere, and atmosphere — including the activities of humans. Such projections, which some have called earthcasts, must be made with mechanistic models that capture the important phenomena, as well as scenarios of human behavior. As an example, we present earthcasts of future weathering in the mid-continent of the USA into the next century of projected warming. Rates of sequestration of CO<sub>2</sub> from the atmosphere due to weathering will change in the future as carbonate and silicate minerals are dissolved or precipitated in soil. The downward or upward advance of the carbonate reaction front in the soil is an analogue of the oceanic lysocline. Like the movement of the oceanic lysocline in response to oceanic acidification, this terrestrial lysocline will likely move due to fluxes of CO<sub>2</sub> driven by human activity. Understanding this and other responses to perturbations will best be achieved using multiple models for earthcasting.</p>
+</abstract>
+</article-meta>
+</front>
+<body>
+<sec id="s1"><title>Introduction</title>
+<p>Humans are changing Earth’s atmosphere, biota, water, soil, and sediments to the extent that a new geological epoch — <italic>the Anthropocene</italic> — has been proposed by Nobel laureate Paul Crutzen to emphasize the global and lasting impact of humans (<xref ref-type="bibr" rid="bibr019">Crutzen and Stoermer, 2000</xref>; <xref ref-type="bibr" rid="bibr064">Zalzsiewicz et al., 2008</xref>). Through processes such as deforestation, farming, urbanization, mining, and dam construction, humans transform water, vegetation, soils, and climate (<xref ref-type="bibr" rid="bibr021">Foster et al., 1998</xref>; <xref ref-type="bibr" rid="bibr008">Boyer et al., 2002</xref>; <xref ref-type="bibr" rid="bibr043">Pielke et al., 2002</xref>; <xref ref-type="bibr" rid="bibr038">McNeill and Winiwarter, 2004</xref>; <xref ref-type="bibr" rid="bibr007">Bond et al., 2005</xref>; <xref ref-type="bibr" rid="bibr060">Wilkinson, 2005</xref>; <xref ref-type="bibr" rid="bibr015">Brikowski, 2008</xref>; <xref ref-type="bibr" rid="bibr057">Walter and Merritts, 2008</xref>; <xref ref-type="bibr" rid="bibr054">van Mantgem et al., 2009</xref>). The pace of anthropogenic change threatens to overwhelm humankind’s ability to plan sustainable use of soils and waters (<xref ref-type="bibr" rid="bibr055">Vitousek et al., 1997</xref>; <xref ref-type="bibr" rid="bibr020">DeFries and Eschleman, 2004</xref>; <xref ref-type="bibr" rid="bibr038">McNeill and Winiwarter, 2004</xref>; <xref ref-type="bibr" rid="bibr060">Wilkinson, 2005</xref>; <xref ref-type="bibr" rid="bibr039">McNeill and Winiwarter, 2006</xref>; <xref ref-type="bibr" rid="bibr028">Holdren, 2008</xref>; <xref ref-type="bibr" rid="bibr037">Mann and Kump, 2008</xref>). Quantitative approaches are needed to project how these earth resources evolve naturally and under human impact.</p>
+<p>Just as atmospheric scientists use general circulation models (GCMs) to compare multiple climate simulations, Earth scientists are developing and comparing models for forecasting —“<italic>Earthcasting</italic>”—the behavior of the zone from vegetation canopy to groundwater (<xref ref-type="bibr" rid="bibr001">Bachlet et al., 2003</xref>; <xref ref-type="bibr" rid="bibr044">Qu and Duffy, 2007</xref>; <xref ref-type="bibr" rid="bibr040">Minasny et al., 2008</xref>; <xref ref-type="bibr" rid="bibr045">Rasmussen et al., 2009</xref>). This realm, called the Critical Zone, represents the interface where rocks meet life (<xref ref-type="bibr" rid="bibr053">U.S. National Research Council Committee on Basic Research Opportunities in the Earth Sciences, 2001</xref>; <xref>Brantley et al., 2006</xref>; <xref ref-type="bibr" rid="bibr012">Brantley et al., 2008</xref>).</p>
+<p>When this zone is observed over short timeframes, the response to perturbation is often linear, but over long timeframes, nonlinear responses emerge, because the system is driven by many coupled processes, each acting with its own characteristic response time (<xref ref-type="bibr" rid="bibr017">Chadwick and Chorover, 2001</xref>; <xref ref-type="bibr" rid="bibr001">Bachlet et al., 2003</xref>). To understand these responses, therefore, both short and long time records of changes to the Critical Zone must be investigated and model simulations must be refined. These models are extraordinarily difficult to develop and explore because they must include earth materials, fluids, and biota over extended lengths of time. Perhaps most daunting, the models must also incorporate scenarios of human behavior.</p>
+<p>Soils and deeper weathering profiles play an important role in allowing scientists to decipher the behavior of the Critical Zone because they integrate reactions among rock, water, air, and biota over time (<xref ref-type="fig" rid="elementa.000019.f001">Figure 1</xref>) (<xref ref-type="bibr" rid="bibr049">Richter, 2007</xref>; <xref ref-type="bibr" rid="bibr018">Chesworth, 2008</xref>; <xref ref-type="bibr" rid="bibr040">Minasny et al., 2008</xref>). Indeed, it has long been known that the chemistries and textures of soils record the signature of environmental fluxes and changing conditions in response to tectonism, climate, and human activity (<xref ref-type="bibr" rid="bibr030">Jenny, 1980</xref>; <xref ref-type="bibr" rid="bibr063">Yaalon, 1983</xref>; <xref ref-type="bibr" rid="bibr048">Richter and Markewitz, 2001</xref>; Warkentin, 2006). Models can be used to interpret the stories written in soils by both natural and anthropogenic forcings to anticipate future changes to the Critical Zone (<xref ref-type="bibr" rid="bibr040">Minasny et al., 2008</xref>; <xref ref-type="bibr" rid="bibr009">Brantley and Lebedeva, 2011</xref>). These models should become increasingly useful as earthcasts now that the anthropogenic perturbation of the carbon fluxes from land to ocean have been clearly identified (<xref ref-type="bibr" rid="bibr047">Regnier et al., 2013</xref>).</p>
+<fig id="elementa.000019.f001" position="float">
+<object-id pub-id-type="doi">10.12952/journal.elementa.000019.f001</object-id>
+<label>Figure 1 </label><caption><title>Humans are acting as a geological force by perturbing flows of water, solutes, gases, and sediments.</title>
+<p>The story of change of these flows is recorded in soils and sediment. When the complex surface earth system is perturbed, both linear and nonlinear “tipping point” responses result. Models, needed to project such responses, must first be tested against the “stories” written in the soil and sediment record. (Figure, inspired by <xref ref-type="bibr" rid="bibr018">Chesworth (2008)</xref>, is reprinted here with permission from the original, <xref ref-type="bibr" rid="bibr009">Brantley and Lebedeva, 2011</xref>).</p></caption><graphic position="float" mimetype="image" xlink:type="simple" xlink:href="info:doi/10.12952/journal.elementa.000019.f001"/>
+</fig>
+<p>One example of an important process that must be earthcast is the process whereby minerals in soils weather and consume atmospheric CO<sub>2</sub> (<xref ref-type="bibr" rid="bibr002">Banwart et al., 2009</xref>; <xref ref-type="bibr" rid="bibr006">Berner, 2006</xref>). During weathering, rock materials are catalyzed by bacteria to react with water and gas, equilibrating minerals to earth surface conditions. As minerals weather, CO<sub>2</sub> from the atmosphere is solubilized as carbonic acid which reacts with minerals producing bicarbonate ions that are either precipitated as carbonates or transported in soil porewaters to rivers and ultimately the ocean. Over geological timescales, solubilization of CO<sub>2</sub> during silicate weathering balances the production of CO<sub>2</sub> to the atmosphere during volcanism and metamorphism, stabilizing the Earth climate within limits accessible for life (<xref ref-type="bibr" rid="bibr056">Walker et al., 1981</xref>; <xref ref-type="bibr" rid="bibr034">Kump et al., 2000</xref>; <xref ref-type="bibr" rid="bibr006">Berner, 2006</xref>).</p>
+<p>Today, continental silicate and carbonate weathering together consume about 0.3 Gt of atmospheric CO<sub>2</sub> each year (Gaillardet et al., 1999). This value is close to the preindustrial net carbon exchange between the atmosphere and the terrestrial biosphere (0.4 Gt C/year) (<xref ref-type="bibr" rid="bibr051">Solomon et al., 2007</xref>). The rate of continental weathering is sensitive to land use change (<xref ref-type="bibr" rid="bibr046">Raymond et al., 2008</xref>; <xref ref-type="bibr" rid="bibr042">Perrin et al., 2008</xref>) and ongoing climate change (<xref ref-type="bibr" rid="bibr023">Gislason et al., 2009</xref>; <xref ref-type="bibr" rid="bibr003">Beaulieu et al., 2012</xref>). As humans increase both the concentration of CO<sub>2</sub> in the atmosphere as well as their impact on the continental ecosystems, the rate of weathering will respond. Quantifying how C fluxes will change in the future is a complex task for models because of the coupling between climate, hydrology, land use, and biogeochemical reactions, and because the models must be able to simulate a fast-changing system under transient conditions. In addition to its potential role in the global carbon cycle, continental weathering is also a key process in the global cycles of the major cations (Ca<sup>2+</sup>, Mg<sup>2+</sup>, K<sup>+</sup>, Na<sup>+</sup>) and thus contributes to the control of the future evolution of soil and riverine pH. Finally, at the centennial timescale, the continental biosphere derives nourishment from the elements released during weathering reactions. Despite its non-negligible magnitude, apparent sensitivity, and acknowledged importance in the biogeochemical cycle of many elements, continental weathering is generally neglected in studies dealing with the evolution of the global carbon cycle and climate over century timescales.</p></sec>
+<sec id="s2"><title>Modeling weathering into the future</title>
+<p>Considering the future of weathering is a new point of view for Earth scientists. Up to now, the science of weathering mostly focused on processes in the past. Indeed, weathering has been a key process during the geological evolution of the Earth system (<xref ref-type="bibr" rid="bibr056">Walker et al., 1981</xref>; <xref ref-type="bibr" rid="bibr006">Berner, 2006</xref>). We use earthcasting here to explore whether it might also be a key process for the short term future of our planet.</p>
+<p>Parametric laws have been developed to predict the future evolution of weathering from mean annual temperature and runoff for several average lithologies (<xref ref-type="bibr" rid="bibr027">Hartmann et al., 2009</xref>). Such laws, generally derived from field observations, are chosen empirically and are used to assess integrated weathering fluxes for large continental surfaces without excessive computational time. As pointed out in <xref ref-type="bibr" rid="bibr025">Goddéris et al. (2009)</xref>, this parametric method can be a reasonable snapshot of the current weathering system. However, parametric approaches are not necessarily adapted to describing decadal to centennial dynamics. In contrast, mechanistic models that incorporate physical descriptions of the below-ground hydrology and weathering reactions can be used to predict the response of weathering to increasing CO<sub>2</sub> in the future.</p>
+<p>Mechanistic models have been used and tested by focusing on natural experiments where climate and time are variable. For example the following phenomena have been modeled that are relevant to the goal of earthcasting: (1) mineralogical evolution of loess that was deposited approximately 13 ky ago along the Mississippi valley transect in the U.S.A (<xref ref-type="bibr" rid="bibr062">Williams et al., 2010</xref>; <xref ref-type="bibr" rid="bibr026">Goddéris et al., 2010</xref>), (2) soil development at the 226 ka marine terrace chronosequence near Santa Cruz, U.S.A. (<xref ref-type="bibr" rid="bibr036">Maher et al., 2009</xref>), and (3) soil development over a million years of weathering in the Merced chronosequence (<xref ref-type="bibr" rid="bibr041">Moore et al., 2012</xref>). These studies have shown that mechanistic weathering models can successfully reproduce mineralogical patterns observed in soils along a climate gradient (<xref ref-type="bibr" rid="bibr062">Williams et al., 2010</xref>; <xref ref-type="bibr" rid="bibr026">Goddéris et al., 2010</xref>; <xref ref-type="bibr" rid="bibr024">Goddéris et al., 2013</xref>) or along a gradient in time (<xref ref-type="bibr" rid="bibr036">Maher et al., 2009</xref>; <xref ref-type="bibr" rid="bibr041">Moore et al., 2012</xref>).</p>
+<p>This approach documents that we can mechanistically model weathering as a function of time and changing climate. Given the current constraints of computational time, it is not possible to fully couple climate and reactive transport (weathering models). Instead, here we summarize generalizable lessons learned from those modeling efforts to highlight challenges for the future.</p>
+<p>In our approach, we use a cascade of numerical models for climate (ARPEGE), vegetation (CARAIB) and weathering (WITCH), to explore the effect of an increase in CO<sub>2</sub> into the future. Specifically, we simulate one of the carbon emission scenarios from the Intergovernmental Panel on Climate Change (<xref ref-type="bibr" rid="bibr051">Solomon et al 2007</xref>). The scenario we chose, A1B, assumes very rapid economic growth and a peak in global population mid-century, after which the population declines while new and efficient technologies are rapidly introduced to achieve balance across energy sources. With this scenario, CO<sub>2</sub> increases from 315 to 700 ppmv from 1950 to 2100. Other models can be similarly used in a cascade to project weathering into the future (<xref ref-type="fig" rid="elementa.000019.f002">Figure 2</xref>).</p>
+<fig id="elementa.000019.f002" position="float">
+<object-id pub-id-type="doi">10.12952/journal.elementa.000019.f002</object-id>
+<label>Figure 2 </label><caption><title>To simulate rates of mineral weathering into the future requires a cascade of models as shown.</title>
+<p>Climate models (GCM for General Circulation Model) in use today include GENESIS and ARPEGE, among others; vegetation models (DGVM for Dynamic Global Vegetation Model) include BIOME and CARAIB among others; weathering models include WITCH, SAFE, CRUNCH, and FLOTRAN among others. The solid arrows stand for processes that are currently included in numerical models. Dashed arrows represent processes and feedbacks that are not yet modeled within our current Earthcasting efforts.</p></caption>
+<graphic position="float" mimetype="image" xlink:type="simple" xlink:href="info:doi/10.12952/journal.elementa.000019.f002"/>
+</fig>
+<sec id="s2a"><title>Factors that affect weathering</title>
+<p>The reason that earthcasting is difficult is that there are so many processes and factors influencing the future of biogeochemical reactions. To illustrate this complexity, we focus here on two key forcing functions of the weathering reactions: the ambient temperature, which controls the kinetics and thermodynamics of the weathering reactions, and the soil drainage, which controls the transport of the weathering products and the availability of water required for weathering. The response of each of these forcing functions to the anthropogenic rise in CO<sub>2</sub> can be contrasted.</p>
+<list list-type="order">
+<list-item><p>On average, increasing CO<sub>2</sub> results in an increase in temperature globally, promoting silicate weathering and inhibiting carbonate dissolution.</p></list-item>
+<list-item><p>In contrast, increasing CO<sub>2</sub> can cause either an increase or a decrease in porefluid drainage through soils, depending upon location at the Earth surface. Drainage can increase or decrease due to several competing effects, and these effects, which cannot be simulated by parametric models, require sophisticated climate and vegetation projections. For example, rainfall may either decrease or increase locally, depending upon how the atmospheric global circulation changes. In addition, however, CO<sub>2</sub> fertilization will increase productivity of land plants which will in turn result in enhanced evapotranspiration, yielding less drainage. Evapotranspiration is also enhanced by temperature increases. Conversely, closure of leaf stomata at high CO<sub>2</sub> levels may ultimately decrease evapotranspiration. It is impossible to know for any one location what the effect of all these factors will be without a numerical simulation.</p></list-item></list>
+<p>Learning from our experience simulating weathering of loess along the Mississippi valley in the U.S.A. over the last 13 ky, we have run earthcasts to simulate weathering profiles along this transect out to the year 2100. We calculated that the drainage out of the profiles in the northern section of the transect in the state of Illinois (42°59.00′, 91°12.66′) could decrease by as much as 40% owing to the projected rise in temperature and evapotranspiration (<xref ref-type="fig" rid="elementa.000019.f003">Figure 3</xref>). This decreased drainage is predicted despite a moderate rise in projected rainfall. Conversely, the drainage in the southern end of the transect, in the state of Mississippi (32°24.46′, 90°49.30′), is calculated to increase (simulation not shown). Based on our observations of models for the future along the Mississippi valley, the hydrology and the temperature are the two variables that largely determine the earthcast of weathering (<xref ref-type="fig" rid="elementa.000019.f003">Figure 3</xref>). </p>
+<fig id="elementa.000019.f003" position="float">
+<object-id pub-id-type="doi">10.12952/journal.elementa.000019.f003</object-id>
+<label>Figure 3 </label><caption>
+<title>Earthcasts showing how the sequestration of atmospheric CO<sub>2</sub> will change into the future through the weathering of the northernmost pedon of the Mississippi transect.</title>
+<p>The top plot shows contours of mean annual bicarbonate drainage flux, plotted on axes of depth (vertical) and time (horizontal), calculated by the ARPEGE-CARAIB-WITCH model cascade. The superimposed white curve is the calculated HCO<sub>3</sub><sup>-</sup> drainage flux at the basis of the pedon, as a function of time (scale on the right). The green line is the linear fit of the model output, documenting the decrease in the bicarbonate flux in the future. The reaction front for dolomite, which is like a terrestrial lysocline, lies at about 3 meters depth, above which no dolomite is present. High fluxes of bicarbonate produced by silicate dissolution are depicted as light blue vertical pulses in the upper parts of the soil, above 3 meters depth. High vertical fluxes are predicted during wet periods. Although silicates dissolve slightly faster into the future, most of the bicarbonate flux out of the soil derives from dolomite dissolution below 3 meters depth, which slows into the future as temperature increases. The three bottom panels show simulations of the soil temperature, vertical drainage, and the CO<sub>2</sub> level below the root zone (in Pre-industrial Atmospheric Level units: 1 PAL=280 ppmv).</p></caption>
+<graphic position="float" mimetype="image" xlink:type="simple" xlink:href="info:doi/10.12952/journal.elementa.000019.f003"/>
+</fig>
+<p>Of course, as the climate and CO<sub>2</sub> in the atmosphere change into the future, the CO<sub>2</sub> concentrations in soil solutions will also vary (<xref ref-type="fig" rid="elementa.000019.f003">Figure 3</xref>). Like the drainage, soil pCO<sub>2</sub> is also difficult to project without numerical models. As temperature rises, the CO<sub>2</sub> production rate by biota increases in soils, releasing more CO<sub>2</sub> into the soil atmosphere. However, in response to global warming, the rate of diffusion back to the atmosphere also increases, as do rates of mineral weathering and formation of aqueous bicarbonate that drains to rivers. Thus, it is possible that the CO<sub>2</sub> concentration in the soil atmosphere will either increase, remain roughly constant, or even decrease over the course of the next century depending upon location (<xref ref-type="bibr" rid="bibr024">Goddéris et al., 2013</xref>). For our model simulations in the northern pedon shown in <xref ref-type="fig" rid="elementa.000019.f003">Fig. 3</xref>, the soil pCO<sub>2</sub> decreases into the future.</p>
+<p>In addition to these more-or-less smooth changes, more pronounced modifications may happen when the global atmosphere attains higher CO<sub>2</sub> levels in the future. For example, <xref ref-type="bibr" rid="bibr004">Beaulieu et al. (2010)</xref> showed that when atmospheric CO<sub>2</sub> approaches 4 times the pre-industrial level, the changing climate may force rapid drifting of biomes. As biomes change, the below-ground hydrology or the vegetation productivity can change drastically. With mechanistic models, all of these can be modeled. In addition, we could make other earthcasts using different scenarios of human activity to further explore how land use change could affect weathering response.</p></sec></sec>
+<sec id="s3"><title>The future of weathering</title>
+<p>Our simulations for the Mississippi transect predict that the temperature increase expected in the next 100 years will cause the rate constants and solubilities of silicate minerals to increase to the extent that weathering rates will increase regardless of whether drainage increases or decreases along the transect. As temperature increases during the period 1950–2100, the reaction front for the dissolution of silicates moves at increasingly faster rates of advance along the whole transect. </p>
+<p>However, for the loess, the slow-dissolving silicates only sequester a minor amount of CO<sub>2</sub> over the next 100 y. What matters in this geologically short timeframe in terms of carbon uptake by weathering is the dissolution of carbonate minerals. This is because the dissolution rates for carbonates are about 10 orders of magnitude faster than the dissolution rates of most common silicate minerals (<xref ref-type="bibr" rid="bibr012">Brantley et al., 2008</xref>). Of course, the net carbon consumption due to weathering of carbonates is equal to zero over 10<sup>5</sup> to 10<sup>6</sup> year timeframes since CO<sub>2</sub> is returned to the atmosphere as carbonates precipitate at the ocean floor to release the consumed carbon back to the atmosphere (<xref ref-type="bibr" rid="bibr005">Berner, 2004</xref>). However, dissolution of continental carbonates nonetheless removes carbon from the atmosphere and stores it in the ocean for thousands of years before precipitation and degassing. In contrast to silicate minerals, the weathering rate of carbonate minerals such as calcite and dolomite decreases with increasing temperature because carbonate minerals have retrograde solubility. Retrograde solubility means that for a given pCO<sub>2</sub>, calcite solubility (for example) decreases with increasing temperature.</p>
+<p>Although only tiny amounts of dolomite are found in the loess soils, the uptake of CO<sub>2</sub> from the soil atmosphere as they weather dominates the production of bicarbonate in soil porewaters along the transect (<xref ref-type="fig" rid="elementa.000019.f003">Figure 3</xref>). As bicarbonate forms and CO<sub>2</sub> is pulled out of the soil atmosphere, the dissolution of dolomite defines a reaction front in these slowly eroding soils that slowly moves downward with time. Given the relative importance of all of the competing factors, we project slower rates of advance of the carbonate reaction front into the subsurface for both the southernmost and northernmost pedons of the Mississippi transect. The slowing advance of the carbonate front is exemplified in a map of the concentrations of bicarbonate in loess soil porefluids for the northernmost pedon (<xref ref-type="fig" rid="elementa.000019.f003">Figure 3</xref>).</p>
+<sec id="s3a"><title>Terrestrial lysocline</title>
+<p>The deceleration of the advance rate of the carbonate reaction front is caused by the slow response of soils to the perturbation of higher CO<sub>2</sub> and changing climate. In fact, the carbonate reaction front can be likened to a <italic>terrestrial lysocline</italic> — it represents a depth interval over which carbonate dissolution rates on continents change rapidly. In the ocean, the lysocline represents the transition across which calcite reaction rates change drastically from a surface zone of calcite supersaturation to a deeper zone of calcite undersaturation. As the surface ocean responds to higher atmospheric CO<sub>2</sub> and acidifies, the oceanic lysocline will shallow (Boudreau et al., 2010). In contrast, our earthcasts project a deeper lysocline (a deeper carbonate reaction front) in future soils. In the soils we simulated, calcite is undersaturated above the lysocline but supersaturated below. The advance of the terrestrial lysocline, like the acidification of the ocean, is the response to perturbation of increased CO<sub>2</sub> concentration in the atmosphere. </p>
+<p>On soils eroding at slow rates such as the Mississippi loess pedons, this lysocline deepens with time. The question is, how will deepening of the terrestrial lysocline evolve into the future? The slow deceleration of advance of the lysocline shown in <xref ref-type="fig" rid="elementa.000019.f004">Figure 4</xref> does nothing to counteract rising CO<sub>2</sub>. An acceleration in deepening will be necessary for weathering systems to produce more alkalinity so as to oppose the rise in atmospheric CO<sub>2</sub>. In fact, faster rates are predicted in the central part of the Mississippi transect (<xref ref-type="bibr" rid="bibr024">Godderis et al., 2013</xref>). Only in that part of the transect does the model cascade project that drainage increases enough to counteract the temperature-induced inhibition of carbonate dissolution. Thus it is important to know how much of the soil worldwide will act like the central Mississippi Valley, where we calculate that the deepening of the soil lysocline will accelerate, versus how much will act like the Southern and Northern pedons where the deepening rate slows (<xref ref-type="bibr" rid="bibr024">Godderis et al., 2013</xref>). Deceleration is particularly striking in the North where the temperature rise and the drainage decrease are maximized. <xref ref-type="fig" rid="elementa.000019.f004">Figure 4</xref> compares the average terrestrial lysocline deepening that we calculated over the entire Holocene due to natural climatic forcing (<xref ref-type="bibr" rid="bibr026">Goddéris et al., 2010</xref>) versus the calculated evolution under the next 100 years of anthropogenic forcing (<xref ref-type="bibr" rid="bibr024">Godderis et al., 2013</xref>). The figure shows that the rate of deepening of the lysocline is slowing below the “natural” rates, especially after 2040.</p>
+<fig id="elementa.000019.f004" position="float">
+<object-id pub-id-type="doi">10.12952/journal.elementa.000019.f004</object-id>
+<label>Figure 4 </label><caption><title>Rate of deepening of the terrestrial lysocline for the nothernmost pedon, calculated by a cascade of climate-biosphere-weathering models.</title>
+<p>The grey area represents the calculated long term (kyr) average rate over the Holocene (<xref ref-type="bibr" rid="bibr026">Goddéris et al., 2010</xref>). The blue line is the future projection of the deepening rate. As the climate gets warmer and drier under the anthropogenic forcing, carbonate dissolution rate goes down, and the retreat rate of the terrestrial lysocline slows down together with the atmospheric CO<sub>2</sub> consumption by weathering.</p></caption>
+<graphic position="float" mimetype="image" xlink:type="simple" xlink:href="info:doi/10.12952/journal.elementa.000019.f004"/>
+</fig>
+<p>The projections obtained for the whole transect illustrate the complex behavior of carbonate weathering in the face of short term global climate change. Predicting the global response of terrestrial weathering to increased atmospheric CO<sub>2</sub> and temperature in the future will mostly depend upon our ability to make precise assessments of which areas of the globe increase or decrease in precipitation and soil drainage.</p>
+<p>Here we have promoted the concept of a terrestrial lysocline for loess soils — essentially, the carbonate weathering front. This front deepens as carbonate dissolution proceeds in slowly eroding soils. Can we generalize this concept to a larger variety of continental soils? In drier areas, intense evaporation causes the formation of pedogenic carbonates (<xref ref-type="bibr" rid="bibr035">McFadden et al., 1991</xref>). In cases where dryness gets more pronounced in the future, precipitation of carbonate minerals will occur in increasingly shallower zones. The terrestrial lysocline then moves upward, with the result of a net release of CO<sub>2</sub> to the atmosphere. In permafrost areas, the warming will increase the thaw depth, and consequently the depth of carbonate weathering. The warming may thus potentially impact the dynamics of the terrestrial lysocline in these regions (<xref ref-type="bibr" rid="bibr032">Keller et al., 2010</xref>). We must struggle to understand where on earth the terrestrial lysocline deepens and where it will shallow if we are to understand and project our environment into the next 100 y.</p>
+<p>The model simulations also teach us that the weathering of carbonates responds quickly to climate change and will thus be important in the near future. In fact, the very high reactivity of carbonates means that their dissolution is mainly controlled by advective transport. For such reactions limited by solute transport, projections must rely on accurate models of water fluxes. For soils dominated by carbonate precipitation instead of dissolution (i.e., soils in drier climates), we will furthermore need more accurate knowledge of carbonate precipitation kinetics close to equilibrium (<xref ref-type="bibr" rid="bibr050">Schott et al., 2009</xref>).</p></sec>
+<sec id="s3b"><title>Erosion</title>
+<p>So far we have simulated soils that are not actively eroding at rates that are important within the 100-year timeframe. In a non-eroding soil, the terrestrial lysocline moves with time. The effect of a CO<sub>2</sub> increase is to change the rate of advance of that front. In contrast, in an eroding soil, the depth of the terrestrial lysocline can remain constant if the rate of advance of the carbonate reaction front is equivalent to the rate of erosive loss of material. Parametric models have also been used to begin to simulate such soils as well (<xref ref-type="bibr" rid="bibr014">Brantley et al., 2013</xref>).</p>
+<p>However, rates of soil erosion have increased by 30x above natural background due to anthropogenic processes (<xref ref-type="bibr" rid="bibr060">Wilkinson, 2005</xref>; <xref ref-type="bibr" rid="bibr061">Wilkinson and McElroy, 2007</xref>). Today, the rate at which sediment and soil particles are transported to the oceans is approximately 120 x 10<sup>9</sup> tons/yr. This is 24 times the natural background rate of 5 x 10<sup>9</sup> tons/yr. Like many of the other coupled processes in the water-soil-gas-biota system, a strong link couples physical erosion to the weathering of silicate minerals (Millot et al., 2002; <xref ref-type="bibr" rid="bibr059">West et al., 2005</xref>). Efficient dissolution of silicate mineral particles in seawater may be further evidence of the important link between physical erosion and chemical weathering (<xref ref-type="bibr" rid="bibr029">Jeandel et al., 2011</xref>; <xref ref-type="bibr" rid="bibr031">Jones et al., 2013</xref>). The significance of this link has been explored from a theoretical point of view within the framework of the geological evolution of the Earth surface (<xref ref-type="bibr" rid="bibr022">Gabet and Mudd, 2009</xref>; <xref ref-type="bibr" rid="bibr058">West, 2012</xref>). At shorter timescales, physical erosion might be important in accelerating chemical weathering of the slow-dissolving silicate minerals by increasing their surface area. In addition, intense erosion also strongly modifies the hydrologic behavior of the weathering profiles. If erosion globally outcompetes the advance of weathering and concomitant production of soil (<xref ref-type="bibr" rid="bibr060">Wilkinson, 2005</xref>), soils will become thinner and the CO<sub>2</sub> and elemental depth profiles in soil will change. The impact on the global weathering rates remains to be explored.</p>
+<p>In contrast to erosion that removes materials, the deposition and subsequent dissolution of calcareous dust transported over long distances can also modify the terrestrial lysocline advance rates in the future, slowing its downward shift. In the future, because large areas are expected to become drier, the pattern of dust deposition over the continents will be altered, with plausible consequences on the weathering system.</p>
+<p>The consumption of CO<sub>2</sub> as a function of depth into the subsurface is not the only gas reaction that is important in this context. Consumption of O<sub>2</sub> at depth as sulfides and organic matter are oxidized also create reaction fronts in the subsurface that affect global mass balances (<xref ref-type="bibr" rid="bibr033">Kump, 2008</xref>; <xref ref-type="bibr" rid="bibr010">Brantley et al., 2013</xref>). Physical erosion may also accelerate the rate that reduced minerals come into contact with the oxidizing atmosphere and consume O<sub>2</sub>. In addition, for the specific case of the Mackenzie River (Canada), the oxidation of pyrite releases sulfuric acids into the environment, dissolving minerals such as carbonates without consuming atmospheric CO<sub>2</sub> (<xref ref-type="bibr" rid="bibr052">Spence and Telmer, 2005</xref>; <xref ref-type="bibr" rid="bibr016">Calmels et al., 2007</xref>). The global warming of the Mackenzie watershed and melting of the permafrost may ultimately increase physical erosion, sulfuric acid release, and ultimately cause CO<sub>2</sub> degassing from the ocean to the atmosphere (<xref ref-type="bibr" rid="bibr016">Calmels et al., 2007</xref>). Once again, only mechanistic models can be relied upon to explore the range of possibilities.</p></sec></sec>
+<sec id="s4"><title>Conclusions</title> 
+<p>Today we rely upon forecasts of the weather to make daily decisions. Tomorrow we may be able to make longer range decisions by relying on earthcasts of geologic properties of our surface environment. As discussed here, we are already earthcasting the rates of mineral change in soils. Our earthcasts show that over the next 100 y, weathering will respond into the future mostly as a function of changes in temperature and drainage. Only to a much lesser extent will the soil atmospheric CO<sub>2</sub> affect mineral reactions.</p>
+<p>In general, as humans pump up the concentration of CO<sub>2</sub> in the atmosphere, temperature will increase but drainage and soil CO<sub>2</sub> could either decrease or increase in any given location. Carbonate weathering is highly sensitive to these future environmental changes over decadal to centennial timescales. Like the oceans where a depth zone of transition separates carbonate supersaturation from undersaturation, a terrestrial lysocline or carbonate reaction front separates zones of saturation in soils. We expect that the oceanic lysocline will shallow into the future while the terrestrial lysocline will continue to deepen in temperate systems where erosion is slow. However, the rate of advance of the terrestrial lysocline could either decelerate or accelerate in the future, mostly depending upon changes in drainage. Projections of alkalinity production due to movement of the terrestrial lysocline are thus highly dependent on changes in drainage, and hence on climate and vegetation dynamics which are inherently difficult to predict. Likewise, carbonates may be both dissolved and precipitated in soils depending on aridity. The relative importance of factors controlling pedogenic carbonates must be better understood.</p>
+<p>Parametric models of weathering may work for the short term but are not mechanistically based and cannot yield accurate projections of weathering into the future. The best tool we have for exploring the future of weathering is a cascade of models. Such a cascade includes a climate model that feeds a dynamic global vegetation model, which in turn feeds a weathering model. But no single such cascade of models is expected to always yield accurate simulations. Just as we compare multiple models when we try to predict the weather, we need multiple cascades of earthcasting models that we can compare and improve to simulate future environmental systems. Ultimately, these model cascades will be replaced by truly coupled models. Coupling will be especially critical at the millenial timescale where continental vegetation is nourished by elements released during weathering. Models that quantify biotic processes and changes in soil organic matter are sorely needed. Incorporating the impact of soil erosion into future models should also be a priority as anthropogenic processes are accelerating the rates of erosion worldwide by 1 to 2 orders of magnitude. Furthermore, no model can predict the rate of production of erodible material — i.e. the production of mineral soil. The large range of possible responses of natural soil systems to human perturbations requires development and testing of increasingly sophisticated and mechanistically realistic models by multiple groups worldwide.</p></sec>
+<sec id="s5" sec-type="copyright-statement"><title>Copyright</title>
+<p>© 2013 Goddéris, Brantley. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</p></sec>
+</body>
+<back><ack><title>Acknowledgements</title>
+<p>SLB acknowledges funding from U.S. Office of Basic Energy Sciences, Department of Energy grant DE-FG02-OSER15675 and from the U.S. National Science Foundation Critical Zone Observatory program grant EAR 12-39285. YG acknowledges funding from the French National Agency for Research, grant ANR-09-BLAN-0221.</p></ack>
+<ref-list content-type="parsed"><title>References</title>
+<ref id="bibr001">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Bachlet</surname><given-names>D</given-names></name>, 
+<name name-style="western"><surname>Neilson</surname><given-names>RP</given-names></name>, 
+<name name-style="western"><surname>Hickler</surname><given-names>T</given-names></name>, 
+<name name-style="western"><surname>Drapek</surname><given-names>RJ</given-names></name>, 
+<name name-style="western"><surname>Lenihan</surname><given-names>JM</given-names></name>, <etal>et al.</etal> 
+<year>2003</year>. 
+<article-title>Simulating past and future dynamics of natural ecosystems in the United States</article-title>. 
+<source>Global Biogeochemical Cycles</source> 
+<volume>17</volume>: 
+<fpage>1045</fpage>–<lpage>1053</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr002">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Banwart</surname><given-names>SA</given-names></name>, 
+<name name-style="western"><surname>Berg</surname><given-names>A</given-names></name>, 
+<name name-style="western"><surname>Beerling</surname><given-names>DJ</given-names></name>. 
+<year>2009</year>. 
+<article-title>Process-based modeling of silicate mineral weathering responses to increasing atmospheric CO<sub>2</sub> and climate change</article-title>. 
+<source>Global Biogeochemical Cycles</source> 
+<volume>23</volume>: 
+<fpage>1</fpage>–<lpage>13</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr003">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Beaulieu</surname><given-names>E</given-names></name>, 
+<name name-style="western"><surname>Goddéris</surname><given-names>Y</given-names></name>, 
+<name name-style="western"><surname>Donnadieu</surname><given-names>Y</given-names></name>, 
+<name name-style="western"><surname>Labat</surname><given-names>D</given-names></name>, 
+<name name-style="western"><surname>Roelandt</surname><given-names>C</given-names></name>. 
+<year>2012</year>. 
+<article-title>High sensitivity of the continental weathering carbon dioxide to future climate change</article-title>. 
+<source>Nature Climate Change</source> 
+<volume>2</volume>: 
+<fpage>346</fpage>–<lpage>349</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr004">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Beaulieu</surname><given-names>E</given-names></name>, 
+<name name-style="western"><surname>Goddéris</surname><given-names>Y</given-names></name>, 
+<name name-style="western"><surname>Labat</surname><given-names>D</given-names></name>, 
+<name name-style="western"><surname>Roelandt</surname><given-names>C</given-names></name>, 
+<name name-style="western"><surname>Oliva</surname><given-names>P</given-names></name>, <etal>et al.</etal> 
+<year>2010</year>. 
+<article-title>Impact of atmospheric CO<sub>2</sub> levels on continental silicate weathering</article-title>. 
+<source>Geochemistry, Geophysics, Geosystems</source> 
+<volume>11</volume>. doi: 
+<pub-id pub-id-type="doi">10.1029/2010GC003078</pub-id>.</mixed-citation>
+</ref>
+<ref id="bibr005">
+<mixed-citation publication-type="book">
+<name name-style="western"><surname>Berner</surname><given-names>RA</given-names></name>. 
+<year>2004</year>. 
+<source>The Phanerozoic Carbon Cycle</source>. 
+<publisher-loc>New York</publisher-loc>: 
+<publisher-name>Oxford University Press</publisher-name>.</mixed-citation>
+</ref>
+<ref id="bibr006">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Berner</surname><given-names>RA</given-names></name>. 
+<year>2006</year>. 
+<article-title>GEOCARBSULF: A combined model for Phanerozoic atmospheric O<sub>2</sub> and CO<sub>2</sub></article-title>. 
+<source>Geochimica et Cosmochimica Acta</source> 
+<volume>70</volume>: 
+<fpage>5653</fpage>–<lpage>5664</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr007">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Bond</surname><given-names>WJ</given-names></name>, 
+<name name-style="western"><surname>Woodward</surname><given-names>FI</given-names></name>, 
+<name name-style="western"><surname>Midgley</surname><given-names>GF</given-names></name>. 
+<year>2005</year>. 
+<article-title>The global distribution of ecosystems in a world without fire</article-title>. 
+<source>New Phytologist</source> 
+<volume>165</volume>: 
+<fpage>525</fpage>–<lpage>538</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr008">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Boyer</surname><given-names>EW</given-names></name>, 
+<name name-style="western"><surname>Goodale</surname><given-names>CL</given-names></name>, 
+<name name-style="western"><surname>Jaworski</surname><given-names>NA</given-names></name>, 
+<name name-style="western"><surname>Howarth</surname><given-names>RW</given-names></name>. 
+<year>2002</year>. 
+<article-title>Anthropogenic nitrogen sources and relationships to riverine nitrogen export in the northeastern U.S.A</article-title>. 
+<source>Biogeochemistry</source> 
+<volume>57</volume>: 
+<fpage>137</fpage>–<lpage>169</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr009">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Brantley</surname><given-names>SL</given-names></name>, 
+<name name-style="western"><surname>Lebedeva</surname><given-names>M</given-names></name>. 
+<year>2011</year>. 
+<article-title>Learning to read the chemistry of regolith to understand the Critical Zone</article-title>. 
+<source>Annual Review Earth Planetary Science</source> 
+<volume>39</volume>: 
+<fpage>387</fpage>–<lpage>416</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr010">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Brantley</surname><given-names>SL</given-names></name>, 
+<name name-style="western"><surname>Holleran</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>Jin</surname><given-names>L</given-names></name>, 
+<name name-style="western"><surname>Bazilevskaya</surname><given-names>E</given-names></name>. 
+<year>2013</year>. 
+<article-title>Probing deep weathering in the Shale Hills Critical Zone Observatory, Pennsylvania (U.S.A.): The hypothesis of nested chemical reaction fronts in the subsurface</article-title>. 
+<source>Earth Surface Processes and Landforms</source> 
+<volume>38</volume>: 
+<fpage>1280</fpage>–<lpage>1298</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr011">
+<mixed-citation publication-type="book">
+<name name-style="western"><surname>Brantley</surname><given-names>SL</given-names></name>, 
+<name name-style="western"><surname>Kubicki</surname><given-names>JD</given-names></name>, 
+<name name-style="western"><surname>White</surname><given-names>AF</given-names></name>. 
+<year>2008</year>. 
+<source>Kinetics of Water-Rock Interaction</source>. 
+<publisher-loc>New York</publisher-loc>: 
+<publisher-name>Springer</publisher-name>.</mixed-citation>
+</ref>
+<ref id="bibr012">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Brantley</surname><given-names>SL</given-names></name>, 
+<name name-style="western"><surname>White</surname><given-names>TS</given-names></name>, 
+<name name-style="western"><surname>Ragnarsdottir</surname><given-names>KV</given-names></name>. 
+<year>2008</year>. 
+<article-title>The critical zone: Where rock meets life</article-title>. 
+<source>Elements</source> 
+<volume>3</volume>: 
+<fpage>297</fpage>–<lpage>368</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr013">
+<mixed-citation publication-type="other">
+<name name-style="western"><surname>Brantley</surname><given-names>SL</given-names></name>, 
+<name name-style="western"><surname>White</surname><given-names>TS</given-names></name>, 
+<name name-style="western"><surname>White</surname><given-names>AF</given-names></name>, 
+<name name-style="western"><surname>Sparks</surname><given-names>D</given-names></name>, 
+<name name-style="western"><surname>Richter</surname><given-names>D</given-names></name>, <etal>et al.</etal> 
+<year>2006</year>. 
+<article-title>Frontiers in Exploration of the Critical Zone</article-title>, 
+<source>An NSF-sponsored Workshop</source> 
+</mixed-citation>
+</ref>
+<ref id="bibr014">
+<mixed-citation publication-type="inbook">
+<name name-style="western"><surname>Brantley</surname><given-names>SL</given-names></name>, 
+<name name-style="western"><surname>Lebedeva</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>Bazilevskaya</surname><given-names>E</given-names></name>. 
+<year>2013</year>. 
+<chapter-title>Relating weathering fronts for acid neutralization and oxidation to pCO<sub>2</sub> and pO<sub>2</sub></chapter-title>. In 
+<name name-style="western"><surname>Farquhar</surname><given-names>J</given-names></name>, 
+<name name-style="western"><surname>Kasting</surname><given-names>J</given-names></name>, and 
+<name name-style="western"><surname>Candfield</surname><given-names>D</given-names></name> eds, 
+<source>Treatise in Geochemistry, The Atmosphere-History</source>. 
+<publisher-loc>Amsterdam, The Netherlands</publisher-loc>: 
+<publisher-name>Elsevier</publisher-name>: in press.</mixed-citation>
+</ref>
+<ref id="bibr015">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Brikowski</surname><given-names>TH</given-names></name>. 
+<year>2008</year>. 
+<article-title>Doomed reservoirs in Kansas, USA? Climate change and groundwater mining on the Great Plains lead to unsustainable surface water storage</article-title>. 
+<source>Journal of Hydrology</source> 
+<volume>354</volume>: 
+<fpage>90</fpage>–<lpage>101</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr016">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Calmels</surname><given-names>D</given-names></name>, 
+<name name-style="western"><surname>Gaillardet</surname><given-names>J</given-names></name>, 
+<name name-style="western"><surname>Brenot</surname><given-names>A</given-names></name>, 
+<name name-style="western"><surname>France-Lanord</surname><given-names>C</given-names></name>. 
+<year>2007</year>. 
+<article-title>Sustained sulfide oxidation by physical erosion processes in the Mackenzie River basin: climatic perspectives</article-title>. 
+<source>Geology</source> 
+<volume>35</volume>: 
+<fpage>1003</fpage>–<lpage>1006</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr017">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Chadwick</surname><given-names>OA</given-names></name>, 
+<name name-style="western"><surname>Chorover</surname><given-names>J</given-names></name>. 
+<year>2001</year>. 
+<article-title>The chemistry of pedogenic thresholds</article-title>. 
+<source>Geoderma</source> 
+<volume>100</volume>: 
+<fpage>321</fpage>–<lpage>353</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr018">
+<mixed-citation publication-type="inbook">
+<name name-style="western"><surname>Chesworth</surname><given-names>W</given-names></name>. 
+<year>2008</year>. 
+<chapter-title>Biogeochemical Cycles</chapter-title>. In 
+<name name-style="western"><surname>Chesworth</surname><given-names>W</given-names></name>. ed, 
+<source>Encyclopedia of Soil Science</source>. Vol 
+<pub-id pub-id-type="doi">10.1007/978-1-4020-3995-9_61</pub-id>, pp 
+<fpage>56</fpage>–<lpage>60</lpage>. 
+<publisher-loc>Dordrecht, The Netherlands</publisher-loc>: 
+<publisher-name>Springer</publisher-name>.</mixed-citation>
+</ref>
+<ref id="bibr019">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Crutzen</surname><given-names>PJ</given-names></name>, 
+<name name-style="western"><surname>Stoermer</surname><given-names>EF</given-names></name>. 
+<year>2000</year>. 
+<article-title>The “Anthropocene”</article-title>. 
+<source>Global Change Newsletter</source> 
+<volume>41</volume>: 
+<fpage>17</fpage>–<lpage>18</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr020">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>DeFries</surname><given-names>R</given-names></name>, 
+<name name-style="western"><surname>Eschleman</surname><given-names>NK</given-names></name>. 
+<year>2004</year>. 
+<article-title>Land-use change and hydrologic processes: a major focus for the future</article-title>. 
+<source>Hydrological Processes</source> 
+<volume>18</volume>: 
+<fpage>2183</fpage>–<lpage>2186</lpage>.</mixed-citation> 
+</ref>
+<ref id="bibr021">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Foster</surname><given-names>DR</given-names></name>, 
+<name name-style="western"><surname>Motzkin</surname><given-names>G</given-names></name>, 
+<name name-style="western"><surname>Slater</surname><given-names>B</given-names></name>. 
+<year>1998</year>. 
+<article-title>Land-use history as long-term broad-scale disturbance: Regional forest dynamics in central New England</article-title>. 
+<source>Ecosystems</source> 
+<volume>1</volume>: 
+<fpage>96</fpage>–<lpage>119</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr022">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Gabbet</surname><given-names>EJ</given-names></name>, 
+<name name-style="western"><surname>Mudd</surname><given-names>SM</given-names></name>. 
+<year>2009</year>. 
+<article-title>A theoretical model coupling chemical weathering rates with denudation rates</article-title>. 
+<source>Geology</source> 
+<volume>37</volume>: 
+<fpage>151</fpage>–<lpage>154</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr023">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Gislason</surname><given-names>SR</given-names></name>, 
+<name name-style="western"><surname>Oelkers</surname><given-names>EH</given-names></name>, 
+<name name-style="western"><surname>Eiriksdottir</surname><given-names>ES</given-names></name>, 
+<name name-style="western"><surname>Kardjilov</surname><given-names>MI</given-names></name>, 
+<name name-style="western"><surname>Gisladottir</surname><given-names>G</given-names></name>, <etal>et al.</etal> 
+<year>2008</year>. 
+<article-title>Direct evidence of the feedback between climate and weathering</article-title>. 
+<source>Earth and Planetary Science Letters</source> 
+<volume>277</volume>: 
+<fpage>213</fpage>–<lpage>222</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr024">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Goddéris</surname><given-names>Y</given-names></name>, 
+<name name-style="western"><surname>Brantley</surname><given-names>SL</given-names></name>, 
+<name name-style="western"><surname>François</surname><given-names>LM</given-names></name>, 
+<name name-style="western"><surname>Schott</surname><given-names>J</given-names></name>, 
+<name name-style="western"><surname>Pollard</surname><given-names>D</given-names></name>, <etal>et al.</etal> 
+<year>2013</year>. 
+<article-title>Rates of consumption of atmospheric CO<sub>2</sub> through the weathering of loess during the next 100 yr of climate change</article-title>. 
+<source>Biogeosciences</source> 
+<volume>10</volume>: 
+<fpage>135</fpage>–<lpage>148</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr025">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Goddéris</surname><given-names>Y</given-names></name>, 
+<name name-style="western"><surname>Roelandt</surname><given-names>C</given-names></name>, 
+<name name-style="western"><surname>Schott</surname><given-names>J</given-names></name>, 
+<name name-style="western"><surname>Pierret</surname><given-names>M-C</given-names></name>, 
+<name name-style="western"><surname>François</surname><given-names>LM</given-names></name>. 
+<year>2009</year>. 
+<article-title>Towards an integrated model of weathering, climate, and biospheric processes</article-title>. 
+<source>Reviews in Mineralogy and Geochemistry</source> 
+<volume>70</volume>: 
+<fpage>411</fpage>–<lpage>434</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr026">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Goddéris</surname><given-names>Y</given-names></name>, 
+<name name-style="western"><surname>Williams</surname><given-names>JZ</given-names></name>, 
+<name name-style="western"><surname>Schott</surname><given-names>J</given-names></name>, 
+<name name-style="western"><surname>Pollard</surname><given-names>D</given-names></name>, 
+<name name-style="western"><surname>Brantley</surname><given-names>SL</given-names></name>. 
+<year>2010</year>. 
+<article-title>Time evolution of the mineralogical composition of the Mississippi Valley loess over the last 10 kyr: climate and geochemical modeling</article-title>. 
+<source>Geochimica et Cosmochimica Acta</source> 
+<volume>74</volume>: 
+<fpage>6357</fpage>–<lpage>6374</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr027">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Hartmann</surname><given-names>J</given-names></name>, 
+<name name-style="western"><surname>Jansen</surname><given-names>N</given-names></name>, 
+<name name-style="western"><surname>Dürr</surname><given-names>HH</given-names></name>, 
+<name name-style="western"><surname>Kempe</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Köhler</surname><given-names>P</given-names></name>. 
+<year>2009</year>. 
+<article-title>Global CO<sub>2</sub>-consumption by chemical weathering: what is the contribution of highly active weathering regions?</article-title> 
+<source>Global and Planetary Change</source> 
+<volume>69</volume>: 
+<fpage>185</fpage>–<lpage>194</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr028">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Holdren</surname><given-names>JP</given-names></name>. 
+<year>2008</year>. 
+<article-title>AAAS Presidential Address: Science and technology for sustainable well-being</article-title>. 
+<source>Science</source> 
+<volume>319</volume>: 
+<fpage>424</fpage>–<lpage>434</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr029">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Jeandel</surname><given-names>C</given-names></name>, 
+<name name-style="western"><surname>Peucker-Ehrenbrink</surname><given-names>B</given-names></name>, 
+<name name-style="western"><surname>Jones</surname><given-names>MT</given-names></name>, 
+<name name-style="western"><surname>Pearce</surname><given-names>CR</given-names></name>, 
+<name name-style="western"><surname>Oelkers</surname><given-names>EH</given-names></name>, <etal>et al.</etal> 
+<year>2011</year>. 
+<article-title>Ocean margins: the missing term in oceanic element budgets?</article-title> 
+<source>EOS Transactions AGU</source> 
+<volume>95</volume>: 
+<fpage>217</fpage>.</mixed-citation>
+</ref>
+<ref id="bibr030">
+<mixed-citation publication-type="book">
+<name name-style="western"><surname>Jenny</surname><given-names>H</given-names></name>. 
+<year>1980</year>. 
+<source>The Soil Resource: Origin and Behavior</source>. 
+<publisher-loc>New York</publisher-loc>: 
+<publisher-name>Springer-Verlag</publisher-name>.</mixed-citation>
+</ref>
+<ref id="bibr031">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Jones</surname><given-names>MT</given-names></name>, 
+<name name-style="western"><surname>Pearce</surname><given-names>CR</given-names></name>, 
+<name name-style="western"><surname>Jeandel</surname><given-names>C</given-names></name>, 
+<name name-style="western"><surname>Gislason</surname><given-names>SR</given-names></name>, 
+<name name-style="western"><surname>Eiriksdottir</surname><given-names>ES</given-names></name>, <etal>et al.</etal> 
+<year>2013</year>. 
+<article-title>Riverine particulate material dissolution as a significant flux of strontium to the oceans</article-title>. 
+<source>Earth and Planetary Science Letters</source> 
+<volume>355–356</volume>: 
+<fpage>51</fpage>–<lpage>59</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr032">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Keller</surname><given-names>K</given-names></name>, 
+<name name-style="western"><surname>Blum</surname><given-names>JD</given-names></name>, 
+<name name-style="western"><surname>Kling</surname><given-names>GW</given-names></name>. 
+<year>2010</year>. 
+<article-title>Stream geochemistry as an indicator of increasing permafrost thaw depth in an arctic watershed</article-title>. 
+<source>Chemical Geology</source> 
+<volume>273</volume>: 
+<fpage>76</fpage>–<lpage>81</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr033">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Kump</surname><given-names>LR</given-names></name>. 
+<year>2008</year>. 
+<article-title>The rise of atmospheric oxygen</article-title>. 
+<source>Nature</source> 
+<volume>451</volume>: 
+<fpage>277</fpage>–<lpage>278</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr034">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Kump</surname><given-names>LR</given-names></name>, 
+<name name-style="western"><surname>Brantley</surname><given-names>SL</given-names></name>, 
+<name name-style="western"><surname>Arthur</surname><given-names>MA</given-names></name>. 
+<year>2000</year>. 
+<article-title>Chemical weathering, atmospheric CO<sub>2</sub> and climate</article-title>. 
+<source>Annual Reviews of Earth and Planetary Sciences</source> 
+<volume>28</volume>: 
+<fpage>611</fpage>–<lpage>667</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr035">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>McFadden</surname><given-names>LD</given-names></name>, 
+<name name-style="western"><surname>Amundson</surname><given-names>RG</given-names></name>, 
+<name name-style="western"><surname>Chadwick</surname><given-names>OA</given-names></name>. 
+<year>1991</year>. 
+<article-title>Numerical modeling, chemical and isotopic studies of carbonate accumulation in soils of arid regions</article-title>. 
+<source>SSSA Special Publication</source>, 
+<volume>26</volume>: 
+<fpage>17</fpage>–<lpage>35</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr036">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Maher</surname><given-names>K</given-names></name>, 
+<name name-style="western"><surname>Steefel</surname><given-names>CI</given-names></name>, 
+<name name-style="western"><surname>White</surname><given-names>AF</given-names></name>, 
+<name name-style="western"><surname>Stonestrom</surname><given-names>DA</given-names></name>. 
+<year>2009</year>. 
+<article-title>The role of reaction affinity and secondary minerals in regulating chemical weathering rates at the Santa Cruz Soil Chronosequence, California</article-title>. 
+<source>Geochimica et Cosmochimica Acta</source> 
+<volume>73</volume>: 
+<fpage>2804</fpage>–<lpage>2831</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr037">
+<mixed-citation publication-type="book">
+<name name-style="western"><surname>Mann</surname><given-names>ME</given-names></name>, 
+<name name-style="western"><surname>Kump</surname><given-names>LR</given-names></name>. 
+<year>2008</year>. 
+<source>Dire Predictions: Understanding Global Warming</source>. 
+<publisher-loc>London</publisher-loc>: 
+<publisher-name>Pearson Education</publisher-name>.</mixed-citation>
+</ref>
+<ref id="bibr038">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>McNeill</surname><given-names>JR</given-names></name>, 
+<name name-style="western"><surname>Winiwarter</surname><given-names>V</given-names></name>. 
+<year>2004</year>. 
+<article-title>Breaking the sod: Humankind, history, and soil</article-title>. 
+<source>Science</source> 
+<volume>304</volume>: 
+<fpage>1627</fpage>–<lpage>1629</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr039">
+<mixed-citation publication-type="book">
+<name name-style="western"><surname>McNeill</surname><given-names>JR</given-names></name>, 
+<name name-style="western"><surname>Winiwarter</surname><given-names>V</given-names></name>. 
+<year>2006</year>. 
+<source>Soils and Societies Perspectives from Environmental History</source>. 
+<publisher-loc>Isle of Harris, UK</publisher-loc>: 
+<publisher-name>White Horse Press</publisher-name>.</mixed-citation>
+</ref>
+<ref id="bibr040">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Minasny</surname><given-names>B</given-names></name>, 
+<name name-style="western"><surname>McBratney</surname><given-names>AB</given-names></name>, 
+<name name-style="western"><surname>Salvador-Blanes</surname><given-names>S</given-names></name>. 
+<year>2008</year>. 
+<article-title>Quantitative models for pedogenesis - A review</article-title>. 
+<source>Geoderma</source> 
+<volume>144</volume>: 
+<fpage>140</fpage>–<lpage>157</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr041">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Moore</surname><given-names>J</given-names></name>, 
+<name name-style="western"><surname>Lichtner</surname><given-names>PC</given-names></name>, 
+<name name-style="western"><surname>White</surname><given-names>AF</given-names></name>, 
+<name name-style="western"><surname>Brantley</surname><given-names>SL</given-names></name>. 
+<year>2012</year>. 
+<article-title>Using a reactive transport model to elucidate differences between laboratory and field dissolution rates in regolith</article-title>. 
+<source>Geochimica et Cosmochimica Acta</source> 
+<volume>93</volume>: 
+<fpage>235</fpage>–<lpage>261</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr042">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Perrin</surname><given-names>A-S</given-names></name>, 
+<name name-style="western"><surname>Probst</surname><given-names>A</given-names></name>, 
+<name name-style="western"><surname>Probst</surname><given-names>J-L</given-names></name>. 
+<year>2008</year>. 
+<article-title>Impact of nitrogenous fertilizers on carbonate dissolution in small agricultural catchments: implications for weathering CO<sub>2</sub> uptake at regional and global scales</article-title>. 
+<source>Geochimica et Cosmochimica Acta</source>, 
+<volume>72</volume>: 
+<fpage>3105</fpage>–<lpage>3123</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr043">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Pielke</surname><given-names>RAS</given-names></name>, 
+<name name-style="western"><surname>Marland</surname><given-names>G</given-names></name>, 
+<name name-style="western"><surname>Betts</surname><given-names>RA</given-names></name>, 
+<name name-style="western"><surname>Chase</surname><given-names>TN</given-names></name>, 
+<name name-style="western"><surname>Eastman</surname><given-names>JL</given-names></name>, <etal>et al.</etal> 
+<year>2002</year>. 
+<article-title>The influence of land-use change and landscape dynamics on the climate system: Relevance to climate-change policy beyond the radiative effect of greenhouse gases</article-title>. 
+<source>Phil. Trans.: Mathematical, Physical, and Engineering Sciences</source> 
+<volume>360</volume>: 
+<fpage>1705</fpage>–<lpage>1719</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr044">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Qu</surname><given-names>Y</given-names></name>, 
+<name name-style="western"><surname>Duffy</surname><given-names>CJ</given-names></name>. 
+<year>2007</year>. 
+<article-title>A semidiscrete finite volume formulation for multiprocess watershed simulation</article-title>. 
+<source>Water Resources Research</source> 
+<volume>43</volume>. doi:
+<pub-id pub-id-type="doi">10.1029/2006WR005752</pub-id>.</mixed-citation>
+</ref>
+<ref id="bibr045">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Rasmussen</surname><given-names>C</given-names></name>, 
+<name name-style="western"><surname>Troch</surname><given-names>PA</given-names></name>, 
+<name name-style="western"><surname>Chorover</surname><given-names>J</given-names></name>, 
+<name name-style="western"><surname>Brooks</surname><given-names>P</given-names></name>, 
+<name name-style="western"><surname>Pelletier</surname><given-names>TE</given-names></name>, <etal>et al.</etal> 
+<year>2011</year>. 
+<article-title>An open system framework for integrating Critical Zone structure and function</article-title>. 
+<source>Biogeochemistry</source> 
+<volume>102</volume>: 
+<fpage>15</fpage>–<lpage>29</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr046">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Raymond</surname><given-names>PA</given-names></name>, 
+<name name-style="western"><surname>Oh</surname><given-names>N-H</given-names></name>, 
+<name name-style="western"><surname>Turner</surname><given-names>RE</given-names></name>, 
+<name name-style="western"><surname>Broussard</surname><given-names>W</given-names></name>. 
+<year>2008</year>. 
+<article-title>Anthropogenically enhanced fluxes of water and carbon from the Mississippi River</article-title>. 
+<source>Nature</source> 
+<volume>451</volume>: 
+<fpage>449</fpage>–<lpage>452</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr047">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Regnier</surname><given-names>P</given-names></name>, 
+<name name-style="western"><surname>Friedlingstein</surname><given-names>P</given-names></name>, 
+<name name-style="western"><surname>Ciais</surname><given-names>P</given-names></name>, 
+<name name-style="western"><surname>Mackenzie</surname><given-names>FT</given-names></name>, 
+<name name-style="western"><surname>Gruber</surname><given-names>N</given-names></name>, <etal>et al.</etal> 
+<year>2013</year>. 
+<article-title>Anthropogenic perturbation of the carbon fluxes from land to ocean</article-title>. 
+<source>Nature Geoscience</source> 
+<volume>6</volume>: 
+<fpage>597</fpage>–<lpage>607</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr048">
+<mixed-citation publication-type="book">
+<name name-style="western"><surname>Richter</surname><given-names>D</given-names></name>, 
+<name name-style="western"><surname>Markewitz</surname><given-names>D</given-names></name>. 
+<year>2001</year>. 
+<source>Understanding soil change</source>. 
+<publisher-loc>U.K</publisher-loc>.: 
+<publisher-name>Cambridge University Press</publisher-name>.</mixed-citation>
+</ref>
+<ref id="bibr049">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Richter</surname><given-names>DD</given-names></name>. 
+<year>2007</year>. 
+<article-title>Humanity’s transformation of Earth’s soil: a new pedological frontier</article-title>. 
+<source>Soil Science</source> 
+<volume>172</volume>: 
+<fpage>957</fpage>–<lpage>967</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr050">
+<mixed-citation publication-type="inbook">
+<name name-style="western"><surname>Schott</surname><given-names>J</given-names></name>, 
+<name name-style="western"><surname>Pokrovsky</surname><given-names>OS</given-names></name>, 
+<name name-style="western"><surname>Oelkers</surname><given-names>EH</given-names></name>. 
+<year>2009</year>. 
+<chapter-title>The Link Between Mineral Dissolution/Precipitation Kinetics and Solution Chemistry</chapter-title>. In 
+<name name-style="western"><surname>Oelkers</surname><given-names>EH</given-names></name> and 
+<name name-style="western"><surname>Schott</surname><given-names>J</given-names></name> (ed) 
+<source>Thermodynamics and Kinetics of Water-Rock Interaction. Reviews in Mineralogy and Geochemistry</source> 
+<volume>70</volume>: 
+<fpage>207</fpage>–<lpage>258</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr051">
+<mixed-citation publication-type="book">
+<name name-style="western"><surname>Solomon</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Qin</surname><given-names>D</given-names></name>, 
+<name name-style="western"><surname>Manning</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>Chen</surname><given-names>Z</given-names></name>, 
+<name name-style="western"><surname>Marquis</surname><given-names>M</given-names></name>, <etal>et al.</etal> 
+<year>2007</year>. 
+<source>Contribution of working group 1 to the fourth assessment report of the Intergovernmental Panel on Climate Change</source>, 
+<publisher-name>Cambridge University Press</publisher-name>, 
+<publisher-loc>Cambridge, United Kingdom and New York, NY, USA</publisher-loc>.</mixed-citation>
+</ref>
+<ref id="bibr052">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Spence</surname><given-names>RE</given-names></name>, 
+<name name-style="western"><surname>Telmer</surname><given-names>K</given-names></name>. 
+<year>2005</year>. 
+<article-title>The role of sulfur in chemical weathering and atmospheric CO<sub>2</sub> fluxes: evidence from major ions, δ<sup>13</sup>C<sub>DIC</sub>, and δ<sup>34</sup>S<sub>SO4</sub> in rivers of the Canadian Cordillera</article-title>. 
+<source>Geochimica et Cosmochimica Acta</source>, 
+<volume>69</volume>: 
+<fpage>5441</fpage>–<lpage>5458</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr053">
+<mixed-citation publication-type="book">
+<collab>U.S. National Research Council Committee on Basic Research Opportunities in the Earth Sciences</collab>, 
+<year>2001</year>. 
+<source>Basic Research Opportunities in Earth Science</source>. 
+<publisher-loc>Washington, D.C</publisher-loc>.: 
+<publisher-name>National Academy Press</publisher-name>.</mixed-citation>
+</ref>
+<ref id="bibr054">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>vanMantgem</surname><given-names>PJ</given-names></name>, 
+<name name-style="western"><surname>Stephenson</surname><given-names>NL</given-names></name>, 
+<name name-style="western"><surname>Byrne</surname><given-names>JC</given-names></name>, 
+<name name-style="western"><surname>Daniels</surname><given-names>LD</given-names></name>, 
+<name name-style="western"><surname>Franklin</surname><given-names>JF</given-names></name>, <etal>et al.</etal> 
+<year>2009</year>. 
+<article-title>Widespread increase of tree mortality rates in the western United States</article-title>. 
+<source>Science</source> 
+<volume>323</volume>: 
+<fpage>521</fpage>–<lpage>524</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr055">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Vitousek</surname><given-names>PM</given-names></name>, 
+<name name-style="western"><surname>Mooney</surname><given-names>HA</given-names></name>, 
+<name name-style="western"><surname>Lubchenco</surname><given-names>J</given-names></name>, 
+<name name-style="western"><surname>Melillo</surname><given-names>JM</given-names></name>. 
+<year>1997</year>. 
+<article-title>Human domination of Earth’s ecosystems</article-title>. 
+<source>Science</source> 
+<volume>277</volume>: 
+<fpage>494</fpage>–<lpage>499</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr056">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Walker</surname><given-names>JCG</given-names></name>, 
+<name name-style="western"><surname>Hays</surname><given-names>PB</given-names></name>, 
+<name name-style="western"><surname>Kasting</surname><given-names>JF</given-names></name>. 
+<year>1981</year>. 
+<article-title>A negative feedback mechanism for the long-term stabilization of Earth’s surface temperature</article-title>. 
+<source>J. Geophys. Res.</source>, 
+<volume>86</volume>: 
+<fpage>9776</fpage>–<lpage>9782</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr057">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Walter</surname><given-names>RC</given-names></name>, 
+<name name-style="western"><surname>Merritts</surname><given-names>DJ</given-names></name>. 
+<year>2008</year>. 
+<article-title>Natural streams and the legacy of water-powered mills</article-title>. 
+<source>Science</source> 
+<volume>18</volume>: 
+<fpage>299</fpage>–<lpage>304</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr058">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>West</surname><given-names>AJ</given-names></name>. 
+<year>2012</year>. 
+<article-title>Thickness of the chemical weathering zone and implications for erosional and climatic drivers of weathering and for carbon-cycle feedbacks</article-title>. 
+<source>Geology</source>, 
+<volume>40</volume>: 
+<fpage>811</fpage>–<lpage>814</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr059">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>West</surname><given-names>AJ</given-names></name>, 
+<name name-style="western"><surname>Galy</surname><given-names>A</given-names></name>, 
+<name name-style="western"><surname>Bickle</surname><given-names>M</given-names></name>. 
+<year>2005</year>. 
+<article-title>Tectonic and climatic controls on silicate weathering</article-title>. 
+<source>Earth and Planetary Science Letters</source>, 
+<volume>235</volume>: 
+<fpage>211</fpage>–<lpage>228</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr060">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Wilkinson</surname><given-names>BH</given-names></name>. 
+<year>2005</year>. 
+<article-title>Humans as geologic agents: A deep-time perspective</article-title>. 
+<source>Geology</source> 
+<volume>33</volume>: 
+<fpage>161</fpage>–<lpage>164</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr061">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Wilkinson</surname><given-names>BH</given-names></name> and 
+<name name-style="western"><surname>McElroy</surname><given-names>BJ</given-names></name>. 
+<year>2007</year>. 
+<article-title>The impact of humans on continental erosion and sedimentation</article-title>. 
+<source>Geological Society of American Bulletin</source> 
+<volume>119</volume>: 
+<fpage>140</fpage>–<lpage>156</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr062">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Williams</surname><given-names>JZ</given-names></name>, 
+<name name-style="western"><surname>Bandstra</surname><given-names>JZ</given-names></name>, 
+<name name-style="western"><surname>Pollard</surname><given-names>D</given-names></name>, 
+<name name-style="western"><surname>Brantley</surname><given-names>SL</given-names></name>. 
+<year>2010</year>. 
+<article-title>The temperature dependence of feldspar dissolution determined using a coupled weathering-climate model for Holocene-aged loess soils</article-title>. 
+<source>Geoderma</source>, 
+<volume>156</volume>: 
+<fpage>11</fpage>–<lpage>19</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr063">
+<mixed-citation publication-type="inbook">
+<name name-style="western"><surname>Yaalon</surname><given-names>DH</given-names></name>. 
+<year>1983</year>. 
+<chapter-title>Climate, Time and Soil Development</chapter-title>. In 
+<name name-style="western"><surname>Wilding</surname><given-names>LP</given-names></name>, 
+<name name-style="western"><surname>Smeck</surname><given-names>NE</given-names></name>, and 
+<name name-style="western"><surname>Hall</surname><given-names>GF</given-names></name> ed, 
+<source>Pedogenesis and Soil Taxonomy, part 1, Concepts and Interactions</source>. pp 
+<fpage>233</fpage>–<lpage>251</lpage>. 
+<publisher-loc>Amsterdam</publisher-loc>: 
+<publisher-name>Elsevier, Developments in Soil Science</publisher-name>.</mixed-citation>
+</ref>
+<ref id="bibr064">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Zalzsiewicz</surname><given-names>J</given-names></name>, 
+<name name-style="western"><surname>Williams</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>Smith</surname><given-names>A</given-names></name>, 
+<name name-style="western"><surname>Barry</surname><given-names>TL</given-names></name>, 
+<name name-style="western"><surname>Coe</surname><given-names>AL</given-names></name>, 
+<name name-style="western"><surname>Bown</surname><given-names>PR</given-names></name>, 
+<name name-style="western"><surname>Brenchley</surname><given-names>P</given-names></name>, 
+<name name-style="western"><surname>Cantrill</surname><given-names>D</given-names></name>, 
+<name name-style="western"><surname>Gale</surname><given-names>A</given-names></name>, 
+<name name-style="western"><surname>Gibbard</surname><given-names>P</given-names></name>, 
+<name name-style="western"><surname>Gregory</surname><given-names>FJ</given-names></name>, 
+<name name-style="western"><surname>Hounslow</surname><given-names>MW</given-names></name>, 
+<name name-style="western"><surname>Kerr</surname><given-names>AC</given-names></name>, 
+<name name-style="western"><surname>Pearson</surname><given-names>P</given-names></name>, 
+<name name-style="western"><surname>Know</surname><given-names>R</given-names></name>, 
+<name name-style="western"><surname>Powell</surname><given-names>J</given-names></name>, 
+<name name-style="western"><surname>Waters</surname><given-names>C</given-names></name>, 
+<name name-style="western"><surname>Marshall</surname><given-names>J</given-names></name>, 
+<name name-style="western"><surname>Oates</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>Rawson</surname><given-names>P</given-names></name>, and 
+<name name-style="western"><surname>Stone</surname><given-names>P</given-names></name>. 
+<year>2008</year>. 
+<article-title>Are we now living in the Anthropocene?</article-title> 
+<source>GSA Today</source> 
+<volume>18</volume>: 
+<fpage>3</fpage>–<lpage>8</lpage>.</mixed-citation>
+</ref>
+</ref-list></back>
+</article>

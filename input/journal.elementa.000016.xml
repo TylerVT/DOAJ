@@ -1,0 +1,1103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="commentary" dtd-version="1.0" xml:lang="en">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">BioOne</journal-id>
+<journal-id journal-id-type="journal-id">Elementa</journal-id>
+<journal-title-group>
+<journal-title>Elementa</journal-title>
+<journal-subtitle>Science of the Anthropocene</journal-subtitle>
+<abbrev-journal-title>Elem. Sci. Anth.</abbrev-journal-title>
+</journal-title-group>
+<contrib-group>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Helmig</surname><given-names>Detlev</given-names></name>
+<xref ref-type="aff" rid="affa"/>
+<role>Editor-in-Chief: Atmospheric Science</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/detlev-helmig/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Blum</surname><given-names>Joel D.</given-names></name>
+<xref ref-type="aff" rid="affb"/>
+<role>Editor-in-Chief: Earth &amp; Environmental Science</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/joel-d-blum/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Zak</surname><given-names>Donald R.</given-names></name>
+<xref ref-type="aff" rid="affb"/>
+<role>Editor-in-Chief: Ecology</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/donald-r-zak/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Deming</surname><given-names>Jody W.</given-names></name>
+<xref ref-type="aff" rid="affc"/>
+<role>Editor-in-Chief: Ocean Science</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/jody-w-deming/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Chang</surname><given-names>Michael E.</given-names></name>
+<xref ref-type="aff" rid="affd"/>
+<role>Editor-in-Chief: Sustainable Engineering</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/michael-e-chang/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Kapuscinski</surname><given-names>Anne</given-names></name>
+<xref ref-type="aff" rid="affe"/>
+<role>Editor-in-Chief: Sustainability Transitions</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/anne-kapuscinski/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Peart</surname><given-names>David R.</given-names></name>
+<xref ref-type="aff" rid="affe"/>
+<role>Editor-in-Chief: Sustainability Transitions</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/david-r-peart/</uri>
+</contrib>
+</contrib-group>
+<aff id="affa">
+<institution>University of Colorado Boulder</institution>
+<country>United States</country>
+</aff>
+<aff id="affb">
+<institution>University of Michigan</institution>
+<country>United States</country>
+</aff>
+<aff id="affc">
+<institution>University of Washington</institution>
+<country>United States</country>
+</aff>
+<aff id="affd">
+<institution>Georgia Institute of Technology</institution>
+<country>United States</country>
+</aff>
+<aff id="affe">
+<institution>Dartmouth</institution>
+<country>United States</country>
+</aff>
+<issn pub-type="epub">2325-1026</issn>
+<publisher>
+<publisher-name>BioOne</publisher-name>
+<publisher-loc>21 Dupont Circle NW, Suite 800, Washington, DC 20036, United States<email>team@elementascience.org</email>
+<uri>http://bioone.org</uri><uri>http://elementascience.org</uri>
+</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">ELEMENTA-D-13-00019</article-id>
+<article-id pub-id-type="doi">10.12952/journal.elementa.000016</article-id>
+<article-categories>
+<subj-group subj-group-type="article-type">
+<subject>Commentary</subject>
+</subj-group>
+<subj-group subj-group-type="domain">
+<subject>Ecology</subject>
+</subj-group>
+<subj-group subj-group-type="classification">
+<subject>Ecology</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Becoming Europe: Southeast Asia in the Anthropocene</article-title>
+<alt-title alt-title-type="short-title">Southeast Asia in the Anthropocene</alt-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Corlett</surname><given-names>Richard T.</given-names></name>
+<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+<xref ref-type="corresp" rid="cor1"><sup>*</sup></xref>
+</contrib>
+</contrib-group>
+<aff id="aff1"><label>1</label>
+<institution content-type="dept">Center for Integrative Conservation, Xishuangbanna Tropical Botanical Garden</institution>, <institution>Chinese Academy of Sciences</institution>, <addr-line content-type="city">Menglun</addr-line>, <addr-line content-type="state">Yunnan</addr-line>, <country>China</country></aff>
+<contrib-group>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Zak</surname><given-names>Donald R.</given-names></name>
+<role>Domain Editor-in-Chief</role>
+<xref ref-type="aff" rid="afff"/>
+</contrib>
+</contrib-group>
+<aff id="afff">
+<institution content-type="dept">School of Natural Resources &amp; Environment</institution>
+<institution>University of Michigan</institution>
+<addr-line content-type="city">Ann Arbor</addr-line>
+<addr-line content-type="state">Michigan</addr-line>
+<country>United States</country>
+</aff>
+<author-notes><corresp id="cor1"><label><sup>*</sup></label><email xlink:type="simple">corlett@xtbg.org.cn</email></corresp>
+<fn fn-type="conflict"><p>The author declared that no competing interests exist.</p></fn>
+</author-notes>
+<pub-date pub-type="epub" iso-8601-date="2013-12-04">
+<day>04</day>
+<month>12</month>
+<year>2013</year>
+</pub-date>
+<volume content-type="volume">1</volume>
+<elocation-id>000016</elocation-id>
+<history>
+<date date-type="received" iso-8601-date="2013-09-17">
+<day>17</day>
+<month>09</month>
+<year>2013</year>
+</date>
+<date date-type="rev-recd" iso-8601-date="2013-10-30">
+<day>30</day>
+<month>10</month>
+<year>2013</year>
+</date>
+<date date-type="accepted" iso-8601-date="2013-10-31">
+<day>31</day>
+<month>10</month>
+<year>2013</year>
+</date>
+</history>
+<permissions>
+<copyright-year>2013</copyright-year>
+<copyright-holder>Corlett.</copyright-holder>
+<license license-type="open-access" xlink:type="simple">
+<license-p><open-access><p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</p>
+</open-access>
+</license-p>
+</license>
+</permissions>
+<kwd-group>
+<kwd>biodiversity conservation</kwd>
+<kwd>deforestation</kwd>
+<kwd>extinction</kwd>
+</kwd-group>
+</article-meta>
+</front>
+<body>
+<sec id="sMain">
+<title/>
+<p>When I visited the Southeast Asian tropics as an undergraduate in 1973 it seemed as different from my European home as anywhere on Earth could be. The forest was already in retreat, but large contiguous tracts remained virtually intact. Fast-forward 40 years, however, and more than half of the original forest cover of Southeast Asia has gone, more than half of what remains has been logged or otherwise degraded, and the majority, logged or unlogged, has lost most or all of its large vertebrate fauna to hunting (<xref ref-type="bibr" rid="bibr002">Corlett, 2009</xref>). The non-forest areas are increasingly dominated by plantation monocultures, or by urban areas and their associated infrastructure, and most of the native biota is confined to areas with more or less intact forest cover, while a few native species and an increasing number of exotics have massively expanded their populations. Air pollution and nitrogen deposition are pervasive, but unstudied, problems and the impacts of climate change are becoming apparent.</p>
+<p>The crop monocultures are trees rather than cereals, but in other ways the region is fast becoming a tropical version of Europe. The densely-populated Philippines and Vietnam have similar human population densities to Belgium and the UK, and relatively sparsely populated Laos to Sweden (<xref ref-type="table" rid="elementa.000016.t001">Table 1</xref>). At the regional scale, Southeast Asia has a somewhat higher mean population density than the European Union (EU) and, since it is still less urbanized, rural population densities are even higher. The per-capita GDPs of the richer countries in Southeast Asia (excluding tiny Singapore and oil-rich Brunei) already overlap with the poorer countries in the EU, and are rising more rapidly. Other statistics are also converging, including infant mortality, life expectancy, and total fertility rates (<xref ref-type="table" rid="elementa.000016.t001">Table 1</xref>). Both regions were once largely forested and their total remaining forest cover is similar today (44% for TEA, 37% for the EU), as is the variation among countries, although nowhere in Southeast Asia has as little forest left as the Netherlands, Ireland and the UK. Both regions have suffered few known extinctions in historical times (<uri>iucnredlist.org</uri>).</p>
+<table-wrap id="elementa.000016.t001" position="float">
+<object-id pub-id-type="doi">10.12952/journal.elementa.000016.t001</object-id>
+<label>Table 1</label><caption><title>Statistics relevant to biodiversity conservation in Southeast Asia (ASEAN), Europe (EU), and representative countries from the two regions</title></caption>
+<alternatives><graphic id="elementa.000016.t001-i" position="float" mimetype="image" xlink:type="simple" xlink:href="info:doi/10.12952/journal.elementa.000016.t001"/>
+<table>
+<colgroup span="1">
+<col width="10%" span="1"/>
+<col width="5%" span="1"/>
+<col width="10%" span="1"/>
+<col width="5%" span="1"/>
+<col width="10%" span="1"/>
+<col width="20%" span="1"/>
+<col width="20%" span="1"/>
+<col width="20%" span="1"/>
+</colgroup>
+<thead>
+<tr>
+<th rowspan="1" colspan="1">
+Country or Region
+</th>
+<th rowspan="1" colspan="1">
+Population density (km<sup>-2</sup>)<xref ref-type="table-fn" rid="TF1-1">1</xref>
+</th>
+<th rowspan="1" colspan="1">
+GDP per capita (PPP)<xref ref-type="table-fn" rid="TF1-2">2</xref>
+</th>
+<th rowspan="1" colspan="1">
+Infant mortality rate (deaths per 1000 births)<xref ref-type="table-fn" rid="TF1-1">1</xref>
+</th>
+<th rowspan="1" colspan="1">
+Life expectancy at birth (years)<xref ref-type="table-fn" rid="TF1-1">1</xref>
+</th>
+<th rowspan="1" colspan="1">
+Total fertility rate (children per women)<xref ref-type="table-fn" rid="TF1-1">1</xref>
+</th>
+<th rowspan="1" colspan="1">
+Forest cover (%) (excluding rubber and oil palm plantations)<xref ref-type="table-fn" rid="TF1-3">3</xref>
+</th>
+<th rowspan="1" colspan="1">Percentage of terrestrial and marine area protected<xref ref-type="table-fn" rid="TF1-4">4</xref>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<bold>Year(s)</bold>
+</td>
+<td rowspan="1" colspan="1">
+<bold>2010-15</bold>
+</td>
+<td rowspan="1" colspan="1">
+<bold>2012</bold>
+</td>
+<td rowspan="1" colspan="1">
+<bold>2010-15</bold>
+</td>
+<td rowspan="1" colspan="1">
+<bold>2010-15</bold>
+</td>
+<td rowspan="1" colspan="1">
+<bold>2010-15</bold>
+</td>
+<td rowspan="1" colspan="1">
+<bold>2010</bold>
+</td>
+<td rowspan="1" colspan="1">
+<bold>2012</bold>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+Cambodia
+</td>
+<td rowspan="1" colspan="1">
+74
+</td>
+<td rowspan="1" colspan="1">
+2,402
+</td>
+<td rowspan="1" colspan="1">
+41
+</td>
+<td rowspan="1" colspan="1">
+72
+</td>
+<td rowspan="1" colspan="1">
+2.9
+</td>
+<td rowspan="1" colspan="1">
+57
+</td>
+<td rowspan="1" colspan="1">
+24
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+Indonesia
+</td>
+<td rowspan="1" colspan="1">
+124
+</td>
+<td rowspan="1" colspan="1">
+4,977
+</td>
+<td rowspan="1" colspan="1">
+26
+</td>
+<td rowspan="1" colspan="1">
+71
+</td>
+<td rowspan="1" colspan="1">
+2.4
+</td>
+<td rowspan="1" colspan="1">
+50
+</td>
+<td rowspan="1" colspan="1">
+9
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+Laos P.D.R.
+</td>
+<td rowspan="1" colspan="1">
+28
+</td>
+<td rowspan="1" colspan="1">
+3,011
+</td>
+<td rowspan="1" colspan="1">
+36
+</td>
+<td rowspan="1" colspan="1">
+68
+</td>
+<td rowspan="1" colspan="1">
+3.1
+</td>
+<td rowspan="1" colspan="1">
+68
+</td>
+<td rowspan="1" colspan="1">
+17
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+Malaysia
+</td>
+<td rowspan="1" colspan="1">
+90
+</td>
+<td rowspan="1" colspan="1">
+16,922
+</td>
+<td rowspan="1" colspan="1">
+10
+</td>
+<td rowspan="1" colspan="1">
+75
+</td>
+<td rowspan="1" colspan="1">
+2.0
+</td>
+<td rowspan="1" colspan="1">
+58
+</td>
+<td rowspan="1" colspan="1">
+14
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+Myanmar
+</td>
+<td rowspan="1" colspan="1">
+73
+</td>
+<td rowspan="1" colspan="1">
+1,405
+</td>
+<td rowspan="1" colspan="1">
+49
+</td>
+<td rowspan="1" colspan="1">
+65
+</td>
+<td rowspan="1" colspan="1">
+2.0
+</td>
+<td rowspan="1" colspan="1">
+48
+</td>
+<td rowspan="1" colspan="1">
+6
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+Philippines
+</td>
+<td rowspan="1" colspan="1">
+326
+</td>
+<td rowspan="1" colspan="1">
+4,430
+</td>
+<td rowspan="1" colspan="1">
+21
+</td>
+<td rowspan="1" colspan="1">
+69
+</td>
+<td rowspan="1" colspan="1">
+3.1
+</td>
+<td rowspan="1" colspan="1">
+26
+</td>
+<td rowspan="1" colspan="1">
+5
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+Thailand
+</td>
+<td rowspan="1" colspan="1">
+128
+</td>
+<td rowspan="1" colspan="1">
+10,126
+</td>
+<td rowspan="1" colspan="1">
+10
+</td>
+<td rowspan="1" colspan="1">
+74
+</td>
+<td rowspan="1" colspan="1">
+1.4
+</td>
+<td rowspan="1" colspan="1">
+33
+</td>
+<td rowspan="1" colspan="1">
+16
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+Vietnam
+</td>
+<td rowspan="1" colspan="1">
+268
+</td>
+<td rowspan="1" colspan="1">
+3,548
+</td>
+<td rowspan="1" colspan="1">
+14
+</td>
+<td rowspan="1" colspan="1">
+76
+</td>
+<td rowspan="1" colspan="1">
+1.8
+</td>
+<td rowspan="1" colspan="1">
+44
+</td>
+<td rowspan="1" colspan="1">
+5
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<bold>ASEAN</bold>
+</td>
+<td rowspan="1" colspan="1">
+<bold>135</bold>
+</td>
+<td rowspan="1" colspan="1">
+<bold>5,857</bold>
+</td>
+<td rowspan="1" colspan="1">
+<bold>24</bold>
+</td>
+<td rowspan="1" colspan="1">
+<bold>72</bold>
+</td>
+<td rowspan="1" colspan="1">
+<bold>2.3</bold>
+</td>
+<td rowspan="1" colspan="1">
+<bold>44</bold>
+</td>
+<td rowspan="1" colspan="1">
+<bold>-</bold>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+Belgium
+</td>
+<td rowspan="1" colspan="1">
+352
+</td>
+<td rowspan="1" colspan="1">
+37,883
+</td>
+<td rowspan="1" colspan="1">
+3
+</td>
+<td rowspan="1" colspan="1">
+80
+</td>
+<td rowspan="1" colspan="1">
+1.9
+</td>
+<td rowspan="1" colspan="1">
+22
+</td>
+<td rowspan="1" colspan="1">
+24
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+Bulgaria
+</td>
+<td rowspan="1" colspan="1">
+69
+</td>
+<td rowspan="1" colspan="1">
+14,312
+</td>
+<td rowspan="1" colspan="1">
+9
+</td>
+<td rowspan="1" colspan="1">
+74
+</td>
+<td rowspan="1" colspan="1">
+1.5
+</td>
+<td rowspan="1" colspan="1">
+36
+</td>
+<td rowspan="1" colspan="1">
+35
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+Finland
+</td>
+<td rowspan="1" colspan="1">
+16
+</td>
+<td rowspan="1" colspan="1">
+36,395
+</td>
+<td rowspan="1" colspan="1">
+2
+</td>
+<td rowspan="1" colspan="1">
+81
+</td>
+<td rowspan="1" colspan="1">
+1.9
+</td>
+<td rowspan="1" colspan="1">
+73
+</td>
+<td rowspan="1" colspan="1">
+15
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+France
+</td>
+<td rowspan="1" colspan="1">
+100
+</td>
+<td rowspan="1" colspan="1">
+35,548
+</td>
+<td rowspan="1" colspan="1">
+3
+</td>
+<td rowspan="1" colspan="1">
+82
+</td>
+<td rowspan="1" colspan="1">
+2.0
+</td>
+<td rowspan="1" colspan="1">
+29
+</td>
+<td rowspan="1" colspan="1">
+29
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+Germany
+</td>
+<td rowspan="1" colspan="1">
+230
+</td>
+<td rowspan="1" colspan="1">
+39,028
+</td>
+<td rowspan="1" colspan="1">
+3
+</td>
+<td rowspan="1" colspan="1">
+81
+</td>
+<td rowspan="1" colspan="1">
+1.4
+</td>
+<td rowspan="1" colspan="1">
+32
+</td>
+<td rowspan="1" colspan="1">
+49
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+Italy
+</td>
+<td rowspan="1" colspan="1">
+200
+</td>
+<td rowspan="1" colspan="1">
+30,136
+</td>
+<td rowspan="1" colspan="1">
+3
+</td>
+<td rowspan="1" colspan="1">
+82
+</td>
+<td rowspan="1" colspan="1">
+1.5
+</td>
+<td rowspan="1" colspan="1">
+31
+</td>
+<td rowspan="1" colspan="1">
+21
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+Netherlands
+</td>
+<td rowspan="1" colspan="1">
+397
+</td>
+<td rowspan="1" colspan="1">
+42,194
+</td>
+<td rowspan="1" colspan="1">
+4
+</td>
+<td rowspan="1" colspan="1">
+81
+</td>
+<td rowspan="1" colspan="1">
+1.8
+</td>
+<td rowspan="1" colspan="1">
+11
+</td>
+<td rowspan="1" colspan="1">
+31
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+Poland
+</td>
+<td rowspan="1" colspan="1">
+122
+</td>
+<td rowspan="1" colspan="1">
+22,162
+</td>
+<td rowspan="1" colspan="1">
+6
+</td>
+<td rowspan="1" colspan="1">
+76
+</td>
+<td rowspan="1" colspan="1">
+1.4
+</td>
+<td rowspan="1" colspan="1">
+30
+</td>
+<td rowspan="1" colspan="1">
+35
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+Romania
+</td>
+<td rowspan="1" colspan="1">
+84
+</td>
+<td rowspan="1" colspan="1">
+12,808
+</td>
+<td rowspan="1" colspan="1">
+11
+</td>
+<td rowspan="1" colspan="1">
+74
+</td>
+<td rowspan="1" colspan="1">
+1.4
+</td>
+<td rowspan="1" colspan="1">
+29
+</td>
+<td rowspan="1" colspan="1">
+19
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+Spain
+</td>
+<td rowspan="1" colspan="1">
+93
+</td>
+<td rowspan="1" colspan="1">
+30,557
+</td>
+<td rowspan="1" colspan="1">
+3
+</td>
+<td rowspan="1" colspan="1">
+82
+</td>
+<td rowspan="1" colspan="1">
+1.5
+</td>
+<td rowspan="1" colspan="1">
+36
+</td>
+<td rowspan="1" colspan="1">
+25
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+Sweden
+</td>
+<td rowspan="1" colspan="1">
+21
+</td>
+<td rowspan="1" colspan="1">
+41,191
+</td>
+<td rowspan="1" colspan="1">
+2
+</td>
+<td rowspan="1" colspan="1">
+83
+</td>
+<td rowspan="1" colspan="1">
+1.5
+</td>
+<td rowspan="1" colspan="1">
+69
+</td>
+<td rowspan="1" colspan="1">
+14
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+U.K.
+</td>
+<td rowspan="1" colspan="1">
+252
+</td>
+<td rowspan="1" colspan="1">
+36,941
+</td>
+<td rowspan="1" colspan="1">
+4
+</td>
+<td rowspan="1" colspan="1">
+80
+</td>
+<td rowspan="1" colspan="1">
+1.9
+</td>
+<td rowspan="1" colspan="1">
+12
+</td>
+<td rowspan="1" colspan="1">
+23
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<bold>EU</bold>
+</td>
+<td rowspan="1" colspan="1">
+<bold>115</bold>
+</td>
+<td rowspan="1" colspan="1">
+<bold>32,021</bold>
+</td>
+<td rowspan="1" colspan="1">
+<bold>4</bold>
+</td>
+<td rowspan="1" colspan="1">
+<bold>80</bold>
+</td>
+<td rowspan="1" colspan="1">
+<bold>1.6</bold>
+</td>
+<td rowspan="1" colspan="1">
+<bold>37</bold>
+</td>
+<td rowspan="1" colspan="1">
+<bold>21</bold>
+</td>
+</tr>
+</tbody>
+</table></alternatives>
+<table-wrap-foot>
+<fn-group>
+<fn id="TF1-1"><label>1</label> <p><xref ref-type="bibr" rid="bibr020">UN (2013)</xref>.</p></fn>
+<fn id="TF1-2"><label>2</label><p>World Bank: <uri>http://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?order=wbapi_data_value_2012+wbapi_data_value+wbapi_data_value-last&amp;sort=desc</uri>.</p></fn>
+<fn id="TF1-3"><label>3</label> <p><xref ref-type="bibr" rid="bibr007">FAO (2010)</xref>.</p></fn>
+<fn id="TF1-4"><label>4</label> <p>Millennium Development Goals Indicators: <uri>http://mdgs.un.org/unsd/mdg/SeriesDetail.aspx?srid=616</uri>.</p></fn></fn-group></table-wrap-foot></table-wrap>
+<p>Despite these similarities, Europe is considered a relative success story in conservation terms, while Southeast Asia is widely seen as an on-going biodiversity crisis (<xref ref-type="bibr" rid="bibr016">Sodhi et al., 2004</xref>, <xref ref-type="bibr" rid="bibr017">2010</xref>; <xref ref-type="bibr" rid="bibr21">Wilcove et al., 2013</xref>). There are good reasons for this. First, there is much more biodiversity at stake in Southeast Asia, which, in well-studied groups, supports 15–25% of global terrestrial species (<xref ref-type="bibr" rid="bibr002">Corlett, 2009</xref>). Europe, by contrast, has considerably fewer species (&lt; 5% of the global total) in a similar total land area. Secondly, species in tropical forests are likely to be more vulnerable to extinction, both because high biodiversity means small population sizes, but also because of the extreme contrast between the environment of closed-canopy tropical forests and the anthropogenic habitats that replace them. Few non-coastal native species can survive outside forest in Southeast Asia, while many have adapted to human-dominated landscapes in Europe. Thirdly, the ecological transformation of Southeast Asia has been extremely rapid and the persistence of many species only as tiny, isolated populations implies large extinction debts. Moreover, while European landscapes are now changing relatively slowly, there is no sign of a slowdown in Southeast Asia, implying a future with less forest and fewer species. Finally, Europe is the ecologically best-known region of the planet, while Southeast Asia is still among the least, to the detriment of conservation planning and implementation.</p>
+<p>This new tropical landscape calls for a new tropical ecology: one that does not require large tracts of pristine forest, or ‘fragments’ of this forest isolated in a uniformly hostile matrix. An ecology of patches of irregular size, shape, history and composition, of novel ecosystems that combine species which have not previous met, of chronic disturbances and ubiquitous edge effects, of heterogeneity and change. European ecologists have always worked in such landscapes, since they have no others, but the foundations of this new ‘tropical countryside ecology’ have been laid in the most densely populated areas of the Neotropics, including Costa Rica and parts of Brazil (e.g., <xref ref-type="bibr" rid="bibr014">Mendenhall et al., 2011</xref>; <xref ref-type="bibr" rid="bibr019">Tabarelli et al., 2012</xref>; <xref ref-type="bibr" rid="bibr013">Melo et al., 2013</xref>). The new tropical ecologists work at the landscape scale or above, or integrate studies across multiple spatial scales to separate landscape- and patch-level processes (<xref ref-type="bibr" rid="bibr006">Ewers et al., 2011</xref>). New tools are helping to make these approaches practical in the tropics, with high-resolution satellite data facilitating work in areas with poor access, GPS-based radiotelemetry documenting habitat use by animals (<xref ref-type="bibr" rid="bibr015">Price-Rees et al., 2013</xref>), and metabarcoding promising the direct assessment of total biodiversity (<xref ref-type="bibr" rid="bibr012">Ji et al., 2013</xref>). One noticeable trait shared with European ecology is a frequent focus on the ecology of one or a few species, since these can make ecological sense of complex and changing landscapes. The large, more or less uniform, forest plots that have dominated tropical ecology over the last 20 years still produce important data, but studies in them are now increasingly focused on anthropogenic impacts, including hunting (<xref ref-type="bibr" rid="bibr009">Harrison et al., 2013</xref>) and climate change (<xref ref-type="bibr" rid="bibr001">Clark et al., 2013</xref>).</p>
+<p>Despite some early optimism that many tropical forest species could persist in human-dominated agricultural landscapes, the evidence increasingly suggests that their continuing persistence as these landscapes age will depend on active conservation management informed by ecological research (<xref ref-type="bibr" rid="bibr003">Corlett, 2013</xref>; <xref ref-type="bibr" rid="bibr013">Melo et al., 2013</xref>). This is another area where Southeast Asia can learn useful lessons from Europe, particularly the need for a top-down, regional approach to conservation prioritization and planning. The major mechanism to protect biodiversity in Europe is the EU’s Nature 2000 network of protected areas, which covers 18% of the total land area, selected, top-down, to protect the region’s most vulnerable species and habitats (ec.europa.eu/environment/nature/). Southeast Asia could also learn from the variety of landscapes and management systems incorporated into European protected areas, particularly in Indonesia, where logged forest has often been viewed as worthless, yet retains most of the biodiversity of unlogged sites (<xref ref-type="bibr" rid="bibr008">Gaveau et al., 2013</xref>). Other regional initiatives that could usefully be emulated in Southeast Asia include the European Red Lists and the standardization of approaches to invasive alien species. While nobody would suggest that these initiatives are free of problems (e.g. <xref ref-type="bibr" rid="bibr011">Jantke et al., 2011</xref>; <xref ref-type="bibr" rid="bibr005">Dullinger et al., 2013</xref>; <xref ref-type="bibr" rid="bibr010">Henle et al., 2013</xref>), they provide opportunities for dealing with threats to regional biodiversity in Europe that are not currently available for the similar threats in Southeast Asia.</p>
+<p>Emulating this top-down approach will be more challenging in Southeast Asia, however. The EU and its Southeast Asian equivalent, the Association of Southeast Asian Nations (ASEAN), are both intergovernmental organizations of independent states, but the EU is also a supranational entity with enforceable powers, which ASEAN is not. ASEAN’s current regional conservation initiatives, such as the Centre for Biodiversity and the Wildlife Enforcement Network (<uri>www.aseanbiodiversity.org/</uri>), act in support of regional governmental agencies and lack powers of their own. Yet the need for effective supranational monitoring, priority setting, and action is at least as great in Southeast Asia as it is in Europe. Planning conservation solely at the national level not only risks gaps and duplication, but also the displacement of environmental impacts, such as logging and hunting, across borders. The big international NGOs (particularly Worldwide Fund for Nature, Wildlife Conservation Society, Conservation International, and Nature Conservancy) have partly filled this gap, with top-down regional prioritization exercises and the WWF-initiated ‘Heart of Borneo’ project, which aims to protect a 220,000 km<sup>2</sup> region shared by three countries, Brunei, Indonesia and Malaysia (<xref ref-type="bibr" rid="bibr018">Stone, 2007</xref>). However, foreign NGOs can only offer advice and some initial funding, and the long-term success of these initiatives depends on governments.</p>
+<p>In many ways Southeast Asia has been recapitulating the economic and environmental transformation of Europe: completing in decades a process that took centuries in Europe. But in the last 30 years, Europe has stepped back from the environmental brink, trying to protect species and habitats, while controlling pollution and other impacts. Southeast Asia has not yet done this, but Europe shows how much can be achieved without sacrificing other values. Success in the recovery of a number of iconic large mammal and bird species after decades of conservation effort (<xref ref-type="bibr" rid="bibr004">Deinet et al., 2013</xref>), has spurred ambitious plans for ‘rewilding’ large areas of Europe: a trend diametrically opposed to what is currently happening in Southeast Asia. As their economies and life-styles continue to converge, however, ASEAN could do worse than adopt the slogan of the European Commission’s new Environment Action Programme: “Living well, within the limits of our planet”.</p>
+</sec>
+<sec id="s1" sec-type="copyright-statement"><title>Copyright</title>
+<p>© 2013 Corlett. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</p></sec>
+</body>
+<back>
+<ack><title>Acknowledgments</title>
+<p>I am grateful for comments, suggestions and encouragement from Alice Hughes, Ferry Slik, and two reviewers.</p></ack>
+<ref-list content-type="parsed"><title>References</title>
+<ref id="bibr001">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Clark</surname><given-names>DA</given-names></name>, 
+<name name-style="western"><surname>Clark</surname><given-names>DB</given-names></name>, 
+<name name-style="western"><surname>Oberbauer</surname><given-names>SF</given-names></name>. 
+<year>2013</year>. 
+<article-title>Field-quantified responses of tropical rainforest aboveground productivity to increasing CO<sub>2</sub> and climatic stress, 1997–2009</article-title>. 
+<source>Journal of Geophysical Research: Biogeosciences</source> 
+<volume>118</volume>: 
+<fpage>783</fpage>–<lpage>794</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr002">
+<mixed-citation publication-type="book">
+<name name-style="western"><surname>Corlett</surname><given-names>RT</given-names></name>. 
+<year>2009</year>. 
+<source>The Ecology of Tropical East Asia</source>. 
+<publisher-loc>Oxford, UK</publisher-loc>: 
+<publisher-name>Oxford University Press</publisher-name>.</mixed-citation>
+</ref>
+<ref id="bibr003">
+<mixed-citation publication-type="inbook">
+<name name-style="western"><surname>Corlett</surname><given-names>RT</given-names></name>. 
+<year>2013</year>. 
+<chapter-title>Singapore: half full or half empty?</chapter-title> In: 
+<name name-style="western"><surname>Sodhi</surname><given-names>NS</given-names></name>, 
+<name name-style="western"><surname>Gibson</surname><given-names>L</given-names></name>, and 
+<name name-style="western"><surname>Raven</surname><given-names>PH</given-names></name>, eds.,
+<source>Conservation Biology: Voices from the Tropics</source>. 
+<publisher-loc>Oxford, UK</publisher-loc>: 
+<publisher-name>Wiley-Blackwell</publisher-name>: pp. 
+<fpage>142</fpage>–<lpage>147</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr004">
+<mixed-citation publication-type="book">
+<name name-style="western"><surname>Deinet</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Ieronymidou</surname><given-names>C</given-names></name>, 
+<name name-style="western"><surname>McRae</surname><given-names>L</given-names></name>, 
+<name name-style="western"><surname>Burfield</surname><given-names>IJ</given-names></name>, 
+<name name-style="western"><surname>Foppen</surname><given-names>RP</given-names></name>, 
+<name name-style="western"><surname>Collen</surname><given-names>B</given-names></name>, 
+<name name-style="western"><surname>Böhm</surname><given-names>M</given-names></name>. 
+<year>2013</year>. 
+<source>Wildlife Comeback in Europe: The Recovery of Selected Mammal and Bird Species</source>. 
+<publisher-loc>London, UK</publisher-loc>: 
+<publisher-name>Zoological Society of London</publisher-name>.</mixed-citation>
+</ref>
+<ref id="bibr005">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Dullinger</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Essl</surname><given-names>F</given-names></name>, 
+<name name-style="western"><surname>Rabitsch</surname><given-names>W</given-names></name>, 
+<name name-style="western"><surname>Erb</surname><given-names>K-H</given-names></name>, 
+<name name-style="western"><surname>Gingrich</surname><given-names>S</given-names></name>, <etal>et al.</etal> 
+<year>2013</year>. 
+<article-title>Europe’s other debt crisis caused by the long legacy of future extinctions</article-title>. 
+<source>Proceedings of the National Academy of Sciences of the United States of America</source> 
+<volume>110</volume>: 
+<fpage>7342</fpage>–<lpage>7347</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr006">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Ewers</surname><given-names>RM</given-names></name>, 
+<name name-style="western"><surname>Didham</surname><given-names>RK</given-names></name>, 
+<name name-style="western"><surname>Fahrig</surname><given-names>L</given-names></name>, 
+<name name-style="western"><surname>Ferraz</surname><given-names>G</given-names></name>, 
+<name name-style="western"><surname>Hector</surname><given-names>A</given-names></name>, <etal>et al.</etal> 
+<year>2011</year>. 
+<article-title>A large-scale forest fragmentation experiment: the Stability of Altered Forest Ecosystems Project</article-title>. 
+<source>Philosophical Transactions of the Royal Society B-Biological Sciences</source> 
+<volume>366</volume>: 
+<fpage>3292</fpage>–<lpage>3302</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr007">
+<mixed-citation publication-type="book">
+<collab>FAO</collab>. 
+<year>2010</year>. 
+<source>Global Forest Resources Assessment 2010</source>. 
+<publisher-loc>Rome</publisher-loc>: 
+<publisher-name>Food and Agriculture Organization of the United Nations</publisher-name>.</mixed-citation>
+</ref>
+<ref id="bibr008">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Gaveau</surname><given-names>DLA</given-names></name>, 
+<name name-style="western"><surname>Kshatriya</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>Sheil</surname><given-names>D</given-names></name>, 
+<name name-style="western"><surname>Sloan</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Molidena</surname><given-names>E</given-names></name>, <etal>et al.</etal> 
+<year>2013</year>. 
+<article-title>Reconciling forest conservation and logging in Indonesian Borneo</article-title>. 
+<source>PloS one</source> 
+<volume>8</volume>: 
+<fpage>e69887</fpage>.</mixed-citation>
+</ref>
+<ref id="bibr009">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Harrison</surname><given-names>RD</given-names></name>, 
+<name name-style="western"><surname>Tan</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Plotkin</surname><given-names>JB</given-names></name>, 
+<name name-style="western"><surname>Slik</surname><given-names>F</given-names></name>, 
+<name name-style="western"><surname>Detto</surname><given-names>M</given-names></name>, <etal>et al.</etal> 
+<year>2013</year>. 
+<article-title>Consequences of defaunation for a tropical tree community</article-title>. 
+<source>Ecology Letters</source> 
+<volume>16</volume>: 
+<fpage>687</fpage>–<lpage>694</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr010">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Henle</surname><given-names>K</given-names></name>, 
+<name name-style="western"><surname>Bauch</surname><given-names>B</given-names></name>, 
+<name name-style="western"><surname>Auliya</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>Kuelvik</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>Pe’er</surname><given-names>G</given-names></name>, <etal>et al.</etal> 
+<year>2013</year>. 
+<article-title>Priorities for biodiversity monitoring in Europe: A review of supranational policies and a novel scheme for integrative prioritization</article-title>. 
+<source>Ecological Indicators</source> 
+<volume>33</volume>: 
+<fpage>5</fpage>–<lpage>18</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr011">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Jantke</surname><given-names>K</given-names></name>, 
+<name name-style="western"><surname>Schleupner</surname><given-names>C</given-names></name>, 
+<name name-style="western"><surname>Schneider</surname><given-names>UA</given-names></name>. 
+<year>2011</year>. 
+<article-title>Gap analysis of European wetland species: priority regions for expanding the Natura 2000 network</article-title>. 
+<source>Biodiversity and Conservation</source> 
+<volume>20</volume>: 
+<fpage>581</fpage>–<lpage>605</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr012">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Ji</surname><given-names>Y</given-names></name>, 
+<name name-style="western"><surname>Ashton</surname><given-names>L</given-names></name>, 
+<name name-style="western"><surname>Pedley</surname><given-names>SM</given-names></name>, 
+<name name-style="western"><surname>Edwards</surname><given-names>DP</given-names></name>, 
+<name name-style="western"><surname>Tang</surname><given-names>Y</given-names></name>, <etal>et al.</etal> 
+<year>2013</year>. 
+<article-title>Reliable, verifiable and efficient monitoring of biodiversity via metabarcoding</article-title>. 
+<source>Ecology Letters</source> 
+<volume>16</volume>: 
+<fpage>1245</fpage>–<lpage>1257</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr013">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Melo</surname><given-names>FPL</given-names></name>, 
+<name name-style="western"><surname>Arroyo-Rodriguez</surname><given-names>V</given-names></name>, 
+<name name-style="western"><surname>Fahrig</surname><given-names>L</given-names></name>, 
+<name name-style="western"><surname>Martinez-Ramos</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>Tabarelli</surname><given-names>M</given-names></name>. 
+<year>2013</year>. 
+<article-title>On the hope for biodiversity-friendly tropical landscapes</article-title>. 
+<source>Trends in Ecology &amp; Evolution</source> 
+<volume>28</volume>: 
+<fpage>462</fpage>–<lpage>468</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr014">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Mendenhall</surname><given-names>CD</given-names></name>, 
+<name name-style="western"><surname>Sekercioglu</surname><given-names>CH</given-names></name>, 
+<name name-style="western"><surname>Brenes</surname><given-names>FO</given-names></name>, 
+<name name-style="western"><surname>Ehrlich</surname><given-names>PR</given-names></name>, 
+<name name-style="western"><surname>Daily</surname><given-names>GC</given-names></name>. 
+<year>2011</year>. 
+<article-title>Predictive model for sustaining biodiversity in tropical countryside</article-title>. 
+<source>Proceedings of the National Academy of Sciences of the United States of America</source> 
+<volume>108</volume>: 
+<fpage>16313</fpage>–<lpage>16316</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr015">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Price-Rees</surname><given-names>SJ</given-names></name>, 
+<name name-style="western"><surname>Brown</surname><given-names>GP</given-names></name>, 
+<name name-style="western"><surname>Shine</surname><given-names>R</given-names></name>. 
+<year>2013</year>. 
+<article-title>Spatial ecology of bluetongue lizards (<italic>Tiliqua</italic> spp.) in the Australian wet-dry tropics</article-title>. 
+<source>Austral Ecology</source> 
+<volume>38</volume>: 
+<fpage>493</fpage>–<lpage>503</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr016">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Sodhi</surname><given-names>NS</given-names></name>, 
+<name name-style="western"><surname>Koh</surname><given-names>LP</given-names></name>, 
+<name name-style="western"><surname>Brook</surname><given-names>BW</given-names></name>, 
+<name name-style="western"><surname>Ng</surname><given-names>PKL</given-names></name>. 
+<year>2004</year>.
+<article-title>Southeast Asian biodiversity: an impending disaster</article-title>. 
+<source>Trends in Ecology &amp; Evolution</source> 
+<volume>19</volume>: 
+<fpage>654</fpage>–<lpage>660</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr017">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Sodhi</surname><given-names>NS</given-names></name>, 
+<name name-style="western"><surname>Posa</surname><given-names>MRC</given-names></name>, 
+<name name-style="western"><surname>Lee</surname><given-names>TM</given-names></name>, 
+<name name-style="western"><surname>Bickford</surname><given-names>D</given-names></name>, 
+<name name-style="western"><surname>Koh</surname><given-names>LP</given-names></name>. 
+<year>2010</year>. 
+<article-title>The state and conservation of Southeast Asian biodiversity</article-title>. 
+<source>Biodiversity and Conservation</source> 
+<volume>19</volume>: 
+<fpage>317</fpage>–<lpage>328</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr018">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Stone</surname><given-names>R</given-names></name>. 
+<year>2007</year>. 
+<article-title>Last-gasp effort to save Borneo’s tropical rainforests</article-title>. 
+<source>Science</source> 
+<volume>317</volume>: 
+<fpage>192</fpage>.</mixed-citation>
+</ref>
+<ref id="bibr019">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Tabarelli</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>Peres</surname><given-names>CA</given-names></name>, 
+<name name-style="western"><surname>Melo</surname><given-names>FPL</given-names></name>. 
+<year>2012</year>. 
+<article-title>The ‘few winners and many losers’ paradigm revisited: Emerging prospects for tropical forest biodiversity</article-title>. 
+<source>Biological Conservation</source> 
+<volume>155</volume>: 
+<fpage>136</fpage>–<lpage>140</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr020">
+<mixed-citation publication-type="book">
+<collab>UN</collab> 
+<year>2013</year>. 
+<source>World Population Prospects: The 2012 Revision</source>. 
+<publisher-loc>New York</publisher-loc>: 
+<publisher-name>United Nations</publisher-name>.</mixed-citation>
+</ref>
+<ref id="bibr21">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Wilcove</surname><given-names>DS</given-names></name>, 
+<name name-style="western"><surname>Giam</surname><given-names>X</given-names></name>, 
+<name name-style="western"><surname>Edwards</surname><given-names>DP</given-names></name>, 
+<name name-style="western"><surname>Fisher</surname><given-names>B</given-names></name>, 
+<name name-style="western"><surname>Koh</surname><given-names>LP</given-names></name>. 
+<year>2013</year>. 
+<article-title>Navjot’s nightmare revisited: logging, agriculture, and biodiversity in Southeast Asia</article-title>. 
+<source>Trends in Ecology &amp; Evolution</source> 
+<volume>28</volume>: 
+<fpage>531</fpage>–<lpage>40</lpage>.</mixed-citation>
+</ref>
+</ref-list>
+</back>
+</article>

@@ -1,0 +1,910 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="commentary" dtd-version="1.0" xml:lang="en">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">BioOne</journal-id>
+<journal-id journal-id-type="journal-id">Elementa</journal-id>
+<journal-title-group>
+<journal-title>Elementa</journal-title>
+<journal-subtitle>Science of the Anthropocene</journal-subtitle>
+<abbrev-journal-title>Elem. Sci. Anth.</abbrev-journal-title>
+</journal-title-group>
+<contrib-group>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Helmig</surname><given-names>Detlev</given-names></name>
+<xref ref-type="aff" rid="affa"/>
+<role>Editor-in-Chief: Atmospheric Science</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/detlev-helmig/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Blum</surname><given-names>Joel D.</given-names></name>
+<xref ref-type="aff" rid="affb"/>
+<role>Editor-in-Chief: Earth &amp; Environmental Science</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/joel-d-blum/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Zak</surname><given-names>Donald R.</given-names></name>
+<xref ref-type="aff" rid="affb"/>
+<role>Editor-in-Chief: Ecology</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/donald-r-zak/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Deming</surname><given-names>Jody W.</given-names></name>
+<xref ref-type="aff" rid="affc"/>
+<role>Editor-in-Chief: Ocean Science</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/jody-w-deming/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Chang</surname><given-names>Michael E.</given-names></name>
+<xref ref-type="aff" rid="affd"/>
+<role>Editor-in-Chief: Sustainable Engineering</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/michael-e-chang/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Kapuscinski</surname><given-names>Anne</given-names></name>
+<xref ref-type="aff" rid="affe"/>
+<role>Editor-in-Chief: Sustainability Transitions</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/anne-kapuscinski/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Peart</surname><given-names>David R.</given-names></name>
+<xref ref-type="aff" rid="affe"/>
+<role>Editor-in-Chief: Sustainability Transitions</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/david-r-peart/</uri>
+</contrib>
+</contrib-group>
+<aff id="affa">
+<institution>University of Colorado Boulder</institution>
+<country>United States</country>
+</aff>
+<aff id="affb">
+<institution>University of Michigan</institution>
+<country>United States</country>
+</aff>
+<aff id="affc">
+<institution>University of Washington</institution>
+<country>United States</country>
+</aff>
+<aff id="affd">
+<institution>Georgia Institute of Technology</institution>
+<country>United States</country>
+</aff>
+<aff id="affe">
+<institution>Dartmouth</institution>
+<country>United States</country>
+</aff>
+<issn pub-type="epub">2325-1026</issn>
+<publisher>
+<publisher-name>BioOne</publisher-name>
+<publisher-loc>21 Dupont Circle NW, Suite 800, Washington, DC 20036, United States<email>team@elementascience.org</email>
+<uri>http://bioone.org</uri><uri>http://elementascience.org</uri>
+</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">ELEMENTA-D-13-00021</article-id>
+<article-id pub-id-type="doi">10.12952/journal.elementa.000021</article-id>
+<article-categories>
+<subj-group subj-group-type="article-type">
+<subject>Commentary</subject>
+</subj-group>
+<subj-group subj-group-type="domain">
+<subject>Ocean Science</subject>
+</subj-group>
+<subj-group subj-group-type="classification">
+<subject>Ocean Science</subject>
+<subj-group>
+<subject>Microbial Oceanography</subject>
+</subj-group>
+<subj-group>
+<subject>Biological Oceanography</subject>
+</subj-group>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Solar energy capture and transformation in the sea</article-title>
+<alt-title alt-title-type="short-title">Solar energy capture and transformation in the sea</alt-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Karl</surname><given-names>David M.</given-names></name>
+<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+<xref ref-type="corresp" rid="cor1"><sup>*</sup></xref>
+</contrib>
+</contrib-group>
+<aff id="aff1"><label>1</label><institution content-type="dept">Center for Microbial Oceanography: Research and Education</institution>, <institution>University of Hawaii</institution>, <addr-line content-type="city">Honolulu</addr-line>, <addr-line content-type="state">Hawaii</addr-line>, <country>United States</country></aff>
+<contrib-group>
+<contrib contrib-type="domain-editor-in-chief" xlink:type="simple">
+<name name-style="western"><surname>Deming</surname><given-names>Jody W.</given-names></name>
+<xref ref-type="aff" rid="afff"/>
+<role>Domain Editor-in-Chief</role>
+</contrib>
+</contrib-group>
+<aff id="afff">
+<institution content-type="dept">Department of Biological Oceanography</institution>
+<institution>University of Washington</institution>
+<addr-line content-type="city">Seattle</addr-line>
+<addr-line content-type="state">Washington</addr-line>
+<country>United States</country>
+</aff>
+<author-notes>
+<corresp id="cor1"><label><sup>*</sup></label><email xlink:type="simple">dkarl@hawaii.edu</email></corresp></author-notes>
+<pub-date pub-type="collection" iso-8601-date="2014-01-08">
+<day>08</day>
+<month>01</month>
+<year>2014</year>
+</pub-date>
+<pub-date pub-type="epub" iso-8601-date="2014-01-08">
+<day>08</day>
+<month>01</month>
+<year>2014</year>
+</pub-date>
+<volume content-type="volume">2</volume>
+<elocation-id>000021</elocation-id>
+<history>
+<date date-type="received" iso-8601-date="2013-11-14">
+<day>14</day>
+<month>11</month>
+<year>2013</year>
+</date>
+<date date-type="accepted" iso-8601-date="2013-11-19">
+<day>19</day>
+<month>11</month>
+<year>2013</year>
+</date>
+</history>
+<permissions>
+<copyright-year>2014</copyright-year>
+<copyright-holder>Karl</copyright-holder>
+<license license-type="open-access" xlink:type="simple">
+<license-p><open-access><p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</p>
+</open-access>
+</license-p>
+</license>
+</permissions>
+<kwd-group>
+<kwd>microorganisms</kwd>
+<kwd>energy</kwd>
+<kwd>carbon</kwd>
+</kwd-group>
+</article-meta>
+</front>
+<body>
+<disp-quote><p><italic>“Everything is based on energy. Energy is the source and control of all things, all value, and all the actions of human beings and nature.”</italic></p>
+<attrib><xref ref-type="bibr" rid="bibr040"><italic>H. T. Odum and E. C. Odum (1976)</italic></xref></attrib></disp-quote>
+<sec id="s1"><title>Ecological energy flow</title>
+<p>Solar energy ultimately drives all biogeochemical cycles and sustains planetary habitability. All life forms and processes on Earth, including human economic and social systems, exist within a complex network of energy flow. In the sea, microorganisms comprise most of the genetic and metabolic diversity, and are responsible for a majority of the system energy flow including solar energy capture, transformation, and dissipation. All of these processes involve conversion of low quality forms of energy into a smaller fraction of higher quality energy plus degraded heat, in accordance with the basic laws of thermodynamics. Energy flow is at the core of ecosystem analysis (<xref ref-type="bibr" rid="bibr037">Odum 1968</xref>).</p>
+<p>Sunlight is the most abundant form of energy for marine microorganisms, and biophysical/biochemical mechanisms for solar energy capture have evolved by natural selection during eons of Earth’s history (<xref ref-type="bibr" rid="bibr005">Brown and Ulgiati 2004</xref>; <xref ref-type="bibr" rid="bibr035">Nealson and Rye 2003</xref>). Marine ecosystems, especially the expansive subtropical gyres, have an enormous capacity for solar energy capture and transformation. Ecologists often use the term “carbon and energy flow” to describe solar energy capture, organic matter transformation, and heat dissipation through the food web via the coupled processes of photosynthesis and respiration. A number of different methods have been used to track the flow of carbon and associated bioelements (e.g., nitrogen, phosphorus, oxygen, and sulfur), but energy flow is rarely if ever measured in field studies. An untested assumption is that matter and energy flow are inextricably and quantitatively linked in space and time in the open sea.</p>
+<p>Howard T. Odum, largely in collaboration with his brother Eugene P. Odum, pioneered the discipline of systems ecology. He observed and studied a variety of aquatic ecosystems and was the first to characterize them as networks of energy circuits (e.g., Silver Springs, Florida; <xref ref-type="bibr" rid="bibr036">Odum 1956</xref>). Odum later developed an explicit energy circuit language and set of symbols that could be used to represent interactive energy capture, transformation, and dissipation in both natural and manmade systems (<xref ref-type="bibr" rid="bibr038">Odum 1983a</xref>). While some scientists have criticized “Odum’s conjectures” and his energy-centric approach to the study of ecosystems (e.g., <xref ref-type="bibr" rid="bibr032">Månsson and McGlade 1993</xref>), the debate centers on the formidable obstacles to a comprehensive, quantitative analysis and understanding of ecological energy flow rather than a challenge to its fundamental importance in ecosystem analysis.</p>
+<p>In a pioneering essay on the relationship of energy flow to evolution, Alfred Lotka concluded that natural selection will operate to preserve and expand those species “possessing superior energy-capturing and directing devices” (<xref ref-type="bibr" rid="bibr029">Lotka 1922</xref>). Consequently, he reasoned, as long as there is a residue of untapped available energy, “the total organic mass of the system, the rate of circulation of mass through the system, and the total energy flux” will be maximized. This reasoning has since become known as the maximum power principle (<xref ref-type="bibr" rid="bibr041">Odum and Pinkerton 1955</xref>; <xref ref-type="bibr" rid="bibr039">Odum 1983b</xref>), and has led to vigorous debate over the validity and implications of what some have termed the fourth law of thermodynamics (see <xref ref-type="bibr" rid="bibr047">Sciubba 2011</xref> for a recent assessment).</p>
+<p>The Earth is an energetically open system where solar energy input is balanced by radiative heat loss. There are numerous connections among the hydrosphere, lithosphere, and atmosphere such that materials and energy can be easily exchanged. In a thought-provoking commentary, <italic>On certain unifying principles in ecology</italic>, Ramon Margalef concluded that the energy required to maintain an ecosystem is inversely proportional to complexity, with a trend for a decreasing flow of energy per unit biomass as succession occurs. He suggested that climax ecosystems with complex structures and high information content could be maintained with a relatively low expenditure of energy (<xref ref-type="bibr" rid="bibr030">Margalef 1963</xref>). Despite great scientific progress in the intervening half-century, we are still unable to examine this unifying principle in ocean ecosystems due, in large part, to inadequate methodology for energy flux estimation and an incomplete understanding of the pathways of solar energy capture and transformation in marine microbial assemblages. Ironically, two pioneering methods developed to analyze key aspects of planktonic microbial communities, the adenosine triphosphate (ATP) assay (<xref ref-type="bibr" rid="bibr014">Holm-Hansen and Booth 1966</xref>) and the electron transport system (ETS) assay (<xref ref-type="bibr" rid="bibr042">Packard 1971</xref>), were laboratory calibrated to yield estimates of living carbon and oxygen consumption, respectively, rather than the equally appropriate parameters of total energy content and flux.</p></sec>
+<sec id="s2"><title>Phototrophy in the deep blue sea</title>
+<p>In marine planktonic systems, green plant-like photosynthesis, termed oxygenic phototrophy (OP; <xref ref-type="table" rid="elementa.000021.t001">Table 1</xref> and <xref ref-type="fig" rid="elementa.000021.f001">Figure 1</xref>), is generally assumed to be the primary, if not exclusive, process of solar energy capture. Light-driven oxidation of water provides electrons and hydrogen ions that partially conserve the solar energy absorbed by chlorophyll <italic>a</italic> to catalyze the production of a variety of reduced inorganic and organic molecules. Estimates of the magnitude of chlorophyll <italic>a </italic>-based solar energy capture can be made by measuring the fundamental biophysical properties of photosynthetic energy conversion (e.g., by fast repetition rate fluorescence; <xref ref-type="bibr" rid="bibr026">Kolber et al. 1998</xref>) or gross oxygen production during in situ incubations using <sup>18</sup>O-labeled H<sub>2</sub>O (<xref ref-type="bibr" rid="bibr012">Grande et al. 1989</xref>), and applying assumptions regarding energy-to-oxygen stoichiometry. Based upon the energy requirements for OP and cell maintenance, it has been estimated that approximately 5 × 10<sup>14</sup> W of solar energy are captured per year to support oceanic primary production (<xref ref-type="bibr" rid="bibr025">Kolber 2007</xref>). This power expenditure of marine phytoplankton is nearly two orders of magnitude greater than that expended by the human-based global economies, but as <xref ref-type="bibr" rid="bibr025">Kolber (2007)</xref> laments it is still less than 1% of the full potential of solar radiation incident on the ocean’s surface. Consequently, marine systems appear to be relatively inefficient at using the solar energy that is available to them. Ultimately, solar energy capture in the sea by OP is controlled by chlorophyll <italic>a</italic> concentration (e.g., phytoplankton biomass) and phytoplankton growth rate, which in turn are controlled primarily by nutrient availability. Global distributions of OP and, hence, patterns of solar energy capture coincide with maximum nutrient rather than maximum solar fluxes (e.g., coastal upwelling regions; <xref ref-type="bibr" rid="bibr025">Kolber 2007</xref>). However, even in nutrient-poor environments like the oligotrophic North Pacific Subtropical Gyre (NPSG), the solar energy that is absorbed appears to be very efficiently utilized in photosynthesis (<xref ref-type="bibr" rid="bibr019">Karl et al. 2002</xref>).</p>
+<table-wrap id="elementa.000021.t001" position="float">
+<object-id pub-id-type="doi">10.12952/journal.elementa.000021.t001</object-id>
+<label>Table 1: </label><caption><title>Solar energy capture in marine microbial assemblages via complementary energy and carbon flow pathways.</title></caption>
+<alternatives><graphic id="elementa.000021.t001-i" position="float" mimetype="image" xlink:type="simple" xlink:href="info:doi/10.12952/journal.elementa.000021.t001"/>
+<table>
+<colgroup span="1">
+<col width="20%" span="1"/>
+<col width="10%" span="1"/>
+<col width="10%" span="1"/>
+<col width="10%" span="1"/>
+<col width="10%" span="1"/>
+<col width="40%" span="1"/>
+</colgroup>
+<thead>
+<tr>
+<th rowspan="1" colspan="1">
+Sample organisms
+</th>
+<th rowspan="1" colspan="1">
+Metabolic type
+</th>
+<th rowspan="1" colspan="1">
+Primary (secondary) energy source(s)
+</th>
+<th rowspan="1" colspan="1">
+Primary (secondary) electron source(s)
+</th>
+<th rowspan="1" colspan="1">
+Primary (secondary) carbon source(s)
+</th>
+<th rowspan="1" colspan="1">
+Comments
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+Diatoms
+</td>
+<td rowspan="1" colspan="1">
+Oxygenic phototroph (OP)
+</td>
+<td rowspan="1" colspan="1">
+Light
+</td>
+<td rowspan="1" colspan="1">
+H<sub>2</sub>O
+</td>
+<td rowspan="1" colspan="1">
+CO<sub>2</sub>
+</td>
+<td rowspan="1" colspan="1">
+Obligate photolithoautotrophy may not exist in nature
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<italic>Prochlorococcus</italic>
+</td>
+<td rowspan="1" colspan="1">
+Oxygenic phototroph (OP)
+</td>
+<td rowspan="1" colspan="1">
+Light (Org-C<xref ref-type="table-fn" rid="tfn1">a</xref>)
+</td>
+<td rowspan="1" colspan="1">
+H<sub>2</sub>O
+</td>
+<td rowspan="1" colspan="1">
+CO<sub>2</sub> (Org-C<xref ref-type="table-fn" rid="tfn1">a</xref>)
+</td>
+<td rowspan="1" colspan="1">
+Facultative mixotrophy; can also grow photolithoautotrophically
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<italic>Roseobacter, Erythrobacter</italic>
+</td>
+<td rowspan="1" colspan="1">
+Aerobic anoxygenic phototroph (AAP)
+</td>
+<td rowspan="1" colspan="1">
+Light and Org-C<xref ref-type="table-fn" rid="tfn1">a</xref>
+</td>
+<td rowspan="1" colspan="1">
+Org-C<xref ref-type="table-fn" rid="tfn1">a</xref>
+</td>
+<td rowspan="1" colspan="1">
+Org-C<xref ref-type="table-fn" rid="tfn1">a</xref>
+</td>
+<td rowspan="1" colspan="1">
+Facultative photoorganoheterotrophy (mixotrophy); can also grow chemoorganoheterotrophically, but not photolithoautotrophically
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<italic>Flavobacter, Pelagibacter, Vibrio</italic>
+</td>
+<td rowspan="1" colspan="1">
+Proteorhodopsin-based phototroph (PR)
+</td>
+<td rowspan="1" colspan="1">
+Light and Org-C<xref ref-type="table-fn" rid="tfn1">a</xref>
+</td>
+<td rowspan="1" colspan="1">
+Org-C<xref ref-type="table-fn" rid="tfn1">a</xref>
+</td>
+<td rowspan="1" colspan="1">
+Org-C<xref ref-type="table-fn" rid="tfn1">a</xref>
+</td>
+<td rowspan="1" colspan="1">
+Facultative photoorganoheterotrophy (mixotrophy); can also grow chemoorganoheterotrophically, but not photolithoautotrophically
+</td>
+</tr></tbody></table>
+</alternatives>
+<table-wrap-foot>
+<fn-group>
+<fn id="tfn1"><label>a</label><p>Organic carbon</p></fn>
+</fn-group>
+</table-wrap-foot>
+</table-wrap>
+<fig id="elementa.000021.f001" position="float">
+<object-id pub-id-type="doi">10.12952/journal.elementa.000021.f001</object-id>
+<label>Figure 1 </label>
+<caption><title>Schematic view of the flow of energy (red arrows), carbon (blue arrows), or energy plus carbon (purple arrows) through a hypothetical marine system.</title>
+<p>Solar energy capture processes of OP (oxygenic phototrophy), AAP (aerobic anoxygenic phototrophy), and PR (proteorhodopsin-based phototrophy) convert solar energy into chemical bond energy as ATP plus heat, and in the case of OP a portion of the energy gain is used to reduce carbon dioxide (CO<sub>2</sub>) to organic carbon (Org-C). The light-independent heterotrophic (HETERO) flow of carbon and energy ultimately dissipates the potential energy in Org-C to heat.</p></caption>
+<graphic position="float" mimetype="image" xlink:type="simple" xlink:href="info:doi/10.12952/journal.elementa.000021.f001"/></fig>
+<p>During the past decade, there has been a “quiet revolution” in our conceptualization of energy flow in marine systems. This change has resulted in large part from two independent discoveries of unexpected pathways of phototrophy that supplement the better understood OP pathway (<xref ref-type="bibr" rid="bibr017">Karl 2002</xref>; <xref ref-type="fig" rid="elementa.000021.f001">Figure 1</xref> and <xref ref-type="table" rid="elementa.000021.t001">Table 1</xref>). These two novel pathways differ significantly in the mechanism of solar energy capture and in the quantitative and mechanistic role that light energy plays in cellular metabolism. For example, both aerobic anoxygenic phototrophy (AAP) and proteorhodopsin (PR) phototrophy appear to be facultative solar energy capture processes that supplement an otherwise chemoorganoheterotrophic metabolism (<xref ref-type="fig" rid="elementa.000021.f001">Figure 1</xref>). Quantitative analysis of energy flow through these alternate pathways will require the development of new instrumentation and methodology, and will likely lead to a new paradigm of energy flow in the sea.</p>
+<p>Bacteriochlorophyll <italic>a</italic>-containing marine bacteria were first reported by <xref ref-type="bibr" rid="bibr048">Shiba et al. (1979)</xref> from coastal marine habitats. They were later rediscovered in the oligotrophic waters of the North Pacific Ocean using a purpose-built infrared fast repetition rate (IRFRR) fluorometer that detected variable fluorescence transients as evidence of bacterial photosynthetic electron transport (<xref ref-type="bibr" rid="bibr024">Kolber et al. 2000</xref>). AAPs differ from oxygenic phototrophs in that their photosynthetic activity neither reduces carbon dioxide nor evolves oxygen (<xref ref-type="bibr" rid="bibr023">Koblížek et al. 2010</xref>). Subsequent laboratory and field investigations of AAP bacteria determined that they are facultative photoheterotrophs, using light energy when organic matter is limiting for growth (<xref ref-type="bibr" rid="bibr027">Kolber et al. 2001</xref>; <xref ref-type="bibr" rid="bibr022">Koblížek et al. 2003</xref>). Laboratory study of an isolated member of the <italic>Roseobacter</italic> clade (strain COL2P) determined that respiration decreased by ∼ 30% in the light for an equivalent production rate (<xref ref-type="bibr" rid="bibr023">Koblížek et al. 2010</xref>), suggesting a much more efficient metabolism when the microorganism was living as a mixotroph (e.g., part phototroph, part chemotroph). AAPs are numerically abundant, globally distributed, and metabolically active with respect to solar energy capture where they appear to coexist with OPs (<xref ref-type="bibr" rid="bibr027">Kolber et al. 2001</xref>). However, measurement of total energy flow through these bacteriochlorophyll-containing microbial assemblages (solar plus organic matter) will require a novel experimental approach.</p>
+<p>The second novel pathway of solar energy capture in the sea is via PR-containing microorganisms (<xref ref-type="bibr" rid="bibr001">Béjà et al. 2000</xref>; <xref ref-type="bibr" rid="bibr002">2001</xref>). These novel microbes contain transmembrane light-driven proton pumps that produce ATP. During PR phototrophy, photon capture leads to a conformational change in the retinal molecule resulting in proton export from the cell. This process generates a proton motive force across the cell membrane, setting up the possibility for ATP production. <xref ref-type="bibr" rid="bibr010">Gómez-Consarnau et al. (2007)</xref> were the first to demonstrate enhanced growth efficiency in the light for a PR-containing marine bacterium. <xref ref-type="bibr" rid="bibr034">Martinez et al. (2007)</xref> documented PR-based photophosphorylation (ATP production) in a genetically transformed heterologous host, and PR-dependent proton pumping activity sufficient to generate ATP has also been demonstrated in laboratory-reared marine bacteria (<xref ref-type="bibr" rid="bibr051">Wang et al. 2012</xref>; <xref ref-type="bibr" rid="bibr052">Yoshizawa et al. 2012</xref>). PR-phototrophy has since been shown to increase the long-term survival of diverse bacteria that favor either carbon-rich (e.g., <italic>Vibrio</italic>; <xref ref-type="bibr" rid="bibr011">Gómez-Consarnau et al. 2010</xref>) or carbon-poor (e.g., <italic>Pelagibacter</italic>; <xref ref-type="bibr" rid="bibr050">Steindler et al. 2011</xref>) marine habitats. PR genes have also been found in archaea (<xref ref-type="bibr" rid="bibr009">Frigaard et al. 2006</xref>) and eukaryotes, including both photosynthetic (<xref ref-type="bibr" rid="bibr033">Marchetti et al. 2012</xref>) and predatory (<xref ref-type="bibr" rid="bibr049">Slamovits et al. 2011</xref>) protists. Recently, <xref ref-type="bibr" rid="bibr020">Kimura et al. (2011)</xref> surveyed the transcriptional and growth responses of a PR-containing marine flavobacterium during carbon-limited growth under light and dark conditions. Their results demonstrated a direct role for retinal-based, PR-phototrophy and the previously observed light-enhanced growth response. Our current, but still evolving, understanding is that the light-driven, PR-based proton pumps enhance survival, and therefore may be a significant pathway for the flow of energy in oligotrophic habitats (<xref ref-type="bibr" rid="bibr006">DeLong and Béjà 2010</xref>). This phototrophic process, which is now believed to be ubiquitous in the well-lit portions of the euphotic zone, enhances solar energy capture in the ecosystem without direct impacts on either carbon dioxide or oxygen reservoirs. The indirect effects, however, will scale on the total energy budgets of these unique phototrophic microbes, specifically on the role of PRs in the efficiency of heterotrophic metabolism of dissolved organic matter.</p>
+<p>Recently, <xref ref-type="bibr" rid="bibr021">Kirchman and Hanson (2013)</xref> have reviewed the current state-of-knowledge concerning the bioenergetics of photoheterotrophic bacteria in the sea, including both bacteriochlorophyll-(AAP) and PR-based pathways. In the absence of any in situ experimental data, they provided a theoretical cost vs. benefit analysis of phototrophy. This scholarly assessment included estimates of the number of photosynthetic units per cell, the absorption cross-sectional area and wavelength dependent absorption of light, the quantum efficiency, and the number of protons pumped per photon of absorbed light. Most of the data used in these calculations were derived from laboratory studies of model organisms, and in some cases were “best guesses” — but it is a great start. The theoretical gross energy yield via these two types of photoheterotrophy was compared to a model marine cyanobacterium, <italic>Synechococcus elongatus</italic> (<xref ref-type="bibr" rid="bibr031">MacKenzie et al. 2004</xref>), grown as an obligate photolithoautotroph (i.e., OP; <xref ref-type="table" rid="elementa.000021.t001">Table 1</xref>). By their analysis, a “typical” PR-containing phototrophic bacterium would gain ∼ 10% of energy captured by a “typical” AAP bacterium, and ∼ 0.2–0.3% of the cyanobacterium (<xref ref-type="bibr" rid="bibr021">Kirchman and Hanson 2013</xref>). These estimates may be a bit misleading because they are expressed on a per cell basis. Given the fact that many PR-containing marine bacteria have biovolumes that are only a few percent of the model cyanobacterium used for comparison, the potential solar energy gain relative to their total energy demand for the PR-containing microbes may be greater than reported.</p></sec>
+<sec id="s3"><title>Quantitative assessments of energy flow</title>
+<p>This brief commentary has focused on new pathways for solar energy capture and transformation in the deep blue sea. However, there are also other important aspects to marine system energy flow that need to be considered. These include the cycling of: (1) dissolved organic matter (DOM), especially labile products of photosynthesis; (2) reduced biogenic gases, especially methane and hydrogen; and (3) reduced inorganic derivatives of nitrogen, phosphorus, and sulfur. These reservoirs store and shunt potential energy, and enhance the overall magnitude and efficiency of solar energy capture and transformation in the sea. In the case of DOM, the energy content of the fairly large reservoir (∼ 75–100 mmol C per cubic meter in the euphotic zone) greatly exceeds the daily capture of solar energy and may regulate energy flow in stable oceanic communities. Even the more refractory portion (∼ 30–40%) of the total surface DOM pool, with a mean age of a few thousand years, may represent a longer term potential energy reservoir for the growth of “low-energy” specialists. Any quantitative assessment of ocean system energy flow must be able to measure all possible pathways of energy capture, transformation, and dissipation and needs to integrate over both space and time. Two possible experimental approaches have been employed to estimate total energy flow through marine planktonic assemblages: (1) heat flow via microcalorimetry, and (2) total ATP pool turnover rate, but additional methods need to be devised, calibrated, and field-tested. Future developments in the emergent field of metabolomics, especially energy transduction and energy storage molecules, will likely provide new opportunities for field application.</p>
+<p>Microcalorimetry has only rarely been used to estimate heat flow in marine ecosystems (<xref ref-type="bibr" rid="bibr045">Pamatmat et al. 1981</xref>; <xref ref-type="bibr" rid="bibr043">Pamatmat 1982</xref>), primarily in coastal benthic habitats where metabolic activities are relatively high. Comparison of heat flow estimated from dark rates of oxygen uptake using assumptions regarding organic substrate composition and utilization efficiencies can lead to large discrepancies with direct heat flow estimation (<xref ref-type="bibr" rid="bibr044">Pamatmat 2003</xref>). In one of the few published studies of heat flow in marine plankton (Friday Harbor, Washington), the direct calorimetric-based value of 200–300 µW per liter was 4–6 times larger than that derived from extrapolation based on oxygen utilization (<xref ref-type="bibr" rid="bibr044">Pamatmat 2003</xref>). However, calorimetry currently suffers from several limitations. First, the nature of the differential microcalorimeters used for ecological studies cannot be used to assess solar energy for capture directly or to resolve biotic versus abiotic reactions. Second, the specialized nature of differential microcalorimeters limits sample throughput and replication. Finally, the relatively insensitive limits of heat detection preclude measurements in most open ocean planktonic ecosystems and, even for those systems that can be measured, calorimetry requires fairly long incubation periods which may bias estimates of in situ energy flow.</p>
+<p>Recently, <xref ref-type="bibr" rid="bibr007">Djamali et al. (2012)</xref> have employed a purpose-built, differential microcalorimeter to measure the heat output of the marine microbial food web with an emphasis on the role of viral lysis. They experimented with aquarium-reared, size-fractionated model systems that were diluted to provide treatments with or without viruses. Their results indicated that approximately 25% of the total heat flow in their artificial planktonic communities could be attributed to viral activities. While the claim is made that their novel instrument is capable of measuring the heat produced from open ocean assemblages of ∼ 10<sup>5</sup> bacterial cells ml<sup>-1</sup> without pre-concentration (<xref ref-type="bibr" rid="bibr007">Djamali et al. 2012</xref>), no such data are presented, or to my knowledge published elsewhere. Nevertheless, recent improvements in technology are very encouraging for possible use in future field studies (see review by <xref ref-type="bibr" rid="bibr003">Braissant et al. 2010</xref>). The three major limitations of calorimetry, however, remain: (1) inability to resolve biotic from abiotic processes, (2) difficulty measuring light versus dark energy heat fluxes, and (3) low sample throughput and lack of sample and reference replication for most commercial microcalorimeters.</p>
+<p>An alternative to direct estimation of heat flow is the measurement of the turnover rate of the ATP pool in the microbial community (<xref ref-type="bibr" rid="bibr018">Karl and Bossard 1985</xref>). The central role of ATP in the stoichiometric coupling of all energy transforming metabolic reactions (phototrophic as well as chemotrophic) has been known since the pioneering work of <xref ref-type="bibr" rid="bibr028">Lipmann (1941)</xref>. While intracellular ATP concentrations (i.e., the so-called “ATP pool”) are fairly well buffered at 1–3 mM, the turnover rate of the pool tracks metabolic energy flow. ATP pool turnover results from the hydrolysis of one or both “high energy” phosphate bonds, followed by regeneration of ATP via substrate level, oxidative, or photophosphorylation. Because ATP is the common energy currency in all organisms and because the free energy of ATP hydrolysis is well constrained (46 ± 4 kJ per mol; <xref ref-type="bibr" rid="bibr004">Bridger and Henderson 1983</xref>), direct measurements of ATP pool turnover coupled with ATP concentration should provide a quantitative estimation of biological energy flux (<xref ref-type="bibr" rid="bibr016">Karl 1993</xref>). Both heat flow and ATP pool turnover might be viewed as the epitome of reductionism because neither approach provides explicit information on which organisms or which pathways are most important in natural systems. Clearly in order to be useful, energy flow measurements need to be part of the holistic study of ecosystems and used as a tool in experimental perturbation studies to learn more about the controls on energy capture, transformation, and dissipation in marine systems.</p></sec>
+<sec id="s4"><title>Future research prospectus</title>
+<p>As we move further into the anthropocene and continue to alter the sea around us, we need to have the capacity to monitor changes in the most fundamental property of the system, namely energy flow. The future ocean will be warmer, more stratified and nutrient starved, more acidic, and less oxygenated as a consequence of anthropogenic forcing by greenhouse gas emissions (<xref ref-type="bibr" rid="bibr013">Gruber 2011</xref>). These habitat changes will impact solar energy capture and transformation by microbial assemblages, so there is an urgent need to improve our conceptual understanding and quantitative assessments of energy flow in the open sea. I consider this to be one of the greatest contemporary challenges in microbial oceanography and marine ecology. The Center for Microbial Oceanography: Research and Education (C-MORE) is poised to begin a systematic two-year study (2014–2015) of planktonic community energy flow in the NPSG with an emphasis on pathways and controls. Once a comprehensive energy budget is available for the NPSG microbial assemblage, other fundamental properties including the maximum empower selection principle (<xref ref-type="bibr" rid="bibr039">Odum 1983b</xref>; <xref ref-type="bibr" rid="bibr047">Sciubba 2011</xref>), net metabolic balance (<xref ref-type="bibr" rid="bibr008">Ducklow and Doney 2013</xref>), the concept of energy equivalents and transformity (<xref ref-type="bibr" rid="bibr038">Odum 1983a</xref>), and the enigma of microbial production of recalcitrant organic matter (<xref ref-type="bibr" rid="bibr015">Jiao et al. 2010</xref>) can be systematically investigated. The development of a new theoretical framework for solar energy capture and energy flow via microorganisms in the sea may also be of practical value for policy makers and society as a whole (<xref ref-type="bibr" rid="bibr046">Prosser et al. 2007</xref>). As our demands for renewable energy continue to increase, a better understanding of the unique evolutionary adaptations of our magnificent marine microbes might improve our standard of living and extend our survival as a species.</p></sec>
+<sec id="s5" sec-type="copyright-statement"><title>Copyright</title>
+<p>© 2014 Karl. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</p></sec>
+</body>
+<back><ack><title>Acknowledgments</title>
+<p>I thank Jody Deming, Ocean Science domain editor, for the cordial invitation to contribute a commentary to <italic>Elementa: Science of the Anthropocene</italic>, Karin Bjorkman and Sam Wilson for comments on an earlier draft of the manuscript, and the National Science Foundation (EF04-24599) and the Gordon and Betty Moore Foundation for their generous support of my research.</p></ack>
+<ref-list content-type="parsed"><title>References</title>
+<ref id="bibr001">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Béjà</surname><given-names>O</given-names></name>, 
+<name name-style="western"><surname>Aravind</surname><given-names>L</given-names></name>, 
+<name name-style="western"><surname>Koonin</surname><given-names>EV</given-names></name>, 
+<name name-style="western"><surname>Suzuki</surname><given-names>MT</given-names></name>, 
+<name name-style="western"><surname>Hadd</surname><given-names>A</given-names></name>, <etal>et al.</etal> 
+<year>2000</year>. 
+<article-title>Bacterial rhodopsin: Evidence for a new type of phototrophy in the sea</article-title>. 
+<source>Science</source> 
+<volume>289</volume>(<issue>5486</issue>): 
+<fpage>1902</fpage>–<lpage>1906</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr002">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Béjà</surname><given-names>O</given-names></name>, 
+<name name-style="western"><surname>Spudich</surname><given-names>EN</given-names></name>, 
+<name name-style="western"><surname>Spudich</surname><given-names>JL</given-names></name>, 
+<name name-style="western"><surname>Leclerc</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>DeLong</surname><given-names>EF</given-names></name>. 
+<year>2001</year>. 
+<article-title>Proteorhodopsin phototrophy in the ocean</article-title>. 
+<source>Nature</source> 
+<volume>411</volume>(<issue>6839</issue>): 
+<fpage>786</fpage>–<lpage>789</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr003">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Braissant</surname><given-names>O</given-names></name>, 
+<name name-style="western"><surname>Wirz</surname><given-names>D</given-names></name>, 
+<name name-style="western"><surname>Göpfert</surname><given-names>B</given-names></name>, 
+<name name-style="western"><surname>Daniels</surname><given-names>AU</given-names></name>. 
+<year>2010</year>. 
+<article-title>Use of isothermal microcalorimetery to monitor microbial activities</article-title>. 
+<source>FEMS Microbiol. Lett</source> 
+<volume>303</volume>: 
+<fpage>1</fpage>–<lpage>8</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr004">
+<mixed-citation publication-type="book">
+<name name-style="western"><surname>Bridger</surname><given-names>WA</given-names></name>, 
+<name name-style="western"><surname>Henderson</surname><given-names>JF</given-names></name>. 
+<year>1983</year>. 
+<source>Cell ATP</source>. 
+<publisher-loc>New York</publisher-loc>: 
+<publisher-name>John Wiley &amp; Sons</publisher-name>.</mixed-citation>
+</ref>
+<ref id="bibr005">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Brown</surname><given-names>MT</given-names></name>, 
+<name name-style="western"><surname>Ulgiati</surname><given-names>S</given-names></name>. 
+<year>2004</year>. 
+<article-title>Energy quality, emergy, and transformity: H. T. Odum’s contributions to quantifying and understanding systems</article-title>. 
+<source>Ecol. Model</source> 
+<volume>178</volume>(<issue>1–2</issue>): 
+<fpage>201</fpage>–<lpage>213</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr006">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>DeLong</surname><given-names>EF</given-names></name>, 
+<name name-style="western"><surname>Béjà</surname><given-names>O</given-names></name>. 
+<year>2010</year>. 
+<article-title>The light-driven proton pump Proteorhodopsin enhances bacterial survival during tough times</article-title>. 
+<source>PLoS Biol</source> 
+<volume>8</volume>(<issue>4</issue>): 
+<fpage>e1000359</fpage>. doi: 
+<pub-id pub-id-type="doi">10.1371/journal.pbio.1000359</pub-id></mixed-citation>
+</ref>
+<ref id="bibr007">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Djamali</surname><given-names>E</given-names></name>, 
+<name name-style="western"><surname>Nulton</surname><given-names>JD</given-names></name>, 
+<name name-style="western"><surname>Turner</surname><given-names>PJ</given-names></name>, 
+<name name-style="western"><surname>Rohwer</surname><given-names>F</given-names></name>, 
+<name name-style="western"><surname>Salamon</surname><given-names>P</given-names></name>. 
+<year>2012</year>. 
+<article-title>Heat output by marine microbial and viral communities</article-title>. 
+<source>J. Non-Equilib. Thermodyn</source> 
+<volume>37</volume>(<issue>3</issue>): 
+<fpage>291</fpage>–<lpage>313</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr008">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Ducklow</surname><given-names>HW</given-names></name>, 
+<name name-style="western"><surname>Doney</surname><given-names>SC</given-names></name>. 
+<year>2013</year>. 
+<article-title>What is the metabolic state of the oligotrophic ocean? A debate</article-title>. 
+<source>Ann. Rev. Mar. Sci</source> 
+<volume>5</volume>: 
+<fpage>525</fpage>–<lpage>53</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr009">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Frigaard</surname><given-names>NU</given-names></name>, 
+<name name-style="western"><surname>Martinez</surname><given-names>A</given-names></name>, 
+<name name-style="western"><surname>Mincer</surname><given-names>TJ</given-names></name>, 
+<name name-style="western"><surname>DeLong</surname><given-names>EF</given-names></name>. 
+<year>2006</year>. 
+<article-title>Proteorhodopsin laterial gene transfer between marine planktonic Bacteria and Archaea</article-title>. 
+<source>Nature</source> 
+<volume>439</volume>(<issue>7078</issue>): 
+<fpage>847</fpage>–<lpage>850</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr010">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Gómez-Consarnau</surname><given-names>L</given-names></name>, 
+<name name-style="western"><surname>González</surname><given-names>JM</given-names></name>, 
+<name name-style="western"><surname>Coll-Lladó</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>Gourdon</surname><given-names>P</given-names></name>, 
+<name name-style="western"><surname>Pascher</surname><given-names>T</given-names></name>, <etal>et al.</etal> 
+<year>2007</year>. 
+<article-title>Light stimulates growth of proteorhodopsin-containing marine Flavobacteria</article-title>. 
+<source>Nature</source> 
+<volume>445</volume>(<issue>7124</issue>): 
+<fpage>210</fpage>–<lpage>213</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr011">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Gómez-Consarnau</surname><given-names>L</given-names></name>, 
+<name name-style="western"><surname>Akram</surname><given-names>N</given-names></name>, 
+<name name-style="western"><surname>Lindell</surname><given-names>K</given-names></name>, 
+<name name-style="western"><surname>Pedersen</surname><given-names>A</given-names></name>, 
+<name name-style="western"><surname>Neutze</surname><given-names>R</given-names></name>, <etal>et al.</etal> 
+<year>2010</year>. 
+<article-title>Proteorhodopsin phototrophy promotes survival of marine bacteria during starvation</article-title>. 
+<source>PLoS Biol</source> 
+<volume>8</volume>(<issue>4</issue>): <fpage>e1000358</fpage>. doi: 
+<pub-id pub-id-type="doi">10.1371/journal.pbio.1000358</pub-id></mixed-citation>
+</ref>
+<ref id="bibr012">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Grande</surname><given-names>KD</given-names></name>, 
+<name name-style="western"><surname>Williams</surname><given-names>PJLeB</given-names></name>, 
+<name name-style="western"><surname>Marra</surname><given-names>J</given-names></name>, 
+<name name-style="western"><surname>Purdie</surname><given-names>DA</given-names></name>, 
+<name name-style="western"><surname>Heinemann</surname><given-names>K</given-names></name>, <etal>et al.</etal> 
+<year>1989</year>. 
+<article-title>Primary production in the North Pacific gyre: a comparison of rates determined by the <sup>14</sup>C, O<sub>2</sub> concentration and <sup>18</sup>O methods</article-title>. 
+<source>Deep-Sea Res. Part A</source> 
+<volume>36</volume>(<issue>11</issue>): 
+<fpage>1621</fpage>–<lpage>1634</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr013">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Gruber</surname><given-names>N</given-names></name>. 
+<year>2011</year>. 
+<article-title>Warming up, turning sour, losing breath: ocean biogeochemistry under global change</article-title>. 
+<source>Phil. Trans. Royal Soc. A — Math. Phys. Eng. Sci</source> 
+<volume>369</volume>(<issue>1943</issue>): 
+<fpage>1980</fpage>–<lpage>1996</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr014">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Holm-Hansen</surname><given-names>O</given-names></name>, 
+<name name-style="western"><surname>Booth</surname><given-names>CR</given-names></name>. 
+<year>1966</year>. 
+<article-title>The measurement of adenosine triphosphate in the ocean and its ecological significance</article-title>. 
+<source>Limnol. Oceanogr</source> 
+<volume>11</volume>(<issue>4</issue>): 
+<fpage>510</fpage>–<lpage>519</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr015">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Jiao</surname><given-names>N</given-names></name>, 
+<name name-style="western"><surname>Herndl</surname><given-names>GJ</given-names></name>, 
+<name name-style="western"><surname>Hansell</surname><given-names>DA</given-names></name>, 
+<name name-style="western"><surname>Benner</surname><given-names>R</given-names></name>, 
+<name name-style="western"><surname>Kattner</surname><given-names>G</given-names></name>, <etal>et al.</etal> 
+<year>2010</year>. 
+<article-title>Microbial production of recalcitrant dissolved organic matter: long-term carbon storage in the global ocean</article-title>. 
+<source>Nature Rev. Microbiol</source> 
+<volume>8</volume>(<issue>8</issue>): 
+<fpage>593</fpage>–<lpage>598</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr016">
+<mixed-citation publication-type="inbook">
+<name name-style="western"><surname>Karl</surname><given-names>DM</given-names></name>. 
+<year>1993</year>. 
+<chapter-title>Adenosine triphosphate (ATP) and total adenine nucleotide (TAN) pool turnover rates as measures of energy flux and specific growth rate in natural populations of microorganisms</chapter-title>, in 
+<name name-style="western"><surname>Kemp</surname><given-names>PF</given-names></name>, 
+<name name-style="western"><surname>Sherr</surname><given-names>BF</given-names></name>, 
+<name name-style="western"><surname>Sherr</surname><given-names>EB</given-names></name>, 
+<name name-style="western"><surname>Cole</surname><given-names>JJ</given-names></name>, eds., 
+<source>Current Methods in Aquatic Microbial Ecology</source>. 
+<publisher-loc>Boca Raton, Florida</publisher-loc>: 
+<publisher-name>Lewis Publishers</publisher-name>: p. 
+<fpage>483</fpage>–<lpage>494</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr017">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Karl</surname><given-names>DM</given-names></name>.
+<year>2002</year>. 
+<article-title>Hidden in a sea of microbes</article-title>. 
+<source>Nature</source> 
+<volume>415</volume>(<issue>6872</issue>): 
+<fpage>590</fpage>–<lpage>591</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr018">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Karl</surname><given-names>DM</given-names></name>, 
+<name name-style="western"><surname>Bossard</surname><given-names>P</given-names></name>. 
+<year>1985</year>. 
+<article-title>Measurement and significance of ATP and adenine nucleotide pool turnover in microbial cells and environmental samples</article-title>. 
+<source>J. Microbiol. Meth</source> 
+<volume>3</volume>(<issue>3–4</issue>): 
+<fpage>125</fpage>–<lpage>139</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr019">
+<mixed-citation publication-type="inbook">
+<name name-style="western"><surname>Karl</surname><given-names>DM</given-names></name>, 
+<name name-style="western"><surname>Bidigare</surname><given-names>RR</given-names></name>, 
+<name name-style="western"><surname>Letelier</surname><given-names>RM</given-names></name>. 
+<year>2002</year>. 
+<chapter-title>Sustained and aperiodic variability in organic matter production and phototrophic microbial community structure in the North Pacific Subtropical Gyre</chapter-title>, in 
+<name name-style="western"><surname>Williams</surname><given-names>PJleB</given-names></name>, 
+<name name-style="western"><surname>Thomas</surname><given-names>DR</given-names></name>, 
+<name name-style="western"><surname>Reynolds</surname><given-names>CS</given-names></name>, eds., 
+<source>Phytoplankton Productivity and Carbon Assimilation in Marine and Freshwater Ecosystems</source>. 
+<publisher-loc>London</publisher-loc>: <publisher-name>Blackwell Publishers</publisher-name>: p. 
+<fpage>222</fpage>–<lpage>264</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr020">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Kimura</surname><given-names>H</given-names></name>, 
+<name name-style="western"><surname>Young</surname><given-names>CR</given-names></name>, 
+<name name-style="western"><surname>Martinez</surname><given-names>A</given-names></name>, 
+<name name-style="western"><surname>DeLong</surname><given-names>EF</given-names></name>. 
+<year>2011</year>. 
+<article-title>Light-induced transcriptional responses associated with proteorhodopsin-enhanced growth in a marine flavobacterium</article-title>. 
+<source>ISME J</source> 
+<volume>5</volume>(<issue>10</issue>): 
+<fpage>1641</fpage>–<lpage>1651</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr021">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Kirchman</surname><given-names>DL</given-names></name>, 
+<name name-style="western"><surname>Hanson</surname><given-names>TE</given-names></name>. 
+<year>2013</year>. 
+<article-title>Bioenergetics of photoheterotrophic bacteria in the oceans</article-title>. 
+<source>Environ. Microbiol. Reports</source> 
+<volume>5</volume>(<issue>2</issue>): 
+<fpage>188</fpage>–<lpage>199</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr022">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Koblížek</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>Béjà</surname><given-names>O</given-names></name>, 
+<name name-style="western"><surname>Bidigare</surname><given-names>RR</given-names></name>, 
+<name name-style="western"><surname>Christensen</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Benitez-Nelson</surname><given-names>B</given-names></name>, <etal>et al.</etal> 
+<year>2003</year>. 
+<article-title>Isolation and characterization of <italic>Erythrobacter</italic> sp. Strains from the upper ocean</article-title>. 
+<source>Arch. Microbiol</source> 
+<volume>180</volume>(<issue>5</issue>): 
+<fpage>327</fpage>–<lpage>338</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr023">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Koblížek</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>Mlčoušková</surname><given-names>J</given-names></name>, 
+<name name-style="western"><surname>Kolber</surname><given-names>Z</given-names></name>, 
+<name name-style="western"><surname>Kopecký</surname><given-names>J</given-names></name>. 
+<year>2010</year>. 
+<article-title>On the photosynthetic properties of marine bacterium COL2P belonging to <italic>Roseobacter</italic> clade</article-title>. 
+<source>Arch. Microbiol</source> 
+<volume>192</volume>(<issue>1</issue>): 
+<fpage>41</fpage>–<lpage>49</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr024">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Kolber</surname><given-names>ZA</given-names></name>, 
+<name name-style="western"><surname>Van</surname><given-names>Dover CL</given-names></name>, 
+<name name-style="western"><surname>Niederman</surname><given-names>RA</given-names></name>, 
+<name name-style="western"><surname>Falkowski</surname><given-names>PG</given-names></name>. 
+<year>2000</year>. 
+<article-title>Bacterial photosynthesis in surface waters of the open ocean</article-title>. 
+<source>Nature</source> 
+<volume>407</volume>(<issue>6801</issue>): 
+<fpage>177</fpage>–<lpage>179</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr025">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Kolber</surname><given-names>Z</given-names></name>. 
+<year>2007</year>. 
+<article-title>Energy cycle in the ocean: Powering the microbial world</article-title>. 
+<source>Oceanogr</source> 
+<volume>20</volume>(<issue>2</issue>): 
+<fpage>79</fpage>–<lpage>88</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr026">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Kolber</surname><given-names>ZS</given-names></name>, 
+<name name-style="western"><surname>Prášil</surname><given-names>O</given-names></name>, 
+<name name-style="western"><surname>Falkowski</surname><given-names>PG</given-names></name>. 
+<year>1998</year>. 
+<article-title>Measurements of variable chlorophyll fluorescence using fast repetition rate techniques: defining methodology and experimental protocols</article-title>. 
+<source>Biochim. Biophys. Acta</source> 
+<volume>1367</volume>(<issue>1–3</issue>): 
+<fpage>88</fpage>–<lpage>106</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr027">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Kolber</surname><given-names>ZA</given-names></name>, 
+<name name-style="western"><surname>Plumley</surname><given-names>FG</given-names></name>, 
+<name name-style="western"><surname>Lang</surname><given-names>AS</given-names></name>, 
+<name name-style="western"><surname>Beatty</surname><given-names>JT</given-names></name>, 
+<name name-style="western"><surname>Blankenship</surname><given-names>RE</given-names></name>, <etal>et al.</etal> 
+<year>2001</year>. 
+<article-title>Contribution of aerobic photoheterotrophic bacteria to the carbon cycle of the ocean</article-title>. 
+<source>Science</source> 
+<volume>292</volume>(<issue>5526</issue>): 
+<fpage>2492</fpage>–<lpage>2495</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr028">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Lipmann</surname><given-names>F</given-names></name>. 
+<year>1941</year>. 
+<article-title>Metabolic generation and utilization of phosphate bond energy</article-title>. 
+<source>Adv. Enzymol</source> 
+<volume>1</volume>: 
+<fpage>99</fpage>–<lpage>162</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr029">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Lotka</surname><given-names>AJ</given-names></name>. 
+<year>1922</year>. 
+<article-title>Natural selection as a physical principle</article-title>. 
+<source>Proc. Natl. Acad. Sci. USA</source> 
+<volume>8</volume>(<issue>6</issue>): 
+<fpage>151</fpage>–<lpage>154</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr030">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Margalef</surname><given-names>R</given-names></name>. 
+<year>1963</year>. 
+<article-title>On certain unifying principles in ecology</article-title>. 
+<source>Amer. Naturalist</source> 
+<volume>97</volume>(<issue>897</issue>): 
+<fpage>357</fpage>–<lpage>374</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr031">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>MacKenzie</surname><given-names>TDB</given-names></name>, 
+<name name-style="western"><surname>Burns</surname><given-names>RA</given-names></name>, 
+<name name-style="western"><surname>Campbell</surname><given-names>DA</given-names></name>. 
+<year>2004</year>. 
+<article-title>Carbon status constrains light acclimation in the cyanobacterium <italic>Synechococcus elongatus</italic></article-title>. 
+<source>Plant Physiol</source> 
+<volume>136</volume>(<issue>2</issue>): 
+<fpage>3301</fpage>–<lpage>3312</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr032">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Månsson</surname><given-names>BA</given-names></name>, 
+<name name-style="western"><surname>McGlade</surname><given-names>JM</given-names></name>. 
+<year>1993</year>. 
+<article-title>Ecology, thermodynamics and H. T. Odum’s conjectures</article-title>. 
+<source>Oecologia</source> 
+<volume>93</volume>(<issue>4</issue>): 
+<fpage>582</fpage>–<lpage>596</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr033">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Marchetti</surname><given-names>A</given-names></name>, 
+<name name-style="western"><surname>Schruth</surname><given-names>DM</given-names></name>, 
+<name name-style="western"><surname>Durkin</surname><given-names>CA</given-names></name>, 
+<name name-style="western"><surname>Parker</surname><given-names>MS</given-names></name>, 
+<name name-style="western"><surname>Kodner</surname><given-names>RB</given-names></name>, <etal>et al.</etal> 
+<year>2012</year>. 
+<article-title>Comparative metatranscriptomics identifies molecular bases for the physiological responses of phytoplankton to varying iron availability</article-title>. 
+<source>Proc. Natl. Acad. Sci. USA</source> 
+<volume>109</volume>(<issue>6</issue>): 
+<fpage>E317</fpage>–<lpage>E325</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr034">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Martinez</surname><given-names>A</given-names></name>, 
+<name name-style="western"><surname>Bradley</surname><given-names>AS</given-names></name>, 
+<name name-style="western"><surname>Waldbauer</surname><given-names>JR</given-names></name>, 
+<name name-style="western"><surname>Summons</surname><given-names>RE</given-names></name>, 
+<name name-style="western"><surname>DeLong</surname><given-names>EF</given-names></name>. 
+<year>2007</year>. 
+<article-title>Proteorhodopsin photosystem gene expression enables photophosphorylation in a heterologous host</article-title>. 
+<source>Proc. Natl. Acad. Sci. USA</source> 
+<volume>104</volume>(<issue>13</issue>): 
+<fpage>5590</fpage>–<lpage>5595</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr035">
+<mixed-citation publication-type="inbook">
+<name name-style="western"><surname>Nealson</surname><given-names>KH</given-names></name>, 
+<name name-style="western"><surname>Rye</surname><given-names>R</given-names></name>. 
+<year>2003</year>. 
+<chapter-title>Evolution of metabolism</chapter-title>, in 
+<name name-style="western"><surname>Schlesinger</surname><given-names>WH</given-names></name>, ed., 
+<source>Biogeochemistry</source>. 
+<publisher-loc>Oxford, UK</publisher-loc>: 
+<publisher-name>Elsevier</publisher-name>: p. 
+<fpage>41</fpage>–<lpage>61</lpage>.</mixed-citation>
+</ref> 
+<ref id="bibr036">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Odum</surname><given-names>HT</given-names></name>. 
+<year>1956</year>. 
+<article-title>Primary production in flowing waters</article-title>. 
+<source>Limnol. Oceanogr</source> 
+<volume>1</volume>(<issue>2</issue>): 
+<fpage>102</fpage>–<lpage>117</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr037">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Odum</surname><given-names>EP</given-names></name>. 
+<year>1968</year>. 
+<article-title>Energy flow in ecosystems: A historical review</article-title>. 
+<source>Am.Zoologist</source> 
+<volume>8</volume>(<issue>1</issue>): 
+<fpage>11</fpage>–<lpage>18</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr038">
+<mixed-citation publication-type="book">
+<name name-style="western"><surname>Odum</surname><given-names>HT</given-names></name>. 
+<year>1983a</year>. 
+<source>Systems Ecology: An Introduction</source>. 
+<publisher-loc>New York</publisher-loc>: 
+<publisher-name>John Wiley &amp; Sons</publisher-name>.</mixed-citation>
+</ref>
+<ref id="bibr039">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Odum</surname><given-names>HT</given-names></name>. 
+<year>1983b</year>. 
+<article-title>Maximum power and efficiency: A rebuttal</article-title>. 
+<source>Ecol. Model</source> 
+<volume>20</volume>(<issue>1</issue>): 
+<fpage>71</fpage>–<lpage>82</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr040">
+<mixed-citation publication-type="book">
+<name name-style="western"><surname>Odum</surname><given-names>HT</given-names></name>, 
+<name name-style="western"><surname>Odum</surname><given-names>EC</given-names></name>. 
+<year>1976</year>. 
+<source>Energy Basis for Man and Nature</source>. 
+<publisher-loc>New York</publisher-loc>: 
+<publisher-name>McGraw-Hill Book Co</publisher-name>.</mixed-citation>
+</ref>
+<ref id="bibr041">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Odum</surname><given-names>HT</given-names></name>, 
+<name name-style="western"><surname>Pinkerton</surname><given-names>RC</given-names></name>. 
+<year>1955</year>. 
+<article-title>Time’s speed regulator: The optimum efficiency for maximum power output in physical and biological systems</article-title>. 
+<source>Amer. Scientist</source> 
+<volume>43</volume>(<issue>2</issue>), 
+<fpage>331</fpage>–<lpage>343</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr042">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Packard</surname><given-names>TT</given-names></name>. 
+<year>1971</year>. 
+<article-title>The measurement of respiratory electron transport activity in marine plankton</article-title>. 
+<source>J. Mar. Res</source> 
+<volume>29</volume>: 
+<fpage>235</fpage>–<lpage>244</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr043">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Pamatmat</surname><given-names>MM</given-names></name>. 
+<year>1982</year>. 
+<article-title>Heat production by sediment: ecological significance</article-title>. 
+<source>Science</source> 
+<volume>215</volume>(<issue>4531</issue>): 
+<fpage>395</fpage>–<lpage>397</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr044">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Pamatmat</surname><given-names>MM</given-names></name>. 
+<year>2003</year>. 
+<article-title>Heat-flow measurements in aquatic ecosystems</article-title>. 
+<source>J. Plankton Res</source> 
+<volume>25</volume>(<issue>4</issue>): 
+<fpage>461</fpage>–<lpage>464</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr045">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Pamatmat</surname><given-names>MM</given-names></name>, 
+<name name-style="western"><surname>Graf</surname><given-names>G</given-names></name>, 
+<name name-style="western"><surname>Bengtsson</surname><given-names>W</given-names></name>, 
+<name name-style="western"><surname>Novak</surname><given-names>CS</given-names></name>. 
+<year>1981</year>. 
+<article-title>Heat production, ATP concentration and electron transport activity of marine sediments</article-title>. 
+<source>Mar. Ecol. Prog. Ser</source> 
+<volume>4</volume>: 
+<fpage>135</fpage>–<lpage>143</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr046">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Prosser</surname><given-names>JI</given-names></name>, 
+<name name-style="western"><surname>Bohannan</surname><given-names>BJM</given-names></name>, 
+<name name-style="western"><surname>Curtis</surname><given-names>TP</given-names></name>, 
+<name name-style="western"><surname>Ellis</surname><given-names>RJ</given-names></name>, 
+<name name-style="western"><surname>Firestone</surname><given-names>MK</given-names></name>, <etal>et al.</etal> 
+<year>2007</year>. 
+<article-title>The role of ecological theory in microbial ecology</article-title>. 
+<source>Nature Rev. Micro</source> 
+<volume>5</volume>(<issue>5</issue>): 
+<fpage>384</fpage>–<lpage>392</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr047">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Sciubba</surname><given-names>E</given-names></name>. 
+<year>2011</year>. 
+<article-title>What did Lotka really say? A critical reassessment of the “maximum power principle”</article-title>. 
+<source>Ecol. Model</source> 
+<volume>222</volume>(<issue>8</issue>): 
+<fpage>1347</fpage>–<lpage>1353</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr048">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Shiba</surname><given-names>T</given-names></name>, 
+<name name-style="western"><surname>Simidu</surname><given-names>U</given-names></name>, 
+<name name-style="western"><surname>Taga</surname><given-names>N</given-names></name>. 
+<year>1979</year>. 
+<article-title>Distribution of aerobic bacteria which contain Bacteriochlorophyll <italic>a</italic></article-title>. 
+<source>Appl. Environ. Microbiol</source> 
+<volume>38</volume>(<issue>1</issue>): 
+<fpage>43</fpage>–<lpage>45</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr049">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Slamovits</surname><given-names>CH</given-names></name>, 
+<name name-style="western"><surname>Okamoto</surname><given-names>N</given-names></name>, 
+<name name-style="western"><surname>Burri</surname><given-names>L</given-names></name>, 
+<name name-style="western"><surname>James</surname><given-names>ER</given-names></name>, 
+<name name-style="western"><surname>Keeling</surname><given-names>PJ</given-names></name>. 
+<year>2011</year>. 
+<article-title>A bacterial proteorhodopsin proton pump in marine eukaryotes</article-title>. 
+<source>Nature Comm</source> 
+<volume>2</volume>(<issue>Article 183</issue>): doi:
+<pub-id pub-id-type="doi">10.1038/ncomms1188</pub-id></mixed-citation>
+</ref>
+<ref id="bibr050">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Steindler</surname><given-names>L</given-names></name>, 
+<name name-style="western"><surname>Schwalbach</surname><given-names>MS</given-names></name>, 
+<name name-style="western"><surname>Smith</surname><given-names>DP</given-names></name>, 
+<name name-style="western"><surname>Chan</surname><given-names>F</given-names></name>, 
+<name name-style="western"><surname>Giovannoni</surname><given-names>SJ</given-names></name>. 
+<year>2011</year>. 
+<article-title>Energy starved <italic>Candidatus</italic> Pelagibacter ubique substitutes light-mediated ATP production for endogenous carbon respiration</article-title>. 
+<source>PLoS One</source> 
+<volume>6</volume>(<issue>5</issue>): 
+<fpage>e19725</fpage>. doi: 
+<pub-id pub-id-type="doi">10.1371/journal.pone.0019725</pub-id></mixed-citation>
+</ref>
+<ref id="bibr051">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Wang</surname><given-names>Z</given-names></name>, 
+<name name-style="western"><surname>O’Shaughnessy</surname><given-names>TJ</given-names></name>, 
+<name name-style="western"><surname>Soto</surname><given-names>CM</given-names></name>, 
+<name name-style="western"><surname>Rahbar</surname><given-names>AM</given-names></name>, 
+<name name-style="western"><surname>Robertson</surname><given-names>KL</given-names></name>, <etal>et al.</etal> 
+<year>2012</year>. 
+<article-title>Function and regulation of <italic>Vibrio campbellii</italic> proteorhodopsin: Acquired phototrophy in a classical organoheterotroph</article-title>. 
+<source>PLoS ONE</source> 
+<volume>7</volume>(<issue>6</issue>): 
+<fpage>e38749</fpage>.</mixed-citation>
+</ref>
+<ref id="bibr052">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Yoshizawa</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Kawanabe</surname><given-names>A</given-names></name>, 
+<name name-style="western"><surname>Ito</surname><given-names>H</given-names></name>, 
+<name name-style="western"><surname>Kandori</surname><given-names>H</given-names></name>, 
+<name name-style="western"><surname>Kogure</surname><given-names>K</given-names></name>. 
+<year>2012</year>. 
+<article-title>Diversity and functional analysis of proteorhodopsin in marine <italic>Flavobacteria</italic></article-title>. 
+<source>Environ. Microbiol</source>. 
+<pub-id pub-id-type="doi">doi: 10.1111/j.1462-2920.2012.02702.x</pub-id></mixed-citation>
+</ref>
+</ref-list>
+</back>
+</article>

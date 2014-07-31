@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="commentary" dtd-version="1.0" xml:lang="en">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">BioOne</journal-id>
+<journal-id journal-id-type="journal-id">Elementa</journal-id>
+<journal-title-group>
+<journal-title>Elementa</journal-title>
+<journal-subtitle>Science of the Anthropocene</journal-subtitle>
+<abbrev-journal-title>Elem. Sci. Anth.</abbrev-journal-title>
+</journal-title-group>
+<contrib-group>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Helmig</surname><given-names>Detlev</given-names></name>
+<xref ref-type="aff" rid="affa"/>
+<role>Editor-in-Chief: Atmospheric Science</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/detlev-helmig/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Blum</surname><given-names>Joel D.</given-names></name>
+<xref ref-type="aff" rid="affb"/>
+<role>Editor-in-Chief: Earth &amp; Environmental Science</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/joel-d-blum/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Zak</surname><given-names>Donald R.</given-names></name>
+<xref ref-type="aff" rid="affb"/>
+<role>Editor-in-Chief: Ecology</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/donald-r-zak/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Deming</surname><given-names>Jody W.</given-names></name>
+<xref ref-type="aff" rid="affc"/>
+<role>Editor-in-Chief: Ocean Science</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/jody-w-deming/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Chang</surname><given-names>Michael E.</given-names></name>
+<xref ref-type="aff" rid="affd"/>
+<role>Editor-in-Chief: Sustainable Engineering</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/michael-e-chang/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Kapuscinski</surname><given-names>Anne</given-names></name>
+<xref ref-type="aff" rid="affe"/>
+<role>Editor-in-Chief: Sustainability Transitions</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/anne-kapuscinski/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Peart</surname><given-names>David R.</given-names></name>
+<xref ref-type="aff" rid="affe"/>
+<role>Editor-in-Chief: Sustainability Transitions</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/david-r-peart/</uri>
+</contrib>
+</contrib-group>
+<aff id="affa">
+<institution>University of Colorado Boulder</institution>
+<country>United States</country>
+</aff>
+<aff id="affb">
+<institution>University of Michigan</institution>
+<country>United States</country>
+</aff>
+<aff id="affc">
+<institution>University of Washington</institution>
+<country>United States</country>
+</aff>
+<aff id="affd">
+<institution>Georgia Institute of Technology</institution>
+<country>United States</country>
+</aff>
+<aff id="affe">
+<institution>Dartmouth</institution>
+<country>United States</country>
+</aff>
+<issn pub-type="epub">2325-1026</issn>
+<publisher>
+<publisher-name>BioOne</publisher-name>
+<publisher-loc>21 Dupont Circle NW, Suite 800, Washington, DC 20036, United States<email>team@elementascience.org</email>
+<uri>http://bioone.org</uri><uri>http://elementascience.org</uri>
+</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">ELEMENTA-D-13-00005</article-id>
+<article-id pub-id-type="doi">10.12952/journal.elementa.000013</article-id>
+<article-categories>
+<subj-group subj-group-type="article-type">
+<subject>Commentary</subject>
+</subj-group>
+<subj-group subj-group-type="domain">
+<subject>Ecology</subject>
+</subj-group>
+<subj-group subj-group-type="classification">
+<subject>Ecology</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Proactive ecology for the Anthropocene</article-title>
+<alt-title alt-title-type="short-title">Proactive ecology for the Anthropocene</alt-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Chapin</surname><given-names>F. Stuart</given-names><suffix>III</suffix></name>
+<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+<xref ref-type="corresp" rid="cor1"><sup>*</sup></xref>
+</contrib>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Fernandez</surname><given-names>Erica</given-names></name>
+<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+</contrib>
+</contrib-group>
+<aff id="aff1"><label>1</label>
+<institution content-type="dept">Institute of Arctic Biology</institution>, <institution>University of Alaska Fairbanks</institution>, <addr-line content-type="city">Fairbanks</addr-line>, <addr-line content-type="state">Alaska</addr-line>, <country>United States</country></aff>
+<aff id="aff2"><label>2</label>
+<institution content-type="dept">Urban Studies Department</institution>, <institution>Stanford University</institution>, <addr-line content-type="city">Stanford</addr-line>, <addr-line content-type="state">California</addr-line>, <country>United States</country></aff>
+<contrib-group>
+<contrib contrib-type="domain-editor-in-chief" xlink:type="simple">
+<name name-style="western"><surname>Zak</surname><given-names>Donald R.</given-names></name>
+<role>Domain Editor-in-Chief</role>
+<xref ref-type="aff" rid="afff"/>
+</contrib>
+</contrib-group>
+<aff id="afff">
+<institution content-type="dept">School of Natural Resources &amp; Environment</institution>
+<institution>University of Michigan</institution>
+<addr-line content-type="city">Ann Arbor</addr-line>
+<addr-line content-type="state">Michigan</addr-line>
+<country>United States</country>
+</aff>
+<author-notes><corresp id="cor1"><label><sup>*</sup></label> <email xlink:type="simple">terry.chapin@alaska.edu</email></corresp>
+</author-notes>
+<pub-date pub-type="epub" iso-8601-date="2013-12-04">
+<day>04</day>
+<month>12</month>
+<year>2013</year>
+</pub-date>
+<volume content-type="volume">1</volume>
+<elocation-id>000013</elocation-id>
+<history>
+<date date-type="received" iso-8601-date="2013-07-01">
+<day>01</day>
+<month>07</month>
+<year>2013</year>
+</date>
+<date date-type="rev-recd" iso-8601-date="2013-10-27">
+<day>27</day>
+<month>10</month>
+<year>2013</year>
+</date>
+<date date-type="accepted" iso-8601-date="2013-10-29">
+<day>29</day>
+<month>10</month>
+<year>2013</year>
+</date>
+</history>
+<permissions><copyright-year>2013</copyright-year>
+<copyright-holder>Chapin and Fernandez</copyright-holder>
+<license license-type="open-access" xlink:type="simple">
+<license-p><open-access><p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</p>
+</open-access>
+</license-p>
+</license>
+</permissions>
+<abstract><title>Abstract</title>
+<p>The rapid, directional global changes that characterize the Anthropocene provide unprecedented opportunities for ecologists and other scientists to discover new paradigms that shape our understanding of the ways that the world is changing. These paradigms will likely focus more strongly on interactions, feedbacks, thresholds, and model uncertainty than on steady-state dynamics and statistical uncertainty. We advocate a shift in ecology and other disciplines to a more proactive leadership role in defining problems and possibilities in a rapidly changing world rather than being relegated to a reactive role of trying to fix the problems after the horse has left the barn. This requires not only renewed commitment by ecologists (and other citizens) to a more proactive ethic of environmental citizenship but also institutional changes in education, the scientific review and funding processes, and promotion and tenure processes to encourage and celebrate those who seek to shape trajectories toward greater ecosystem and social resilience and well-being.</p>
+</abstract>
+<kwd-group>
+<kwd>Anthropocene</kwd>
+<kwd>resilience</kwd>
+<kwd>stewardship</kwd>
+</kwd-group>
+</article-meta>
+</front>
+<body>
+<p>The Anthropocene brings us into a Brave New World (<xref ref-type="bibr" rid="bibr008">Huxley, 1932</xref>) of science. At the age of 26, Charles Darwin traveled on the Beagle to places that few scientists had seen. The striking patterns of diversity that he saw opened his eyes to the discovery of evolutionary processes that operate everywhere and had shaped the world since well before the dawn of science. As today’s young scientists launch their scientific careers, they do so in a world that is changing more rapidly, directionally, and globally than at any time since science began. Although the processes are probably no different than they have always been, just as in Darwin’s world, the dynamics are changing in unprecedented ways. In this non-equilibrial world, science will undoubtedly develop new paradigms that shape our understanding of the ways that the world is changing. For the scientist entering graduate school today, observable patterns will probably change more dramatically during her or his scientific career than during the previous millennium. What an exciting time to be a scientist!</p>
+<p>Many current ecological paradigms are predicated on steady-state assumptions. For example, many ecologists assume that ecosystems approach a steady-state carbon stock, where carbon inputs from photosynthesis equal carbon losses from respiration, and net ecosystem production (NEP, the difference between photosynthesis and respiration) approaches zero (<xref ref-type="bibr" rid="bibr003">Chapin et al., 2006</xref>; <xref ref-type="bibr" rid="bibr011">Odum, 1969</xref>; <xref ref-type="bibr" rid="bibr016">Woodwell and Whittaker, 1968</xref>). Similarly the composition of plant and microbial communities is often assumed to approach steady state in late succession. However, recent studies show that late successional forests continue to accumulate carbon (<xref ref-type="bibr" rid="bibr009">Le Quéré et al., 2009</xref>; <xref ref-type="bibr" rid="bibr010">Luyssaert et al., 2007</xref>; <xref ref-type="bibr" rid="bibr017">Xiao et al., 2008</xref>) and change in species composition through local extinction and invasion of new species (<xref ref-type="bibr" rid="bibr012">Parmesan et al., 1999</xref>; <xref ref-type="bibr" rid="bibr013">Post, 2013</xref>). The ecology of the Anthropocene must determine the critical controls over these directional changes in ecosystem structure and function and the circumstances in which these changes precipitate irreversible transformation to novel states, many of which have no past analogues (<xref ref-type="bibr" rid="bibr007">Hobbs et al., 2013</xref>; <xref ref-type="bibr" rid="bibr014">Scheffer, 2009</xref>). In times of rapid change, we often don’t know what will happen next, so science needs to focus more strongly on interactions, feedbacks, and thresholds than on steady-state dynamics. This may benefit from exploration of scenarios to identify game-changing processes and thresholds, i.e., greater focus on model uncertainty rather than on statistical uncertainty.</p>
+<p>Designation of the Anthropocene as a geologic epoch (<xref ref-type="bibr" rid="bibr005">Crutzen, 2002</xref>) provides a formal scientific framework for the increasingly obvious fact that human activities interact strongly with environmental, ecological and social changes at local to global scales. The time is past when ecologists can study “pristine” ecosystems, ignore human roles in the dynamics of those systems, and expect their results to be broadly applicable. Ecology must be part of an interdisciplinary suite of disciplines that embraces the linkages between social and ecological components of social-ecological systems, often focusing on those linkages as aspects where scientific study is likely to provide the most novel insights.</p>
+<p>Ecology has a much more important role to play in Anthropocene dynamics than simply observing and understanding change. Stewardship is the shaping of trajectories of change to foster ecological and social resilience and well-being (<xref ref-type="bibr" rid="bibr001">Chapin et al., 2009</xref>; <xref ref-type="bibr" rid="bibr002">Chapin et al., 2011</xref>). Ecologists, other scientists, policy makers, managers, and civil society all have important contributions to make in shaping trajectories of change away from catastrophic risks and thresholds toward more sustainable outcomes. The time for loading-dock science, in which the scientist produces knowledge for someone else to use, is over because the decisions that shape important changes in social-ecological systems require insights and dialogue among all groups. There are many distinct roles that ecologists can play in stewardship according to their interests and personal philosophies. These include traditional roles such as conducting use-inspired research (i.e., research that advances fundamental understanding, while providing societally relevant insights) (<xref ref-type="bibr" rid="bibr015">Stokes, 1997</xref>), education, and outreach. The “broader impacts” criterion for evaluating research proposals at the National Science Foundation indicates that the conduct of societally relevant research is expected of all scientists.</p>
+<p>However, ecologists can go further and play other roles that create a more rigorous scientific foundation for stewardship. These includes active dialogue with other stakeholders, including politicians, policy makers, and civil society, about the processes driving social-ecological change so as to foster mitigation of undesirable changes that can be prevented or minimized as well as potential transformations that might move social-ecological systems toward more desirable trajectories and acceptable risks. These less customary roles of scientists raise fundamental questions about the role of science in society. Scientists often pretend that their investigations are objective and value-free. Although this may be substantially true in the process of drawing conclusions from scientific evidence, scientists are unquestionably motivated by values in deciding what questions to research and how and with whom to communicate the outcomes. The ethical boundaries between science and advocacy are fluid and worth re-examining in light of the world’s rapid human-driven changes. An individual can constructively operate at multiple points along the science-advocacy spectrum, as long as there is clear awareness and communication about the roles being played.</p>
+<p>Erica Fernandez’s honors thesis at Stanford University provides an example of interdisciplinary action ecology with potential to guide policy and promote community actions (<xref ref-type="bibr" rid="bibr006">Fernandez, 2012</xref>). The Yucatan Peninsula has experienced anthropogenic deforestation and biodiversity loss since early colonial times. Direct effects on the physical environment include a dramatic decrease in forested land, while indirect effects include changing Maya perceptions, understanding, and conservation of forest ecosystems. Contrary to expectations, Ixil, which supported monocultures of the henequen, an Agave harvested for fiber, had higher species richness, perhaps due to introduction of opportunistic species on disturbed lands, compared to Maya communities near <italic>Reserva San Nicolás</italic>, where there was less disturbance. Retention of traditional ecological knowledge was variable, perhaps due to location, immigration, and other socioeconomic factors. This study shows that working landscapes can support substantial biocultural diversity through multiple interactions of spatial heterogeneity associated with land use change and urban development, the type of species present in the landscape, and the age and degree of intergenerational knowledge transmission. Equally important, the project led to a field study by local community members to assess and improve their ability to recognize plants of their region as well as discussions of ways that formal education of youth could be changed to better prepare Maya children for a rapidly changing world, while maintaining their traditional knowledge and values.</p>
+<p>In Alaska, a Community Partnership for Self-Reliance and Sustainability has integrated the efforts of four rural indigenous communities with the University of Alaska Fairbanks and the Alaska Native Science Commission (<xref ref-type="bibr" rid="bibr004">Cochran et al., 2013</xref>). The goal of the partnership is to foster <italic>in-reach</italic> from communities to the university. Communities provide <italic>their</italic> vision of ways in which they can be more independent in achieving their cultural and livelihood goals, and university research groups provide expertise to assist in meeting these community goals, when communities request this. The community partnership provides the opportunity for communities to reflect carefully on their long-term goals and to connect these goals with research groups seeking to make their research findings more useful to Alaskan residents. Collaborative projects have emerged around renewable energy, subsistence fishing, and community relocation to escape erosion associated with climate change.</p>
+<p>At another scale, the Ecological Society of America has established a speakers’ bureau to foster greater dialogue between scientists and communities of faith. Potential speakers are trained not only in ecology but also in patterns of dialogue that build bridges rather than barriers between scientists and religious groups that seek unbiased sources of information about the changing world (<uri>http://www.esa.org/enjustice2/projects/faith-communities/</uri>).</p>
+<p>In summary, we advocate a shift in ecology and other disciplines to a more proactive leadership role in defining problems and possibilities in a rapidly changing world rather than being relegated to a reactive role of trying to fix the problems after the horse has left the barn. This requires not only renewed commitment by ecologists (and other citizens) to a more proactive ethic of environmental citizenship but also institutional changes in education, the scientific review and funding processes, and promotion and tenure processes to encourage and celebrate those who seek to shape trajectories toward greater ecosystem and social resilience and well-being.</p>
+<sec id="s1" sec-type="copyright-statement"><title>Copyright</title>
+<p>© 2013 Chapin and Fernandez. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</p></sec>
+</body>
+<back>
+<ref-list content-type="parsed"><title>References</title>
+<ref id="bibr001">
+<mixed-citation publication-type="book">
+<name name-style="western"><surname>Chapin</surname><given-names>FS</given-names><suffix>III</suffix></name>, 
+<name name-style="western"><surname>Kofinas</surname><given-names>GP</given-names></name>, 
+<name name-style="western"><surname>Folke</surname><given-names>C</given-names></name>, eds. 
+<year>2009</year>. 
+<source>Principles of Ecosystem Stewardship: Resilience-Based Natural Resource Management in a Changing World</source>. 
+<publisher-loc>New York</publisher-loc>: 
+<publisher-name>Springer</publisher-name>.</mixed-citation>
+</ref>
+<ref id="bibr002">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Chapin</surname><given-names>FS</given-names><suffix>III</suffix></name>, 
+<name name-style="western"><surname>Power</surname><given-names>ME</given-names></name>, 
+<name name-style="western"><surname>Pickett</surname><given-names>STA</given-names></name>, 
+<name name-style="western"><surname>Freitag</surname><given-names>A</given-names></name>, 
+<name name-style="western"><surname>Reynolds</surname><given-names>JA</given-names></name>, <etal>et al.</etal> 
+<year>2011</year>. 
+<article-title>Earth stewardship: Science for action to sustain the human-earth system</article-title>. 
+<source>Ecosphere</source> 
+<volume>2</volume>: 
+<fpage>art89</fpage>. doi:
+<pub-id pub-id-type="doi">10.1890/ES1811-00166.00161</pub-id>.</mixed-citation>
+</ref>
+<ref id="bibr003">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Chapin</surname><given-names>FS</given-names><suffix>III</suffix></name>, 
+<name name-style="western"><surname>Woodwell</surname><given-names>GM</given-names></name>, 
+<name name-style="western"><surname>Randerson</surname><given-names>JT</given-names></name>, 
+<name name-style="western"><surname>Lovett</surname><given-names>GM</given-names></name>, 
+<name name-style="western"><surname>Rastetter</surname><given-names>EB</given-names></name>, <etal>et al.</etal> 
+<year>2006</year>. 
+<article-title>Reconciling carbon-cycle concepts, terminology, and methods</article-title>. 
+<source>Ecosystems</source> 
+<volume>9</volume>: 
+<fpage>1041</fpage>–<lpage>1050</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr004">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Cochran</surname><given-names>P</given-names></name>, 
+<name name-style="western"><surname>Huntington</surname><given-names>OH</given-names></name>, 
+<name name-style="western"><surname>Pungowiyi</surname><given-names>C</given-names></name>, 
+<name name-style="western"><surname>Tom</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Chapin</surname><given-names>FS</given-names><suffix>III</suffix></name>, <etal>et al.</etal> 
+<year>2013</year>. 
+<article-title>Indigenous frameworks for observing and responding to climate change in Alaska</article-title>. 
+<source>Climatic Change</source> 
+<volume>120</volume>: 
+<fpage>157</fpage>–<lpage>167</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr005">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Crutzen</surname><given-names>PJ</given-names></name>. 
+<year>2002</year>. 
+<article-title>Geology of mankind</article-title>. 
+<source>Nature</source> 
+<volume>415</volume>: 
+<fpage>23</fpage>.</mixed-citation>
+</ref>
+<ref id="bibr006">
+<mixed-citation publication-type="book">
+<name name-style="western"><surname>Fernandez</surname><given-names>E</given-names></name>. 
+<year>2012</year>. 
+<source>Effects of land use change and urban development on biodiversity and traditional ecological knowledge in a Maya community in Yucatán [BA Honors Thesis]. Department of Education</source>. 
+<publisher-loc>Stanford, CA</publisher-loc>: 
+<publisher-name>Stanford University</publisher-name>.</mixed-citation>
+</ref>
+<ref id="bibr007">
+<mixed-citation publication-type="book">
+<name name-style="western"><surname>Hobbs</surname><given-names>RJ</given-names></name>, 
+<name name-style="western"><surname>Higgs</surname><given-names>ES</given-names></name>, 
+<name name-style="western"><surname>Hall</surname><given-names>CM</given-names></name>, eds. 
+<year>2013</year>. 
+<source>Novel Ecosystems: Intervening in the New Ecological World Order</source>. 
+<publisher-loc>New York</publisher-loc>: 
+<publisher-name>John Wiley &amp; Sons</publisher-name>.</mixed-citation>
+</ref>
+<ref id="bibr008">
+<mixed-citation publication-type="book">
+<name name-style="western"><surname>Huxley</surname><given-names>A</given-names></name>. 
+<year>1932</year>. 
+<source>Brave New World</source>. 
+<publisher-loc>London</publisher-loc>: 
+<publisher-name>Chatto and Windus</publisher-name>.</mixed-citation>
+</ref>
+<ref id="bibr009">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Le Quéré</surname><given-names>C</given-names></name>, 
+<name name-style="western"><surname>Raupach</surname><given-names>MR</given-names></name>, 
+<name name-style="western"><surname>Canadell</surname><given-names>JG</given-names></name>, 
+<name name-style="western"><surname>Marland</surname><given-names>G</given-names></name>, 
+<name name-style="western"><surname>Bopp</surname><given-names>L</given-names></name>, <etal>et al.</etal> 
+<year>2009</year>. 
+<article-title>Trends in the sources and sinks of carbon dioxide</article-title>. 
+<source>Nature Geoscience</source> 
+<volume>2</volume>: 
+<fpage>831</fpage>–<lpage>836</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr010">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Luyssaert</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Inglima</surname><given-names>I</given-names></name>, 
+<name name-style="western"><surname>Jung</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>Richardson</surname><given-names>AD</given-names></name>, 
+<name name-style="western"><surname>Reichstein</surname><given-names>M</given-names></name>, <etal>et al.</etal> 
+<year>2007</year>. 
+<article-title>CO<sub>2</sub> balance of boreal, temperate, and tropical forests derived from a global database</article-title>. 
+<source>Global Change Biol</source> 
+<volume>13</volume>: 
+<fpage>2509</fpage>–<lpage>2537</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr011">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Odum</surname><given-names>EP</given-names></name>. 
+<year>1969</year>. 
+<article-title>The strategy of ecosystem development</article-title>. 
+<source>Science</source> 
+<volume>164</volume>: 
+<fpage>262</fpage>–<lpage>270</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr012">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Parmesan</surname><given-names>C</given-names></name>, 
+<name name-style="western"><surname>Ryrholm</surname><given-names>N</given-names></name>, 
+<name name-style="western"><surname>Stefanescu</surname><given-names>C</given-names></name>, 
+<name name-style="western"><surname>Hill</surname><given-names>JK</given-names></name>, 
+<name name-style="western"><surname>Thomas</surname><given-names>CD</given-names></name>, <etal>et al.</etal> 
+<year>1999</year>. 
+<article-title>Poleward shifts in geographical ranges of butterfly species associated with regional warming</article-title>. 
+<source>Nature</source> 
+<volume>399</volume>: 
+<fpage>579</fpage>–<lpage>583</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr013">
+<mixed-citation publication-type="book">
+<name name-style="western"><surname>Post</surname><given-names>E</given-names></name>, ed. 
+<year>2013</year>. 
+<source>The Ecology of Climate Change: The Importance of Biotic Interactions</source>. 
+<publisher-loc>Princeton, NJ</publisher-loc>: 
+<publisher-name>Princeton University Press</publisher-name>.</mixed-citation>
+</ref>
+<ref id="bibr014">
+<mixed-citation publication-type="book">
+<name name-style="western"><surname>Scheffer</surname><given-names>M</given-names></name>. 
+<year>2009</year>. 
+<source>Critical Transitions in Nature and Society</source>. 
+<publisher-loc>Princeton, NJ</publisher-loc>: 
+<publisher-name>Princeton University Press</publisher-name>.</mixed-citation>
+</ref>
+<ref id="bibr015">
+<mixed-citation publication-type="book">
+<name name-style="western"><surname>Stokes</surname><given-names>DE</given-names></name>. 
+<year>1997</year>. 
+<source>Pasteur’s Quadrant: Basic Science and Technological Innovation</source>. 
+<publisher-loc>Washington, DC</publisher-loc>: 
+<publisher-name>Brookings Institution Press</publisher-name>.</mixed-citation>
+</ref>
+<ref id="bibr016">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Woodwell</surname><given-names>GM</given-names></name>, 
+<name name-style="western"><surname>Whittaker</surname><given-names>RH</given-names></name>. 
+<year>1968</year>. 
+<article-title>Primary production in terrestrial communities</article-title>. 
+<source>Am Zool</source> 
+<volume>8</volume>: 
+<fpage>19</fpage>–<lpage>30</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr017">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Xiao</surname><given-names>J</given-names></name>, 
+<name name-style="western"><surname>Zhuang</surname><given-names>Q</given-names></name>, 
+<name name-style="western"><surname>Baldocchi</surname><given-names>DD</given-names></name>, 
+<name name-style="western"><surname>Law</surname><given-names>BE</given-names></name>, 
+<name name-style="western"><surname>Richardson</surname><given-names>AD</given-names></name>, <etal>et al.</etal> 
+<year>2008</year>. 
+<article-title>Estimation of net ecosystem carbon exchange for the conterminous United States by combining MODIS and AmeriFlux data</article-title>. 
+<source>Agr Forest Meteorol</source> 
+<volume>148</volume>: 
+<fpage>1827</fpage>–<lpage>1847</lpage>.</mixed-citation>
+</ref></ref-list></back>
+</article>

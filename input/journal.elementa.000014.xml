@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="commentary" dtd-version="1.0" xml:lang="en">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">BioOne</journal-id>
+<journal-id journal-id-type="journal-id">Elementa</journal-id>
+<journal-title-group>
+<journal-title>Elementa</journal-title>
+<journal-subtitle>Science of the Anthropocene</journal-subtitle>
+<abbrev-journal-title>Elem. Sci. Anth.</abbrev-journal-title>
+</journal-title-group>
+<contrib-group>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Helmig</surname><given-names>Detlev</given-names></name>
+<xref ref-type="aff" rid="affa"/>
+<role>Editor-in-Chief: Atmospheric Science</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/detlev-helmig/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Blum</surname><given-names>Joel D.</given-names></name>
+<xref ref-type="aff" rid="affb"/>
+<role>Editor-in-Chief: Earth &amp; Environmental Science</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/joel-d-blum/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Zak</surname><given-names>Donald R.</given-names></name>
+<xref ref-type="aff" rid="affb"/>
+<role>Editor-in-Chief: Ecology</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/donald-r-zak/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Deming</surname><given-names>Jody W.</given-names></name>
+<xref ref-type="aff" rid="affc"/>
+<role>Editor-in-Chief: Ocean Science</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/jody-w-deming/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Chang</surname><given-names>Michael E.</given-names></name>
+<xref ref-type="aff" rid="affd"/>
+<role>Editor-in-Chief: Sustainable Engineering</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/michael-e-chang/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Kapuscinski</surname><given-names>Anne</given-names></name>
+<xref ref-type="aff" rid="affe"/>
+<role>Editor-in-Chief: Sustainability Transitions</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/anne-kapuscinski/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Peart</surname><given-names>David R.</given-names></name>
+<xref ref-type="aff" rid="affe"/>
+<role>Editor-in-Chief: Sustainability Transitions</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/david-r-peart/</uri>
+</contrib>
+</contrib-group>
+<aff id="affa">
+<institution>University of Colorado Boulder</institution>
+<country>United States</country>
+</aff>
+<aff id="affb">
+<institution>University of Michigan</institution>
+<country>United States</country>
+</aff>
+<aff id="affc">
+<institution>University of Washington</institution>
+<country>United States</country>
+</aff>
+<aff id="affd">
+<institution>Georgia Institute of Technology</institution>
+<country>United States</country>
+</aff>
+<aff id="affe">
+<institution>Dartmouth</institution>
+<country>United States</country>
+</aff>
+<issn pub-type="epub">2325-1026</issn>
+<publisher>
+<publisher-name>BioOne</publisher-name>
+<publisher-loc>21 Dupont Circle NW, Suite 800, Washington, DC 20036, United States<email>team@elementascience.org</email>
+<uri>http://bioone.org</uri><uri>http://elementascience.org</uri>
+</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">ELEMENTA-D-13-00016</article-id>
+<article-id pub-id-type="doi">10.12952/journal.elementa.000014</article-id>
+<article-categories>
+<subj-group subj-group-type="article-type">
+<subject>Commentary</subject>
+</subj-group>
+<subj-group subj-group-type="domain">
+<subject>Ecology</subject>
+</subj-group>
+<subj-group subj-group-type="classification">
+<subject>Ecology</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Towards a general theory of biodiversity for the Anthropocene</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Cardinale</surname><given-names>Bradley J.</given-names></name>
+<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+<xref ref-type="corresp" rid="cor1"><sup>*</sup></xref>
+</contrib>
+</contrib-group>
+<aff id="aff1"><label>1</label>
+<institution content-type="dept">School of Natural Resources and Environment</institution>, <institution>University of Michigan</institution>, <addr-line content-type="city">Ann Arbor</addr-line>, <addr-line content-type="state">Michigan</addr-line>, <country>United States</country>
+</aff>
+<contrib-group>
+<contrib contrib-type="domain-editor-in-chief" xlink:type="simple">
+<name name-style="western"><surname>Zak</surname><given-names>Donald R.</given-names></name>
+<role>Domain Editor-in-Chief</role>
+<xref ref-type="aff" rid="afff"/>
+</contrib>
+</contrib-group>
+<aff id="afff">
+<institution content-type="dept">School of Natural Resources &amp; Environment</institution>
+<institution>University of Michigan</institution>
+<addr-line content-type="city">Ann Arbor</addr-line>
+<addr-line content-type="state">Michigan</addr-line>
+<country>United States</country>
+</aff>
+<author-notes>
+<corresp id="cor1"><label><sup>*</sup></label><email xlink:type="simple">bradcard@umich.edu</email></corresp>
+</author-notes>
+<pub-date pub-type="collection" iso-8601-date="2013-12-04">
+<day>04</day>
+<month>12</month>
+<year>2013</year>
+</pub-date>
+<pub-date pub-type="epub" iso-8601-date="2013-12-04">
+<day>04</day>
+<month>12</month>
+<year>2013</year>
+</pub-date>
+<volume content-type="volume">1</volume>
+<elocation-id>000014</elocation-id>
+<history>
+<date date-type="received" iso-8601-date="2013-09-09">
+<day>09</day>
+<month>09</month>
+<year>2013</year>
+</date>
+<date date-type="rev-recd" iso-8601-date="2013-10-28">
+<day>28</day>
+<month>10</month>
+<year>2013</year>
+</date>
+<date date-type="accepted" iso-8601-date="2013-10-29">
+<day>29</day>
+<month>10</month>
+<year>2013</year>
+</date>
+</history>
+<permissions><copyright-year>2013</copyright-year>
+<copyright-holder>Cardinale</copyright-holder>
+<license license-type="open-access" xlink:type="simple">
+<license-p><open-access><p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</p>
+</open-access>
+</license-p>
+</license>
+</permissions>
+<kwd-group>
+<kwd>biodiversity, ecosystem function and services</kwd>
+<kwd>evolution and ecological speciation</kwd>
+<kwd>community ecology and species coexistence</kwd>
+</kwd-group>
+</article-meta>
+</front>
+<body>
+<sec id="sMain"><title/>
+<p>Imagine a hypothetical scenario. Imagine you are traveling through space and come across Earth for the first time … <italic>what would you be most struck by?</italic> Would it be the water that gives our planet the nickname ‘blue-marble’? I doubt it. We’ve now found water on the moon (<xref ref-type="bibr" rid="bibr032">Saal et al., 2008</xref>), on several other planets in our own solar system (<xref ref-type="bibr" rid="bibr007">Carr et al., 1998</xref>; <xref ref-type="bibr" rid="bibr027">Malin and Edgett, 2000</xref>), and a single survey of the Milky Way found&gt;270 planets in the so-called “habitable zone,” warm enough for liquid water (<xref ref-type="bibr" rid="bibr004">Borucki et al., 2011</xref>). Would you instead be struck by the mountains, canyons and other geological features that are most visible from space? Again, it’s doubtful. Geologists tell us there are few, if any, landforms that are wholly unique to Earth (<xref ref-type="bibr" rid="bibr002">Baker, 2008</xref>; <xref ref-type="bibr" rid="bibr016">Dietrich and Perron, 2006</xref>), and you probably would have seen them all before. Based on our current understanding of the universe, the only thing a space-traveler is likely to be struck by, and the one thing that appears to be fundamentally unique to Earth, is its remarkable variety of life.</p>
+<p>Ever since the first prokaryotic cells evolved more than 3 billion years ago, the diversity of life on Earth has steadily increased, punctuated by only a handful of extinction events. Our best guess is there are perhaps 9 million forms of eukaryotic organisms on this planet (<xref ref-type="bibr" rid="bibr029">Mora et al., 2011</xref>). The number of prokaryotic organisms is largely unknown, but a single hydrothermal vent on the bottom of the ocean can harbor an astounding 37,000 unique types of microbes (<xref ref-type="bibr" rid="bibr023">Huber et al., 2007</xref>).</p>
+<p>While the great variety of life is perhaps the most striking feature of Earth, loss of this biodiversity is one of the most striking forms of environmental change in the Anthopocene. The percentage of species that have gone extinct ranges from &lt; 1% to 13% of described taxa depending on the group considered (<xref ref-type="bibr" rid="bibr003">Barnosky et al., 2011</xref>). But rates of extinction are occurring orders of magnitude faster than what is ‘normal’ in the fossil record. Projections suggest that if these high rates of extinction continue, biodiversity loss could equal or exceed the five prior mass extinctions (loss of 75% or more of known taxa) in 240 to 540 years (<xref ref-type="bibr" rid="bibr003">Barnosky et al., 2011</xref>).</p>
+<p>So what? What does it matter if we lose 75% of all life forms on the planet over the next few centuries? Will Earth become any less hospitable for humans? Will this planet still be able provide people with the food, water, air, and other goods and services needed to survive and prosper? Won’t evolution simply replace all of that lost diversity with life forms that are more fit for a human dominated planet? And if evolution does compensate for extinctions in the Anthropocene, what ecological roles will those newly evolved species play?</p>
+<p>These are pressing questions as we ponder what future Earth will be like. The variety of life that has evolved over 3.6-billion years is a catalog of biological resources from which we produce nearly all of the goods and services needed for humanity to prosper (<xref ref-type="bibr" rid="bibr014">Daily et al., 1997</xref>; <xref ref-type="bibr" rid="bibr028">MEA, 2005</xref>; <xref ref-type="bibr" rid="bibr006">Cardinale et al., 2012</xref>). If we are to have any hope of predicting how human domination of the planet will impact our own prosperity in an era that will have fewer biological options, we must develop a general theory of Earth’s biodiversity that can predict both the causes as well as the consequences of biological variation.</p>
+<p>Fortunately, biologists have made great strides on developing models that simultaneously explain three dimensions of biodiversity: (a) the evolutionary origin of biodiversity, (b) the ecological maintenance of biodiversity, and (c) the ecosystem-level function of biodiversity. Below I describe one set of evolutionary and ecological models that are beginning to show remarkably consistency in form. These models are by no means the only descriptions of how diversity originates, why species coexist, or how diversity influences ecosystem function. But the particular models discussed here do have a common thread that suggests biologists from different sub-disciplines are, in some instances, converging on a suite of equations, all with similar terms that collectively predict the origin, maintenance, and function of biodiversity.</p>
+</sec>
+<sec id="s1"><title>Origin of diversity (evolutionary biology)</title>
+<p>One of Darwin’s most influential ideas was that species originate by the process of natural selection (<xref ref-type="bibr" rid="bibr015">Darwin, 1859</xref>). Though deceivingly simple, it took biologists more than a century to confirm (<xref ref-type="bibr" rid="bibr013">Coyne and Orr, 2004</xref>). One form of natural selection that has now been well documented is ecological speciation (<xref ref-type="bibr" rid="bibr033">Schluter, 2001</xref>). Ecological speciation begins when individuals in a population exhibit variation in their phenotype along an ecological niche axis that corresponds to their use of limiting resources (e.g., space, food, mates) in space or time (<xref ref-type="fig" rid="elementa.000014.f001">Fig. 1A</xref> inset, solid red and blue distributions represent individuals that vary in phenotype along a hypothetical niche axis). Examples include Darwin’s finches that vary in beak morphologies that influence the size of seeds they can eat (<xref ref-type="bibr" rid="bibr019">Grant and Grant, 2006</xref>), or body shapes of Stickleback fishes that influence feeding success in the benthic verses pelagic habitat of lakes (<xref ref-type="bibr" rid="bibr034">Schluter and McPhail, 1992</xref>).</p>
+<fig id="elementa.000014.f001" position="float">
+<object-id pub-id-type="doi">10.12952/journal.elementa.000014.f001</object-id>
+<label>Figure 1 </label>
+<caption><title>Conceptual diagram showing relationships among a select group of models that describe the evolutionary origin, ecological maintenance, and ecosystem-level function of biodiversity.</title>
+<p>(A) <italic>Ecological speciation</italic> - begins when individuals in a population exhibit variation in phenotypes along a hypothetical niche axis (inset, x-axis) that has two adaptive peaks (inset, y-axis). As individuals undergo divergent selection they evolve both niche and fitness differences (x- and y-axes of main plot). When ND grow sufficiently large that character displacement and reproductive isolation occur, ecological speciation can result. (B) <italic>Competitive coexistence</italic> - In order for new sister taxa to stably coexist, the ND that stabilize species interactions in a community must grow larger than the FD that lead to competitive hierarchies (panel B, lower portion shows realm of coexistence). (C) <italic>Ecosystem functioning</italic> - As the difference between ND - FD among any two species grows larger, species have increasingly unique impacts on the use of limited resources. As a result, biodiversity has its largest impact on the efficiency of resource use and biomass production in a community where ND &gt;&gt;FD (panels B and C, yellow → red indicates greater ecological function).</p></caption>
+<graphic position="float" mimetype="image" xlink:type="simple" xlink:href="info:doi/10.12952/journal.elementa.000014.f001"/></fig>
+<p>When phenotypic variation among individuals occurs along a niche axis with two or more adaptive peaks (<xref ref-type="fig" rid="elementa.000014.f001">Fig. 1A</xref> inset, red and blue lines show a ‘fitness landscape’ with adaptive peaks on y-axis), a population can undergo divergent selection, splitting into two populations composed of individuals that each achieve maximal fitness at different values along the niche axis (<xref ref-type="bibr" rid="bibr033">Schluter, 2001</xref>). When divergent selection among individuals becomes sufficiently strong, reproductive isolation can occur, and the population can split into two ecologically distinct species that each use limiting resources (space, food, mates, etc.) differently in space or time.</p>
+<p>Models of ecological speciation assume that ecological opportunities lead to niche differences among individuals in a population, and that fitness differences on an adaptive landscape create a selection pressure for individuals to diverge into distinct species. Niche and fitness differences are the same terms now being used by ecologists to explain how species coexist after they evolve. The ecological theory described next suggests that if fitness differences among individuals evolve faster than niche differences, then long-term coexistence of two populations undergoing ecological speciation is not possible (<xref ref-type="fig" rid="elementa.000014.f001">Fig. 1</xref>, trajectory to sister taxa A, B). If, however, niche differences evolve faster than fitness differences, coexistence can occur after ecological speciation (<xref ref-type="fig" rid="elementa.000014.f001">Fig. 1</xref>, trajectory leading to sister taxa C, D). Thus, the evolutionary trajectory of divergence of niche and fitness differences among individuals determines whether species coexist after reproductive isolation occurs.</p></sec>
+<sec id="s2"><title>Maintenance of diversity (community ecology)</title>
+<p>Historically, ecologists have assumed that after species evolve, the only thing that can maintain diversity and allow species to coexist is niche differences (<xref ref-type="bibr" rid="bibr010">Chase and Leibold, 2003</xref>). Indeed, common wisdom has long been that evolutionary divergence must cause species to use limiting resources differently in space or time or, if not, competitive exclusion and extinction of the inferior species is inevitable (<xref ref-type="bibr" rid="bibr018">Gause, 1934</xref>). This niche theory of biodiversity was challenged in 2001 when <xref ref-type="bibr" rid="bibr022">Hubbell (2001)</xref> published his Unified Neutral Theory of Biodiversity, arguing that biodiversity is not maintained by niche differences, but rather, by species being so similar to each other that their competitive interactions are ‘neutral’. When interactions are neutral, meaning that competing with an individual of one’s own species has the same consequence as competing with an individual of another species, then species diversity is maintained by a simple balance between speciation rates and random walks to extinction (called ecological ‘drift’ as an analogy to genetic drift).</p>
+<p>It has been argued that Neutral Theory is the limiting case of <xref ref-type="bibr" rid="bibr011">Chesson’s (2000)</xref> more general theory of biodiversity (<xref ref-type="bibr" rid="bibr001">Adler et al., 2007</xref>). Chesson showed that most models of species coexistence can be partitioned into two forces that jointly determine whether two species stably coexist. The first force, which Chesson called ‘stabilizing’, represent various forms of traditional niche differences, all of which cause species to limit their own growth rates more strongly than they limit the growth of other species (<xref ref-type="fig" rid="elementa.000014.f001">Fig. 1</xref>, x-axis). All niche differences lead to frequency dependent growth such that species have a per capita growth advantage when they are rare in a community. The second force, which Chesson called ‘equalizing’, minimize fitness differences among species (<xref ref-type="fig" rid="elementa.000014.f001">Fig. 1</xref>, y-axis). Fitness differences stem from variation in biological traits that would influence the outcome of competition even if species had no niche differences among them (<xref ref-type="bibr" rid="bibr001">Adler et al., 2007</xref>). These traits are the same as those that influence individual reproductive success, such as the per capita population growth rate (<xref ref-type="bibr" rid="bibr008">Carroll et al., 2011</xref>; <xref ref-type="bibr" rid="bibr021">HilleRisLambers et al., 2012</xref>; <xref ref-type="bibr" rid="bibr031">Narwani et al., 2013</xref>).</p>
+<p>Chesson showed that for species to stably coexist, niche differences must be larger than fitness differences (<xref ref-type="fig" rid="elementa.000014.f001">Fig. 1</xref>, area below 45° line dissecting graph). Thus, if the diverging populations that lead to sister taxa evolve niche differences more rapidly than fitness differences, the ecological species that result should also exhibit long-term, stable coexistence (<xref ref-type="fig" rid="elementa.000014.f001">Fig. 1</xref>, trajectories for species C, D and E, F). If, however, diverging populations that lead to sister taxa evolve fitness differences more rapidly than niche differences, the individuals or species that are inferior competitors will go extinct, and diversity will not be maintained over ecological time-frames (<xref ref-type="fig" rid="elementa.000014.f001">Fig. 1</xref>, trajectory for species A, B).</p>
+<p>Chesson’s theory opens the door for a common set of equations that link concepts in ecological speciation to the ecological maintenance of diversity in competitive communities. Chesson’s theory has also recently been used to show how species coexistence can predict the efficiency of resource use, and production of biomass in communities that control the functioning of ecosystems.</p></sec>
+<sec id="s3"><title>Function of biodiversity (ecosystem ecology)</title>
+<p>Over the past several decades, there has been a concerted effort to merge concepts in community and ecosystem ecology into common conceptual and theoretical frameworks (<xref ref-type="bibr" rid="bibr026">Loreau, 2010</xref>; <xref ref-type="bibr" rid="bibr009">Chapin et al., 1997</xref>). While community ecology has historically focused on explaining patterns of biodiversity, distributions of populations, and species interactions, ecosystem ecology has focused on explaining the fluxes of energy and the cycles of elements that limit the productivity of life. An increasing number of topics like ‘ecological stoichiometry’ (<xref ref-type="bibr" rid="bibr035">Sterner and Elser, 2002</xref>), ‘ecosystem engineering’ (<xref ref-type="bibr" rid="bibr024">Jones et al., 1994</xref>), ‘trophic cascades’ (<xref ref-type="bibr" rid="bibr017">Estes et al., 2011</xref>) and ‘biodiversity and ecosystem functioning’ (<xref ref-type="bibr" rid="bibr030">Naeem, 2002</xref>), have formed at the intersection of these two fields, emphasizing that the composition and diversity of species in communities not only respond to, but also directly control, fluxes of energy and matter.</p>
+<p>A recent sequence of publications have taken theories of species coexistence from community ecology and used these to explain how biodiversity should impact ecosystem-level processes. <xref ref-type="bibr" rid="bibr036">Tilman et al. (1997)</xref> and <xref ref-type="bibr" rid="bibr025">Loreau (2004)</xref> were among first to use traditional models of niche differentiation to show how this force that contributes to coexistence translates mathematically to the sequestration of carbon or nutrients and production of biomass in ecosystems. More recently, <xref ref-type="bibr" rid="bibr008">Carroll et al. (2011)</xref> took a classic model of competition — the MacArthur niche model — and showed how coexistence in this model could be translated into Chesson’s niche differences (ND), and fitness differences (FD). While ND allow diverse communities to capture resources more efficiently and produce more overall biomass, the magnitude of ND required for species to coexist depends on the magnitude of FD that hasten competitive exclusion. As such, the balance of ND and FD that influence competitive coexistence also control the efficiency and productivity of entire communities, with the greatest ecosystem functioning occurring when ND are large relative to FD (<xref ref-type="fig" rid="elementa.000014.f001">Fig. 1</xref>, colors from yellow to red indicate increasingly efficient and productive communities).</p>
+<p>Use of Chesson’s theory of coexistence to examine how both niche and fitness differences influence ecosystem functioning (<xref ref-type="bibr" rid="bibr008">Carroll et al., 2011</xref>) opens the door for a common set of equations that not only predict the maintenance of biodiversity in ecological time, but also the functional role of biodiversity in controlling the efficiency and productivity of ecosystems.</p></sec>
+<sec id="s4"><title>Where to from here?</title>
+<p>I have argued that for select modes of evolution (ecological speciation) and certain types of communities (competitive), we are well-within reach of a set of models that simultaneously explain the origin, maintenance, and function of biodiversity. There are, however, still many challenges we face in formalizing these models and extending them to biodiversity more broadly. Therefore, I end with four proposed research foci for the near future:</p>
+<list list-type="order">
+<list-item><p>We need to do more to formalize the intersection among disciplines mathematically. While all of the concepts in <xref ref-type="fig" rid="elementa.000014.f001">Fig. 1A</xref>, <xref ref-type="fig" rid="elementa.000014.f001">B</xref>, and <xref ref-type="fig" rid="elementa.000014.f001">C</xref> overlap conceptually, many of the processes that occur at the intersection of the disciplines have yet to be formalized. Models of species coexistence and ecosystem functioning consider niche and fitness differences as static properties of species interactions, but need to model them as dynamic properties that are under selective pressures to evolve along adaptive landscapes. Models of ecological speciation have long considered the evolution of niche differences, but have yet to formalize how fitness differences influence the success of diverging populations when competing for resources. We need to take these overlapping concepts and formalize them in models that explicitly span the interface between evolution, community, and ecosystems ecology.</p></list-item>
+<list-item><p>We also need to empirically measure the rates of evolution of both niche and fitness differences, and discern the selective forces that contribute to each. It is common for evolutionary biologists to measure divergence of individuals along niche axes, and for ecologists to measure how niche differences influence competition and coexistence. But we rarely consider how divergence and stable coexistence simultaneously depend on fitness differences that place selective pressures on individuals, and that influence the competitive inequalities among species. Because the origin, maintenance, and function of diversity all depend on the relative balance of ND vs. FD, we need to measure and compare rates of evolution of both forces and determine whether they respond to the same or different selective pressures.</p></list-item>
+<list-item><p>We need to move beyond a simple consideration of just competitive communities. Models in <xref ref-type="fig" rid="elementa.000014.f001">Fig. 1</xref> presently focus on competing individuals and species. They ignore other forms of interaction, such as mutualisms that some believe are more common than once thought (<xref ref-type="bibr" rid="bibr005">Bruno et al., 2003</xref>), and trophic interactions like predator-prey relationships that influence both niche and fitness differences of species interacting in food-webs. The steps needed to extend our thinking to other forms of interaction have already begun (<xref ref-type="bibr" rid="bibr020">Gross, 2008</xref>; <xref ref-type="bibr" rid="bibr012">Chesson and Kuang, 2008</xref>), but are only in preliminary phases of development.</p></list-item>
+<list-item><p>Lastly, we need to extend these models to predict ecosystem services. The utility of any general theory of biodiversity will ultimately be judged by its ability to predict outputs that have direct human value. Ecologists have, thus far, been too content to measure stocks and fluxes of nutrients and biomass that, at best, have only indirect relevance for society. Few people beyond ecologists care about an ecological function like net primary production — that is, until that particular measurement is placed in a context where it can be translated into value (e.g., economic value of wood production in a forest, recreational value of a coral reef that has been overgrown by algae). Any general theory of biodiversity that can help us navigate and curb biodiversity loss in the Anthropocene will need to translate the function of biodiversity more directly into goods and services that can be quantified with economic valuation. I am hopeful that, five years from now, we can add panel D to <xref ref-type="fig" rid="elementa.000014.f001">Figure 1</xref> representing theory that translates ecological functions to human value.</p></list-item></list>
+<p>These four steps are essential short-term goals if we are to predict the causes and consequences of biological change in an era of human domination of the planet. Should we achieve these goals and move closer to a general model of biodiversity, we may yet navigate the Anthropocene in a way that curbs the current tide of extinction, and protects our biological prosperity into the future.</p></sec>
+<sec id="s5" sec-type="copyright-statement"><title>Copyright</title>
+<p>© 2013 Cardinale. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</p></sec></body>
+<back><ack><title>Acknowledgments</title>
+<p>I thank C. Miller and A. Narwani for comments that improved this article, and the U.S. National Science Foundation’s DIMENSIONS of Biodiversity program for funding (DEB-1046121).</p></ack>
+<ref-list content-type="parsed"><title>References</title>
+<ref id="bibr001">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Adler</surname><given-names>PB</given-names></name>, 
+<name name-style="western"><surname>HilleRisLambers</surname><given-names>J</given-names></name>, 
+<name name-style="western"><surname>Levine</surname><given-names>JM</given-names></name>. 
+<year>2007</year>. 
+<article-title>A niche for neutrality</article-title>. 
+<source>Ecology Letters</source> 
+<volume>10</volume>: 
+<fpage>95</fpage>–<lpage>104</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr002">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Baker</surname><given-names>VR</given-names></name>. 
+<year>2008</year>. 
+<article-title>Planetary landscape systems: a limitless frontier</article-title>. 
+<source>Earth Surface Processes and Landforms</source> 
+<volume>33</volume>: 
+<fpage>1341</fpage>–<lpage>1353</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr003">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Barnosky</surname><given-names>AD</given-names></name>, 
+<name name-style="western"><surname>Matzke</surname><given-names>N</given-names></name>, 
+<name name-style="western"><surname>Tomiya</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Wogan</surname><given-names>GOU</given-names></name>, 
+<name name-style="western"><surname>Swartz</surname><given-names>B</given-names></name>, <etal>et al.</etal> 
+<year>2011</year>. 
+<article-title>Has the Earth’s sixth mass extinction already arrived?</article-title> 
+<source>Nature</source> 
+<volume>471</volume>: 
+<fpage>51</fpage>–<lpage>57</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr004">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Borucki</surname><given-names>WJ</given-names></name>, 
+<name name-style="western"><surname>Koch</surname><given-names>DG</given-names></name>, 
+<name name-style="western"><surname>Basri</surname><given-names>G</given-names></name>, 
+<name name-style="western"><surname>Batalha</surname><given-names>N</given-names></name>, 
+<name name-style="western"><surname>Brown</surname><given-names>TM</given-names></name>, <etal>et al.</etal> 
+<year>2011</year>. 
+<article-title>Characteristics of planetary candidates observed by Kepler II. Analysis of the first four months of data</article-title>. 
+<source>Astrophysical Journal</source> 
+<volume>736</volume>: 
+<fpage>1</fpage>–<lpage>22</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr005">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Bruno</surname><given-names>JF</given-names></name>, 
+<name name-style="western"><surname>Stachowicz</surname><given-names>JJ</given-names></name>, 
+<name name-style="western"><surname>Bertness</surname><given-names>MD</given-names></name>. 
+<year>2003</year>. 
+<article-title>Inclusion of facilitation into ecological theory</article-title>. 
+<source>Trends in Ecology &amp; Evolution</source> 
+<volume>18</volume>: 
+<fpage>119</fpage>–<lpage>125</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr006">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Cardinale</surname><given-names>BJ</given-names></name>, 
+<name name-style="western"><surname>Duffy</surname><given-names>JE</given-names></name>, 
+<name name-style="western"><surname>Gonzalez</surname><given-names>A</given-names></name>, 
+<name name-style="western"><surname>Hooper</surname><given-names>DU</given-names></name>, 
+<name name-style="western"><surname>Perrings</surname><given-names>C</given-names></name>, <etal>et al.</etal> 
+<year>2012</year>. 
+<article-title>Biodiversity loss and its impact on humanity</article-title>. 
+<source>Nature</source> 
+<volume>486</volume>: 
+<fpage>59</fpage>–<lpage>67</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr007">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Carr</surname><given-names>MH</given-names></name>, 
+<name name-style="western"><surname>Belton</surname><given-names>MJS</given-names></name>, 
+<name name-style="western"><surname>Chapman</surname><given-names>CR</given-names></name>, 
+<name name-style="western"><surname>Davies</surname><given-names>AS</given-names></name>, 
+<name name-style="western"><surname>Geissler</surname><given-names>P</given-names></name>, <etal>et al.</etal> 
+<year>1998</year>. 
+<article-title>Evidence for a subsurface ocean on Europa</article-title>. 
+<source>Nature</source> 
+<volume>391</volume>: 
+<fpage>363</fpage>–<lpage>365</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr008">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Carroll</surname><given-names>IT</given-names></name>, 
+<name name-style="western"><surname>Cardinale</surname><given-names>BJ</given-names></name>, 
+<name name-style="western"><surname>Nisbet</surname><given-names>RM</given-names></name>. 
+<year>2011</year>. 
+<article-title>Niche and fitness differences relate the maintenance of diversity to ecosystem function</article-title>. 
+<source>Ecology</source> 
+<volume>92</volume>: 
+<fpage>1157</fpage>–<lpage>1165</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr009">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Chapin</surname><given-names>FS</given-names></name>, 
+<name name-style="western"><surname>Walker</surname><given-names>BH</given-names></name>, 
+<name name-style="western"><surname>Hobbs</surname><given-names>RJ</given-names></name>, 
+<name name-style="western"><surname>Hooper</surname><given-names>DU</given-names></name>, 
+<name name-style="western"><surname>Lawton</surname><given-names>JH</given-names></name>, <etal>et al.</etal> 
+<year>1997</year>. 
+<article-title>Biotic control over the functioning of ecosystems</article-title>. 
+<source>Science</source> 
+<volume>277</volume>: 
+<fpage>500</fpage>–<lpage>504</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr010">
+<mixed-citation publication-type="book">
+<name name-style="western"><surname>Chase</surname><given-names>JM</given-names></name>, 
+<name name-style="western"><surname>Leibold</surname><given-names>MA</given-names></name>. 
+<year>2003</year>. 
+<source>Ecological Niches: Linking Classical and Contemporary Approaches</source>, 
+<publisher-loc>Chicago</publisher-loc>: 
+<publisher-name>University of Chicago Press</publisher-name>.</mixed-citation>
+</ref>
+<ref id="bibr011">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Chesson</surname><given-names>P</given-names></name>. 
+<year>2000</year>. 
+<article-title>Mechanisms of maintenance of species diversity</article-title>. 
+<source>Annual Review of Ecology And Systematics</source> 
+<volume>31</volume>: 
+<fpage>343</fpage>–<lpage>366</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr012">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Chesson</surname><given-names>P</given-names></name>, 
+<name name-style="western"><surname>Kuang</surname><given-names>JJ</given-names></name>. 
+<year>2008</year>. 
+<article-title>The interaction between predation and competition</article-title>. 
+<source>Nature</source> 
+<volume>456</volume>: 
+<fpage>235</fpage>–<lpage>238</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr013"><mixed-citation publication-type="book">
+<name name-style="western"><surname>Coyne</surname><given-names>JA</given-names></name>, 
+<name name-style="western"><surname>Orr</surname><given-names>HA</given-names></name>. 
+<year>2004</year>. 
+<source>Speciation</source>. 
+<publisher-loc>Sunderland, MA</publisher-loc>: 
+<publisher-name>Sinauer Associates</publisher-name>.</mixed-citation>
+</ref>
+<ref id="bibr014">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Daily</surname><given-names>GC</given-names></name>, 
+<name name-style="western"><surname>Alexander</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Ehrlich</surname><given-names>PR</given-names></name>, 
+<name name-style="western"><surname>Goulder</surname><given-names>L</given-names></name>, 
+<name name-style="western"><surname>Lubchenco</surname><given-names>J</given-names></name>, <etal>et al.</etal> 
+<year>1997</year>. 
+<article-title>Ecosystem services: Benefits supplied to human societies by natural ecosystems</article-title>. 
+<source>Issues in Ecology</source> 
+<volume>2</volume>: 
+<fpage>1</fpage>–<lpage>16</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr015">
+<mixed-citation publication-type="book">
+<name name-style="western"><surname>Darwin</surname><given-names>C</given-names></name>. 
+<year>1859</year>. 
+<source>On the Origin of Species by Means of Natural Selection</source>, 
+<publisher-loc>London</publisher-loc>: 
+<publisher-name>John Murray</publisher-name>.</mixed-citation>
+</ref>
+<ref id="bibr016">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Dietrich</surname><given-names>WE</given-names></name>, 
+<name name-style="western"><surname>Perron</surname><given-names>JT</given-names></name>. 
+<year>2006</year>. 
+<article-title>The search for a topographic signature of life</article-title>. 
+<source>Nature</source> 
+<volume>439</volume>: 
+<fpage>411</fpage>–<lpage>418</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr017">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Estes</surname><given-names>JA</given-names></name>, 
+<name name-style="western"><surname>Terborgh</surname><given-names>J</given-names></name>, 
+<name name-style="western"><surname>Brashares</surname><given-names>JS</given-names></name>, 
+<name name-style="western"><surname>Power</surname><given-names>ME</given-names></name>, 
+<name name-style="western"><surname>Berger</surname><given-names>J</given-names></name>, <etal>et al.</etal> 
+<year>2011</year>. 
+<article-title>Trophic downgrading of planet earth</article-title>. 
+<source>Science</source> 
+<volume>333</volume>: 
+<fpage>301</fpage>–<lpage>306</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr018"><mixed-citation publication-type="book">
+<name name-style="western"><surname>Gause</surname><given-names>GF</given-names></name>. 
+<year>1934</year>. 
+<source>The Struggle for Existence</source>. 
+<publisher-loc>Baltimore, MD</publisher-loc>: 
+<publisher-name>Williams and Wilkins</publisher-name>.</mixed-citation>
+</ref>
+<ref id="bibr019">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Grant</surname><given-names>PR</given-names></name>, 
+<name name-style="western"><surname>Grant</surname><given-names>BR</given-names></name>. 
+<year>2006</year>. 
+<article-title>Evolution of character displacement in Darwin’s finches</article-title>. 
+<source>Science</source> 
+<volume>313</volume>: 
+<fpage>224</fpage>–<lpage>226</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr020">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Gross</surname><given-names>K</given-names></name>. 
+<year>2008</year>. 
+<article-title>Positive interactions among competitors can produce species-rich communities</article-title>. 
+<source>Ecology Letters</source> 
+<volume>11</volume>: 
+<fpage>929</fpage>–<lpage>936</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr021">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>HilleRisLambers</surname><given-names>J</given-names></name>, 
+<name name-style="western"><surname>Adler</surname><given-names>PB</given-names></name>, 
+<name name-style="western"><surname>Harpole</surname><given-names>WS</given-names></name>, 
+<name name-style="western"><surname>Levine</surname><given-names>JM</given-names></name>, 
+<name name-style="western"><surname>Mayfield</surname><given-names>MM</given-names></name>. 
+<year>2012</year>. 
+<article-title>Rethinking Community Assembly through the Lens of Coexistence Theory</article-title>. 
+<source>Annual Review of Ecology, Evolution, and Systematics</source> 
+<volume>43</volume>: 
+<fpage>227</fpage>–<lpage>248</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr022">
+<mixed-citation publication-type="book">
+<name name-style="western"><surname>Hubbell</surname><given-names>SP</given-names></name>. 
+<year>2001</year>. 
+<source>The Unified Neutral Theory of Biodiversity and Biogeography</source>. 
+<publisher-loc>Princeton, NJ</publisher-loc>: 
+<publisher-name>Princeton University Press</publisher-name>.</mixed-citation>
+</ref>
+<ref id="bibr023">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Huber</surname><given-names>JA</given-names></name>, 
+<name name-style="western"><surname>Mark</surname><given-names>Welch D</given-names></name>, 
+<name name-style="western"><surname>Morrison</surname><given-names>HG</given-names></name>, 
+<name name-style="western"><surname>Huse</surname><given-names>SM</given-names></name>, 
+<name name-style="western"><surname>Neal</surname><given-names>PR</given-names></name>, <etal>et al.</etal> 
+<year>2007</year>. 
+<article-title>Microbial population structures in the deep marine biosphere</article-title>. 
+<source>Science</source> 
+<volume>318</volume>: 
+<fpage>97</fpage>–<lpage>100</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr024">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Jones</surname><given-names>CG</given-names></name>, 
+<name name-style="western"><surname>Lawton</surname><given-names>JH</given-names></name>, 
+<name name-style="western"><surname>Shachak</surname><given-names>M</given-names></name>. 
+<year>1994</year>. 
+<article-title>Organisms as ecosystem engineers</article-title>. 
+<source>Oikos</source> 
+<volume>69</volume>: 
+<fpage>373</fpage>–<lpage>386</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr025">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Loreau</surname><given-names>M</given-names></name>. 
+<year>2004</year>. 
+<article-title>Does functional redundancy exist?</article-title> 
+<source>Oikos</source> 
+<volume>104</volume>: 
+<fpage>606</fpage>–<lpage>611</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr026">
+<mixed-citation publication-type="book">
+<name name-style="western"><surname>Loreau</surname><given-names>M</given-names></name>. 
+<year>2010</year>. 
+<source>From Populations to Ecosystems: Theoretical Foundations for a New Ecological Synthesis</source>. 
+<publisher-loc>Princeton, NJ</publisher-loc>: 
+<publisher-name>Princeton University Press</publisher-name>.</mixed-citation>
+</ref>
+<ref id="bibr027">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Malin</surname><given-names>MC</given-names></name>, 
+<name name-style="western"><surname>Edgett</surname><given-names>KS</given-names></name>. 
+<year>2000</year>.
+<article-title>Evidence for recent groundwater seepage and surface runoff on Mars</article-title>. 
+<source>Science</source> 
+<volume>288</volume>: 
+<fpage>2330</fpage>–<lpage>2335</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr028">
+<mixed-citation publication-type="book">
+<collab>MEA</collab> 
+<year>2005</year>. 
+<source>The Millennium Ecosystem Assessment, Ecosystems and human well-being: Synthesis</source>. 
+<publisher-loc>Washington D.C</publisher-loc>.: 
+<publisher-name>World Resources Institute</publisher-name>.</mixed-citation>
+</ref>
+<ref id="bibr029">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Mora</surname><given-names>C</given-names></name>, 
+<name name-style="western"><surname>Tittensor</surname><given-names>DP</given-names></name>, 
+<name name-style="western"><surname>Adl</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Simpson</surname><given-names>AGB</given-names></name>, 
+<name name-style="western"><surname>Worm</surname><given-names>B</given-names></name>. 
+<year>2011</year>. 
+<article-title>How many species are there on Earth and in the ocean?</article-title> 
+<source>PLoS Biol</source> 
+<volume>9</volume>: 
+<fpage>e1001127</fpage>.</mixed-citation>
+</ref>
+<ref id="bibr030">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Naeem</surname><given-names>S</given-names></name>. 
+<year>2002</year>. 
+<article-title>Ecosystem consequences of biodiversity loss: The evolution of a paradigm</article-title>. 
+<source>Ecology</source>. 
+<volume>83</volume>: 
+<fpage>1537</fpage>–<lpage>1552</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr031">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Narwani</surname><given-names>A</given-names></name>, 
+<name name-style="western"><surname>Alexandrou</surname><given-names>MA</given-names></name>, 
+<name name-style="western"><surname>Oakley</surname><given-names>TH</given-names></name>, 
+<name name-style="western"><surname>Carroll</surname><given-names>IT</given-names></name>, 
+<name name-style="western"><surname>Cardinale</surname><given-names>BJ</given-names></name>. 
+<year>2013</year>.
+<article-title>Experimental evidence that evolutionary relatedness does not affect the ecological mechanisms of coexistence in freshwater green algae</article-title>. 
+<source>Ecology Letters</source> 
+<volume>16</volume>:
+<fpage>1373</fpage>–<lpage>1381</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr032">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Saal</surname><given-names>AE</given-names></name>, 
+<name name-style="western"><surname>Hauri</surname><given-names>EH</given-names></name>, 
+<name name-style="western"><surname>Lo</surname><given-names>Cascio M</given-names></name>, 
+<name name-style="western"><surname>Van Orman</surname><given-names>JA</given-names></name>, 
+<name name-style="western"><surname>Rutherford</surname><given-names>MC</given-names></name>, 
+<name name-style="western"><surname>Cooper</surname><given-names>RF</given-names></name>. 
+<year>2008</year>. 
+<article-title>Volatile content of lunar volcanic glasses and the presence of water in the Moon’s interior</article-title>. 
+<source>Nature</source> 
+<volume>454</volume>: 
+<fpage>192</fpage>–<lpage>195</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr033">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Schluter</surname><given-names>D</given-names></name>. 
+<year>2001</year>. 
+<article-title>Ecology and the origin of species</article-title>. 
+<source>Trends in Ecology &amp; Evolution</source> 
+<volume>16</volume>: 
+<fpage>372</fpage>–<lpage>380</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr034">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Schluter</surname><given-names>D</given-names></name>, 
+<name name-style="western"><surname>McPhail</surname><given-names>JD</given-names></name>. 
+<year>1992</year>. 
+<article-title>Ecological Character Displacement and Speciation in Sticklebacks</article-title>. 
+<source>American Naturalist</source> 
+<volume>140</volume>: 
+<fpage>85</fpage>–<lpage>108</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr035">
+<mixed-citation publication-type="book">
+<name name-style="western"><surname>Sterner</surname><given-names>RW</given-names></name>, 
+<name name-style="western"><surname>Elser</surname><given-names>JJ</given-names></name>. 
+<year>2002</year>. 
+<source>Ecological stoichiometry: The biology of elements from molecules to the biosphere</source>. 
+<publisher-loc>Princeton, N.J</publisher-loc>.: 
+<publisher-name>Princeton University Press</publisher-name>.</mixed-citation>
+</ref>
+<ref id="bibr036">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Tilman</surname><given-names>D</given-names></name>, 
+<name name-style="western"><surname>Lehman</surname><given-names>D</given-names></name>, 
+<name name-style="western"><surname>Thompson</surname><given-names>K</given-names></name>. 
+<year>1997</year>. 
+<article-title>Plant diversity and ecosystem productivity: Theoretical considerations</article-title>. 
+<source>Proceedings of the National Academy of Sciences</source> 
+<volume>94</volume>: 
+<fpage>1857</fpage>–<lpage>1861</lpage>.</mixed-citation>
+</ref>
+</ref-list>
+</back>
+</article>

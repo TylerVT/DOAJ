@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="commentary" dtd-version="1.0" xml:lang="en">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">BioOne</journal-id>
+<journal-id journal-id-type="journal-id">Elementa</journal-id>
+<journal-title-group>
+<journal-title>Elementa</journal-title>
+<journal-subtitle>Science of the Anthropocene</journal-subtitle>
+<abbrev-journal-title>Elem. Sci. Anth.</abbrev-journal-title>
+</journal-title-group>
+<contrib-group>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Helmig</surname><given-names>Detlev</given-names></name>
+<xref ref-type="aff" rid="affa"/>
+<role>Editor-in-Chief: Atmospheric Science</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/detlev-helmig/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Blum</surname><given-names>Joel D.</given-names></name>
+<xref ref-type="aff" rid="affb"/>
+<role>Editor-in-Chief: Earth &amp; Environmental Science</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/joel-d-blum/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Zak</surname><given-names>Donald R.</given-names></name>
+<xref ref-type="aff" rid="affb"/>
+<role>Editor-in-Chief: Ecology</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/donald-r-zak/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Deming</surname><given-names>Jody W.</given-names></name>
+<xref ref-type="aff" rid="affc"/>
+<role>Editor-in-Chief: Ocean Science</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/jody-w-deming/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Chang</surname><given-names>Michael E.</given-names></name>
+<xref ref-type="aff" rid="affd"/>
+<role>Editor-in-Chief: Sustainable Engineering</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/michael-e-chang/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Kapuscinski</surname><given-names>Anne</given-names></name>
+<xref ref-type="aff" rid="affe"/>
+<role>Editor-in-Chief: Sustainability Transitions</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/anne-kapuscinski/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Peart</surname><given-names>David R.</given-names></name>
+<xref ref-type="aff" rid="affe"/>
+<role>Editor-in-Chief: Sustainability Transitions</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/david-r-peart/</uri>
+</contrib>
+</contrib-group>
+<aff id="affa">
+<institution>University of Colorado Boulder</institution>
+<country>United States</country>
+</aff>
+<aff id="affb">
+<institution>University of Michigan</institution>
+<country>United States</country>
+</aff>
+<aff id="affc">
+<institution>University of Washington</institution>
+<country>United States</country>
+</aff>
+<aff id="affd">
+<institution>Georgia Institute of Technology</institution>
+<country>United States</country>
+</aff>
+<aff id="affe">
+<institution>Dartmouth</institution>
+<country>United States</country>
+</aff>
+<issn pub-type="epub">2325-1026</issn>
+<publisher>
+<publisher-name>BioOne</publisher-name>
+<publisher-loc>21 Dupont Circle NW, Suite 800, Washington, DC 20036, United States<email>team@elementascience.org</email>
+<uri>http://bioone.org</uri><uri>http://elementascience.org</uri>
+</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">ELEMENTA-D-14-00001</article-id>
+<article-id pub-id-type="doi">10.12952/journal.elementa.000023</article-id>
+<article-categories>
+<subj-group subj-group-type="article-type">
+<subject>Commentary</subject>
+</subj-group>
+<subj-group subj-group-type="domain">
+<subject>Sustainable Engineering</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Geoengineering redivivus</article-title>
+<alt-title alt-title-type="short-title">Geoengineering redivivus</alt-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Allenby</surname><given-names>Brad</given-names></name>
+<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+<xref ref-type="corresp" rid="cor1"><sup>*</sup></xref></contrib>
+</contrib-group>
+<aff id="aff1"><label>1</label><institution content-type="dept">Ira A. Fulton School of Engineering</institution>, <institution>Arizona State University</institution>, <addr-line content-type="city">Tempe</addr-line>, <addr-line content-type="state">Arizona</addr-line>, <country>United States</country></aff>
+<contrib-group>
+<contrib contrib-type="domain-editor-in-chief" xlink:type="simple">
+<name name-style="western"><surname>Chang</surname><given-names>Michael E.</given-names></name>
+<xref ref-type="aff" rid="afff"/>
+<role>Domain Editor-in-Chief</role>
+</contrib>
+</contrib-group>
+<aff id="afff">
+<institution content-type="dept">Brook Byers Institute for Sustainable Systems</institution>
+<institution>Georgia Institute of Technology</institution>
+<addr-line content-type="city">Atlanta</addr-line>
+<addr-line content-type="state">Georgia</addr-line>
+<country>United States</country>
+</aff>
+<author-notes><corresp id="cor1"><label><sup>*</sup></label><email xlink:type="simple">Braden.Allenby@asu.edu</email></corresp>
+</author-notes>
+<pub-date pub-type="collection" iso-8601-date="2014-02-12">
+<day>12</day>
+<month>02</month>
+<year>2014</year>
+</pub-date>
+<pub-date pub-type="epub" iso-8601-date="2014-02-12">
+<day>12</day>
+<month>02</month>
+<year>2014</year>
+</pub-date>
+<volume content-type="volume">2</volume>
+<elocation-id>000023</elocation-id>
+<history>
+<date date-type="received" iso-8601-date="2014-01-07">
+<day>07</day>
+<month>01</month>
+<year>2014</year>
+</date>
+<date date-type="accepted" iso-8601-date="2014-01-10">
+<day>10</day>
+<month>01</month>
+<year>2014</year>
+</date>
+</history>
+<permissions>
+<copyright-year>2014</copyright-year>
+<copyright-holder>Allenby</copyright-holder>
+<license license-type="open-access" xlink:type="simple">
+<license-p><open-access><p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</p>
+</open-access>
+</license-p>
+</license>
+</permissions>
+</article-meta>
+</front>
+<body>
+<p>The failure of the Kyoto Protocol and the underlying process of the United Nations Framework Convention on Climate Change (UNFCCC) has led to substantial interest in geoengineering technologies, under the usual (and not entirely irrational) view that if policy can’t work, perhaps technology might. And indeed, Wally Broecker in his recent article in these virtual pages about CO<sub>2</sub> air capture technologies did his usual excellent job of summarizing both the concerns raised by global climate change, and the possibility that technologies, such as air capture of CO<sub>2</sub>, might be able to respond, at least if events reach a crisis point. From a technologist’s perspective, however, the overall geoengineering discussion is unsatisfactory for several reasons, some of them quite fundamental to rational and ethical responses to the challenges of the Anthropocene.</p>
+<p>To begin with, it is important to remember that geoengineering technologies are very narrowly defined as, in the words of The <xref ref-type="bibr" rid="bibr009">Royal Society’s 2009</xref> report, those that enable “deliberate large-scale intervention in the Earth’s climate system, in order to moderate global warming.” The domain is divided into two categories, the first being “carbon dioxide removal” (CDR) systems, such as the air capture system that Broecker discusses. This category includes, among other things, biological technologies, such as forest plantations, algae carbon capture and fuel production systems, and ocean fertilization schemes. Non-biological CDR technologies include systems that capture CO<sub>2</sub> from the ambient atmosphere and enable it to be subsequently used to regenerate fuels or sequestered into geologic storage.</p>
+<p>The second general category of geoengineering technologies act by reflecting some of the incoming energy from the sun back into space before it reaches the Earth, thereby reducing energy input into the Earth/atmosphere system. Proposed “solar radiation management” (SRM) technologies include placing space-based reflectors such as balloons or nebulous nets in space or the upper atmosphere, or generating reflective clouds by various means such as emitting sulfate particles or spitting sea salt particles into the atmosphere, where they nucleate moisture droplets, thereby creating clouds. (Details on these and other techniques can be found in the Royal Society report.)</p>
+<p>Each technology has its own potential advantages and risks, which are poorly categorized at present, in part because research and research funding has been significantly impeded by significant opposition to the concept, especially in the environmental and climate change communities. Moreover, the categories themselves have different cost/benefit profiles. CDR technologies, for example, would also help manage ocean acidification, which is rising because CO<sub>2</sub> when absorbed in the ocean creates more acid conditions, threatening animals such as clams and corals. SRM technologies, which only impact insolation, would not prevent continuing acidification. Moreover, both CDR and SRM proponents sometimes imply that implementing these technologies would facilitate a return to previous atmospheric and climactic states. This is a category mistake. Simple systems when disturbed may return to equilibrium points, but we are dealing with complex adaptive systems. Whatever path they take, it will not involve a return to previous conditions. Thomas Wolfe was right: you can’t go home again. More importantly, it means that whatever we do about climate — implement the Kyoto Protocol, deploy CDR or SRM technology systems, or do nothing — we are engineering the system. There is no stable base to return to, or rely on. The sleigh ride is already in progress. The only real question is whether we will accept the responsibility, and try to behave rationally, given that reality (<xref ref-type="bibr" rid="bibr002">Allenby, 2011</xref>).</p>
+<p>This suggests that successfully implementing any geoengineering technology, or any policy for that matter, will require reframing the way in which we are defining the challenge, and the tasks it implies. To begin with, the idea that anthropogenic (human generated) climate change is a “problem” is inadequate. It is, rather, a condition; it is not the disease itself, but a symptom of an underlying reality. And that reality is that this planet and its systems are increasingly a product of the cumulative activities, myths, desires, institutional quirks and behaviors, social norms, and general rambunctiousness of a single species, of seven billion people seeking a better life for themselves and their families. That means that reductionist frameworks that pull climate change out of the complex network of systems within which it resides, and try to address it as if it were separable, are over-simplistic and will lead to policy and technology failure. Consider biofuels. Leaving aside all the issues that have been raised about the overall impact on emissions, land use, agriculture and food prices, and so forth, biofuels at scale are essentially an effort to manage climate change by accelerating the flow of carbon through biological entities. But, of course, we can’t accelerate the flow of carbon without also accelerating the flows of all the other materials that biological systems contain, such as nitrogen, phosphorous, sulfur, and a myriad of other elements. And those cycles, especially phosphorous and nitrogen, are already fairly perturbed by human activity. So what we’re essentially doing is trying to fix the carbon cycle by further destabilizing the nitrogen, phosphorous, and other cycles, a policy that only makes sense because we have seriously mis-framed the climate change dialog to begin with.</p>
+<p>The pernicious effects of this conceptual failure are apparent in the way geoengineering is usually approached. A “problem” once isolated can often be “fixed” by application of technology, which is what geoengineering is trying to do with climate change. But if climate change is an emergent condition of a complex underlying reality, then reliance on a technological solution is dangerous, especially when the technological solutions are intentionally very potent, and look a lot like the proverbial “silver bullet.” To begin with, technology alone is not likely to be a viable and stable solution, because the condition probably displays “wicked complexity” — that is, it involves social, psychological, cultural, and institutional domains that preclude any optimal, simple solution. It is also the case that any technology system that by definition and intent has the power to change fundamental systems such as the climate will impact far more than just climate. Think of any reasonably powerful technology, from steam, to steel, to electrification, to railroads, to automobiles, to the Internet, all of which have changed the evolution of human history, and the physical world in ways that would have been impossible to predict a priori. It is thus a dangerous signal of a naïve, dysfunctional, and overly simplistic perspective on technology to consider any geoengineering option based only on its potential implications for climate change. Consider, again, biofuels. There is nothing wrong with technologies that produce ethanol from corn: they have been used with great success for many years in the mountains of Virginia, Carolina, and Tennessee. But when we scaled it up to be, in essence, a geoengineering technology, we generated ripple effects as farmers changed their planting patterns, and food prices accordingly changed, and those in turn filtered through the political system to produce riots and governmental instability. It is not just that the technology produces non-linear effects; it is that those effects manifest in unexpected and unpredicted domains. Indeed, it is probably that at least some geoengineering technologies might, for example, shift weather patterns in ways that significantly affect agriculture, or cause famines, or change geopolitical power balances, or substantially affect energy production and consumption. Indeed, economic historians have developed the concept of long waves of economic development, or Kondratiev waves, to capture the way that powerful technologies co-evolve with entire suites of related financial, social, institutional, and cultural patterns (<xref ref-type="bibr" rid="bibr005">Freeman and Louca, 2001</xref>).</p>
+<p>This does not mean that we shouldn’t be doing research on geoengineering technologies — indeed, we should be, and Wally Broecker and others are absolutely right in calling for such work. It is critical to our ability to adapt to an unpredictable future — a future that would be equally unpredictable at this point if we were to embrace the Kyoto Protocol or any other proposed “solution” to climate change. But the history of technology systems, and the complexity of the Anthropocene, argue that the geoengineering discourse needs to be expanded based on two additional general principles. First, any technological response to climate change should reflect a portfolio approach. What we are facing is a requirement to manage a condition involving a major, highly complex, unpredictable, and adaptive Earth system. Under these circumstances it is highly unlikely that any particular technology can be relied on as a sole, or even major, response because the associated costs and risks are likely to be far too high. Additionally, relying on a single solution creates a fragile situation, because if anything does go wrong — say, the unanticipated costs become too high, or we find we are seriously destabilizing another critical system — we have not left ourselves any alternatives. This is basically what we have done on the policy side with the UNFCCC approach. A portfolio of geoengineering options, however, is more flexible, both because we can substitute technologies at the margin if unanticipated costs (or benefits) emerge, and because we can balance not just the technologies themselves, but the costs and benefits across interests groups, regions of the world, different socio-economic groups, and so forth.</p>
+<p>Second, it is critical to expand the scope of what is considered a geoengineering technology. If anthropogenic climate change is an emergent behavior of a system composed of seven billion people and all their systems, trying to respond with the very limited technology portfolio implied by the current definition of geoengineering is inadequate. At the least, technology trajectories and time scales need to be an important part of geoengineering discussions (e.g., “bridge technologies”). For example, as fracking may be dramatically shifting demand from coal to natural gas in electricity production, it should be part of a more sophisticated geoengineering discussion. In doing so, costs and benefits should be realistically identified and integrated into portfolio models: for example, the cost of stopping fracking in the real world is a shift towards coal. Moreover, ideological simplification should not interfere with serious analysis of the issues raised by a particular technology. Again using fracking as an example, it is more important to consider how to manage natural gas systems to reduce leakage of the powerful greenhouse gas methane than it is to only focus on water quality issues (the latter require management, of course, but are not of the same environmental magnitude as increased leakage of methane might be). Moreover, given the time frames involved, it is critical to include technologies that are still nascent but that might have significant impacts in future (unlike fracking, which has been developing and diffusing for many years). An example of such a technology might be “cultured meat,” or the process of growing meat from stem cells in industrial facilities. While there are obvious difficulties in quantifying climate change impacts of such a shift, not least because no one knows at this point what the technology might look like at scale, some estimates indicate that significant reductions in emissions are possible; cows, for example, are estimated to emit roughly 50 kilograms of methane annually. Secondary impacts, such as freeing up significant acreage for biofuel production, and managing the nitrogen, phosphorous, and other cycles associated with meat production more efficiently, could be equally or more important to managing food systems on an anthropogenic planet (<xref ref-type="bibr" rid="bibr006">Mattick and Allenby, 2013</xref>).</p>
+<p>Meanwhile, it would be foolish to reject “traditional” CDR and SRM geoengineering technologies out of hand. As in the case of corn-based ethanol, these are not “bad” technologies per se, but if implemented rapidly at large scale given the current paucity of data, they are highly risky. Continuing research in two general areas should be a priority. First, of course, is research that helps identify potential costs and benefits and, equally important, the regions, people, or systems that bear them. Second, it is critical to try to determine the scale and speed of implementation at which the impacts of the technologies become seriously non-linear, and to identify regimes within which there can be some confidence that costs and implications are manageable. Granted that there will be large uncertainties around these technologies even with good research, it is still possible to gain greater understanding of how a portfolio might be designed and managed, and what sorts of specific concerns each option might raise.</p>
+<p>In sum, we are now deep into the process of terraforming this planet. Although we might not like such a state, it is far too late, and the human species far too large and active, to pretend otherwise. It is not hubris, or technological fantasy, that drives this realization: it is looking out the window at the world as it is. The response of falling back on ideological certainties, romantic visions, and over-simplistic worldviews at some point becomes simply a form of irresponsible denial, because the complexity of the systems within which we are embedded mean that there is no home base, no golden age to return to — and our network of systems continues to evolve, and to reflect the growing dominance of human influence. And it will do so regardless of what stories we tell ourselves to try to avoid our responsibilities. What we can do is, to the best of our ability, rationally and ethically respond to the challenges we face. Geoengineering technologies are a part of the technology response that must be developed, but they are only a part, and as we explore them and their implications we need to be far more sophisticated in how we think about them as technologies, and manage them as part of an increasingly engineered planet.</p>
+<sec id="s1" sec-type="copyright-statement"><title>Copyright</title>
+<p>© 2014 Allenby. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</p></sec>
+</body>
+<back>
+<ref-list content-type="parsed"><title>Suggested References</title>
+<ref id="bibr001">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Allenby</surname><given-names>BR</given-names></name>. 
+<year>2007</year>. 
+<article-title>Earth systems engineering and management: A manifesto</article-title>. 
+<source>Environmental Science &amp; Technology</source> 
+<volume>41</volume>(<issue>23</issue>): 
+<fpage>7960</fpage>–<lpage>7966</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr002">
+<mixed-citation publication-type="book">
+<name name-style="western"><surname>Allenby</surname><given-names>BR</given-names></name>. 
+<year>2011</year>. 
+<source>The Theory and Practice of Sustainable Engineering</source>. 
+<publisher-loc>Upper Saddle River, NJ</publisher-loc>: 
+<publisher-name>Pearson/Prentice-Hall</publisher-name>.</mixed-citation>
+</ref>
+<ref id="bibr003">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Broecker</surname><given-names>W</given-names></name>. 
+<year>2013</year>. 
+<article-title>Does air capture constitute a viable backstop against a bad CO<sub>2</sub> trip?</article-title> 
+<source>Elementa</source> 
+<volume>1</volume>: 
+<fpage>000009</fpage>. doi: 
+<pub-id pub-id-type="doi">10.12952/journal.elementa.000009</pub-id></mixed-citation>
+</ref>
+<ref id="bibr004">
+<mixed-citation publication-type="book">
+<name name-style="western"><surname>Fogg</surname><given-names>MJ</given-names></name>. 
+<year>1960</year>. 
+<source>Terraforming: Engineering Planetary Environments</source>. 
+<publisher-loc>Warrendale, PA</publisher-loc>: 
+<publisher-name>Society of Automotive Engineers</publisher-name>. (Reprinted 1995).</mixed-citation>
+</ref>
+<ref id="bibr005">
+<mixed-citation publication-type="book">
+<name name-style="western"><surname>Freeman</surname><given-names>C</given-names></name>, and 
+<name name-style="western"><surname>Louca</surname><given-names>F</given-names></name>. 
+<year>2001</year>. 
+<source>As Time Goes By: From the Industrial Revolutions to the Information Revolution</source>. 
+<publisher-loc>Oxford, UK</publisher-loc>: 
+<publisher-name>Oxford University Press</publisher-name>.</mixed-citation>
+</ref>
+<ref id="bibr006">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Mattick</surname><given-names>C</given-names></name>, 
+<name name-style="western"><surname>Allenby</surname><given-names>BR</given-names></name>. 
+<year>2013</year>. 
+<article-title>The future of meat</article-title>. 
+<source>Issues in Science and Technology</source> 
+<volume>XXX</volume>(<issue>1</issue>): 
+<fpage>64</fpage>–<lpage>70</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr007">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>McFedries</surname><given-names>P</given-names></name>. 
+<year>2010</year>. 
+<article-title>Hacking the planet</article-title>. 
+<source>IEEE Spectrum</source> 
+<volume>47</volume>(<issue>8</issue>): 
+<fpage>23</fpage>.</mixed-citation>
+</ref>
+<ref id="bibr008">
+<mixed-citation publication-type="book">
+<name name-style="western"><surname>Olsen</surname><given-names>R</given-names></name>. 
+<year>2011</year>. 
+<source>Geoengineering for Decision-Makers</source>. 
+<publisher-loc>Washington, DC</publisher-loc>: 
+<publisher-name>Woodrow Wilson Center, Smithsonian</publisher-name>.</mixed-citation>
+</ref>
+<ref id="bibr009">
+<mixed-citation publication-type="book">
+<collab>Royal Society</collab>. 
+<year>2009</year>. 
+<source>Geoengineering the Climate: Science, Governance, and Uncertainty</source>. 
+<publisher-name>London: The Royal Society</publisher-name>. 
+Available at <uri>http://royalsociety.org/uploadedFiles/Royal_Society_Content/policy/publications/2009/8693.pdf</uri>.</mixed-citation>
+</ref>
+<ref id="bibr010">
+<mixed-citation publication-type="book">
+<collab>US Government Accountability Office, Center for Science, Technology, and Engineering</collab>. 
+<year>2011</year>. 
+<source>Climate Engineering: Technical Status, Future Directions, and Potential Responses</source>. 
+<publisher-loc>Washington, DC</publisher-loc>: 
+<publisher-name>US Government Printing Office</publisher-name>. 
+Available at <uri>http://www.gao.gov/assets/330/322208.pdf</uri>.</mixed-citation>
+</ref>
+</ref-list>
+</back>
+</article>

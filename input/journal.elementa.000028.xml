@@ -1,0 +1,1931 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article" dtd-version="1.0" xml:lang="en">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">BioOne</journal-id>
+<journal-id journal-id-type="journal-id">Elementa</journal-id>
+<journal-title-group>
+<journal-title>Elementa</journal-title>
+<journal-subtitle>Science of the Anthropocene</journal-subtitle>
+<abbrev-journal-title>Elem. Sci. Anth.</abbrev-journal-title>
+</journal-title-group>
+<contrib-group>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Helmig</surname><given-names>Detlev</given-names></name>
+<xref ref-type="aff" rid="affa"/>
+<role>Editor-in-Chief: Atmospheric Science</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/detlev-helmig/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Blum</surname><given-names>Joel D.</given-names></name>
+<xref ref-type="aff" rid="affb"/>
+<role>Editor-in-Chief: Earth &amp; Environmental Science</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/joel-d-blum/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Zak</surname><given-names>Donald R.</given-names></name>
+<xref ref-type="aff" rid="affb"/>
+<role>Editor-in-Chief: Ecology</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/donald-r-zak/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Deming</surname><given-names>Jody W.</given-names></name>
+<xref ref-type="aff" rid="affc"/>
+<role>Editor-in-Chief: Ocean Science</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/jody-w-deming/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Chang</surname><given-names>Michael E.</given-names></name>
+<xref ref-type="aff" rid="affd"/>
+<role>Editor-in-Chief: Sustainable Engineering</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/michael-e-chang/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Kapuscinski</surname><given-names>Anne</given-names></name>
+<xref ref-type="aff" rid="affe"/>
+<role>Editor-in-Chief: Sustainability Transitions</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/anne-kapuscinski/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Peart</surname><given-names>David R.</given-names></name>
+<xref ref-type="aff" rid="affe"/>
+<role>Editor-in-Chief: Sustainability Transitions</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/david-r-peart/</uri>
+</contrib>
+</contrib-group>
+<aff id="affa">
+<institution>University of Colorado Boulder</institution>
+<country>United States</country>
+</aff>
+<aff id="affb">
+<institution>University of Michigan</institution>
+<country>United States</country>
+</aff>
+<aff id="affc">
+<institution>University of Washington</institution>
+<country>United States</country>
+</aff>
+<aff id="affd">
+<institution>Georgia Institute of Technology</institution>
+<country>United States</country>
+</aff>
+<aff id="affe">
+<institution>Dartmouth</institution>
+<country>United States</country>
+</aff>
+<issn pub-type="epub">2325-1026</issn>
+<publisher>
+<publisher-name>BioOne</publisher-name>
+<publisher-loc>21 Dupont Circle NW, Suite 800, Washington, DC 20036, United States<email>team@elementascience.org</email>
+<uri>http://bioone.org</uri><uri>http://elementascience.org</uri>
+</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">ELEMENTA-D-13-00024</article-id>
+<article-id pub-id-type="doi">10.12952/journal.elementa.000028</article-id>
+<article-categories>
+<subj-group subj-group-type="article-type">
+<subject>Research Article</subject>
+</subj-group>
+<subj-group subj-group-type="domain">
+<subject>Ocean Science</subject>
+</subj-group>
+<subj-group subj-group-type="feature">
+<subject>ASPIRE: The Amundsen Sea Polynya International Research Expedition</subject>
+</subj-group>
+<subj-group subj-group-type="classification">
+<subject>Ocean Science</subject>
+<subj-group>
+<subject>Microbial Oceanography</subject>
+</subj-group>
+<subj-group>
+<subject>Biological Oceanography</subject>
+</subj-group>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Sea ice algal biomass and physiology in the Amundsen Sea, Antarctica</article-title>
+<alt-title alt-title-type="short-title">Ice algal biomass and physiology in Amundsen Sea</alt-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Arrigo</surname><given-names>Kevin R.</given-names></name>
+<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+<xref ref-type="corresp" rid="cor1"><sup>*</sup></xref>
+</contrib>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Brown</surname><given-names>Zachary W.</given-names></name>
+<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+</contrib>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Mills</surname><given-names>Matthew M.</given-names></name>
+<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+</contrib>
+</contrib-group>
+<aff id="aff1"><label>1</label><institution>Stanford University</institution>, <addr-line content-type="city">Stanford</addr-line>, <addr-line content-type="state">California</addr-line>, <country>United States</country>
+</aff>
+<contrib-group>
+<contrib contrib-type="domain-editor-in-chief" xlink:type="simple">
+<name name-style="western"><surname>Deming</surname><given-names>Jody W.</given-names></name>
+<xref ref-type="aff" rid="afff"/>
+<role>Domain Editor-in-Chief</role>
+</contrib>
+<contrib contrib-type="associate-editor" xlink:type="simple">
+<name name-style="western"><surname>Tremblay</surname><given-names>Jean-Éric</given-names></name>
+<xref ref-type="aff" rid="affg"/>
+<role>Associate Editor</role>
+</contrib>
+</contrib-group>
+<aff id="afff">
+<institution content-type="dept">Department of Biological Oceanography </institution>
+<institution>University of Washington</institution>
+<addr-line content-type="city">Seattle</addr-line>
+<addr-line content-type="state">Washington</addr-line>
+<country>United States</country>
+</aff>
+<aff id="affg">
+<institution>Université Laval</institution>
+</aff>
+<author-notes>
+<corresp id="cor1"><label><sup>*</sup></label><email xlink:type="simple">arrigo@stanford.edu</email></corresp>
+<fn fn-type="conflict"><p>The authors have no competing interests, as defined by <italic>Elementa</italic>, that might be perceived to influence the research presented in this manuscript.</p></fn>
+<fn fn-type="con">
+<p>Contributed to conception and design: KRA</p>
+<p>Contributed to acquisition of data: ZWB, MMM</p>
+<p>Contributed to analysis and interpretation of data: KRA, ZWB, MMM</p>
+<p>Drafted and revised the article: KRA</p>
+<p>Approved and submitted version for publication: KRA</p></fn>
+</author-notes>
+<pub-date pub-type="epub" iso-8601-date="2014-07-15">
+<day>15</day>
+<month>07</month>
+<year>2014</year>
+</pub-date>
+<volume content-type="volume">2</volume>
+<elocation-id>000028</elocation-id>
+<history>
+<date date-type="received" iso-8601-date="2013-12-09">
+<day>09</day>
+<month>12</month>
+<year>2013</year>
+</date>
+ <date date-type="rev-recd" iso-8601-date="2014-05-05">
+<day>05</day>
+<month>05</month>
+<year>2014</year>
+</date>
+<date date-type="rev-recd" iso-8601-date="2014-03-27">
+<day>27</day>
+<month>03</month>
+<year>2014</year>
+</date>
+<date date-type="accepted" iso-8601-date="2014-05-09">
+<day>09</day>
+<month>05</month>
+<year>2014</year>
+</date>
+</history>
+<permissions>
+<copyright-year>2014</copyright-year>
+<copyright-holder>Arrigo, Brown, and Mills</copyright-holder>
+<license license-type="open-access" xlink:type="simple">
+<license-p><open-access><p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</p>
+</open-access>
+</license-p>
+</license>
+</permissions>
+<abstract><title>Abstract</title>
+<p>Sea ice covers approximately 5% of the ocean surface and is one of the most extensive ecosystems on the planet. The microbial communities that live in sea ice represent an important food source for numerous organisms at a time of year when phytoplankton in the water column are scarce. Here we describe the distributions and physiology of sea ice microalgae in the poorly studied Amundsen Sea sector of the Southern Ocean. Microalgal biomass was relatively high in sea ice in the Amundsen Sea, due primarily to well developed surface communities that would have been replenished with nutrients during seawater flooding of the surface as a result of heavy snow accumulation. Elevated biomass was also occasionally observed in slush, interior, and bottom ice microhabitats throughout the region. Sea ice microalgal photophysiology appeared to be controlled by the availability of both light and nutrients. Surface communities used an active xanthophyll cycle and effective pigment sunscreens to protect themselves from harmful ultraviolet and visible radiation. Acclimation to low light microhabitats in sea ice was facilitated by enhanced pigment content per cell, greater photosynthetic accessory pigments, and increased photosynthetic efficiency. Photoacclimation was especially effective in the bottom ice community, where ready access to nutrients would have allowed ice microalgae to synthesize a more efficient photosynthetic apparatus. Surprisingly, the pigment-detected prymnesiophyte <italic>Phaeocystis antarctica </italic>was an important component of surface communities (slush and surface ponds) where its acclimation to high light may precondition it to seed phytoplankton blooms after the sea ice melts in spring.</p>
+</abstract>
+<kwd-group>
+<kwd>Antarctic</kwd>
+<kwd>sea ice</kwd>
+<kwd>microalgae</kwd>
+</kwd-group>
+<funding-group>
+<award-group>
+<funding-source country="US">NSF</funding-source>
+<award-id>(ANT-0838872)</award-id></award-group>
+<funding-statement>The research was supported by a National Science Foundation Office of Polar Programs grant to KR Arrigo (ANT-0838872).</funding-statement>
+</funding-group>
+</article-meta>
+</front>
+<body>
+<sec id="s1"><title>Introduction</title>
+<p>Over the course of an annual cycle, the sea ice that forms on the surface of polar oceans extends over an area of 15-22 × 10<sup>6</sup> km<sup>2</sup>. This enormous surface area ranks sea ice as one of the most expansive ecosystems on Earth, covering approximately 4.1–6.1% of the surface area of the global ocean (<xref ref-type="bibr" rid="bibr010">Arrigo, 2014</xref>). Much of this ice is found in the Southern Hemisphere, expanding in size around the continent of Antarctica from a minimum extent of 3 × 10<sup>6</sup> km<sup>2</sup> in February to a maximum area of 19 × 10<sup>6</sup> km<sup>2</sup> in September. Sea ice ecosystems are home to a diverse community of bacteria, archaea, microalgae, protists, and metazoan grazers within the numerous microhabitats that are formed during its lifetime.</p>
+<p>Sea ice microbial communities grow best in microhabitats that are in close proximity to seawater nutrients and receive enough light for net microalgal photosynthesis. Microhabitats within Antarctic pack ice inhabited by ice microalgae include surface melt ponds, slush (melted or flooded snow at the surface of the ice), gap layers, internal ice, and bottom ice (<xref ref-type="bibr" rid="bibr043">Legendre et al., 1992</xref>). Surface ponds form either when snowmelt collects in discrete ponds on the surface of relatively flat ice (melt ponds) or when the ice surface is forced below the freeboard level due to ice rafting or snow loading and becomes flooded with seawater (deformation ponds). While melt ponds usually contain relatively little biomass owing to their low nutrient concentrations, deformation ponds can support high algal biomass (<xref ref-type="bibr" rid="bibr025">Garrison et al., 2003</xref>). Internal layers of relatively solid undeformed ice are generally the most inhospitable habitats for microbial life in sea ice. While these layers often receive ample light, they can be very cold with brine salinities too high for microalgal growth (<xref ref-type="bibr" rid="bibr002">Arrigo and Sullivan, 1992</xref>) and brine volumes too low for adequate nutrient exchange (<xref ref-type="bibr" rid="bibr026">Golden et al., 1998</xref>, <xref ref-type="bibr" rid="bibr027">2007</xref>; <xref ref-type="bibr" rid="bibr025">Garrison et al., 2003</xref>). When the skeletal layer (the actively growing region at the base of growing sea ice) is present, bottom ice is often the most biologically productive sea ice habitat owing to its ubiquity, proximity to seawater nutrients, and mild temperature and salinity gradients (<xref ref-type="bibr" rid="bibr031">Grossi et al., 1987</xref>).</p>
+<p>Sea ice communities are responsible for a small but important fraction of total primary production in Southern Ocean waters (<xref ref-type="bibr" rid="bibr003">Arrigo et al., 1997</xref>, <xref ref-type="bibr" rid="bibr007">2008</xref>; <xref ref-type="bibr" rid="bibr045">Lizotte, 2001</xref>). They provide food for protists, ctenophores, annelids, and a variety of crustaceans, including copepods and euphausiids (<xref ref-type="bibr" rid="bibr023">Garrison and Buck, 1989</xref>; <xref ref-type="bibr" rid="bibr016">Daly, 1990</xref>; <xref ref-type="bibr" rid="bibr029">Gowing and Garrison, 1992</xref>; <xref ref-type="bibr" rid="bibr032">Guglielmo et al., 2007</xref>; <xref ref-type="bibr" rid="bibr038">Kiko et al., 2008</xref>; <xref ref-type="bibr" rid="bibr014">Caron and Gast, 2010</xref>). In particular, high krill densities have been observed beneath the ice throughout the year as they feed on microalgae within and at the base of the sea ice (<xref ref-type="bibr" rid="bibr021">Flores et al., 2011</xref>, <xref ref-type="bibr" rid="bibr022">2012</xref>).</p>
+<p>As the sea ice melts, the microbial community is rapidly released as a large pulse into surface waters (<xref ref-type="bibr" rid="bibr031">Grossi et al., 1987</xref>; <xref ref-type="bibr" rid="bibr066">Suzuki et al., 2001</xref>; <xref ref-type="bibr" rid="bibr036">Juul-Pedersen et al., 2008</xref>). Some of the algal cells can provide seed stock for phytoplankton blooms at the receding ice edge (<xref ref-type="bibr" rid="bibr033">Haecky et al., 1998</xref>; <xref ref-type="bibr" rid="bibr046">Mangoni et al., 2009</xref>). Much of the remaining biomass is eaten by pelagic grazers as it sinks through the water column (<xref ref-type="bibr" rid="bibr013">Brown and Belt, 2012</xref>). Ice algal food is rich in polyunsaturated and other essential fatty acids (<xref ref-type="bibr" rid="bibr047">McMahon et al., 2006</xref>; <xref ref-type="bibr" rid="bibr065">Søreide et al., 2010</xref>) that are necessary for zooplankton growth and reproduction. Uneaten ice microalgae can settle on the seafloor and are consumed by benthic invertebrates (<xref ref-type="bibr" rid="bibr057">Ratkova and Wassmann, 2005</xref>; <xref ref-type="bibr" rid="bibr012">Boetius et al., 2013</xref>). Ice microalgae are often enriched in <sup>13</sup>C relative to pelagic phytoplankton (<xref ref-type="bibr" rid="bibr058">Rau et al., 1991</xref>) and their <sup>13</sup>C signatures have been used to assess the proportion of sea ice microalgae in the diet of benthic invertebrates (<xref ref-type="bibr" rid="bibr071">Wing et al., 2012</xref>).</p>
+<p>Although the number of observations of sea ice microbial communities has increased in recent years, there are still large areas around the Antarctic for which few samples are available. These include the south Pacific and south Indian oceans and the Amundsen Sea (<xref ref-type="bibr" rid="bibr048">Meiners et al., 2012</xref>). Here we present results of a study of sea ice algal biomass and physiology along a 17-station transect from the Amundsen Sea to the Ross Sea (<xref ref-type="fig" rid="elementa.000028.f001">Figure 1</xref>). The focus of the study was to assess spatial variability in ice algal biomass and determine what factors control their distributions. We were also interested in investigating how ice algal physiology varied in different microhabitats within the ice, in part to better understand how this fragile ecosystem might respond to future changes in sea ice conditions.</p>
+<fig id="elementa.000028.f001" position="float">
+<object-id pub-id-type="doi">10.12952/journal.elementa.000028.f001</object-id>
+<label>Figure 1. </label>
+<caption><title>Map of the Ross and Amundsen Seas.</title>
+<p>Locations of sea ice stations and the mean sea ice concentration at the time of the cruise are shown. Gray line indicates the 1000-m isobath.</p></caption>
+<graphic position="float" mimetype="image" xlink:type="simple" xlink:href="info:doi/10.12952/journal.elementa.000028.f001"/>
+</fig></sec>
+<sec id="s2"><title>Methods</title>
+<p>Samples were collected from the Swedish icebreaker <italic>Oden</italic> along a roughly zonal transect extending from approximately 100°W to 166°E (<xref ref-type="fig" rid="elementa.000028.f001">Figure 1</xref>). Sea ice was sampled between 16 December 2010 and 10 January 2011 by deployment of personnel directly onto the ice pack. Sea ice samples were obtained using a SIPRE corer (0.076 m interior diameter). Ice cores longer than 0.2 m were sectioned at 0.1 to 0.2 m intervals and each segment was placed in individual labeled polyethylene bags. Slush and surface ponds were sampled by scooping a known volume into 4 L dark polyethelene containers and processed immediately upon return to the ship.</p>
+<p>All sea ice samples were stored in a thermally insulated cooler until they could be processed. Once onboard (within 1 h of collection) a sufficient quantity of 0.2 µm-filtered seawater was added to each ice core section to maintain salinity &gt; 28 (to minimize osmotic shock to the microbial community), and the samples were allowed to melt in the dark (&lt; 24 hr) prior to further analysis. No seawater was added to surface pond or slush samples. The exact quantity of seawater added to the ice sections was recorded so that concentrations of solutes could be corrected to their undiluted values. Comparison of stored samples with samples that were processed immediately after collection showed that there was little change in physiology or pigment composition resulting from this treatment. Water column samples were collected from 1–2 m below the bottom of the ice using a bilge pump.</p>
+<sec id="s2a"><title>Snow and ice thickness</title>
+<p>Before drilling ice cores, snow thickness was measured by inserting a ruler through the snow to the snow/ice interface. At least four holes (usually spaced 1 m apart) were drilled at each sea ice station for determination of sea ice thickness. A tape measure attached to the center of a brass rod was inserted into each hole, and the tape was pulled tight until the brass rod held securely to the bottom sea ice surface. The thickness was then read off the tape measure at the snow/ice interface. The mean ice and snow thickness for each station was calculated by averaging the thickness at all core locations at that station.</p></sec>
+<sec id="s2b"><title>Sea ice salinity and temperature</title>
+<p>The temperature of each ice core section was measured by inserting the tip of a digital temperature probe (Corning Science Products) approximately 0.01 m into the ice. The reading was taken after the temperature had stabilized (ca. 10 s). Sea ice salinity for each core section was measured using a refractometer (accuracy 1 ppt) after ice core sections had melted and were corrected for seawater dilution.</p></sec>
+<sec id="s2c"><title>Pigments, POC, PON, δ<sup>13</sup>C, and δ<sup>15</sup>N analyses</title>
+<sec id="s2c1"><title>Pigments</title>
+<p>Samples for fluorometric analysis of chlorophyll <italic>a</italic> (Chl <italic>a</italic>) were filtered onto 25 mm Whatman GF/F filters (nominal pore size 0.7 µm), placed in 5 mL of 90% acetone, and extracted in the dark at 3ºC for 24 hrs. Chl <italic>a</italic> was measured fluorometrically (<xref ref-type="bibr" rid="bibr035">Holm-Hansen et al., 1965</xref>) using a Turner 10-AU fluorometer (Turner Designs, Inc.). The fluorometer was calibrated using a pure Chl <italic>a</italic> standard (Sigma). For samples of relatively high biomass, high performance liquid chromatography (HPLC) analysis of pigment composition, including chlorophylls, phaeopigments, and carotenoids, was performed using the method of <xref ref-type="bibr" rid="bibr072">Wright et al. (1991)</xref> as described in <xref ref-type="bibr" rid="bibr019">DiTullio and Smith (1996)</xref>.</p>
+<p>Fluorometric Chl <italic>a</italic> concentrations generally exceed those measured by HPLC by ∼ 50%. Because we only conducted HPLC analyses on a subset of the total samples, all Chl <italic>a</italic> concentrations reported here were measured fluorometrically. Pigment ratios, however, were determined from HPLC data.</p></sec>
+<sec id="s2c2"><title>Particulate organic carbon and nitrogen</title>
+<p>Particulate organic carbon (POC) and nitrogen (PON) samples were collected by filtering water onto pre-combusted (450°C for 4 hrs) 25 mm Whatman GF/F filters. Filter blanks were produced by passing ∼50 ml of 0.2 µm filtered seawater through a GF/F. All filters were then immediately dried at 60°C and stored dry until analysis. Prior to analysis, samples and blanks were fumed with concentrated HCl, dried at 60°C and packed into tin capsules (Costech Analytical Technologies, Inc.) for elemental analysis on a Elementar Vario EL Cube (Elementar Analysensysteme GmbH, Hanau, Germany) interfaced to a PDZ Europa 20–20 isotope ratio mass spectrometer (Sercon Ltd., Cheshire, UK). Standards included peach leaves and glutamic acid. The stable carbon (δ<sup>13</sup>C) and nitrogen (δ<sup>15</sup>N) isotopes of POC and PON in high biomass samples were simultaneously measured using the elemental analyzer and mass spectrometer system. Isotopic compositions were calibrated against the NBS-21 and IAEA-N1 standards that were run before and after each set of analyses. Isotopic reproducibility was on the order of 0.11‰.</p></sec></sec>
+<sec id="s2d"><title>Sea ice algal photophysiology</title>
+<p>Photosynthesis versus irradiance (P-E) relationships for microalgae released from their sea ice matrix were determined using a modification of the <sup>14</sup>C-bicarbonate technique of <xref ref-type="bibr" rid="bibr044">Lewis and Smith (1983)</xref> as described by <xref ref-type="bibr" rid="bibr008">Arrigo et al. (2010a)</xref>. Microalgae were inoculated with 0.925 MBq <sup>14</sup>C-bicarbonate and each 2 ml aliquot was exposed to one of 20 irradiances ranging from &lt;1 to &gt;500 µmol photons m<sup>2</sup> s<sup>-1</sup> for one hour at 0.0±0.5°C. The DIC concentration used to calculate C-uptake rates was measured as described in Tortell et al. (2012). The photosynthetic parameters P<sup>*</sup><sub>m</sub> (maximum photosynthetic rate, mg C mg<sup>-1</sup> Chl <italic>a</italic> hr<sup>-1</sup>) and α<sup>*</sup> (photosynthetic efficiency, mg C mg<sup>-1</sup> Chl <italic>a</italic> hr<sup>-1</sup> (µmol photons m<sup>-2</sup> s<sup>-1</sup>) <sup>-1</sup>) were calculated by normalizing uptake rates to fluorometric Chl <italic>a</italic> concentration; values were estimated from a fit of P-E data to the equation of <xref ref-type="bibr" rid="bibr056">Platt et al. (1980)</xref>. The photoacclimation index (E<sub>k</sub>, µmol photons m<sup>-2</sup> s<sup>-1</sup>) was calculated as P<sup>*</sup><sub>m</sub>/α<sup>*</sup>.</p>
+<p>The particle absorption coefficient (a<sub>p</sub>) from 300 to 800 nm was determined spectrophotometrically (Perkin Elmer Lambda 18 with a RSA-PE-18 integrating sphere) on fresh samples by collecting particles onto a 25 mm filter (Whatman GF/F) and measuring its optical density relative to a blank reference filter. Spectral absorption coefficients were calculated as described in <xref ref-type="bibr" rid="bibr049">Mitchell (1990)</xref>. Following measurement of a<sub>p</sub>, sample filters were extracted in 90% methanol and re-measured to yield detrital absorption (a<sub>d</sub>). Microalgal absorption (a<sub>ph</sub>) was determined by difference as a<sub>ph</sub> = a<sub>p</sub> – a<sub>d</sub>. Chl <italic>a</italic>-specific microalgal absorption (a<sub>ph</sub><sup>*</sup>) was calculated as a<sub>ph</sub>/Chl <italic>a</italic>, where Chl <italic>a</italic> was determined fluorometrically.</p>
+<p>Although light levels within and beneath the ice were not measured during this project, the potential light environment for each microhabitat was characterized by calculating a light index based on the amount of overlying sea ice and snow. Because snow attenuates light approximately 10-fold higher than sea ice, a simple metric was produced wherein the light index was set to 1/(10 · snow thickness + ice thickness). For interior communities, only the amount of ice above the community (rather than total ice thickness) was used in the calculation. Based on this simple metric, microhabitats were classified from high to low light as surface pond, slush, high light interior ice, low light interior ice, bottom ice, under-ice high light, and under-ice low light.</p></sec></sec>
+<sec id="s3"><title>Results</title>
+<sec id="s3a"><title>Snow</title>
+<p>Snow thickness varied considerably throughout the study region, averaging 0.30 ± 0.24 m. Snow cover along our transect ranged from virtually snow free conditions in a few locations to snow cover as thick as 0.82 m (<xref ref-type="table" rid="elementa.000028.t001">Table 1</xref>). In general, snow was thickest along the eastern section of the transect, averaging 0.42 ± 0.22 m, and much thinner to the west of 130°W (0.08 ± 0.07 m). There was no apparent relationship between ice thickness and snow thickness for the stations we sampled. Six of the 17 stations sampled (2, 3, 27, 30, 31, and 41) had slush layers between the snow and ice. These stations had the thickest snow cover, suggesting that slush formation was primarily due to surface flooding as the thick snow cover forced the surface of the ice below freeboard.</p>
+<table-wrap id="elementa.000028.t001" position="float">
+<object-id pub-id-type="doi">10.12952/journal.elementa.000028.t001</object-id>
+<label>Table 1. </label>
+<caption><title>Physical and biological characteristics of sea ice stations</title></caption>
+<alternatives>
+<graphic id="elementa.000028.t001-i" position="float" mimetype="image" xlink:type="simple" xlink:href="info:doi/10.12952/journal.elementa.000028.t001"/>
+<table>
+<colgroup span="1">
+<col width="5%" span="1"/>
+<col width="5%" span="1"/>
+<col width="10%" span="1"/>
+<col width="10%" span="1"/>
+<col width="5%" span="1"/>
+<col width="5%" span="1"/>
+<col width="10%" span="1"/>
+<col width="10%" span="1"/>
+<col width="10%" span="1"/>
+<col width="10%" span="1"/>
+<col width="10%" span="1"/>
+<col width="10%" span="1"/>
+</colgroup>
+<thead>
+<tr>
+<th rowspan="1" colspan="1">Station</th>
+<th rowspan="1" colspan="1">Date</th>
+<th rowspan="1" colspan="1">Latitude</th>
+<th rowspan="1" colspan="1">Longitude</th>
+<th rowspan="1" colspan="1">Snow depth</th>
+<th rowspan="1" colspan="1">Ice depth</th>
+<th rowspan="1" colspan="1">Depth of maximum biomass</th>
+<th rowspan="1" colspan="1">Temp.</th>
+<th rowspan="1" colspan="1">Salinity</th>
+<th rowspan="1" colspan="1">Chl <italic>a</italic></th>
+<th rowspan="1" colspan="1">POC</th>
+<th rowspan="1" colspan="1">PON</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1">(°S)</td>
+<td rowspan="1" colspan="1">(°E or °W)</td>
+<td rowspan="1" colspan="1">(m)</td>
+<td rowspan="1" colspan="1">(m)</td>
+<td rowspan="1" colspan="1">(m)</td>
+<td rowspan="1" colspan="1">(°C)</td>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1">(mg m<sup>-2</sup>)</td>
+<td rowspan="1" colspan="1">(mg m<sup>-2</sup>)</td>
+<td rowspan="1" colspan="1">(mg m<sup>-2</sup>)</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">1</td>
+<td rowspan="1" colspan="1">16 Dec 2010</td>
+<td rowspan="1" colspan="1">68.588</td>
+<td rowspan="1" colspan="1">102.142 W</td>
+<td rowspan="1" colspan="1">0.28</td>
+<td rowspan="1" colspan="1">0.66</td>
+<td rowspan="1" colspan="1">0.05</td>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1">4.3 (1.5)</td>
+<td rowspan="1" colspan="1">3.12</td>
+<td rowspan="1" colspan="1">821.6</td>
+<td rowspan="1" colspan="1">97.1</td>
+</tr><tr>
+<td rowspan="1" colspan="1">2</td>
+<td rowspan="1" colspan="1">17 Dec 2010</td>
+<td rowspan="1" colspan="1">69.461</td>
+<td rowspan="1" colspan="1">103.072 W</td>
+<td rowspan="1" colspan="1">0.33</td>
+<td rowspan="1" colspan="1">0.90</td>
+<td rowspan="1" colspan="1">0.05</td>
+<td rowspan="1" colspan="1">-0.91 (0.27)</td>
+<td rowspan="1" colspan="1">4.2 (2.5)</td>
+<td rowspan="1" colspan="1">8.44</td>
+<td rowspan="1" colspan="1">1465.3</td>
+<td rowspan="1" colspan="1">228.8</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">3</td>
+<td rowspan="1" colspan="1">18 Dec 2010</td>
+<td rowspan="1" colspan="1">70.025</td>
+<td rowspan="1" colspan="1">106.944 W</td>
+<td rowspan="1" colspan="1">0.00</td>
+<td rowspan="1" colspan="1">1.31</td>
+<td rowspan="1" colspan="1">0.75</td>
+<td rowspan="1" colspan="1">-1.35 (0.55)</td>
+<td rowspan="1" colspan="1">4.3 (1.7)</td>
+<td rowspan="1" colspan="1">9.96</td>
+<td rowspan="1" colspan="1">2408.7</td>
+<td rowspan="1" colspan="1">279.2</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">4</td>
+<td rowspan="1" colspan="1">19 Dec 2010</td>
+<td rowspan="1" colspan="1">71.064</td>
+<td rowspan="1" colspan="1">112.983 W</td>
+<td rowspan="1" colspan="1">0.68</td>
+<td rowspan="1" colspan="1">1.98</td>
+<td rowspan="1" colspan="1">0.65</td>
+<td rowspan="1" colspan="1">-1.27 (0.24)</td>
+<td rowspan="1" colspan="1">7.7 (2.8)</td>
+<td rowspan="1" colspan="1">72.2</td>
+<td rowspan="1" colspan="1">3211.2</td>
+<td rowspan="1" colspan="1">598.8</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">5</td>
+<td rowspan="1" colspan="1">20 Dec 2010</td>
+<td rowspan="1" colspan="1">72.448</td>
+<td rowspan="1" colspan="1">115.357 W</td>
+<td rowspan="1" colspan="1">0.37</td>
+<td rowspan="1" colspan="1">1.05</td>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1">-1.92 (0.25)</td>
+<td rowspan="1" colspan="1">8.4 (1.4)</td>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">10</td>
+<td rowspan="1" colspan="1">21 Dec 2010</td>
+<td rowspan="1" colspan="1">72.773</td>
+<td rowspan="1" colspan="1">114.171 W</td>
+<td rowspan="1" colspan="1">0.35</td>
+<td rowspan="1" colspan="1">1.26</td>
+<td rowspan="1" colspan="1">1.15</td>
+<td rowspan="1" colspan="1">-1.23 (0.23)</td>
+<td rowspan="1" colspan="1">8.0 (1.3)</td>
+<td rowspan="1" colspan="1">7.14</td>
+<td rowspan="1" colspan="1">1189.9</td>
+<td rowspan="1" colspan="1">153.6</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">20</td>
+<td rowspan="1" colspan="1">24 Dec 2010</td>
+<td rowspan="1" colspan="1">72.121</td>
+<td rowspan="1" colspan="1">115.612 W</td>
+<td rowspan="1" colspan="1">0.48</td>
+<td rowspan="1" colspan="1">1.16</td>
+<td rowspan="1" colspan="1">0.25</td>
+<td rowspan="1" colspan="1">-1.30 (0.18)</td>
+<td rowspan="1" colspan="1">4.7 (2.7)</td>
+<td rowspan="1" colspan="1">38.7</td>
+<td rowspan="1" colspan="1">3141.5</td>
+<td rowspan="1" colspan="1">507.0</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">25</td>
+<td rowspan="1" colspan="1">26 Dec 2010</td>
+<td rowspan="1" colspan="1">72.958</td>
+<td rowspan="1" colspan="1">116.964 W</td>
+<td rowspan="1" colspan="1">0.52</td>
+<td rowspan="1" colspan="1">1.81</td>
+<td rowspan="1" colspan="1">0.55</td>
+<td rowspan="1" colspan="1">-1.58 (0.21)</td>
+<td rowspan="1" colspan="1">4.5 (1.9)</td>
+<td rowspan="1" colspan="1">25.2</td>
+<td rowspan="1" colspan="1">2683.8</td>
+<td rowspan="1" colspan="1">454.8</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">27</td>
+<td rowspan="1" colspan="1">27 Dec 2010</td>
+<td rowspan="1" colspan="1">72.185</td>
+<td rowspan="1" colspan="1">118.958 W</td>
+<td rowspan="1" colspan="1">0.82</td>
+<td rowspan="1" colspan="1">2.26</td>
+<td rowspan="1" colspan="1">0.65</td>
+<td rowspan="1" colspan="1">-1.43 (0.07)</td>
+<td rowspan="1" colspan="1">5.2 (1.8)</td>
+<td rowspan="1" colspan="1">30.4</td>
+<td rowspan="1" colspan="1">1968.8</td>
+<td rowspan="1" colspan="1">388.9</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">30</td>
+<td rowspan="1" colspan="1">29 Dec 2010</td>
+<td rowspan="1" colspan="1">72.042</td>
+<td rowspan="1" colspan="1">123.173 W</td>
+<td rowspan="1" colspan="1">0.31</td>
+<td rowspan="1" colspan="1">0.65</td>
+<td rowspan="1" colspan="1">0.58</td>
+<td rowspan="1" colspan="1">-1.29 (0.06)</td>
+<td rowspan="1" colspan="1">4.7 (0.9)</td>
+<td rowspan="1" colspan="1">13.6</td>
+<td rowspan="1" colspan="1">1615.8</td>
+<td rowspan="1" colspan="1">161.3</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">31</td>
+<td rowspan="1" colspan="1">30 Dec 2010</td>
+<td rowspan="1" colspan="1">72.163</td>
+<td rowspan="1" colspan="1">127.081 W</td>
+<td rowspan="1" colspan="1">0.40</td>
+<td rowspan="1" colspan="1">1.54</td>
+<td rowspan="1" colspan="1">1.41</td>
+<td rowspan="1" colspan="1">-1.60 (0.13)</td>
+<td rowspan="1" colspan="1">4.9 (1.0)</td>
+<td rowspan="1" colspan="1">11.5</td>
+<td rowspan="1" colspan="1">1893.6</td>
+<td rowspan="1" colspan="1">171.1</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">31.1</td>
+<td rowspan="1" colspan="1">2 Jan 2011</td>
+<td rowspan="1" colspan="1">72.221</td>
+<td rowspan="1" colspan="1">133.200 W</td>
+<td rowspan="1" colspan="1">0.12</td>
+<td rowspan="1" colspan="1">0.79</td>
+<td rowspan="1" colspan="1">0.75</td>
+<td rowspan="1" colspan="1">-0.23 (0.13)</td>
+<td rowspan="1" colspan="1">3.6 (1.5)</td>
+<td rowspan="1" colspan="1">16.6</td>
+<td rowspan="1" colspan="1">2277.3</td>
+<td rowspan="1" colspan="1">246.8</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">32</td>
+<td rowspan="1" colspan="1">3 Jan 2011</td>
+<td rowspan="1" colspan="1">72.805</td>
+<td rowspan="1" colspan="1">135.578 W</td>
+<td rowspan="1" colspan="1">0.15</td>
+<td rowspan="1" colspan="1">1.25</td>
+<td rowspan="1" colspan="1">1.17</td>
+<td rowspan="1" colspan="1">-1.10 (0.16)</td>
+<td rowspan="1" colspan="1">3.3 (1.6)</td>
+<td rowspan="1" colspan="1">4.63</td>
+<td rowspan="1" colspan="1">1743.6</td>
+<td rowspan="1" colspan="1">120.0</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">33</td>
+<td rowspan="1" colspan="1">4 Jan 2011</td>
+<td rowspan="1" colspan="1">73.427</td>
+<td rowspan="1" colspan="1">139.305 W</td>
+<td rowspan="1" colspan="1">0.06</td>
+<td rowspan="1" colspan="1">1.65</td>
+<td rowspan="1" colspan="1">1.55</td>
+<td rowspan="1" colspan="1">-0.87 (0.40)</td>
+<td rowspan="1" colspan="1">3.7 (1.0)</td>
+<td rowspan="1" colspan="1">7.97</td>
+<td rowspan="1" colspan="1">2287.3</td>
+<td rowspan="1" colspan="1">170.3</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">41</td>
+<td rowspan="1" colspan="1">6 Jan 2011</td>
+<td rowspan="1" colspan="1">75.544</td>
+<td rowspan="1" colspan="1">149.300 W</td>
+<td rowspan="1" colspan="1">0.15</td>
+<td rowspan="1" colspan="1">1.35</td>
+<td rowspan="1" colspan="1">1.25</td>
+<td rowspan="1" colspan="1">-1.64 (0.37)</td>
+<td rowspan="1" colspan="1">4.9 (1.2)</td>
+<td rowspan="1" colspan="1">9.41</td>
+<td rowspan="1" colspan="1">1627.9</td>
+<td rowspan="1" colspan="1">149.4</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">42</td>
+<td rowspan="1" colspan="1">8 Jan 2011</td>
+<td rowspan="1" colspan="1">78.635</td>
+<td rowspan="1" colspan="1">164.295 W</td>
+<td rowspan="1" colspan="1">0.00</td>
+<td rowspan="1" colspan="1">3.85</td>
+<td rowspan="1" colspan="1">2.50</td>
+<td rowspan="1" colspan="1">-4.50 (0.61)</td>
+<td rowspan="1" colspan="1">3.9 (2.1)</td>
+<td rowspan="1" colspan="1">15.9</td>
+<td rowspan="1" colspan="1">2791.2</td>
+<td rowspan="1" colspan="1">355.2</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">43</td>
+<td rowspan="1" colspan="1">10 Jan 2011</td>
+<td rowspan="1" colspan="1">77.590</td>
+<td rowspan="1" colspan="1">165.708 E</td>
+<td rowspan="1" colspan="1">0.01</td>
+<td rowspan="1" colspan="1">1.52</td>
+<td rowspan="1" colspan="1">1.35</td>
+<td rowspan="1" colspan="1">-1.58 (0.39)</td>
+<td rowspan="1" colspan="1">3.8 (1.7)</td>
+<td rowspan="1" colspan="1">1.80</td>
+<td rowspan="1" colspan="1">1532.0</td>
+<td rowspan="1" colspan="1">175.7</td>
+</tr>
+</tbody>
+</table></alternatives>
+<table-wrap-foot>
+<fn-group>
+<fn id="tfn01"><p>Temperature and salinity (mean ± standard deviation) are vertical averages within the ice core; Chl <italic>a</italic>, POC, and PON are vertical integrals from the top to the bottom of the core.</p></fn></fn-group></table-wrap-foot></table-wrap></sec>
+<sec id="s3b"><title>Sea ice</title>
+<p>Most of the sea ice sampled during this study was first year ice that ranged in thickness from 0.65 m to 2.26 m (<xref ref-type="table" rid="elementa.000028.t001">Table 1</xref>) and averaged 1.47 ± 0.76 m. The lone exception was at station 42, located along the eastern side of the Ross Ice Shelf, where multiyear ice nearly 4 m thick was observed. Ice thickness increased from 0.66 m along the northern ice edge (station 1) to 1.31 m at the interior of the pack (station 4), in conjunction with the increase in sea ice concentration (<xref ref-type="fig" rid="elementa.000028.f001">Figure 1</xref>). However, within the interior of the ice pack, there was no apparent spatial pattern in sea ice thickness distribution.</p>
+<p>Due to our sampling in early summer, the ice pack was largely isothermal and near the freezing point of seawater at the time of sampling, with the vertically-averaged ice core temperature at all but one station ranging from –0.23°C to –1.92°C (<xref ref-type="table" rid="elementa.000028.t001">Table 1</xref>). The single exception was at the multiyear ice station 42 where the vertically-averaged temperature of this extremely thick ice was substantially colder at –4.50°C. The skeletal layer was generally but not always present.</p>
+<p>The bulk salinity of sea ice sampled during our study averaged 5.07 ± 1.61, with significantly higher salinity on the eastern portion of the transect. East of 130°W, bulk salinity averaged 5.70 ± 1.66, while to the west, bulk salinity averaged only 3.90 ± 0.54. There was no significant relationship between mean bulk sea ice salinity and either temperature, snow thickness, or sea ice thickness at a given station.</p>
+<p>The salinity of surface ponds, which were generally less than 0.2 m deep, averaged 20.0 ± 2.8. Slush layers were approximately 0.05 m thick with a mean bulk salinity of 26.3 ± 7.3. These relatively high salinities compared to bulk sea ice salinity suggest that seawater was infiltrating the surface of the ice, due either to surface flooding or percolation through the ice. Temperatures of both melt ponds and slush layers were just above the freezing point.</p></sec>
+<sec id="s3c"><title>Depth-integrated microalgal biomass</title>
+<sec id="s3c1"><title>Chlorophyll a</title>
+<p>Depth-integrated Chl <italic>a</italic> biomass in sea ice ranged from 1.80 to 72.2 mg m<sup>-2</sup> during our study, averaging 17.3 ± 17.8 mg m<sup>-2</sup> (<xref ref-type="table" rid="elementa.000028.t001">Table 1</xref>). The highest values were concentrated in the region of the Amundsen Sea between 113°W and 118°W (<xref ref-type="fig" rid="elementa.000028.f001">Figure 1</xref>, <xref ref-type="table" rid="elementa.000028.t001">Table 1</xref>). Interestingly, depth-integrated Chl <italic>a</italic> was significantly positively correlated with snow depth (<xref ref-type="fig" rid="elementa.000028.f002">Figure 2a</xref>) but not with the ratio of snow depth:ice thickness (not shown), with the four stations with the highest algal biomass also having the thickest snow cover (<xref ref-type="table" rid="elementa.000028.t001">Table 1</xref>). Thicker snow was also associated with the depth of the microalgal biomass maximum that was nearer the sea ice surface (<xref ref-type="table" rid="elementa.000028.t001">Table 1</xref>). There was no apparent relationship between sea ice thickness and Chl <italic>a</italic> biomass (<xref ref-type="fig" rid="elementa.000028.f002">Figure 2b</xref>).</p>
+<fig id="elementa.000028.f002" position="float">
+<object-id pub-id-type="doi">10.12952/journal.elementa.000028.f002</object-id>
+<label>Figure 2. </label>
+<caption><title>Factors controlling algal biomass in sea ice.</title>
+<p>Regressions of depth-integrated chlorophyll <italic>a</italic> (Chl <italic>a</italic>) versus (a) snow depth and (b) sea ice thickness, depth-integrated particulate organic carbon (POC) versus (c) snow depth and (d) sea ice thickness, the POC/Chl <italic>a</italic> ratio (g:g) versus (e) snow depth and (f) sea ice thickness, and the ratio (g:g) of POC to particulate organic nitrogen (PON) versus (g) snow depth and (h) sea ice thickness.</p></caption>
+<graphic position="float" mimetype="image" xlink:type="simple" xlink:href="info:doi/10.12952/journal.elementa.000028.f002"/>
+</fig></sec>
+<sec id="s3c2"><title>Particulate organic carbon</title>
+<p>The mean depth-integrated POC within the sea ice during our study was 2041 ± 687 mg m<sup>-2</sup>. Total POC varied from 822 mg m<sup>-2</sup> in the thin ice at the northern ice edge to 3211 mg m<sup>-2</sup> in the interior of the pack at station 4 (<xref ref-type="table" rid="elementa.000028.t001">Table 1</xref>), which also had the highest depth-integrated Chl <italic>a</italic> concentration. POC was positively, but non-linearly, correlated with Chl <italic>a</italic> (<xref ref-type="fig" rid="elementa.000028.f003">Figure 3a</xref>), rising rapidly at Chl <italic>a</italic> values below 20 mg m<sup>-2</sup> and then rising more slowly at higher levels of Chl <italic>a</italic>. Unlike Chl <italic>a</italic>, depth-integrated POC exhibited no statistically significant relationship with either snow depth (<xref ref-type="fig" rid="elementa.000028.f002">Figure 2c</xref>) or ice thickness (<xref ref-type="fig" rid="elementa.000028.f002">Figure 2d</xref>).</p>
+<fig id="elementa.000028.f003" position="float">
+<object-id pub-id-type="doi">10.12952/journal.elementa.000028.f003</object-id>
+<label>Figure 3. </label>
+<caption><title>Relationship between POC and other biomass metrics.</title>
+<p>Particulate organic carbon (POC) concentration versus (a) chlorophyll <italic>a</italic> (Chl <italic>a</italic>) concentration (POC = 570.09 ln(Chl <italic>a</italic>) + 645.18, n = 16) and (b) particulate organic nitrogen (PON) concentration in sea ice.</p></caption>
+<graphic position="float" mimetype="image" xlink:type="simple" xlink:href="info:doi/10.12952/journal.elementa.000028.f003"/>
+</fig>
+<p>The depth-integrated POC/Chl <italic>a</italic> ratio averaged 214.1 ± 191 (g:g) throughout the study region. Values ranged from 44.5 at station 4, where the ice algal bloom was most intense, to 852 at station 43, which had very low Chl <italic>a</italic> accumulation despite a moderate amount of POC. The POC/Chl <italic>a</italic> ratio was significantly negatively correlated with snow depth (<xref ref-type="fig" rid="elementa.000028.f002">Figure 2e</xref>) but exhibited no apparent relationship with sea ice thickness (<xref ref-type="fig" rid="elementa.000028.f002">Figure 2f</xref>).</p></sec>
+<sec id="s3c3"><title>Particulate organic nitrogen</title>
+<p>Depth-integrated PON averaged 266 ± 151 mg m<sup>-2</sup> in our study area, ranging from 97.1 mg m<sup>-2</sup> at the northern ice edge to 599 mg m<sup>-2</sup> at station 4 within the interior of the ice pack (<xref ref-type="table" rid="elementa.000028.t001">Table 1</xref>). Depth-integrated PON was highly correlated with POC (<xref ref-type="fig" rid="elementa.000028.f003">Figure 3b</xref>), with the POC/PON ratio averaging 8.72 ± 2.76 within our study region. Like Chl <italic>a</italic>, PON was positively correlated with snow depth but exhibited no statistically significant relationship with ice thickness. Because of the positive correlation between snow depth and PON, the POC/PON ratio was significantly negatively correlated with snow depth (<xref ref-type="fig" rid="elementa.000028.f002">Figure 2g</xref>) and exhibited no relationship with ice thickness (<xref ref-type="fig" rid="elementa.000028.f002">Figure 2h</xref>).</p></sec></sec>
+<sec id="s3d"><title>Microalgal physiology</title>
+<p>Many assays used to characterize algal physiology require an ample supply of algal biomass to produce a measurable biological signal. Because algal biomass is often heterogeneously distributed within an individual sea ice core, we could best measure algal pigments and physiological properties on those sections of each ice core that had a sufficient amount of algal biomass. Therefore, the values reported below do not reflect averages over the entire core, but are indicative of values in microhabitats where ice microalgae were most prevalent. In descending order of incident light intensity (estimated as described in the methods), the microhabitats sampled in this study include surface pond, slush, high light interior ice, low light interior ice, bottom ice, under-ice high light, and under-ice low light. The stations used to quantify algal pigment ratios and physiology in each microhabitat are given in <xref ref-type="table" rid="elementa.000028.t002">Table 2</xref>.</p>
+<table-wrap id="elementa.000028.t002" position="float">
+<object-id pub-id-type="doi">10.12952/journal.elementa.000028.t002</object-id>
+<label>Table 2. </label>
+<caption><title>Mean (± standard deviation) pigment concentrations for algae living in different sea ice microhabitats</title></caption>
+<alternatives>
+<graphic id="elementa.000028.t002-i" position="float" mimetype="image" xlink:type="simple" xlink:href="info:doi/10.12952/journal.elementa.000028.t002"/>
+<table border="1">
+<colgroup span="1">
+<col width="25%" span="1"/>
+<col width="15%" span="1"/>
+<col width="15%" span="1"/>
+<col width="10%" span="1"/>
+<col width="10%" span="1"/>
+<col width="15%" span="1"/>
+<col width="10%" span="1"/>
+</colgroup>
+<thead>
+<tr>
+<th rowspan="1" colspan="1">Microhabitat</th>
+<th rowspan="1" colspan="1">Stations</th>
+<th rowspan="1" colspan="1">Chl <italic>a</italic></th>
+<th rowspan="1" colspan="1">Phaeo</th>
+<th rowspan="1" colspan="1">Fuco:Chl <italic>a</italic></th>
+<th rowspan="1" colspan="1">(DD + DT):Chl <italic>a</italic></th>
+<th rowspan="1" colspan="1">19-Hex:Chl <italic>a</italic></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1">(mg m<sup>-3</sup>)</td>
+<td rowspan="1" colspan="1">(mg <sup>-3</sup>)</td>
+<td rowspan="1" colspan="1">(g:g)</td>
+<td rowspan="1" colspan="1">(g:g)</td>
+<td rowspan="1" colspan="1">(g:g)</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Surface pond</td>
+<td rowspan="1" colspan="1">31.1, 32, 33</td>
+<td rowspan="1" colspan="1">105.0 (115.9)</td>
+<td rowspan="1" colspan="1">6.37 (8.15)</td>
+<td rowspan="1" colspan="1">0.191 (0.155)</td>
+<td rowspan="1" colspan="1">0.301 (0.094)</td>
+<td rowspan="1" colspan="1">0.198 (0.187)</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Surface slush</td>
+<td rowspan="1" colspan="1">1, 2, 27, 30, 31, 41</td>
+<td rowspan="1" colspan="1">19.5 (24.5)</td>
+<td rowspan="1" colspan="1">1.33 (3.79)</td>
+<td rowspan="1" colspan="1">0.404 (0.247)</td>
+<td rowspan="1" colspan="1">0.150 (0.042)</td>
+<td rowspan="1" colspan="1">0.277 (0.088)</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">High light interior ice</td>
+<td rowspan="1" colspan="1">1, 3, 5, 10, 31, 31.1, 33, 41</td>
+<td rowspan="1" colspan="1">34.1 (45.7)</td>
+<td rowspan="1" colspan="1">0.83 (1.16)</td>
+<td rowspan="1" colspan="1">0.405 (0.402)</td>
+<td rowspan="1" colspan="1">0.039 (0)</td>
+<td rowspan="1" colspan="1">0.189 (0.218)</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Low light interior ice</td>
+<td rowspan="1" colspan="1">4, 20, 25, 27</td>
+<td rowspan="1" colspan="1">111.2 (127.2)</td>
+<td rowspan="1" colspan="1">4.35 (6.79)</td>
+<td rowspan="1" colspan="1">0.670 (0.142)</td>
+<td rowspan="1" colspan="1">0.074 (0.051)</td>
+<td rowspan="1" colspan="1">0.092 (0.060)</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Bottom ice</td>
+<td rowspan="1" colspan="1">2, 30, 32</td>
+<td rowspan="1" colspan="1">31.5 (22.6)</td>
+<td rowspan="1" colspan="1">1.74 (1.91)</td>
+<td rowspan="1" colspan="1">0.836 (0.211)</td>
+<td rowspan="1" colspan="1">0.081 (0.047)</td>
+<td rowspan="1" colspan="1">0.014 (0.019)</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Under-ice water, high light</td>
+<td rowspan="1" colspan="1">10, 30, 32, 33</td>
+<td rowspan="1" colspan="1">2.5 (4.1)</td>
+<td rowspan="1" colspan="1">0.21 (0.09)</td>
+<td rowspan="1" colspan="1">0.344 (0.090)</td>
+<td rowspan="1" colspan="1">0.069 (0.049)</td>
+<td rowspan="1" colspan="1">0</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Under-ice water, low light</td>
+<td rowspan="1" colspan="1">25, 27, 31</td>
+<td rowspan="1" colspan="1">2.2 (2.6)</td>
+<td rowspan="1" colspan="1">0.36 (0.28)</td>
+<td rowspan="1" colspan="1">0.453 (0.122)</td>
+<td rowspan="1" colspan="1">0.076 (0.018)</td>
+<td rowspan="1" colspan="1">0.053 (0.036)</td>
+</tr>
+</tbody>
+</table>
+</alternatives>
+<table-wrap-foot>
+<fn-group>
+<fn id="tfn02"><p>Chl <italic>a</italic> = chlorophyll <italic>a</italic>, Phaeo = phaeopigments, Fuco = fucoxanthin, DD = diadinoxanthin, DT = diatoxanthin, 19-Hex = 19′-hexanoyloxyfucoxanthin</p>
+<p>Microhabitats are ordered from highest light to lowest, based on light index described in the Methods</p></fn></fn-group></table-wrap-foot>
+</table-wrap>
+<sec id="s3d1"><title>Pigment concentrations</title>
+<p>The concentration of Chl <italic>a</italic> associated with microalgal blooms in sea ice microhabitats was greatest in deformation ponds (105 ± 116 mg m<sup>-3</sup>) and within the low light interior ice (111 ± 127 mg m<sup>-3</sup>) (<xref ref-type="table" rid="elementa.000028.t002">Table 2</xref>). Surprisingly, Chl <italic>a</italic> concentrations were substantially lower in the bottom ice and in slush associated with surface flooding (20–30 mg Chl <italic>a</italic> m<sup>-3</sup>), two habitats that typically support high microalgal biomass. Maximum Chl <italic>a</italic> concentrations in sea ice were more than 40-fold higher than Chl <italic>a</italic> concentrations measured in the under-ice water (2.2–2.5 mg m<sup>-3</sup>). The concentrations of both phaeopigments (fluorometry) and the sum of Chl <italic>a</italic> allomer and epimer, chlorophyllide <italic>a</italic>, monovinyl-chlorophyllide <italic>a</italic>, pheophorbide <italic>a</italic> and pheophytin <italic>a</italic> (HPLC) in sea ice habitats were generally 2–8% of Chl <italic>a</italic> concentrations, indicating that little degradation of Chl <italic>a</italic> had taken place by the time of sampling.</p>
+<p>Fucoxanthin (Fuco), a photosynthetic accessory pigment associated primarily with diatoms in sea ice, varied markedly within the various microhabitats when normalized by Chl <italic>a</italic> concentration (<xref ref-type="table" rid="elementa.000028.t002">Table 2</xref>). Consistent with the role of fucoxanthin in light harvesting, the Fuco/Chl <italic>a</italic> ratio was highest in low light environments such as the bottom ice and low light interior ice (<xref ref-type="table" rid="elementa.000028.t002">Table 2</xref>). The lowest Fuco/Chl <italic>a</italic> ratios were measured in deformation ponds and in high light under-ice environments.</p>
+<p>The concentration of the xanthophyll cycle pigments diatoxanthin (DT) and diadinoxanthin (DD), which are used by microalgae for photoprotection against excessive irradiance, were also measured in the sea ice (<xref ref-type="table" rid="elementa.000028.t002">Table 2</xref>). In contrast to the photosynthetic pigment fucoxanthin, the ratio (g:g) of DD+DT to Chl <italic>a</italic> was greatly elevated in the environments with the highest light levels, including deformation ponds (0.30) and slush layers (0.15). Interior ice and bottom ice, as well as at the under-ice water column, all exhibited relatively low (DD + DT)/Chl <italic>a</italic> ratios ranging from 0.04 to 0.08 (<xref ref-type="table" rid="elementa.000028.t002">Table 2</xref>).</p>
+<p>Finally, the photosynthetic accessory pigment 19′-hexanoyloxyfucoxanthin (19-Hex), which has been confirmed microscopically to be an effective marker pigment in the Southern Ocean to identify <italic>Phaeocystis antarctica</italic> in both the water column and the sea ice (<xref ref-type="bibr" rid="bibr004">Arrigo et al., 1999</xref>, <xref ref-type="bibr" rid="bibr005">2002</xref>, <xref ref-type="bibr" rid="bibr006">2003</xref>), also varied considerably with sea ice habitat (<xref ref-type="table" rid="elementa.000028.t002">Table 2</xref>). The 19-Hex/Chl <italic>a</italic> ratio (g:g) was highest in microhabitats within the upper ice, such as deformation ponds, slush layers, and high light interior ice, and lowest in bottom ice. This vertical pattern suggests that <italic>Phaeocystis antarctica</italic> grows best in regions of the ice that receive the most light.</p></sec>
+<sec id="s3d2"><title>POC, PON, and isotopic ratios</title>
+<p>POC concentrations ranged from an average of 1354 ± 869 mg m<sup>-3</sup> in ice algal blooms associated with bottom ice to 9304 ± 5811 mg m<sup>-3</sup> in ice algal blooms associated with deformation ponds (<xref ref-type="table" rid="elementa.000028.t003">Table 3</xref>). These values are 13–90-fold higher than POC concentrations measured in the under-ice water column. PON showed a similar vertical distribution, with bloom concentrations being greatest in both low light interior ice (1179 mg m<sup>-3</sup>) and deformation ponds (1032 mg m<sup>-3</sup>) and lowest in bottom ice (210 mg m<sup>-3</sup>). Like both Chl <italic>a</italic> and POC, bloom values for PON in sea ice were substantially higher (6 to 33-fold) than in the under-ice water column.</p>
+<table-wrap id="elementa.000028.t003" position="float">
+<object-id pub-id-type="doi">10.12952/journal.elementa.000028.t003</object-id>
+<label>Table 3. </label><caption><title>Mean (± standard deviation) particulate organic carbon (POC) and nitrogen (PON) content and stable isotopic ratios of C and N for different sea ice microhabitats</title></caption>
+<alternatives>
+<graphic id="elementa.000028.t003-i" position="float" mimetype="image" xlink:type="simple" xlink:href="info:doi/10.12952/journal.elementa.000028.t003"/>
+<table>
+<colgroup span="1">
+<col width="25%" span="1"/>
+<col width="15%" span="1"/>
+<col width="15%" span="1"/>
+<col width="15%" span="1"/>
+<col width="15%" span="1"/>
+<col width="15%" span="1"/>
+</colgroup>
+<thead align="left">
+<tr>
+<th rowspan="1" colspan="1">Microhabitat</th>
+<th rowspan="1" colspan="1">POC</th>
+<th rowspan="1" colspan="1">δ<sup>13</sup>C</th>
+<th rowspan="1" colspan="1">PON</th>
+<th rowspan="1" colspan="1">δ<sup>15</sup>N</th>
+<th rowspan="1" colspan="1">POC/PON</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1">(mg m<sup>-3</sup>)</td>
+<td rowspan="1" colspan="1">(‰)</td>
+<td rowspan="1" colspan="1">(mg m<sup>-3</sup>)</td>
+<td rowspan="1" colspan="1">(‰)</td>
+<td rowspan="1" colspan="1">(g:g)</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Surface pond</td>
+<td rowspan="1" colspan="1">9304 (5811)</td>
+<td rowspan="1" colspan="1">-14.3 (1.6)</td>
+<td rowspan="1" colspan="1">1032 (528.0)</td>
+<td rowspan="1" colspan="1">3.44 (1.11)</td>
+<td rowspan="1" colspan="1">9.0</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Surface slush</td>
+<td rowspan="1" colspan="1">1921 (1501)</td>
+<td rowspan="1" colspan="1">-19.2 (2.6)</td>
+<td rowspan="1" colspan="1">280.7 (224.0)</td>
+<td rowspan="1" colspan="1">2.57 (1.41)</td>
+<td rowspan="1" colspan="1">6.8</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">High light interior ice</td>
+<td rowspan="1" colspan="1">2674 (2085)</td>
+<td rowspan="1" colspan="1">-21.8 (2.3)</td>
+<td rowspan="1" colspan="1">290.7 (178.3)</td>
+<td rowspan="1" colspan="1">1.66 (2.02)</td>
+<td rowspan="1" colspan="1">9.2</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"> </td>
+<td rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Low light interior ice</td>
+<td rowspan="1" colspan="1">6442 (7641)</td>
+<td rowspan="1" colspan="1">-19.3 (1.3)</td>
+<td rowspan="1" colspan="1">1179 (1169)</td>
+<td rowspan="1" colspan="1">1.16 (1.45)</td>
+<td rowspan="1" colspan="1">5.5</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Bottom ice</td>
+<td rowspan="1" colspan="1">1354 (869)</td>
+<td rowspan="1" colspan="1">-20.9 (1.8)</td>
+<td rowspan="1" colspan="1">210.1 (111.2)</td>
+<td rowspan="1" colspan="1">2.13 (0.59)</td>
+<td rowspan="1" colspan="1">6.4</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Under-ice, high light</td>
+<td rowspan="1" colspan="1">64.6 (7.8)</td>
+<td rowspan="1" colspan="1">-22.4 (2.3)</td>
+<td rowspan="1" colspan="1">27.2 (22.0)</td>
+<td rowspan="1" colspan="1">-1.86 (1.28)</td>
+<td rowspan="1" colspan="1">2.4</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Under-ice, low light</td>
+<td rowspan="1" colspan="1">139.0 (120.6)</td>
+<td rowspan="1" colspan="1">-20.3 (4.8)</td>
+<td rowspan="1" colspan="1">43.9 (24.0)</td>
+<td rowspan="1" colspan="1">0.54 (1.58)</td>
+<td rowspan="1" colspan="1">3.2</td>
+</tr>
+</tbody>
+</table></alternatives>
+<table-wrap-foot>
+<fn-group>
+<fn id="tfn03"><p>Microhabitats are ordered from highest light to lowest, based on light index described in the Methods.</p></fn></fn-group></table-wrap-foot>
+</table-wrap>
+<p>POC/PON ratios in sea ice algal blooms ranged from 5.5 to 9.2 (<xref ref-type="table" rid="elementa.000028.t003">Table 3</xref>) and tended to be higher in high light environments located closer to the sea ice surface (e.g., surface pond, slush, and high light interior). Values in sea ice were much greater than those measured in the under-ice water column (POC/PON = 2.4–3.2).</p>
+<p>δ<sup>13</sup>C of particulate matter in sea ice ranged from -21.8 to -14.3 ‰. <sup>13</sup>C enrichment of POC was significantly positively correlated with POC concentration (<xref ref-type="fig" rid="elementa.000028.f004">Figure 4</xref>), indicating higher levels of enrichment at higher levels of ice algal biomass. There was no such correlation between δ<sup>15</sup>N of particulate matter and algal biomass, although <sup>15</sup>N was significantly enriched in sea ice environments compared to the under-ice water column (<xref ref-type="table" rid="elementa.000028.t003">Table 3</xref>).</p>
+<fig id="elementa.000028.f004" position="float">
+<object-id pub-id-type="doi">10.12952/journal.elementa.000028.f004</object-id>
+<label>Figure 4. </label>
+<caption><title>δ<sup>13</sup>C-POC.</title>
+<p>δ<sup>13</sup>C of particulate organic carbon (δ<sup>13</sup>C-POC) versus POC concentration in sea ice.</p></caption>
+<graphic position="float" mimetype="image" xlink:type="simple" xlink:href="info:doi/10.12952/journal.elementa.000028.f004"/>
+</fig></sec>
+<sec id="s3d3"><title>Photosynthetic parameters</title>
+<p>Maximum light-saturated photosynthetic rates (P<sup>*</sup><sub>m</sub>) among the sea ice microhabitats were greatest in the slush layers, bottom ice, and deformation ponds and lowest in interior ice (<xref ref-type="table" rid="elementa.000028.t004">Table 4</xref>). Maximum values for P<sup>*</sup><sub>m</sub> in sea ice were not as high as those measured in the under-ice water column, the latter of which were also more highly variable. Photosynthetic efficiency (α<sup>*</sup>) was highest in the bottom ice, exceeding values in other sea ice habitats by a factor of 3–10. Values for α<sup>*</sup> in both the high light and low light interior ice were by far the lowest of any habitat sampled. The photoacclimation parameter E<sub>k</sub> varied from 20 to 96 µmol photons m<sup>-2</sup> s<sup>-1</sup> and was highest in habitats nearer the sea ice surface and declined with depth within the ice (<xref ref-type="table" rid="elementa.000028.t004">Table 4</xref>). The highest values for E<sub>k</sub> in the sea ice were greater than the highest values measured in the under-ice water column.</p>
+<table-wrap id="elementa.000028.t004" position="float">
+<object-id pub-id-type="doi">10.12952/journal.elementa.000028.t004</object-id>
+<label>Table 4. </label><caption><title>Mean (± standard deviation) photosynthetic and absorption parameters for algae living in different sea ice microhabitats</title></caption>
+<alternatives>
+<graphic id="elementa.000028.t004-i" position="float" mimetype="image" xlink:type="simple" xlink:href="info:doi/10.12952/journal.elementa.000028.t004"/>
+<table>
+<colgroup span="1">
+<col width="20%" span="1"/>
+<col width="15%" span="1"/>
+<col width="15%" span="1"/>
+<col width="15%" span="1"/>
+<col width="15%" span="1"/>
+<col width="20%" span="1"/>
+</colgroup>
+<thead align="left">
+<tr>
+<th rowspan="1" colspan="1">Microhabitat</th>
+<th rowspan="1" colspan="1">P<sup>*</sup>m</th>
+<th rowspan="1" colspan="1">α<sup>*</sup></th>
+<th rowspan="1" colspan="1">E<sub>k</sub></th>
+<th rowspan="1" colspan="1">Blue:Red peak</th>
+<th rowspan="1" colspan="1">MAA peak</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+</tr><tr>
+<td rowspan="1" colspan="1">Surface pond</td>
+<td rowspan="1" colspan="1">1.02 (0.17)</td>
+<td rowspan="1" colspan="1">0.016 (0.005)</td>
+<td rowspan="1" colspan="1">66.9 (23.9)</td>
+<td rowspan="1" colspan="1">2.39 (0.19)</td>
+<td rowspan="1" colspan="1">0.145 (0.073)</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Surface slush</td>
+<td rowspan="1" colspan="1">1.68 (1.66)</td>
+<td rowspan="1" colspan="1">0.017 (0.014)</td>
+<td rowspan="1" colspan="1">95.8 (58.4)</td>
+<td rowspan="1" colspan="1">2.06 (0.27)</td>
+<td rowspan="1" colspan="1">0.070 (0.053)</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">High light interior ice</td>
+<td rowspan="1" colspan="1">0.07 (0.04)</td>
+<td rowspan="1" colspan="1">0.003 (0.003)</td>
+<td rowspan="1" colspan="1">27.7 (21.2)</td>
+<td rowspan="1" colspan="1">1.90 (0.40)</td>
+<td rowspan="1" colspan="1">0.032 (0.013)</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+</tr><tr>
+<td rowspan="1" colspan="1">Low light interior ice</td>
+<td rowspan="1" colspan="1">0.23 (0.14)</td>
+<td rowspan="1" colspan="1">0.007 (0.006)</td>
+<td rowspan="1" colspan="1">36.7 (8.7)</td>
+<td rowspan="1" colspan="1">1.58 (0.02)</td>
+<td rowspan="1" colspan="1">0.029 (0.014)</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Bottom ice</td>
+<td rowspan="1" colspan="1">1.14</td>
+<td rowspan="1" colspan="1">0.059</td>
+<td rowspan="1" colspan="1">19.5</td>
+<td rowspan="1" colspan="1">2.02 (0.46)</td>
+<td rowspan="1" colspan="1">0.019 (0.020)</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">Under-ice, high light</td>
+<td rowspan="1" colspan="1">3.19 (2.93)</td>
+<td rowspan="1" colspan="1">0.039 (0.032)</td>
+<td rowspan="1" colspan="1">78.7 (28.5)</td>
+<td rowspan="1" colspan="1">2.43 (0.46)</td>
+<td rowspan="1" colspan="1">0.032 (0.013)</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+<td rowspan="1" colspan="1"/>
+</tr><tr>
+<td rowspan="1" colspan="1">Under-ice, low light</td>
+<td rowspan="1" colspan="1">0.60 (0.35)</td>
+<td rowspan="1" colspan="1">0.013 (0.007)</td>
+<td rowspan="1" colspan="1">44.7 (20.6)</td>
+<td rowspan="1" colspan="1">2.19 (0.27)</td>
+<td rowspan="1" colspan="1">0.029 (0.014)</td>
+</tr>
+</tbody>
+</table></alternatives>
+<table-wrap-foot>
+<fn-group>
+<fn id="tfn04"><p>P<sup>*</sup><sub>m</sub> = mg C mg<sup>-1</sup> Chl <italic>a</italic> hr<sup>-1</sup>, α<sup>*</sup> = mg C mg<sup>-1</sup> Chl <italic>a</italic> hr<sup>-1</sup> (µmol photons m<sup>-2</sup> s<sup>-1</sup>)<sup>-1</sup>, E<sub>k</sub>	 = µmol photons m<sup>-2</sup> s<sup>-1</sup>, MAA peak = m<sup>2</sup> mg<sup>-1</sup> Chl <italic>a</italic> Microhabitats are ordered from highest light to lowest, based on light index described in the Methods.</p></fn></fn-group></table-wrap-foot></table-wrap></sec>
+<sec id="s3d4"><title>Absorption parameters</title>
+<p>The ratio of the magnitude of the algal absorption peaks at blue (e.g., 443 nm) and red (e.g., 676 nm) wavelengths provides an indication of the level of pigment packaging, which increases with larger microalgal cell size and higher intracellular Chl <italic>a</italic> concentration (<xref ref-type="bibr" rid="bibr052">Morel and Bricaud, 1981</xref>). Lower blue/red absorption ratios indicate a greater level of pigment packaging (<xref ref-type="fig" rid="elementa.000028.f005">Figure 5a</xref>, <xref ref-type="table" rid="elementa.000028.t004">Table 4</xref>). Within the sea ice, blue/red absorption ratios were lowest in the interior ice and highest in the surface communities (slush and deformation ponds), with values very similar to those measured in the under-ice water column (<xref ref-type="table" rid="elementa.000028.t004">Table 4</xref>). Interestingly, the blue/red ratio in the bottom ice fell between these two extremes.</p>
+<fig id="elementa.000028.f005" position="float">
+<object-id pub-id-type="doi">10.12952/journal.elementa.000028.f005</object-id>
+<label>Figure 5. </label>
+<caption><title>Microalgal absorption.</title>
+<p>Chlorophyll <italic>a</italic>-specific algal absorption (a<sub>ph</sub><sup>*</sup>) spectra, (a) normalized to the maximum absorption within the visible, (b) for high biomass stations with moderate mycosporine-like amino acid (MAA) absorption peaks (∼ 330 nm), and (C) for high biomass stations with high MAA absorption peaks.</p></caption>
+<graphic position="float" mimetype="image" xlink:type="simple" xlink:href="info:doi/10.12952/journal.elementa.000028.f005"/>
+</fig>
+<p>Absorption peaks at ultraviolet (UV) wavelengths varied markedly within the sea ice (<xref ref-type="table" rid="elementa.000028.t004">Table 4</xref>), suggesting differential production of mycosporine-like amino acids (MAAs) by the microbial community. MAA absorption was generally low in bottom ice and in both low light and high light interior ice communities, ranging from approximately 0.02–0.03 m<sup>2</sup> mg<sup>-1</sup> Chl <italic>a</italic> (<xref ref-type="fig" rid="elementa.000028.f005">Figure 5b</xref>, <xref ref-type="table" rid="elementa.000028.t004">Table 4</xref>). In surface slush layers, MAA absorption was 3–4-fold higher than elsewhere in the ice, averaging 0.070 ± 0.053 m<sup>2</sup> mg<sup>-1</sup> Chl <italic>a</italic>. The highest MAA absorption values were measured in deformation ponds (<xref ref-type="fig" rid="elementa.000028.f005">Figure 5c</xref>), which exceeded values in the slush layer by a factor of two and values elsewhere in the ice by nearly a factor of five (<xref ref-type="table" rid="elementa.000028.t004">Table 4</xref>).</p></sec></sec></sec>
+<sec id="s4"><title>Discussion</title>
+<sec id="s4a"><title>Microalgal biomass</title>
+<p>The mean microalgal biomass in sea ice within our study region (17.3 ± 17.8 mg Chl <italic>a</italic> m<sup>-2</sup>), which consisted primarily of stations sampled in the Amundsen Sea during summer, was comparable to the circumpolar summer mean (12.9 ± 16.5 mg Chl <italic>a</italic> m<sup>-2</sup>) calculated from historical data in the Antarctic Sea Ice Processes and Climate (ASPeCt)-Bio database (<xref ref-type="bibr" rid="bibr048">Meiners et al., 2012</xref>). Like the ASPeCt-Bio database, peak Chl <italic>a</italic> biomass during our study was distributed in microhabitats throughout the ice column. However, in the AntarcASPeCt – Biology (ASPeCt-Bio) database, surface, internal, and bottom microhabitats contained approximately equal fractions of total depth-integrated Chl <italic>a</italic>. This pattern contrasts with our study in which bottom communities were well developed in only 18% of the stations sampled, while surface and interior ice communities were well developed at 53% and 71% of stations, respectively (some stations had multiple communities so the percentages sum to &gt; 100%). In this respect, vertical distributions of Chl <italic>a</italic> observed in our study share a greater similarity with those measured in the Ross Sea, where surface and interior communities also were relatively more abundant than bottom communities (<xref ref-type="bibr" rid="bibr048">Meiners et al., 2012</xref>). It is possible that, because the Amundsen Sea is aggregated with the Bellingshausen Sea in the ASPeCt-Bio database, the vertical distributions of Chl <italic>a</italic> are being skewed by the large number of samples near the Antarctic Peninsula, which may differ from those in the Amundsen and Ross Seas. In addition, the ASPeCt-Bio database includes data from all months of the year, while our study was conducted in summer, so some temporal bias may have been introduced in the comparison.</p>
+<p>Snow depth appears critical in determining both the depth-integrated Chl <italic>a</italic> (higher with deeper snow) and distribution (dominance of slush communities in deeper snow) of ice microalgae. This observation is almost certainly a reflection of the impact of snow loading on nutrient availability via surface flooding rather than its impact on light availability, since more snow leads to reduced light levels (<xref ref-type="bibr" rid="bibr054">Perovich, 1990</xref>; <xref ref-type="bibr" rid="bibr003">Arrigo et al., 1997</xref>; <xref ref-type="bibr" rid="bibr061">Saenz and Arrigo, 2012</xref>). Low snow and a high freeboard means that the greatest nutrients can be found down at the ice/water interface, while heavy snow depresses the freeboard and causes flooding/nutrient renewal near the ice surface. Such surface flooding occurs over 15–30% of the ice pack in Antarctica (<xref ref-type="bibr" rid="bibr070">Wadhams et al., 1987</xref>).</p>
+<p>These results are consistent with model results that demonstrate the importance of snow loading and surface flooding to the development and maintenance of high algal biomass in surface communities (<xref ref-type="bibr" rid="bibr061">Saenz and Arrigo, 2012</xref>; Saenz and Arrigo, in press). However, our results for the Amundsen Sea contrast with previous observations from the Ross Sea, which showed higher microalgal biomass at lower snow thicknesses (<xref ref-type="bibr" rid="bibr006">Arrigo et al., 2003</xref>). The difference between the two studies is likely explained by the lower snow accumulation in the Ross Sea, which rarely exceeded 0.1 m (<xref ref-type="bibr" rid="bibr006">Arrigo et al., 2003</xref>) and was unlikely to depress the surface of the ice below freeboard and cause surface flooding. In contrast, flooded sea ice in the Amundsen Sea during our study had snow accumulations of 0.3–0.8 m (<xref ref-type="table" rid="elementa.000028.t001">Table 1</xref>) and well developed slush and surface pond communities associated with relatively high salinities, indicative of flooding. Thus, snow accumulation appears to be detrimental to algal growth due to light attenuation (as demonstrated in the Ross Sea) until it becomes sufficiently heavy to cause flooding, at which point the detrimental effect of reduced light would be more than compensated for by the advantage of nutrient renewal. Concurrent measurements of nutrient resupply and microalgal parameters would confirm this scenario.</p>
+<p>Our results support previous observations showing that microalgal biomass in the ice is much greater and more highly concentrated than in the under-ice water column below (<xref ref-type="bibr" rid="bibr024">Garrison et al., 1990</xref>; <xref ref-type="bibr" rid="bibr043">Legendre et al., 1992</xref>; <xref ref-type="bibr" rid="bibr006">Arrigo et al., 2003</xref>). As a result, microhabitats within sea ice represent an important food source during those times of year when pelagic production is still low. Given the seasonal importance of sea ice biology, factors that control the amount of biomass within the ice can have a profound impact on other parts of the marine ecosystem (<xref ref-type="bibr" rid="bibr009">Arrigo et al., 2010b</xref>). For example, models predict that in the future there will be increased precipitation in the Southern Ocean resulting in greater snow cover on sea ice (e.g., <xref ref-type="bibr" rid="bibr063">Sarmiento et al., 1998</xref>). Our results suggest that such a change in forcing could increase the amount of algal biomass within the ice by enhancing nutrient supplies via surface flooding. This effect might be especially important in places like the Ross Sea where snow depths are currently too low to promote surface flooding.</p></sec>
+<sec id="s4b"><title>Microalgal physiology</title>
+<p>The photosynthetic rates of sea ice microalgae are controlled by a combination of sea ice temperature, brine salinity, and light and nutrient availability (<xref ref-type="bibr" rid="bibr002">Arrigo and Sullivan, 1992</xref>). At the time of our study, the sea ice was almost isothermal, so differences in sea ice temperature and brine salinity were likely having little impact on the spatial variability of sea ice microalgal physiological state. Therefore, the differences in elemental composition, pigment content, and photosynthetic parameters that we observed for sea ice microalgae were likely driven almost exclusively by vertical and horizontal gradients in light or nutrient availability.</p>
+<p>For example, the POC/Chl <italic>a</italic> ratio in sea ice was lower at stations with a thicker snow cover (<xref ref-type="fig" rid="elementa.000028.f002">Figure 2e</xref>), indicative of microalgae increasing their cellular pigment concentrations in an effort to harvest more of the available light (<xref ref-type="bibr" rid="bibr050">Moisan and Mitchell, 1999</xref>; <xref ref-type="bibr" rid="bibr041">Kropuenske et al., 2009</xref>). Although the magnitude of these ratios suggests that the samples contained some detritus, complicating a possible physiological interpretation, the non-linear relationship observed between POC and Chl <italic>a</italic> is consistent with a photoacclimation response to reduced light levels (<xref ref-type="fig" rid="elementa.000028.f003">Figure 3a</xref>). As microalgal biomass (e.g., POC) increased, light availability was reduced due to self-shading, and the microalgae increased their cellular Chl <italic>a</italic> concentration to compensate. Consequently, the amount of additional Chl <italic>a</italic> necessary to sustain net photosynthesis at high biomass was higher than would have been necessary in the absence of microalgal self-shading.</p>
+<p>While the observed POC/Chl <italic>a</italic> ratio in our study likely reflects acclimation to light availability, the variation in the POC/PON ratio with snow depth (<xref ref-type="fig" rid="elementa.000028.f002">Figure 2g</xref>) is also consistent with a microalgal response to nutrient availability. While it is true that the decreasing POC/PON ratio with increasing snow depth is consistent with an enhancement of N-rich photosystems by microalgae growing at reduced light levels (<xref ref-type="bibr" rid="bibr039">Klausmeier et al., 2004</xref>), the magnitude of the POC/PON ratio at low snow thicknesses (&gt; 10) is very high relative to the ratio expected for N-replete cells (5–7). This finding suggests that the microalgal community growing beneath a thin cover of snow also may have been nutrient-stressed due to a lack of surface flooding.</p>
+<p>Our other pigment data also provide strong evidence of acclimation by microalgae to the different light regimes associated with various microhabitats within the sea ice. Enhanced pigment packaging is manifested as a flattening of the algal absorption spectrum (i.e., lower blue/red peak ratios) as more light is absorbed by a microalgal cell, either due to a larger cell size or a greater amount of pigment per cell (<xref ref-type="bibr" rid="bibr052">Morel and Bricaud, 1981</xref>). The degree of pigment packaging was low in surface pond and slush communities and greatest in interior ice (<xref ref-type="table" rid="elementa.000028.t004">Table 4</xref>), suggesting that microalgae growing in these low light environments either were larger or had higher pigment content than algae growing nearer the sea ice surface. A higher pigment content per cell is supported by the vertical distribution of the ratio of the photosynthetic accessory pigment fucoxanthin to Chl <italic>a</italic>, which showed a clear increase with depth within the ice (<xref ref-type="table" rid="elementa.000028.t002">Table 2</xref>). Interestingly, pigment packaging was also low in the under-ice water column beneath the ice. Because this environment would be expected to experience relatively low light, the small amount of packaging could be the result of this pelagic community being dominated by smaller sized cells than are usually found in sea ice (<xref ref-type="bibr" rid="bibr030">Gradinger and Ikävalko, 1998</xref>; <xref ref-type="bibr" rid="bibr059">Riaux-Gobin et al., 2011</xref>).</p>
+<p>Like pigment concentration, the types of pigments present in various sea ice microhabitats also reflect acclimation to different light environments. The xanthophyll cycle is used by many microalgal species to protect themselves from excessive irradiance. For sea ice microalgae, the xanthophyll cycle consists of enzymatic de-epoxidation of the carotenoid pigment DD to DT, the latter of which thermally dissipates excess energy (<xref ref-type="bibr" rid="bibr053">Olaizola and Yamamoto, 1994</xref>; <xref ref-type="bibr" rid="bibr017">Demmig-Adams and Adams, 2006</xref>; <xref ref-type="bibr" rid="bibr028">Goss et al. 2006</xref>). This photoprotective mechanism is particularly important for microalgae that get mixed periodically into surface waters (<xref ref-type="bibr" rid="bibr001">Alderkamp et al., 2013</xref>) or that live in the upper reaches of the sea ice. In our study, by far the highest (DD+DT)/Chl <italic>a</italic> ratios were measured in deformation ponds and surface slush layers, habitats that can be subjected to very high light levels throughout the 24-hour day. Xanthophyll cycle pigments were also found in microalgae within interior and bottom microhabitats within the ice and in the under-ice water column, but at much reduced concentrations relative to near-surface communities. This vertical pattern demonstrates clearly that microalgae living near the sea ice surface were using xanthophyll cycling as a mechanism to withstand excessive irradiance. However, it should be noted that even the lowest (DD + DT)/Chl <italic>a</italic> ratios measured in the sea ice during our study were 3-fold higher than values measured previously in ice-free waters of the Amundsen Sea (<xref ref-type="bibr" rid="bibr001">Alderkamp et al., 2013</xref>).</p>
+<p>Like xanthophyll pigment concentrations, absorption of UV radiation by MAAs was very high in surface ice communities (pond and slush) and declined with depth within the ice (<xref ref-type="table" rid="elementa.000028.t002">Table 2</xref>). Production of MAAs by microalgae can be photoinduced by elevated levels of UVB (280–320 nm) radiation, and to a lesser extent by UVA (320–400 nm) and visible (400–700 nm) radiation (<xref ref-type="bibr" rid="bibr034">Hannach and Sigleo, 1998</xref>; <xref ref-type="bibr" rid="bibr040">Klisch and Häder, 2001</xref>; <xref ref-type="bibr" rid="bibr064">Sinha et al., 2001</xref>), although the relative response to UVB, UVA, and visible radiation varies by algal taxa (<xref ref-type="bibr" rid="bibr060">Riegger and Robinson, 1997</xref>; <xref ref-type="bibr" rid="bibr051">Moisan and Mitchell, 2001</xref>). Algae produce at least nine different MAAs whose spectral absorption peak ranges from 310 nm to 386 nm (<xref ref-type="bibr" rid="bibr060">Riegger and Robinson, 1997</xref>). The vertical pattern of MAA absorption observed in ice during our study, which was only high in near surface samples, suggests that UV radiation was attenuated rapidly within the snow and ice and was not an important factor influencing rates of microalgal growth within the ice interior and sea ice bottom. The heterogeneous vertical distributions of both MAAs and xanthophyll cycle pigments demonstrate that, while sea ice is generally considered to be a low light habitat, microalgae living there must be able to acclimate to a wide range of light intensities.</p>
+<p>The variations in photosynthetic parameters in the different sea ice microhabitats also demonstrate microalgal acclimation to both light and nutrient levels. Although both P<sup>*</sup><sub>m</sub> and α<sup>*</sup> can vary as a function of either light or nutrient availability, in our study nutrient availability seemed to be the dominant controlling variable. Both P<sup>*</sup><sub>m</sub> and α<sup>*</sup> were higher in the under-ice water column than in the ice, a likely reflection of greater nutrient availability (although we cannot rule out differences in phytoplankton species composition). This conclusion also is consistent with the vertical patterns observed within the ice, with both P<sup>*</sup><sub>m</sub> and α<sup>*</sup> being higher in flooded surface communities and at the bottom of the ice (where nutrient concentrations would be high) than within the sea ice interior (<xref ref-type="table" rid="elementa.000028.t004">Table 4</xref>). If light had been the controlling variable, P<sup>*</sup><sub>m</sub> would have declined and α<sup>*</sup> would have increased with depth within the ice, a pattern contrary to our observations.</p>
+<p>Interestingly, while both P<sup>*</sup><sub>m</sub> and α<sup>*</sup> measured in sea ice indicate a system in which photosynthetic activity is most likely controlled by nutrient availability, the photoacclimation parameter (E<sub>k</sub>) shows that light levels are also important. Because E<sub>k</sub> is calculated as P<sup>*</sup><sub>m</sub>/α<sup>*</sup>, it reflects a balance between the dark and light reactions of photosynthesis (<xref ref-type="bibr" rid="bibr015">Cullen, 1990</xref>). Because it is advantageous to maintain an optimal balance between light harvesting machinery and carbon fixation machinery, E<sub>k</sub> often reflects the mean light history experienced by microalgal cells. The relationship between light history and E<sub>k</sub> is apparent in our dataset as a progressive decrease in E<sub>k</sub> with depth within the ice. E<sub>k</sub> was highest in deformation ponds where light levels were highest and, unlike both P<sup>*</sup><sub>m</sub> and α<sup>*</sup>, was lowest at the bottom of the ice where light levels were lowest. Ironically, the maintenance of this balance between E<sub>k</sub> and light history in the bottom ice community would be made possible by abundant nutrients. Although P<sup>*</sup><sub>m</sub> was relatively high in this microhabitat (<xref ref-type="table" rid="elementa.000028.t004">Table 4</xref>), α<sup>*</sup> was even higher (relative to other microhabitats). Maintaining such a high photosynthetic efficiency (e.g., α<sup>*</sup>) when light is low requires a large pigment bed capable of harvesting additional photons and transferring them to the reaction centers, the synthesis of which requires a sufficiently large nutrient supply. Because nutrients were likely to be relatively high in the bottom community due to its proximity to seawater, microalgae growing there could elevate their photosynthetic efficiency far above that of internal communities (where light was also low). These high values for α<sup>*</sup> are what allowed bottom communities to reduce their E<sub>k</sub> values to match their low light environment. Thus, we conclude that the balance between light and nutrients was critical in shaping sea ice microalgal metabolism in the Amundsen Sea during our study.</p>
+<p>Although greater nutrient availability likely explains the higher biomass and more active microalgal physiology we observed in some microhabitats, there was also evidence that these high biomass microenvironments may have depleted their resources. We observed a statistically significant relationship between POC and the δ<sup>13</sup>C of POC in sea ice (<xref ref-type="fig" rid="elementa.000028.f004">Figure 4</xref>), which is likely the result of depletion of dissolved inorganic carbon by extremely high accumulations of ice algal biomass and consequent enrichment of the inorganic carbon pool (<xref ref-type="bibr" rid="bibr058">Rau et al., 1991</xref>; <xref ref-type="bibr" rid="bibr037">Kennedy et al., 2002</xref>; <xref ref-type="bibr" rid="bibr006">Arrigo et al., 2003</xref>). This relationship is similar to that observed in bottom ice in the Beaufort Sea region of the Arctic Ocean (<xref ref-type="bibr" rid="bibr055">Pineault et al., 2013</xref>), although both our POC and δ<sup>13</sup>C values were higher, indicating greater depletion of inorganic carbon by a larger algal community. Although there was no significant relationship between PON concentration and the δ<sup>15</sup>N of PON in sea ice, δ<sup>15</sup>N of particulate matter was significantly enriched in sea ice environments compared to the under-ice water column. Enrichment could be due to the presence of heterotrophs in sea ice (<xref ref-type="bibr" rid="bibr018">DeNiro and Epstein, 1981</xref>; <xref ref-type="bibr" rid="bibr068">Teranes and Bernasconi, 2000</xref>), but it is most likely due to NO<sub>3</sub> being nearly depleted in ice cores such that both light and heavy isotopes of N were assimilated (while in the under-ice water column, mostly the light NO<sub>3</sub> was utilized, <xref ref-type="bibr" rid="bibr011">Berg et al. 2011</xref>). This level of nutrient depletion was possible because, unlike the water column where iron (Fe) concentrations are insufficient to support complete NO<sub>3</sub> drawdown by microalgae, microbial communities in the sea ice have enough Fe to more efficiently utilize the available macronutrients (<xref ref-type="bibr" rid="bibr020">Edwards and Sedwick, 2001</xref>). Thus, the biological pump associated with sea ice in the Southern Ocean is likely to be more efficient (but not stronger) than that of the water column, even on productive continental shelves. Given the more complete utilization of NO<sub>3</sub> in ice relative to the water column, it might be worth exploring whether δ<sup>15</sup>N of PON in sediments can be used as a proxy for the presence of sea ice in a given area.</p>
+<p>Finally, we were surprised to find a relatively large proportion of the pigment 19-Hex in sea ice microhabitats exposed to high light. 19-Hex is a marker pigment for <italic>Phaeocystis antarctica</italic>, a colonial prymnesiophyte that forms dense blooms in open waters on Antarctic continental shelves (<xref ref-type="bibr" rid="bibr004">Arrigo et al., 1999</xref>). Although this species has been observed previously in newly formed sea ice (<xref ref-type="bibr" rid="bibr006">Arrigo et al., 2003</xref>), and can tolerate prolonged darkness and freezing (<xref ref-type="bibr" rid="bibr067">Tang et al., 2009</xref>), the results of this study are the first to imply that it was physiologically active in the upper layers of sea ice in late spring/early summer. Its presence in recently flooded sea ice may indicate that it was introduced to the ice relatively recently and was able to grow there because of its ability to withstand high light levels. <italic>P. antarctica</italic> has an active xanthophyll cycle and is capable of efficiently repairing photodamage incurred during periods of high light stress (<xref ref-type="bibr" rid="bibr041">Kropuenske et al., 2009</xref>, <xref ref-type="bibr" rid="bibr042">2010</xref>), allowing it to outcompete other species under highly variable light conditions (<xref ref-type="bibr" rid="bibr008">Arrigo et al., 2010a</xref>). It also is able to regulate its MAA content to protect itself from excessive radiation, including UV (<xref ref-type="bibr" rid="bibr060">Riegger and Robinson, 1997</xref>). Because the release from the sea ice into surface waters can expose microalgae to high radiation levels, high MAA content and enhanced xanthophyll cycle pigment concentrations may pre-acclimate <italic>P. antarctica</italic> to survive the transition from the sea ice to the water column as the sea ice melts in spring. In this way, we suggest that high xanthophyll cycle pigment and MAA content may facilitate the role that sea ice algae play in seeding ice-edge phytoplankton blooms and thereby structuring phytoplankton communities.</p></sec></sec>
+<sec id="s5"><title>Data accessibility statement</title>
+<p>All of the data used in this study are included in <xref ref-type="table" rid="elementa.000028.t001">Tables 1</xref>–<xref ref-type="table" rid="elementa.000028.t004">4</xref> of this manuscript.</p></sec>
+<sec id="s6" sec-type="copyright-statement"><title>Copyright</title>
+<p>© 2014 Arrigo, Brown, and Mills. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</p></sec>
+</body>
+<back>
+<ack><title>Acknowledgments</title>
+<p>We thank the captain and crew of the Swedish icebreaker <italic>Oden</italic> as well as S. Ackley and Katrina Abrahamsson (and their research teams) for their assistance during the cruise.</p></ack>
+<ref-list content-type="parsed"><title>References</title>
+<ref id="bibr001">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Alderkamp</surname><given-names>A-C</given-names></name>,
+<name name-style="western"><surname>Mills</surname><given-names>MM</given-names></name>,
+<name name-style="western"><surname>van Dijken</surname><given-names>GL</given-names></name>,
+<name name-style="western"><surname>Arrigo</surname><given-names>KR</given-names></name>.
+<year>2013</year>.
+<article-title>Photoacclimation and non-photochemical quenching under in situ irradiance in natural phytoplankton assemblages from the Amundsen Sea, Antarctica</article-title>.
+<source>Mar Ecol Prog Ser</source>
+<volume>475</volume>:
+<fpage>15</fpage>–<lpage>34</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr002">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Arrigo</surname><given-names>KR</given-names></name>,
+<name name-style="western"><surname>Sullivan</surname><given-names>CW</given-names></name>.
+<year>1992</year>.
+<article-title>The influence of salinity and temperature covariation on the photophysiological characteristics of Antarctic sea ice microalgae</article-title>.
+<source>J Phycol</source>
+<volume>28</volume>:
+<fpage>746</fpage>–<lpage>56</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr003">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Arrigo</surname><given-names>KR</given-names></name>,
+<name name-style="western"><surname>Lizotte</surname><given-names>MP</given-names></name>,
+<name name-style="western"><surname>Worthen</surname><given-names>DL</given-names></name>,
+<name name-style="western"><surname>Dixon</surname><given-names>P</given-names></name>,
+<name name-style="western"><surname>Dieckmann</surname><given-names>G</given-names></name>.
+<year>1997</year>.
+<article-title>Primary production in Antarctic sea ice</article-title>.
+<source>Science</source>
+<volume>276</volume>:
+<fpage>394</fpage>–<lpage>97</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr004">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Arrigo</surname><given-names>KR</given-names></name>,
+<name name-style="western"><surname>Robinson</surname><given-names>DH</given-names></name>,
+<name name-style="western"><surname>Worthen</surname><given-names>DL</given-names></name>,
+<name name-style="western"><surname>Dunbar</surname><given-names>RB</given-names></name>,
+<name name-style="western"><surname>DiTullio</surname><given-names>GR</given-names></name>, <etal>et al.</etal>
+<year>1999</year>.
+<article-title>Phytoplankton community structure and the drawdown of nutrients and CO<sub>2</sub> in the Southern Ocean</article-title>.
+<source>Science</source>
+<volume>283</volume>:
+<fpage>365</fpage>–<lpage>367</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr005">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Arrigo</surname><given-names>KR</given-names></name>,
+<name name-style="western"><surname>Dunbar</surname><given-names>RB</given-names></name>,
+<name name-style="western"><surname>Lizotte</surname><given-names>MP</given-names></name>,
+<name name-style="western"><surname>Robinson</surname><given-names>DH</given-names></name>.
+<year>2002</year>.
+<article-title>Taxon-specific differences in C/P and N/P drawdown for phytoplankton in the Ross Sea, Antarctica</article-title>.
+<source>Geophys Res Lett</source>
+<volume>29</volume>(<issue>20</issue>).</mixed-citation>
+</ref>
+<ref id="bibr006">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Arrigo</surname><given-names>KR</given-names></name>,
+<name name-style="western"><surname>Robinson</surname><given-names>DH</given-names></name>,
+<name name-style="western"><surname>Dunbar</surname><given-names>RB</given-names></name>,
+<name name-style="western"><surname>Leventer</surname><given-names>AR</given-names></name>,
+<name name-style="western"><surname>Lizotte</surname><given-names>MP</given-names></name>.
+<year>2003</year>.
+<article-title>Physical control of chlorophyll <italic>a</italic>, POC, and PON distributions in the pack ice of the Ross Sea, Antarctica</article-title>.
+<source>J Geophys Res</source>
+<volume>108</volume>(<issue>C10</issue>):
+<fpage>3316</fpage>. doi:
+<pub-id pub-id-type="doi">10.1029/2001JC001138</pub-id></mixed-citation>
+</ref>
+<ref id="bibr007">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Arrigo</surname><given-names>KR</given-names></name>,
+<name name-style="western"><surname>van Dijken</surname><given-names> GL</given-names></name>,
+<name name-style="western"><surname>Bushinsky</surname><given-names>S</given-names></name>.
+<year>2008</year>.
+<article-title>Primary Production in the Southern Ocean, 1997–2006</article-title>.
+<source>J Geophys Res</source>
+<volume>113</volume>,
+<fpage>C08004</fpage>. doi:
+<pub-id pub-id-type="doi">10.1029/2007JC004551</pub-id></mixed-citation>
+</ref>
+<ref id="bibr008">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Arrigo</surname><given-names>KR</given-names></name>,
+<name name-style="western"><surname>Mills</surname><given-names>MM</given-names></name>,
+<name name-style="western"><surname>Kropuenske</surname><given-names>LR</given-names></name>,
+<name name-style="western"><surname>van Dijken</surname><given-names>GL</given-names></name>,
+<name name-style="western"><surname>Alderkamp</surname><given-names>A-C</given-names></name>,
+<name name-style="western"><surname>Robinson</surname><given-names>DH</given-names></name>.
+<year>2010a</year>.
+<article-title>Photophysiology in two major Southern Ocean phytoplankton taxa: Photosynthesis and growth of <italic>Phaeocystis antarctica</italic> and <italic>Fragilariopsis cylindrus</italic> under different irradiance levels</article-title>.
+<source>Integr Comp Biol</source>
+<volume>50</volume>:
+<fpage>950</fpage>–<lpage>966</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr009">
+<mixed-citation publication-type="inbook">
+<name name-style="western"><surname>Arrigo</surname><given-names>KR</given-names></name>,
+<name name-style="western"><surname>Lizotte</surname><given-names>MP</given-names></name>,
+<name name-style="western"><surname>Mock</surname><given-names>T</given-names></name>.
+<year>2010b</year>.
+<chapter-title>Primary producers and sea ice</chapter-title>., in
+<string-name name-style="western"><surname>Thomas</surname><given-names>DN</given-names></string-name>,
+<string-name name-style="western"><surname>Dieckmann</surname><given-names>GS</given-names></string-name> eds.,
+<source>Sea Ice</source>,
+<edition>2nd Edition</edition>.
+<publisher-loc>Oxford, UK</publisher-loc>:
+<publisher-name>Blackwell Science, Ltd</publisher-name>.: pp.
+<fpage>283</fpage>–<lpage>326</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr010">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Arrigo</surname><given-names>KR</given-names></name>.
+<year>2014</year>.
+<article-title>Sea ice ecosystems</article-title>.
+<source>Ann Rev Mar Sci</source>
+<volume>6</volume>:
+<fpage>13.1</fpage>–<lpage>13.29</lpage>. doi:
+<pub-id pub-id-type="doi">10.1146/annurev-marine-010213-135103</pub-id></mixed-citation>
+</ref>
+<ref id="bibr011">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Berg</surname><given-names>GM</given-names></name>,
+<name name-style="western"><surname>Arrigo</surname><given-names>KR</given-names></name>,
+<name name-style="western"><surname>Mills</surname><given-names>MM</given-names></name>,
+<name name-style="western"><surname>Long</surname><given-names>MC</given-names></name>,
+<name name-style="western"><surname>Bellerby</surname><given-names>R</given-names></name>, <etal>et al.</etal>
+<year>2011</year>.
+<article-title>Variation in particulate C and N isotope composition following iron fertilization in two successive phytoplankton communities in the Southern Ocean</article-title>.
+<source>Glob Biogeochem Cycles</source>
+<volume>25</volume>:
+<fpage>GB3013</fpage>. doi:
+<pub-id pub-id-type="doi">10.1029/2010GB003824</pub-id></mixed-citation>
+</ref>
+<ref id="bibr012">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Boetius</surname><given-names>A</given-names></name>,
+<name name-style="western"><surname>Albrecht</surname><given-names>S</given-names></name>,
+<name name-style="western"><surname>Bakker</surname><given-names>K</given-names></name>,
+<name name-style="western"><surname>Bienhold</surname><given-names>C</given-names></name>,
+<name name-style="western"><surname>Felden</surname><given-names>J</given-names></name>, <etal>et al.</etal>
+<year>2013</year>.
+<article-title>Export of algal biomass from the melting Arctic sea ice</article-title>.
+<source>Science</source>
+<volume>339</volume>:
+<fpage>1430</fpage>–<lpage>1432</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr013">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Brown</surname><given-names>TA</given-names></name>,
+<name name-style="western"><surname>Belt</surname><given-names>ST</given-names></name>.
+<year>2012</year>.
+<article-title>Closely linked sea ice-pelagic coupling in the Amundsen Gulf revealed by the sea ice diatom biomarker IP<sub>25</sub></article-title>.
+<source>J Plankton Res</source>
+<volume>34</volume>:
+<fpage>647</fpage>–<lpage>54</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr014">
+<mixed-citation publication-type="inbook">
+<name name-style="western"><surname>Caron</surname><given-names>DA</given-names></name>,
+<name name-style="western"><surname>Gast</surname><given-names>RJ</given-names></name>.
+<year>2010</year>.
+<chapter-title>Heterotrophic protists associated with sea ice</chapter-title>, in
+<string-name name-style="western"><surname>Thomas</surname><given-names>DN</given-names></string-name>,
+<string-name name-style="western"><surname>Dieckmann</surname><given-names>GS</given-names></string-name> eds.,
+<source>Sea Ice</source>,
+<edition>2nd Edition</edition>.
+<publisher-loc>Oxford, UK</publisher-loc>:
+<publisher-name>Blackwell Science, Ltd</publisher-name>.: pp.
+<fpage>327</fpage>–<lpage>56</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr015">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Cullen</surname><given-names>JJ</given-names></name>.
+<year>1990</year>.
+<article-title>On models of growth and photosynthesis in phytoplankton</article-title>.
+<source>Deep-Sea Res</source>
+<volume>37</volume>:
+<fpage>667</fpage>–<lpage>683</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr016">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Daly</surname><given-names>KL</given-names></name>.
+<year>1990</year>.
+<article-title>Overwintering development, growth, and feeding of larval <italic>Euphausia superba</italic> in the Antarctic marginal ice zone</article-title>.
+<source>Limnol Oceanogr</source>
+<volume>35</volume>(<issue>7</issue>):
+<fpage>1564</fpage>–<lpage>1576</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr017">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Demmig-Adams</surname><given-names>B</given-names></name>,
+<name name-style="western"><surname>Adams</surname><given-names>W</given-names></name>.
+<year>2006</year>.
+<article-title>Photoprotection in an ecological context: the remarkable complexity of thermal energy dissipation</article-title>.
+<source>New Phytol</source>
+<volume>172</volume>:
+<fpage>11</fpage>–<lpage>21</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr018">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>DeNiro</surname><given-names>MJ</given-names></name>,
+<name name-style="western"><surname>Epstein</surname><given-names>S</given-names></name>.
+<year>1981</year>.
+<article-title>Influence of diet on the distribution of nitrogen isotopes in animals</article-title>.
+<source>Geochim Cosmochim Acta</source>
+<volume>45</volume>:
+<fpage>341</fpage>–<lpage>351</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr019">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>DiTullio</surname><given-names>GR</given-names></name>.
+<name name-style="western"><surname>Smith</surname><given-names>WO</given-names></name>.
+<year>1996</year>.
+<article-title>Spatial patterns in phytoplankton biomass and pigment distributions in the Ross Sea</article-title>.
+<source>J Geophys Res</source>
+<volume>101</volume>:
+<fpage>18467</fpage>–<lpage>18477</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr020">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Edwards</surname><given-names>R</given-names></name>,
+<name name-style="western"><surname>Sedwick</surname><given-names>P</given-names></name>.
+<year>2001</year>.
+<article-title>Iron in East Antarctic snow: Implications for atmospheric iron deposition and algal production in Antarctic waters</article-title>.
+<source>Geophys Res Lett</source>
+<volume>28</volume>(<issue>20</issue>):
+<fpage>3907</fpage>–<lpage>3910</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr021">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Flores</surname><given-names>H</given-names></name>,
+<name name-style="western"><surname>van Franeker</surname><given-names>JA</given-names></name>,
+<name name-style="western"><surname>Cisewski</surname><given-names>B</given-names></name>,
+<name name-style="western"><surname>Leach</surname><given-names>H</given-names></name>,
+<name name-style="western"><surname>Van de Putte</surname><given-names>AP</given-names></name>, <etal>et al.</etal>
+<year>2011</year>.
+<article-title>Macrofauna under sea ice and in the open surface layer of the Lazarev Sea, Southern Ocean</article-title>.
+<source>Deep-Sea Res Part II</source>
+<volume>58</volume>:
+<fpage>1948</fpage>–<lpage>1961</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr022">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Flores</surname><given-names>H</given-names></name>,
+<name name-style="western"><surname>van Franeker</surname><given-names>JA</given-names></name>,
+<name name-style="western"><surname>Siegel</surname><given-names>V</given-names></name>,
+<name name-style="western"><surname>Haraldsson</surname><given-names>M</given-names></name>,
+<name name-style="western"><surname>Strass</surname><given-names>V</given-names></name>, <etal>et al.</etal>
+<year>2012</year>.
+<article-title>The association of Antarctic krill <italic>Euphausia superba</italic> with the under-ice habitat</article-title>.
+<source>PLoS ONE</source>
+<volume>7</volume>:
+<fpage>1</fpage>–<lpage>11</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr023">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Garrison</surname><given-names>DL</given-names></name>,
+<name name-style="western"><surname>Buck</surname><given-names>KR</given-names></name>.
+<year>1989</year>.
+<article-title>The biota of Antarctic pack ice in the Weddell Sea and Antarctic Peninsula region</article-title>.
+<source>Polar Biol</source>
+<volume>10</volume>:
+<fpage>237</fpage>–<lpage>239</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr024">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Garrison</surname><given-names>DL</given-names></name>,
+<name name-style="western"><surname>Close</surname><given-names>AR</given-names></name>,
+<name name-style="western"><surname>Reimnitz</surname><given-names>E</given-names></name>.
+<year>1990</year>.
+<article-title>Algae concentrated by frazil ice: evidence from laboratory and field measurements</article-title>.
+<source>Antarct Sci</source>
+<volume>1</volume>:
+<fpage>313</fpage>–<lpage>316</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr025">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Garrison</surname><given-names>DL</given-names></name>,
+<name name-style="western"><surname>Jeffries</surname><given-names>MO</given-names></name>,
+<name name-style="western"><surname>Gibson</surname><given-names>A</given-names></name>,
+<name name-style="western"><surname>Coale</surname><given-names>SL</given-names></name>,
+<name name-style="western"><surname>Neenan</surname><given-names>D</given-names></name>, <etal>et al.</etal>
+<year>2003</year>.
+<article-title>Development of sea ice microbial communities during autumn ice formation in the Ross Sea</article-title>.
+<source>Mar Ecol Prog Ser</source>
+<volume>259</volume>:
+<fpage>1</fpage>–<lpage>15</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr026">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Golden</surname><given-names>KM</given-names></name>,
+<name name-style="western"><surname>Ackley</surname><given-names>SF</given-names></name>,
+<name name-style="western"><surname>Lytle</surname><given-names>VI</given-names></name>.
+<year>1998</year>.
+<article-title>The percolation phase transition in sea ice</article-title>.
+<source>Science</source>
+<volume>282</volume>:
+<fpage>2238</fpage>–<lpage>2241</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr027">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Golden</surname><given-names>KM</given-names></name>,
+<name name-style="western"><surname>Eicken</surname><given-names>H</given-names></name>,
+<name name-style="western"><surname>Heaton</surname><given-names>AL</given-names></name>,
+<name name-style="western"><surname>Miner</surname><given-names>J</given-names></name>,
+<name name-style="western"><surname>Pringle</surname><given-names>DJ</given-names></name>, <etal>et al.</etal>
+<year>2007</year>.
+<article-title>Thermal evolution of permeability and microstructure in sea ice</article-title>.
+<source>Geophys Res Lett</source>
+<volume>34</volume>:
+<fpage>L16501</fpage>.</mixed-citation>
+</ref>
+<ref id="bibr028">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Goss</surname><given-names>R</given-names></name>,
+<name name-style="western"><surname>Pinto</surname><given-names>AE</given-names></name>,
+<name name-style="western"><surname>Wilhem</surname><given-names>C</given-names></name>,
+<name name-style="western"><surname>Richter</surname><given-names>M</given-names></name>.
+<year>2006</year>.
+<article-title>The importance of a highly active and ΔpH-regulated diatoxanthin epoxidase for the regulation of the PS II antenna function in diadinoxanthin cycle containing algae</article-title>.
+<source>J Plant Physiol</source>
+<volume>163</volume>:
+<fpage>1008</fpage>–<lpage>1021</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr029">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Gowing</surname><given-names>MM</given-names></name>,
+<name name-style="western"><surname>Garrison</surname><given-names>DL</given-names></name>.
+<year>1992</year>.
+<article-title>Abundance and feeding ecology of larger protozooplankton in the ice edge zone of the Weddell and Scotia seas during the austral winter</article-title>.
+<source>Deep-Sea Res Part A</source>
+<volume>39</volume>:
+<fpage>893</fpage>–<lpage>919</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr030">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Gradinger</surname><given-names>R</given-names></name>,
+<name name-style="western"><surname>Ikävalko</surname><given-names>J</given-names></name>
+<year>1998</year>.
+<article-title>Organism incorporation into newly forming Arctic sea ice in the Greenland Sea</article-title>.
+<source>J Plank Res</source>
+<volume>20</volume>(<issue>5</issue>):
+<fpage>871</fpage>–<lpage>886</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr031">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Grossi</surname><given-names>SM</given-names></name>,
+<name name-style="western"><surname>Kottmeier</surname><given-names>ST</given-names></name>,
+<name name-style="western"><surname>Moe</surname><given-names>RL</given-names></name>,
+<name name-style="western"><surname>Taylor</surname><given-names>GT</given-names></name>,
+<name name-style="western"><surname>Sullivan</surname><given-names>CW</given-names></name>.
+<year>1987</year>.
+<article-title>Sea ice microbial communities. 6. Growth and primary production in bottom ice under graded snow cover</article-title>.
+<source>Mar Ecol Prog Ser</source>
+<volume>35</volume>:
+<fpage>153</fpage>–<lpage>164</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr032">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Guglielmo</surname><given-names>L</given-names></name>,
+<name name-style="western"><surname>Zagami</surname><given-names>G</given-names></name>,
+<name name-style="western"><surname>Saggiomo</surname><given-names>V</given-names></name>,
+<name name-style="western"><surname>Catalano</surname><given-names>G</given-names></name>,
+<name name-style="western"><surname>Granata</surname><given-names>A</given-names></name>.
+<year>2007</year>.
+<article-title>Copepods in spring annual sea ice at Terra Nova Bay (Ross Sea, Antarctica)</article-title>.
+<source>Polar Biol</source>
+<volume>30</volume>:
+<fpage>747</fpage>–<lpage>58</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr033">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Haecky</surname><given-names>P</given-names></name>,
+<name name-style="western"><surname>Jonsson</surname><given-names>S</given-names></name>,
+<name name-style="western"><surname>Andersson</surname><given-names>A</given-names></name>.
+<year>1998</year>.
+<article-title>Influence of sea ice on the composition of the spring phytoplankton bloom in the northern Baltic Sea</article-title>.
+<source>Polar Biol</source>
+<volume>20</volume>:
+<fpage>1</fpage>–<lpage>8</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr034">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Hannach</surname><given-names>G</given-names></name>,
+<name name-style="western"><surname>Sigleo</surname><given-names>AC</given-names></name>.
+<year>1998</year>.
+<article-title>Photoinduction of UV-absorbing compounds in six species of marine phytoplankton</article-title>.
+<source>Mar Ecol Prog Ser</source>
+<volume>174</volume>:
+<fpage>207</fpage>–<lpage>222</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr035">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Holm-Hansen</surname><given-names>O</given-names></name>,
+<name name-style="western"><surname>Lorenzen</surname><given-names>CJ</given-names></name>,
+<name name-style="western"><surname>Holmes</surname><given-names>RW</given-names></name>,
+<name name-style="western"><surname>Strickland</surname><given-names>JDH</given-names></name>.
+<year>1965</year>.
+<article-title>Fluorometric determination of chlorophyll</article-title>.
+<source>ICES J Mar Sci</source>
+<volume>30</volume>:
+<fpage>3</fpage>–<lpage>15</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr036">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Juul-Pedersen</surname><given-names>T</given-names></name>,
+<name name-style="western"><surname>Michel</surname><given-names>C</given-names></name>,
+<name name-style="western"><surname>Gosselin</surname><given-names>M</given-names></name>,
+<name name-style="western"><surname>Seuthe</surname><given-names>L</given-names></name>.
+<year>2008</year>.
+<article-title>Seasonal changes in the sinking export of particulate material under first-year sea ice on the Mackenzie Shelf (western Canadian Arctic)</article-title>.
+<source>Mar Ecol Prog Ser</source>
+<volume>353</volume>:
+<fpage>13</fpage>–<lpage>25</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr037">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Kennedy</surname><given-names>H</given-names></name>,
+<name name-style="western"><surname>Thomas</surname><given-names>DN</given-names></name>,
+<name name-style="western"><surname>Kattner</surname><given-names>G</given-names></name>,
+<name name-style="western"><surname>Haas</surname><given-names>C</given-names></name>,
+<name name-style="western"><surname>Dieckmann</surname><given-names>GS</given-names></name>.
+<year>2002</year>.
+<article-title>Particulate organic matter in Antarctic summer sea ice: concentration and stable isotopic composition</article-title>.
+<source> Mar Ecol Prog Ser</source>
+<volume>238</volume>:
+<fpage>1</fpage>–<lpage>13</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr038">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Kiko</surname><given-names>R</given-names></name>,
+<name name-style="western"><surname>Michels</surname><given-names>J</given-names></name>,
+<name name-style="western"><surname>Mizdalski</surname><given-names>E</given-names></name>,
+<name name-style="western"><surname>Schnack-Schiel</surname><given-names>SB</given-names></name>,
+<name name-style="western"><surname>Werner</surname><given-names>I</given-names></name>.
+<year>2008</year>.
+<article-title>Living conditions, abundance and composition of the metazoan fauna in surface and sub-ice layers in pack ice of the western Weddell Sea during late spring</article-title>.
+<source>Deep-Sea Res Part II</source>
+<volume>55</volume>:
+<fpage>1000</fpage>–<lpage>1014</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr039">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Klausmeier</surname><given-names>CA</given-names></name>,
+<name name-style="western"><surname>Litchman</surname><given-names>E</given-names></name>,
+<name name-style="western"><surname>Levin</surname><given-names>SA</given-names></name>.
+<year>2004</year>.
+<article-title>Phytoplankton growth and stoichiometry under multiple nutrient limitation</article-title>.
+<source>Limnol Oceanogr</source>
+<volume>49</volume>:
+<fpage>1463</fpage>–<lpage>1470</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr040">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Klisch</surname><given-names>M</given-names></name> and
+<name name-style="western"><surname>Häder</surname><given-names>D-P</given-names></name>.
+<year>2001</year>.
+<article-title>Mycosporine-like amino acids in the marine dinoflagellate <italic>Gyrodinium dorsum</italic>: induction by ultraviolet irradiation</article-title>.
+<source>J Plant Physiol</source>
+<volume>158</volume>:
+<fpage>1449</fpage>–<lpage>1454</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr041">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Kropuenske</surname><given-names>LR</given-names></name>,
+<name name-style="western"><surname>Mills</surname><given-names>MM</given-names></name>,
+<name name-style="western"><surname>van Dijken</surname><given-names>GL</given-names></name>,
+<name name-style="western"><surname>Bailey</surname><given-names>S</given-names></name>,
+<name name-style="western"><surname>Robinson</surname><given-names>DH</given-names></name>,
+<name name-style="western"><surname>Welschmeyer</surname><given-names>NA</given-names></name>,
+<name name-style="western"><surname>Arrigo</surname><given-names>KR</given-names></name>.
+<year>2009</year>.
+<article-title>Photophysiology in two major Southern Ocean phytoplankton taxa: Photoprotection in <italic>Phaeocystis antarctica</italic> and <italic>Fragilariopsis cylindrus</italic></article-title>.
+<source>Limnol Oceanogr</source>
+<volume>54</volume>(<issue>4</issue>):
+<fpage>1176</fpage>–<lpage>1196</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr042">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Kropuenske</surname><given-names>LR</given-names></name>,
+<name name-style="western"><surname>Mills</surname><given-names>MM</given-names></name>,
+<name name-style="western"><surname>van Dijken</surname><given-names>GL</given-names></name>,
+<name name-style="western"><surname>Alderkamp</surname><given-names>A-C</given-names></name>,
+<name name-style="western"><surname>Berg</surname><given-names>GM</given-names></name>,
+<name name-style="western"><surname>Robinson</surname><given-names>DH</given-names></name>,
+<name name-style="western"><surname>Welschmeyer</surname><given-names>NA</given-names></name>,
+<name name-style="western"><surname>Arrigo</surname><given-names>KR</given-names></name>.
+<year>2010</year>.
+<article-title>Strategies and rates of photoacclimation in two major Southern Ocean phytoplankton taxa: <italic>Phaeocystis antarctica</italic> (Haptophyta) and <italic>Fragilariopsis cylindrus</italic> (Bacillariophyceae)</article-title>.
+<source>J Phycol</source>
+<volume>46</volume>:
+<fpage>1138</fpage>–<lpage>1151</lpage>. doi:
+<pub-id pub-id-type="doi">10.1111/j.1529-8817.2010.00922.x</pub-id></mixed-citation>
+</ref>
+<ref id="bibr043">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Legendre</surname><given-names>L</given-names></name>,
+<name name-style="western"><surname>Ackley</surname><given-names>SF</given-names></name>,
+<name name-style="western"><surname>Dieckmann</surname><given-names>GS</given-names></name>,
+<name name-style="western"><surname>Gulliksen</surname><given-names>B</given-names></name>,
+<name name-style="western"><surname>Horner</surname><given-names>R</given-names></name>,
+<name name-style="western"><surname>Hoshiai</surname><given-names>T</given-names></name>,
+<name name-style="western"><surname>Melnikov</surname><given-names>IA</given-names></name>,
+<name name-style="western"><surname>Reeburgh</surname><given-names>WS</given-names></name>,
+<name name-style="western"><surname>Spindler</surname><given-names>M</given-names></name>,
+<name name-style="western"><surname>Sullivan</surname><given-names>CW</given-names></name>.
+<year>1992</year>.
+<article-title>Ecology of sea ice biota</article-title>.
+<source>Polar Biol</source>
+<volume>12</volume>(<issue>3–4</issue>):
+<fpage>429</fpage>–<lpage>444</lpage>. doi:
+<pub-id pub-id-type="doi">10.1007/BF00243114</pub-id></mixed-citation>
+</ref>
+<ref id="bibr044">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Lewis</surname><given-names>MR</given-names></name>,
+<name name-style="western"><surname>Smith</surname><given-names>JC</given-names></name>.
+<year>1983</year>.
+<article-title>A small volume, short incubation-time method for measurement of photosynthesis as a function of incident irradiance</article-title>.
+<source>Mar Ecol Prog Ser</source>
+<volume>13</volume>:
+<fpage>99</fpage>–<lpage>102</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr045">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Lizotte</surname><given-names>MP</given-names></name>.
+<year>2001</year>.
+<article-title>The contribution of sea ice algae to Antarctic marine primary production</article-title>.
+<source>Am Zool</source>
+<volume>41</volume>:
+<fpage>57</fpage>–<lpage>73</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr046">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Mangoni</surname><given-names>O</given-names></name>,
+<name name-style="western"><surname>Saggiomo</surname><given-names>M</given-names></name>,
+<name name-style="western"><surname>Modigh</surname><given-names>M</given-names></name>,
+<name name-style="western"><surname>Catalano</surname><given-names>G</given-names></name>,
+<name name-style="western"><surname>Zingone</surname><given-names>A</given-names></name>,
+<name name-style="western"><surname>Saggiomo</surname><given-names>V</given-names></name>.
+<year>2009</year>.
+<article-title>The role of platelet ice microalgae in seeding phytoplankton blooms in Terra Nova Bay (Ross Sea, Antarctica): a mesocosm experiment</article-title>.
+<source>Polar Biol</source>
+<volume>32</volume>:
+<fpage>311</fpage>–<lpage>323</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr047">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>McMahon</surname><given-names>KW</given-names></name>,
+<name name-style="western"><surname>Ambrose</surname><given-names>WG</given-names><suffix>Jr</suffix></name>,
+<name name-style="western"><surname>Johnson</surname><given-names>BJ</given-names></name>,
+<name name-style="western"><surname>Sun</surname><given-names>MY</given-names></name>,
+<name name-style="western"><surname>Lopez</surname><given-names>GR</given-names></name>, <etal>et al.</etal>
+<year>2006</year>.
+<article-title>Benthic community response to ice algae and phytoplankton in Ny Ålesund, Svalbard</article-title>.
+<source>Mar Ecol Prog Ser</source>
+<volume>310</volume>:
+<fpage>1</fpage>–<lpage>14</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr048">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Meiners</surname><given-names>KM</given-names></name>,
+<name name-style="western"><surname>Vancoppenolle</surname><given-names>M</given-names></name>,
+<name name-style="western"><surname>Thanassekos</surname><given-names>S</given-names></name>,
+<name name-style="western"><surname>Dieckmann</surname><given-names>GS</given-names></name>,
+<name name-style="western"><surname>Thomas</surname><given-names>DN</given-names></name>, <etal>et al.</etal>
+<year>2012</year>.
+<article-title>Chlorophyll <italic>a</italic> in Antarctic sea ice from historical ice core data</article-title>.
+<source>Geophys Res Lett</source>
+<volume>39</volume>:
+<fpage>L21602</fpage>, doi:
+<pub-id pub-id-type="doi">10.1029/2012GL053478</pub-id></mixed-citation>
+</ref>
+<ref id="bibr049">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Mitchell</surname><given-names>BG</given-names></name>.
+<year>1990</year>.
+<article-title>Algorithms for determining the absorption coefficient of aquatic particulates using the quantitative filter technique (QFT)</article-title>,
+<source>Proc International Soc Optical Engineers</source>
+<volume>10</volume>:
+<fpage>137</fpage>–<lpage>148</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr050">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Moisan</surname><given-names>TA</given-names></name>,
+<name name-style="western"><surname>Mitchell</surname><given-names>BG</given-names></name>.
+<year>1999</year>.
+<article-title>Photophysiological acclimation of <italic>Phaeocystis antarctica</italic> Karsten under light limitation</article-title>.
+<source>Limnol Oceanogr</source>
+<volume>44</volume>:
+<fpage>247</fpage>–<lpage>258</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr051">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Moisan</surname><given-names>TA</given-names></name>,
+<name name-style="western"><surname>Mitchell</surname><given-names>BG</given-names></name>.
+<year>2001</year>.
+<article-title>UV absorption by mycosporine-like amino acids in <italic>Phaeocystis antarctica</italic> Karsten induced by photosynthetically available radiation</article-title>.
+<source>Mar Biol</source>
+<volume>13</volume>:
+<fpage>217</fpage>–<lpage>227</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr052">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Morel</surname><given-names>A</given-names></name>,
+<name name-style="western"><surname>Bricaud</surname><given-names>A</given-names></name>.
+<year>1981</year>.
+<article-title>Theoretical results concerning light absorption in a discrete medium, and application to specific absorption of phytoplankton</article-title>.
+<source>Deep-Sea Res</source>
+<volume>28</volume>:
+<fpage>1375</fpage>–<lpage>1393</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr053">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Olaizola</surname><given-names>M</given-names></name>,
+<name name-style="western"><surname>Yamamoto</surname><given-names>HY</given-names></name>.
+<year>1994</year>.
+<article-title>Short-term response of the diadinoxanthin cycle and fluorescence yield to high irradiance in <italic>Chaetoceros muelleri</italic> (Bacillariophyceae)</article-title>.
+<source>J Phycol</source>
+<volume>30</volume>:
+<fpage>606</fpage>–<lpage>612</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr054">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Perovich</surname><given-names>DK</given-names></name>.
+<year>1990</year>.
+<article-title>Theoretical estimates of light reflection and transmission by spatially complex and temporally varying sea ice covers</article-title>.
+<source>J Geophys Res</source>
+<volume>95</volume>:
+<fpage>9557</fpage>–<lpage>9567</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr055">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Pineault</surname><given-names>S</given-names></name>,
+<name name-style="western"><surname>Tremblay</surname><given-names>J-E</given-names></name>,
+<name name-style="western"><surname>Gosselin</surname><given-names>M</given-names></name>,
+<name name-style="western"><surname>Thomas</surname><given-names>H</given-names></name>,
+<name name-style="western"><surname>Shadwick</surname><given-names>E</given-names></name>.
+<year>2013</year>.
+<article-title>The isotopic signature of particulate organic C and N in bottom ice: Key influencing factors and applications for tracing the fate of ice-algae in the Arctic Ocean</article-title>.
+<source>J Geophys Res</source>
+<volume>118</volume>:
+<fpage>287</fpage>–<lpage>300</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr056">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Platt</surname><given-names>T</given-names></name>,
+<name name-style="western"><surname>Gallegos</surname><given-names>CL</given-names></name>,
+<name name-style="western"><surname>Harrison</surname><given-names>WG</given-names></name>.
+<year>1980</year>.
+<article-title>Photoinhibition of photosynthesis in natural assemblages of marine phytoplankton</article-title>.
+<source>J Mar Res</source>
+<volume>38</volume>:
+<fpage>687</fpage>–<lpage>701</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr057">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Ratkova</surname><given-names>TN</given-names></name>,
+<name name-style="western"><surname>Wassmann</surname><given-names>P</given-names></name>.
+<year>2005</year>.
+<article-title>Sea ice algae in the White and Barents seas: composition and origin</article-title>.
+<source>Polar Res</source>
+<volume>24</volume>:
+<fpage>95</fpage>–<lpage>110</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr058">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Rau</surname><given-names>GH</given-names></name>,
+<name name-style="western"><surname>Sullivan</surname><given-names>CW</given-names></name>,
+<name name-style="western"><surname>Gordon</surname><given-names>LI</given-names></name>.
+<year>1991</year>.
+<article-title>δ<sup>13</sup>C and δ<sup>15</sup>N variations in Weddell Sea particulate organic matter</article-title>.
+<source>Mar Chem</source>
+<volume>35</volume>:
+<fpage>355</fpage>–<lpage>369</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr059">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Riaux-Gobin</surname><given-names>C</given-names></name>,
+<name name-style="western"><surname>Poulin</surname><given-names>M</given-names></name>,
+<name name-style="western"><surname>Dieckmann</surname><given-names>G</given-names></name>,
+<name name-style="western"><surname>Labrune</surname><given-names>C</given-names></name>,
+<name name-style="western"><surname>Vétion</surname><given-names>G</given-names></name>.
+<year>2011</year>.
+<article-title>Spring phytoplankton onset after the ice break-up and sea-ice signature (Adélie Land, East Antarctica)</article-title>.
+<source>Polar Res</source>
+<volume>30</volume>:
+<fpage>5910</fpage>. doi:
+<pub-id pub-id-type="doi">10.3402/polar.v30i0.5910</pub-id></mixed-citation>
+</ref>
+<ref id="bibr060">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Riegger</surname><given-names>L</given-names></name>and
+<name name-style="western"><surname>Robinson</surname><given-names>D</given-names></name>.
+<year>1997</year>.
+<article-title>Photoinduction of UV-absorbing compounds in Antarctic diatoms and <italic>Phaeocystis antarctica</italic></article-title>.
+<source>Mar Ecol Prog Ser</source>
+<volume>160</volume>:
+<fpage>13</fpage>–<lpage>25</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr061">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Saenz</surname><given-names>B</given-names></name>,
+<name name-style="western"><surname>Arrigo</surname><given-names>KR</given-names></name>.
+<year>2012</year>.
+<article-title>Simulation of a sea ice ecosystem using a hybrid model for slush layer desalination</article-title>.
+<source>J Geophys Res</source>
+<volume>117</volume>:
+<fpage>C05007</fpage>. doi:
+<pub-id pub-id-type="doi">10.1029/2011JC007544</pub-id></mixed-citation>
+</ref>
+<ref id="bibr062">
+<mixed-citation publication-type="other">
+<name name-style="western"><surname>Saenz</surname><given-names>BT</given-names></name>,
+<name name-style="western"><surname>Arrigo</surname><given-names>KR</given-names></name>.
+<article-title>Primary production in Antarctic sea ice from a sea ice state estimate</article-title>.
+<source>J Geophys Res</source> (in press).</mixed-citation>
+</ref>
+<ref id="bibr063">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Sarmiento</surname><given-names>JL</given-names></name>,
+<name name-style="western"><surname>Hughes</surname><given-names>TMC</given-names></name>,
+<name name-style="western"><surname>Stouffer</surname><given-names>RJ</given-names></name>,
+<name name-style="western"><surname>Manabe</surname><given-names>S</given-names></name>.
+<year>1998</year>.
+<article-title>Simulated response of the ocean carbon cycle to anthropogenic climate warming</article-title>.
+<source>Nature</source>
+<volume>393</volume>:
+<fpage>245</fpage>–<lpage>249</lpage>, doi:
+<pub-id pub-id-type="doi">10.1038/30455</pub-id></mixed-citation>
+</ref>
+<ref id="bibr064">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Sinha</surname><given-names>RP</given-names></name>,
+<name name-style="western"><surname>Klisch</surname><given-names>M</given-names></name>,
+<name name-style="western"><surname>Helbling</surname><given-names>EW</given-names></name>,
+<name name-style="western"><surname>Häder</surname><given-names>D-P</given-names></name>.
+<year>2001</year>.
+<article-title>Induction of mycosporine-like amino acids (MAAs) in cyanobacteria by solar ultraviolet-B radiation</article-title>.
+<source>J Photochem Photobiol B-Biol</source>
+<volume>60</volume>:
+<fpage>129</fpage>–<lpage>135</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr065">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Søreide</surname><given-names>JE</given-names></name>,
+<name name-style="western"><surname>Leu</surname><given-names>E</given-names></name>,
+<name name-style="western"><surname>Berge</surname><given-names>J</given-names></name>,
+<name name-style="western"><surname>Graeve</surname><given-names>M</given-names></name>,
+<name name-style="western"><surname>Falk-Petersen</surname><given-names>S</given-names></name>.
+<year>2010</year>.
+<article-title>Timing of blooms, algal food quality and <italic>Calanus glacialis</italic> reproduction and growth in a changing Arctic</article-title>.
+<source>Glob. Change Biol</source>
+<volume>16</volume>:
+<fpage>3154</fpage>–<lpage>3163</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr066">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Suzuki</surname><given-names>H</given-names></name>,
+<name name-style="western"><surname>Sasaki</surname><given-names>H</given-names></name>,
+<name name-style="western"><surname>Fukuchi</surname><given-names>M</given-names></name>.
+<year>2001</year>.
+<article-title>Short-term variability in the flux of rapidly sinking particles in the Antarctic marginal ice zone</article-title>.
+<source>Polar Biol</source>
+<volume>24</volume>:
+<fpage>697</fpage>–<lpage>705</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr067">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Tang</surname><given-names>KW</given-names></name>,
+<name name-style="western"><surname>Smith</surname><given-names>WO</given-names></name>,
+<name name-style="western"><surname>Shields</surname><given-names>AR</given-names></name>,
+<name name-style="western"><surname>Elliott</surname><given-names>DT</given-names></name>.
+<year>2009</year>.
+<article-title>Survival and recovery of <italic>Phaeocystis antarctica</italic> (Prymnesiophyceae) from prolonged darkness and freezing</article-title>.
+<source>Proc Royal Soc B-Biol Sci</source>
+<volume>276</volume>(<issue>1654</issue>):
+<fpage>81</fpage>–<lpage>90</lpage>. doi:
+<pub-id pub-id-type="doi">10.1098/rspb.2008.0598</pub-id></mixed-citation>
+</ref>
+<ref id="bibr068">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Teranes</surname><given-names>J</given-names></name>,
+<name name-style="western"><surname>Bernasconi</surname><given-names>SM</given-names></name>.
+<year>2000</year>.
+<article-title>The record of nitrate utilization and productivity limitation provided by δ<sup>15</sup>N values in lake organic matter—A study of sediment trap and core sediments from Baldeggersee, Switzerland</article-title>.
+<source>Limnol Oceanogr</source>
+<volume>45</volume>(<issue>4</issue>):
+<fpage>801</fpage>–<lpage>813</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr069">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Tortell</surname><given-names>PD</given-names></name>,
+<name name-style="western"><surname>Mills</surname><given-names>MM</given-names></name>,
+<name name-style="western"><surname>Payne</surname><given-names>CD</given-names></name>,
+<name name-style="western"><surname>Maldonado</surname><given-names>MT</given-names></name>,
+<name name-style="western"><surname>Chierici</surname><given-names>M</given-names></name>, <etal>et al.</etal>
+<year>2013</year>.
+<article-title>Inorganic C utilization and C isotope fractionation by pelagic and sea ice algal assemblages along the Antarctic continental shelf</article-title>.
+<source>Mar Ecol Prog Ser</source>
+<volume>483</volume>:
+<fpage>47</fpage>–<lpage>66</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr070">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Wadhams</surname><given-names>P</given-names></name>,
+<name name-style="western"><surname>Lange</surname><given-names>MA</given-names></name>,
+<name name-style="western"><surname>Ackley</surname><given-names>SF</given-names></name>.
+<year>1987</year>.
+<article-title>The ice thickness distribution across the Atlantic sector of the Antarctic Ocean in midwinter</article-title>.
+<source>J Geophys Res</source>
+<volume>92</volume>(<issue>C13</issue>):
+<fpage>14535</fpage>–<lpage>14552</lpage>. doi:
+<pub-id pub-id-type="doi">10.1029/JC092iC13p14535</pub-id></mixed-citation>
+</ref>
+<ref id="bibr071">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Wing</surname><given-names>SR</given-names></name>,
+<name name-style="western"><surname>McLeod</surname><given-names>RJ</given-names></name>,
+<name name-style="western"><surname>Leichter</surname><given-names>JJ</given-names></name>,
+<name name-style="western"><surname>Frew</surname><given-names>RD</given-names></name>,
+<name name-style="western"><surname>Lamare</surname><given-names>MD</given-names></name>.
+<year>2012</year>.
+<article-title>Sea ice microbial production supports Ross Sea benthic communities: influence of a small but stable subsidy</article-title>.
+<source>Ecology</source>
+<volume>93</volume>:
+<fpage>314</fpage>–<lpage>323</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr072">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Wright</surname><given-names>SW</given-names></name>,
+<name name-style="western"><surname>Jeffrey</surname><given-names>SW</given-names></name>,
+<name name-style="western"><surname>Mantoura</surname><given-names>RFC</given-names></name>,
+<name name-style="western"><surname>Llewellyn</surname><given-names>CA</given-names></name>,
+<name name-style="western"><surname>Bjornland</surname><given-names>T</given-names></name>,
+<name name-style="western"><surname>Repeta</surname><given-names>D</given-names></name>,
+<name name-style="western"><surname>Welschmeyer</surname><given-names>N</given-names></name>.
+<year>1991</year>.
+<article-title>Improved HPLC method for the analysis of chlorophylls and carotenoids from marine-phytoplankton</article-title>.
+<source>Mar Ecol Prog Ser</source>
+<volume>77</volume>(<issue>2–3</issue>):
+<fpage>183</fpage>–<lpage>196</lpage>. doi:
+<pub-id pub-id-type="doi">10.3354/meps077183</pub-id></mixed-citation>
+</ref>
+</ref-list>
+</back>
+</article>

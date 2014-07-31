@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="commentary" dtd-version="1.0" xml:lang="en">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">BioOne</journal-id>
+<journal-id journal-id-type="journal-id">Elementa</journal-id>
+<journal-title-group>
+<journal-title>Elementa</journal-title>
+<journal-subtitle>Science of the Anthropocene</journal-subtitle>
+<abbrev-journal-title>Elem. Sci. Anth.</abbrev-journal-title>
+</journal-title-group>
+<contrib-group>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Helmig</surname><given-names>Detlev</given-names></name>
+<xref ref-type="aff" rid="affa"/>
+<role>Editor-in-Chief: Atmospheric Science</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/detlev-helmig/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Blum</surname><given-names>Joel D.</given-names></name>
+<xref ref-type="aff" rid="affb"/>
+<role>Editor-in-Chief: Earth &amp; Environmental Science</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/joel-d-blum/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Zak</surname><given-names>Donald R.</given-names></name>
+<xref ref-type="aff" rid="affb"/>
+<role>Editor-in-Chief: Ecology</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/donald-r-zak/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Deming</surname><given-names>Jody W.</given-names></name>
+<xref ref-type="aff" rid="affc"/>
+<role>Editor-in-Chief: Ocean Science</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/jody-w-deming/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Chang</surname><given-names>Michael E.</given-names></name>
+<xref ref-type="aff" rid="affd"/>
+<role>Editor-in-Chief: Sustainable Engineering</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/michael-e-chang/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Kapuscinski</surname><given-names>Anne</given-names></name>
+<xref ref-type="aff" rid="affe"/>
+<role>Editor-in-Chief: Sustainability Transitions</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/anne-kapuscinski/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Peart</surname><given-names>David R.</given-names></name>
+<xref ref-type="aff" rid="affe"/>
+<role>Editor-in-Chief: Sustainability Transitions</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/david-r-peart/</uri>
+</contrib>
+</contrib-group>
+<aff id="affa">
+<institution>University of Colorado Boulder</institution>
+<country>United States</country>
+</aff>
+<aff id="affb">
+<institution>University of Michigan</institution>
+<country>United States</country>
+</aff>
+<aff id="affc">
+<institution>University of Washington</institution>
+<country>United States</country>
+</aff>
+<aff id="affd">
+<institution>Georgia Institute of Technology</institution>
+<country>United States</country>
+</aff>
+<aff id="affe">
+<institution>Dartmouth</institution>
+<country>United States</country>
+</aff>
+<issn pub-type="epub">2325-1026</issn>
+<publisher>
+<publisher-name>BioOne</publisher-name>
+<publisher-loc>21 Dupont Circle NW, Suite 800, Washington, DC 20036, United States<email>team@elementascience.org</email>
+<uri>http://bioone.org</uri><uri>http://elementascience.org</uri>
+</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">ELEMENTA-D-13-00020</article-id>
+<article-id pub-id-type="doi">10.12952/journal.elementa.000018</article-id>
+<article-categories>
+<subj-group subj-group-type="article-type">
+<subject>Commentary</subject>
+</subj-group>
+<subj-group subj-group-type="domain">
+<subject>Earth &amp; Environmental Science</subject>
+</subj-group>
+<subj-group subj-group-type="classification">
+<subject>Earth and Environmental Science</subject>
+<subj-group>
+<subject>Physical Geography</subject>
+</subj-group>
+<subj-group>
+<subject>Soil Science</subject>
+</subj-group>
+</subj-group>
+<subj-group subj-group-type="classification">
+<subject>Ecology</subject>
+<subj-group>
+<subject>Biogeochemical cycles</subject>
+</subj-group>
+<subj-group>
+<subject>Biogeography</subject>
+</subj-group>
+<subj-group>
+<subject>Biological Diversity</subject>
+</subj-group>
+<subj-group>
+<subject>Ecosystem Ecology</subject>
+</subj-group>
+<subj-group>
+<subject>Global Change</subject>
+</subj-group>
+<subj-group>
+<subject>Global Ecology</subject>
+</subj-group>
+<subj-group>
+<subject>Invasive species</subject>
+</subj-group>
+<subj-group>
+<subject>Species Extinctions</subject>
+</subj-group>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Dating the Anthropocene: Towards an empirical global history of human transformation of the terrestrial biosphere</article-title>
+<alt-title alt-title-type="short-title">Dating the Anthropocene</alt-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Ellis</surname><given-names>Erle C.</given-names></name>
+<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+<xref ref-type="corresp" rid="cor1"><sup>*</sup></xref>
+</contrib>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Fuller</surname><given-names>Dorian Q.</given-names></name>
+<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+</contrib>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Kaplan</surname><given-names>Jed O.</given-names></name>
+<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
+</contrib>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Lutters</surname><given-names>Wayne G.</given-names></name>
+<xref ref-type="aff" rid="aff4"><sup>4</sup></xref>
+</contrib>
+</contrib-group>
+<aff id="aff1"><label>1</label><institution content-type="dept">Department of Geography and Environmental Systems</institution>, <institution>University of Maryland Baltimore County</institution>, <addr-line content-type="city">Baltimore</addr-line>, <addr-line content-type="state">Maryland</addr-line>, <country>United States</country></aff>
+<aff id="aff2"><label>2</label><institution content-type="dept">Institute of Archaeology</institution>, <institution>University College London</institution>, <addr-line content-type="city">London</addr-line>, <country>United Kingdom</country></aff>
+<aff id="aff3"><label>3</label><institution content-type="dept">ARVE Group, Institute for Environmental Sciences</institution>, <institution>University of Geneva</institution>, <addr-line content-type="city">Carouge</addr-line>, <country>Switzerland</country></aff>
+<aff id="aff4"><label>4</label><institution content-type="dept">Department of Information Systems</institution>, <institution>University of Maryland Baltimore County</institution>, <addr-line content-type="city">Baltimore</addr-line>, <addr-line content-type="state">Maryland</addr-line>, <country>United States</country></aff>
+<contrib-group>
+<contrib contrib-type="domain-editor-in-chief" xlink:type="simple">
+<name name-style="western"><surname>Blum</surname><given-names>Joel D.</given-names></name>
+<xref ref-type="aff" rid="afff"/>
+<role>Domain Editor-in-Chief</role>
+</contrib>
+</contrib-group>
+<aff id="afff">
+<institution content-type="dept">Department of Earth &amp; Environmental Sciences</institution>
+<institution>University of Michigan</institution>
+<addr-line content-type="city">Ann Arbor</addr-line>
+<addr-line content-type="state">Michigan</addr-line>
+<country>United States</country>
+</aff>
+<author-notes>
+<corresp id="cor1"><label><sup>*</sup></label><email xlink:type="simple">ece@umbc.edu</email></corresp>
+<fn fn-type="conflict"><p>The authors declare no competing interests.</p></fn>
+<fn fn-type="con"><p>All authors contributed to writing this paper.</p></fn></author-notes>
+<pub-date pub-type="collection" iso-8601-date="2013-12-04">
+<day>04</day>
+<month>12</month>
+<year>2013</year></pub-date>
+<pub-date pub-type="epub" iso-8601-date="2013-12-04">
+<day>04</day>
+<month>12</month>
+<year>2013</year>
+</pub-date>
+<volume content-type="volume">1</volume>
+<elocation-id>000018</elocation-id>
+<history>
+<date date-type="received" iso-8601-date="2013-11-01">
+<day>01</day>
+<month>11</month>
+<year>2013</year>
+</date>
+<date date-type="accepted" iso-8601-date="2013-11-07">
+<day>07</day>
+<month>11</month>
+<year>2013</year>
+</date>
+</history>
+<permissions>
+<copyright-year>2013</copyright-year>
+<copyright-holder>Ellis et al.</copyright-holder>
+<license license-type="open-access" xlink:type="simple">
+<license-p><open-access><p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</p>
+</open-access>
+</license-p>
+</license>
+</permissions>
+<abstract><title>Abstract</title>
+<p>Human use of land is a major cause of the global environmental changes that define the Anthropocene. Archaeological and paleoecological evidence confirm that human populations and their use of land transformed ecosystems at sites around the world by the late Pleistocene and historical models indicate this transformation may have reached globally significant levels more than 3000 years ago. Yet these data in themselves remain insufficient to conclusively date the emergence of land use as a global force transforming the biosphere, with plausible dates ranging from the late Pleistocene to AD 1800. Conclusive empirical dating of human transformation of the terrestrial biosphere will require unprecedented levels of investment in sustained interdisciplinary collaboration and the development of a geospatial cyberinfrastructure to collate and integrate the field observations of archaeologists, paleoecologists, paleoenvironmental scientists, environmental historians, geoscientists, geographers and other human and environmental scientists globally from the Pleistocene to the present. Existing field observations may yet prove insufficient in terms of their spatial and temporal coverage, but by assessing these observations within a spatially explicit statistically robust global framework, major observational gaps can be identified, stimulating data gathering in underrepresented regions and time periods. Like the Anthropocene itself, building scientific understanding of the human role in shaping the biosphere requires both sustained effort and leveraging the most powerful social systems and technologies ever developed on this planet.</p>
+</abstract>
+<kwd-group>
+<kwd>terrestrial biosphere</kwd>
+<kwd>environmental history</kwd>
+<kwd>global change</kwd>
+</kwd-group>
+<funding-group><funding-statement>E.C. Ellis and W.G. Lutters were supported by the National Science Foundation (CNS - 115210). D. Q. Fuller is supported by U.K. NERC (NE/K003402/1) and the European Research Council (ComPAg, AdG. 323842). J.O. Kaplan was supported by the European Research Council (COEVOLVE 313797).</funding-statement>
+</funding-group>
+</article-meta>
+</front>
+<body>
+<sec id="s1"><title>Introduction</title>
+<p>Human populations and their use of land are leading causes of global changes in biodiversity (<xref ref-type="bibr" rid="bibr003">Braje and Erlandson, 2013</xref>), biogeochemistry (<xref ref-type="bibr" rid="bibr009">Foley et al., 2005</xref>), geomorphic processes (<xref ref-type="bibr" rid="bibr035">Syvitski and Kettner, 2011</xref>) and climate (<xref ref-type="bibr" rid="bibr014">IPCC, 2013</xref>; <xref ref-type="bibr" rid="bibr029">Ruddiman, 2013</xref>). These global changes form the core evidence that supports formal recognition of the Anthropocene (<xref ref-type="bibr" rid="bibr004">Crutzen, 2002</xref>; <xref ref-type="bibr" rid="bibr033">Steffen et al., 2007</xref>; <xref ref-type="bibr" rid="bibr038">Zalasiewicz et al., 2011</xref>; <xref ref-type="bibr" rid="bibr006">Ellis, 2011</xref>; <xref ref-type="bibr" rid="bibr029">Ruddiman, 2013</xref>; <xref ref-type="bibr" rid="bibr032">Smith and Zeder, 2013</xref>). Yet efforts to date the emergence of human use of land as a globally significant force transforming the Earth system remain incomplete and controversial (<xref ref-type="bibr" rid="bibr030">Seddon et al., accepted</xref>). Dates for the beginning of the Anthropocene range from the Pleistocene/Holocene boundary (<xref ref-type="bibr" rid="bibr032">Smith and Zeder, 2013</xref>), to the mid-Holocene rise of agriculture, approximately 7000 years BP (<xref ref-type="bibr" rid="bibr029">Ruddiman, 2013</xref>), to the industrial revolution, circa AD 1800 (<xref ref-type="bibr" rid="bibr034">Steffen et al., 2011</xref>) to the Atomic Age (<xref ref-type="bibr" rid="bibr038">Zalasiewicz et al., 2011</xref>).</p>
+<p>Resolving this major question on Anthropocene origins will require rigorous empirical assessment of the global extent and degree of direct human transformation of the terrestrial biosphere from Pleistocene to present (<xref ref-type="fig" rid="elementa.000018.f001">Figure 1</xref>). Such study must be based on the field observations of archaeologists, paleoecologists, paleoenvironmental scientists, environmental historians and other scientists concerned with long-term investigation of human-environmental interactions.</p>
+<fig id="elementa.000018.f001" position="float">
+<object-id pub-id-type="doi">10.12952/journal.elementa.000018.f001</object-id>
+<label>Figure 1 </label>
+<caption><title>Global timeline of human transformation of the terrestrial biosphere.</title>
+<p>The timeline illustrates a variety of major events and changes in human populations, climate and human-environment relationships from late Pleistocene to present, beginning with anatomically modern humans in Africa ca. 200 ka (map, left). Genetic evidence indicates population dip at 70 ka (Toba eruption), followed by rapid growth and expansion out of Africa and across Eastern Hemisphere by the Last Glacial Maximum (map bottom). Rapid climate change, widespread extinction of megafauna and human colonization of the Western Hemisphere follow.</p></caption>
+<graphic position="float" mimetype="image" xlink:type="simple" xlink:href="info:doi/10.12952/journal.elementa.000018.f001"/>
+</fig>
+</sec>
+<sec id="s2"><title>Observations from the field</title>
+<p>Archaeological and paleoecological evidence already confirm that humans have a long history of altering ecosystems at sites around the world beginning in the late Pleistocene (<xref ref-type="bibr" rid="bibr032">Smith and Zeder, 2013</xref>; <xref ref-type="bibr" rid="bibr003">Braje and Erlandson, 2013</xref>; <xref ref-type="bibr" rid="bibr008">Ellis et al., 2013</xref>). Site data are also being used to reconstruct population and land use histories at increasingly larger scales and levels of detail (<xref ref-type="bibr" rid="bibr012">Fuller et al., 2011</xref>; <xref ref-type="bibr" rid="bibr017">Johnson and Brook, 2011</xref>; <xref ref-type="bibr" rid="bibr013">Gaillard et al., 2010</xref>; <xref ref-type="bibr" rid="bibr005">Dincauze, 2000</xref>; <xref ref-type="bibr" rid="bibr031">Shennan et al., 2013</xref>). Nevertheless, it is clear that land-use histories and impacts of regional environments varied greatly across contemporaneous regions, which calls for more detailed local and regional studies and methods of integrating them across global scales.</p>
+<p>Natural vegetation, largely omitting anthropogenic influences, has been reconstructed over two time slices across the continents using standardized paleoecological archives as part of the BIOME6000 project (<uri>http://www.bridge.bris.ac.uk/resources/Databases/BIOMES_data;</uri> <xref ref-type="bibr" rid="bibr027">Prentice and Webb III, 1998</xref>), though data quality and temporal and spatial coverage is highly variable and very limited in some regions. Interdisciplinary collaborations among paleoecologists, archaeologists, and paleoclimatologists are developing regional histories of human populations, land use, climate and ecosystem change using similar approaches (PAGES project <uri>http://www.pages.unibe.ch</uri>; IHOPE <uri>http://ihopenet.org</uri>). Cyberinfrastructure projects by archaeologists (e.g. <uri>http://archaeologydataservice.ac.uk/</uri>) and paleoecologists (e.g. <uri>http://www.neotomadb.org</uri>) are enhancing efforts to share field data towards larger scales of synthesis. Yet all of these efforts combined will not be sufficient to date human transformation of the terrestrial biosphere from Pleistocene to present. The vast majority of archaeological and paleoecological data that are collected are still rarely shared online, are rarely described or standardized for broader use, must be scaled appropriately to serve as local components of global change studies, and must be integrated within a global statistical framework.</p></sec>
+<sec id="s3"><title>Spatially explicit global historical reconstructions</title>
+<p>Great progress has been made recently in reconstructing spatially explicit long-term global histories of human populations, land use and ecosystem transformation using model-based approaches (<xref ref-type="bibr" rid="bibr002">Boyle et al., 2011</xref>; <xref ref-type="bibr" rid="bibr018">Kaplan et al., 2011</xref>; <xref ref-type="bibr" rid="bibr020">Klein Goldewijk et al., 2010</xref>; <xref ref-type="bibr" rid="bibr021">Klein Goldewijk et al., 2011</xref>; <xref ref-type="bibr" rid="bibr008">Ellis et al., 2013</xref>). These efforts combine global patterns of terrain, hydrology, soils and climate with very limited data on regional and global human populations and demographic models of land use to “backcast” historical patterns of human populations and their use of land from the present day to the beginning of the Holocene. Although these model-based reconstructions indicate that human transformation of the terrestrial biosphere was likely globally significant more than 3000 years BP, generally agreeing with existing archaeological evidence, their results have yet to be empirically evaluated with site-based observations (<xref ref-type="bibr" rid="bibr008">Ellis et al., 2013</xref>). Moreover, as these modeling efforts become progressively more sophisticated and detailed, they will increasingly require globally and temporally representative sets of site-based observations for model calibration and evaluation across regions and time periods.</p></sec>
+<sec id="s4"><title>Challenges in dating human transformation of the terrestrial biosphere from Pleistocene to present</title>
+<p>Major long-term investments in remote sensing and climate modeling have enabled fundamental advances in scientific understanding of the contemporary dynamics of the biosphere and climate. However, there has been no similar level of sustained investment in collaborative scientific infrastructure capable of assessing the global state of human transformation of the terrestrial biosphere based on local observations either for today or in past time periods. Some progress has been made in supporting, standardizing and synthesizing regional ecological assessments (e.g. Long Term Ecological Research Networks; The US National Ecological Observatory Network). However, at global scale, this form of assessment remains a challenge even for contemporary time periods (<xref ref-type="bibr" rid="bibr037">Vihervaara et al., 2013</xref>), with a variety of current efforts now attempting this using both experimental (<xref ref-type="bibr" rid="bibr010">Fraser et al., 2013</xref>) and observational approaches (<xref ref-type="bibr" rid="bibr016">Jetz et al., 2012</xref>; <xref ref-type="bibr" rid="bibr007">Ellis, 2012</xref>) based on collaborative online geodata cyberinfrastructure (<xref ref-type="bibr" rid="bibr001">Bernard et al., 2013</xref>; <xref ref-type="bibr" rid="bibr036">Tallis et al., 2012</xref>). As noted by those engaging in these efforts, the first and foremost challenge is in gaining and sustaining adequate long-term support, though funding agencies, including the Earth Cube program of the US National Science Foundation now appear to be moving in this direction (<xref ref-type="bibr" rid="bibr001">Bernard et al., 2013</xref>). However, true progress will require more than a patchwork of demonstration projects and <italic>ad hoc</italic> tool development, but rather a long-term international investment in developing a common vision and infrastructure.</p>
+<p>Serious challenges remain even if adequate resources are made available to support collaborative efforts and infrastructure capable of assessing the global state of human transformation of the terrestrial biosphere based on local observations. One major issue is the need to develop a culture of reciprocity that encourages data sharing freely online, with archaeologists and paleoecologists especially known for hoarding data for long periods. Systems used to share and organize data require that these be standardized, harmonized, and well described by metadata — a massive challenge even within a discipline and almost overwhelming across disciplines. One useful observation is that simply making the effort to standardize, share, and compare data using online cyberinfrastructure tends to drive fundamental changes in scientific practice, expediting communication and improving data collection and management practices to match global frameworks and stimulating broader research questions and larger scales of research (<xref ref-type="bibr" rid="bibr025">Newman et al., 2012</xref>; <xref ref-type="bibr" rid="bibr019">Karasti et al., 2006</xref>; <xref ref-type="bibr" rid="bibr028">Ribes and Lee, 2010</xref>; <xref ref-type="bibr" rid="bibr022">Lutters and Winter, 2011</xref>).</p>
+<p>Another major challenge is the tendency of researchers to select sites that are more accessible or otherwise thought to be more promising for discovery, leading to major geographic biases and global gaps in site selection and observations (<xref ref-type="bibr" rid="bibr023">Martin et al., 2012</xref>). These site selection practices have already been shown to bias the conclusions of archaeological research on human use of land in Amazonia (<xref ref-type="bibr" rid="bibr024">McMichael et al., 2012</xref>) and on the sites of early agricultural domestications (<xref ref-type="bibr" rid="bibr011">Fuller, 2011</xref>). As with the practice of data sharing, it is likely that simply by engaging in assessments of geographic bias in site selection, the utility of more robust and representative site selection practices may be encouraged. However, the ability to make such assessments of geographic and temporal biases at global scale from Pleistocene to present requires that global data representing the global environmental and anthropogenic patterns that would reveal such biases and the statistical tools to use them are available to scientists when selecting sites for field research- which is not the case at present.</p></sec>
+<sec id="s5"><title>Prospects for an Anthropocene collaborative geo-cyberinfrastructure</title>
+<p>Recently, a collaborative geo-computation cyberinfrastructure has been developed to enable real-time quantitative global assessment of geographical biases in sets of local case studies. The online system (The GLOBE project: <uri>http://globe.umbc.edu</uri>; <xref ref-type="bibr" rid="bibr007">Ellis, 2012</xref>) uses spatially explicit global data of a wide range of global environmental and social variables including climates, soils, terrain, population and other key factors relevant to assessing the global representativeness of local land use observations. Enhancing this system with quantitative tools for temporally explicit global assessments would provide a statistically robust empirical framework for evaluating the global significance of human use of land at different time periods from sets of time sequence observations obtained at field sites. A conceptual illustration of such a system is presented in <xref ref-type="fig" rid="elementa.000018.f002">Figure 2</xref>. By design, this system would incentivize and facilitate sharing, georeferencing and harmonization of existing empirical data and expertise from archaeological and paleoecological sites around the world within a robust global statistical framework. Although the existing corpus of site-based observations by archaeologists, paleoecologists, and other paleoenvironmental scientists likely incorporates major gaps in observation across world regions and time periods, the act of assessing these globally would likely stimulate further data gathering in underrepresented regions and time periods.</p>
+<fig id="elementa.000018.f002" position="float">
+<object-id pub-id-type="doi">10.12952/journal.elementa.000018.f002</object-id>
+<label>Figure 2 </label>
+<caption><title>Conceptual design of online Anthropocene collaborative geo-cyberinfrastructure for dating human transformation of the terrestrial biosphere.</title>
+<p>Site data are utilized to estimate human populations and ecosystem transformation across local observing units (eg. hexagonal global map tiles) and these are integrated globally to assess human transformation of the terrestrial biosphere using a global geo-temporal computation engine facilitating collaborations across social networks of experts.</p></caption>
+<graphic position="float" mimetype="image" xlink:type="simple" xlink:href="info:doi/10.12952/journal.elementa.000018.f002"/></fig>
+</sec>
+<sec id="s6"><title>Conclusions</title>
+<p>Both Anthropocene science and Earth stewardship will benefit profoundly from a more robust, detailed and quantitative understanding of the long-term trajectory and significance of human transformation of the biosphere. For example, human transformation of the biosphere is often portrayed as the recent disturbance of a pristine nature by industrial society, with many significant contemporary implications for Earth stewardship, including effective strategies for biodiversity conservation (<xref ref-type="bibr" rid="bibr015">Jackson and Hobbs, 2009</xref>) and the geopolitics of carbon sequestration (<xref ref-type="bibr" rid="bibr026">Pongratz et al., 2011</xref>). The general availability of spatially explicit quantitative global data on the dynamics of human populations and their use of land over the long-term would dramatically enhance efforts to manage and mitigate global climate change, global processes of species extinction and invasion, fire regimes, sedimentary processes and other long-term environmental changes of the Anthropocene. The time is ripe and the prospects are good for a major new transdisciplinary Anthropocene community to come together and make unprecedented progress in understanding the human role in shaping and sustaining the terrestrial biosphere over the long term.</p></sec>
+<sec id="s7" sec-type="copyright-statement"><title>Copyright</title>
+<p>© 2013 Ellis et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</p></sec>
+</body>
+<back><ack><title>Acknowledgments</title>
+<p>Alyson Young assisted with literature review. Kristen Krumhardt prepared Figure 1.</p></ack>
+<ref-list content-type="parsed"><title>References</title>
+<ref id="bibr001">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Bernard</surname><given-names>L</given-names></name>, 
+<name name-style="western"><surname>Mäs</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Müller</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>Henzen</surname><given-names>C</given-names></name>, 
+<name name-style="western"><surname>Brauner</surname><given-names>J</given-names></name>. 
+<year>2013</year>. 
+<article-title>Scientific geodata infrastructures: challenges, approaches and directions</article-title>. 
+<source>International Journal of Digital Earth</source> 
+<volume>2013</volume>: 
+<fpage>1</fpage>–<lpage>21</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr002">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Boyle</surname><given-names>JF</given-names></name>, 
+<name name-style="western"><surname>Gaillard</surname><given-names>M-J</given-names></name>, 
+<name name-style="western"><surname>Kaplan</surname><given-names>JO</given-names></name>, 
+<name name-style="western"><surname>Dearing</surname><given-names>JA</given-names></name>. 
+<year>2011</year>. 
+<article-title>Modelling prehistoric land use and carbon budgets: A critical review</article-title>. 
+<source>The Holocene</source> 
+<volume>21</volume>: 
+<fpage>715</fpage>–<lpage>722</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr003">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Braje</surname><given-names>TJ</given-names></name>, 
+<name name-style="western"><surname>Erlandson</surname><given-names>JM</given-names></name>. 
+<year>2013</year>. 
+<article-title>Human acceleration of animal and plant extinctions: A Late Pleistocene, Holocene, and Anthropocene continuum</article-title>. 
+<source>Anthropocene</source>.</mixed-citation>
+</ref>
+<ref id="bibr004">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Crutzen</surname><given-names>PJ</given-names></name>. 
+<year>2002</year>. 
+<article-title>Geology of mankind</article-title>. 
+<source>Nature</source> 
+<volume>415</volume>: 
+<fpage>23</fpage>–<lpage>23</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr005">
+<mixed-citation publication-type="book">
+<name name-style="western"><surname>Dincauze</surname><given-names>DF</given-names></name>. 
+<year>2000</year>. 
+<source>Environmental Archaeology: Principles and Practice</source>. 
+<publisher-loc>Cambridge, UK</publisher-loc>: 
+<publisher-name>Cambridge University Press</publisher-name>.</mixed-citation>
+</ref>
+<ref id="bibr006">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Ellis</surname><given-names>EC</given-names></name>. 
+<year>2011</year>. 
+<article-title>Anthropogenic transformation of the terrestrial biosphere</article-title>. 
+<source>Proceedings of the Royal Society A: Mathematical, Physical and Engineering Science</source> 
+<volume>369</volume>: 
+<fpage>1010</fpage>–<lpage>1035</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr007">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Ellis</surname><given-names>EC</given-names></name>. 
+<year>2012</year>. 
+<article-title>The GLOBE Project: Accelerating global synthesis of local studies in land change science</article-title>. 
+<source>Newsletter of the Global Land Project</source> 
+<volume>8</volume>: 
+<fpage>5</fpage>–<lpage>6</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr008">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Ellis</surname><given-names>EC</given-names></name>, 
+<name name-style="western"><surname>Kaplan</surname><given-names>JO</given-names></name>, 
+<name name-style="western"><surname>Fuller</surname><given-names>DQ</given-names></name>, 
+<name name-style="western"><surname>Vavrus</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Klein</surname><given-names>Goldewijk K</given-names></name>, <etal>et al.</etal> 
+<year>2013</year>. 
+<article-title>Used planet: A global history</article-title>. 
+<source>Proceedings of the National Academy of Sciences</source> 
+<volume>110</volume>: 
+<fpage>7978</fpage>–<lpage>7985</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr009">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Foley</surname><given-names>JA</given-names></name>, 
+<name name-style="western"><surname>Defries</surname><given-names>R</given-names></name>, 
+<name name-style="western"><surname>Asner</surname><given-names>GP</given-names></name>, 
+<name name-style="western"><surname>Barford</surname><given-names>C</given-names></name>, 
+<name name-style="western"><surname>Bonan</surname><given-names>G</given-names></name>, <etal>et al.</etal> 
+<year>2005</year>. 
+<article-title>Global consequences of land use</article-title>. 
+<source>Science</source> 
+<volume>309</volume>: 
+<fpage>570</fpage>–<lpage>574</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr010">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Fraser</surname><given-names>LH</given-names></name>, 
+<name name-style="western"><surname>Henry</surname><given-names>HAL</given-names></name>, 
+<name name-style="western"><surname>Carlyle</surname><given-names>CN</given-names></name>, 
+<name name-style="western"><surname>White</surname><given-names>SR</given-names></name>, 
+<name name-style="western"><surname>Beierkuhnlein</surname><given-names>C</given-names></name>, <etal>et al.</etal> 
+<year>2013</year>. 
+<article-title>Coordinated distributed experiments: an emerging tool for testing global hypotheses in ecology and environmental science</article-title>. 
+<source>Frontiers in Ecology and the Environment</source> 
+<volume>11</volume>: 
+<fpage>147</fpage>–<lpage>155</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr011">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Fuller</surname><given-names>DQ</given-names></name>. 
+<year>2011</year>. 
+<article-title>Finding Plant Domestication in the Indian Subcontinent</article-title>. 
+<source>Current Anthropology</source> 
+<volume>52</volume>: 
+<fpage>S347</fpage>–<lpage>S362</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr012">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Fuller</surname><given-names>DQ</given-names></name>, 
+<name name-style="western"><surname>Van</surname><given-names>Etten J</given-names></name>, 
+<name name-style="western"><surname>Manning</surname><given-names>K</given-names></name>, 
+<name name-style="western"><surname>Castillo</surname><given-names>C</given-names></name>, 
+<name name-style="western"><surname>Kingwell-Banham</surname><given-names>E</given-names></name>, <etal>et al.</etal> 
+<year>2011</year>. 
+<article-title>The contribution of rice agriculture and livestock pastoralism to prehistoric methane levels: An archaeological assessment</article-title>. 
+<source>The Holocene</source> 
+<volume>21</volume>: 
+<fpage>743</fpage>–<lpage>759</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr013">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Gaillard</surname><given-names>MJ</given-names></name>, 
+<name name-style="western"><surname>Sugita</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Mazier</surname><given-names>F</given-names></name>, 
+<name name-style="western"><surname>Trondman</surname><given-names>AK</given-names></name>, 
+<name name-style="western"><surname>Broström</surname><given-names>A</given-names></name>, <etal>et al.</etal> 
+<year>2010</year>. 
+<article-title>Holocene land-cover reconstructions for studies on land cover-climate feedbacks</article-title>. 
+<source>Clim. Past</source> 
+<volume>6</volume>: 
+<fpage>483</fpage>–<lpage>499</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr014">
+<mixed-citation publication-type="journal">
+<collab>IPCC</collab> 
+<year>2013</year>. 
+<article-title>Climate Change 2013: The Physical Science Basis: A Report of Working Group I of the Intergovernmental Panel on Climate Change</article-title>. 
+<source>IPCC</source>.</mixed-citation>
+</ref>
+<ref id="bibr015">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Jackson</surname><given-names>ST</given-names></name>, 
+<name name-style="western"><surname>Hobbs</surname><given-names>RJ</given-names></name>. 
+<year>2009</year>. 
+<article-title>Ecological Restoration in the Light of Ecological History</article-title>. 
+<source>Science</source> 
+<volume>325</volume>: 
+<fpage>567</fpage>–<lpage>569</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr016">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Jetz</surname><given-names>W</given-names></name>, 
+<name name-style="western"><surname>McPherson</surname><given-names>JM</given-names></name>, 
+<name name-style="western"><surname>Guralnick</surname><given-names>RP</given-names></name>. 
+<year>2012</year>. 
+<article-title>Integrating biodiversity distribution knowledge: toward a global map of life</article-title>. 
+<source>Trends in Ecology &amp; Evolution</source> 
+<volume>27</volume>: 
+<fpage>151</fpage>–<lpage>159</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr017">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Johnson</surname><given-names>CN</given-names></name>, 
+<name name-style="western"><surname>Brook</surname><given-names>BW</given-names></name>. 
+<year>2011</year>. 
+<article-title>Reconstructing the dynamics of ancient human populations from radiocarbon dates: 10 000 years of population growth in Australia</article-title>. 
+<source>Proceedings of the Royal Society B: Biological Sciences</source> 
+<volume>278</volume>: 
+<fpage>3748</fpage>–<lpage>3754</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr018">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Kaplan</surname><given-names>JO</given-names></name>, 
+<name name-style="western"><surname>Krumhardt</surname><given-names>KM</given-names></name>, 
+<name name-style="western"><surname>Ellis</surname><given-names>EC</given-names></name>, 
+<name name-style="western"><surname>Ruddiman</surname><given-names>WF</given-names></name>, 
+<name name-style="western"><surname>Lemmen</surname><given-names>C</given-names></name>, <etal>et al.</etal> 
+<year>2011</year>. 
+<article-title>Holocene carbon emissions as a result of anthropogenic land cover change</article-title>. 
+<source>The Holocene</source> 
+<volume>21</volume>: 
+<fpage>775</fpage>–<lpage>791</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr019">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Karasti</surname><given-names>H</given-names></name>, 
+<name name-style="western"><surname>Baker</surname><given-names>K</given-names></name>, 
+<name name-style="western"><surname>Halkola</surname><given-names>E</given-names></name>. 
+<year>2006</year>. 
+<article-title>Enriching the Notion of Data Curation in E-Science: Data Managing and Information Infrastructuring in the Long Term Ecological Research (LTER) Network</article-title>. 
+<source>Computer Supported Cooperative Work (CSCW)</source> 
+<volume>15</volume>: 
+<fpage>321</fpage>–<lpage>358</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr020">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Klein Goldewijk</surname><given-names>K</given-names></name>, 
+<name name-style="western"><surname>Beusen</surname><given-names>A</given-names></name>, 
+<name name-style="western"><surname>Janssen</surname><given-names>P</given-names></name>. 
+<year>2010</year>. 
+<article-title>Long-term dynamic modeling of global population and built-up area in a spatially explicit way: HYDE 3.1</article-title>. 
+<source>The Holocene</source> 
+<volume>20</volume>: 
+<fpage>565</fpage>–<lpage>573</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr021">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Klein</surname><given-names>Goldewijk K</given-names></name>, 
+<name name-style="western"><surname>Beusen</surname><given-names>A</given-names></name>, 
+<name name-style="western"><surname>van</surname><given-names>Drecht G</given-names></name>, 
+<name name-style="western"><surname>de Vos</surname><given-names>M</given-names></name>. 
+<year>2011</year>. 
+<article-title>The HYDE 3.1 spatially explicit database of human induced global land use change over the past 12,000 years</article-title>. 
+<source>Global Ecology &amp; Biogeography</source> 
+<volume>20</volume>: 
+<fpage>73</fpage>–<lpage>86</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr022">
+<mixed-citation publication-type="book">
+<name name-style="western"><surname>Lutters</surname><given-names>W</given-names></name>, 
+<name name-style="western"><surname>Winter</surname><given-names>S</given-names></name>. 
+<year>2011</year>. 
+<chapter-title>Virtual organizations</chapter-title>. In 
+<string-name name-style="western"><surname>Bainbridge</surname><given-names>WS</given-names></string-name> ed., 
+<source>Leadership in Science and Technology: A Reference Handbook</source>. 
+<publisher-loc>Los Angeles</publisher-loc>: <publisher-name>Sage</publisher-name>.</mixed-citation>
+</ref>
+<ref id="bibr023">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Martin</surname><given-names>LJ</given-names></name>, 
+<name name-style="western"><surname>Blossey</surname><given-names>B</given-names></name>, 
+<name name-style="western"><surname>Ellis</surname><given-names>E</given-names></name>. 
+<year>2012</year>. 
+<article-title>Mapping where ecologists work: biases in the global distribution of terrestrial ecological observations</article-title>. 
+<source>Frontiers in Ecology and the Environment</source> 
+<volume>10</volume>: 
+<fpage>195</fpage>–<lpage>201</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr024">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>McMichael</surname><given-names>CH</given-names></name>, 
+<name name-style="western"><surname>Piperno</surname><given-names>DR</given-names></name>, 
+<name name-style="western"><surname>Bush</surname><given-names>MB</given-names></name>, 
+<name name-style="western"><surname>Silman</surname><given-names>MR</given-names></name>, 
+<name name-style="western"><surname>Zimmerman</surname><given-names>AR</given-names></name>, <etal>et al.</etal> 
+<year>2012</year>. 
+<article-title>Sparse Pre-Columbian Human Habitation in Western Amazonia</article-title>. 
+<source>Science</source> 
+<volume>336</volume>: 
+<fpage>1429</fpage>–<lpage>1431</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr025">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Newman</surname><given-names>G</given-names></name>, 
+<name name-style="western"><surname>Wiggins</surname><given-names>A</given-names></name>, 
+<name name-style="western"><surname>Crall</surname><given-names>A</given-names></name>, 
+<name name-style="western"><surname>Graham</surname><given-names>E</given-names></name>, 
+<name name-style="western"><surname>Newman</surname><given-names>S</given-names></name>, <etal>et al.</etal> 
+<year>2012</year>. 
+<article-title>The future of citizen science: emerging technologies and shifting paradigms</article-title>. 
+<source>Frontiers in Ecology and the Environment</source> 
+<volume>10</volume>: 
+<fpage>298</fpage>–<lpage>304</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr026">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Pongratz</surname><given-names>J</given-names></name>, 
+<name name-style="western"><surname>Reick</surname><given-names>CH</given-names></name>, 
+<name name-style="western"><surname>Raddatz</surname><given-names>T</given-names></name>, 
+<name name-style="western"><surname>Caldeira</surname><given-names>K</given-names></name>, 
+<name name-style="western"><surname>Claussen</surname><given-names>M</given-names></name>. 
+<year>2011</year>. 
+<article-title>Past land use decisions have increased mitigation potential of reforestation</article-title>. 
+<source>Geophysical Research Letters</source> 
+<volume>38</volume>: 
+<fpage>L15701</fpage>.</mixed-citation>
+</ref>
+<ref id="bibr027">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Prentice</surname><given-names>IC</given-names></name>, 
+<name name-style="western"><surname>Webb</surname><given-names>T</given-names><suffix>III</suffix></name>. 
+<year>1998</year>. 
+<article-title>BIOME 6000: reconstructing global mid-Holocene vegetation patterns from palaeoecological records</article-title>. 
+<source>Journal Of Biogeography</source> 
+<volume>25</volume>: 
+<fpage>997</fpage>–<lpage>1005</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr028">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Ribes</surname><given-names>D</given-names></name>, 
+<name name-style="western"><surname>Lee</surname><given-names>C</given-names></name>. 
+<year>2010</year>. 
+<article-title>Sociotechnical Studies of Cyberinfrastructure and e-Research: Current Themes and Future Trajectories</article-title>. 
+<source>Computer Supported Cooperative Work (CSCW)</source> 
+<volume>19</volume>: 
+<fpage>231</fpage>–<lpage>244</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr029">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Ruddiman</surname><given-names>WF</given-names></name>. 
+<year>2013</year>. 
+<article-title>The Anthropocene</article-title>. 
+<source>Annual Review of Earth and Planetary Sciences</source> 
+<volume>41</volume>: 
+<fpage>45</fpage>–<lpage>68</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr030">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Seddon</surname><given-names>AWR</given-names></name>, 
+<name name-style="western"><surname>MacKay</surname><given-names>AW</given-names></name>, 
+<name name-style="western"><surname>Baker</surname><given-names>AG</given-names></name>, 
+<name name-style="western"><surname>Birks</surname><given-names>HJB</given-names></name>, 
+<name name-style="western"><surname>Breman</surname><given-names>E</given-names></name>, <etal>et al.</etal> 
+2014. 
+<article-title>Looking forward through the past. Identification of fifty priority research questions in palaeoecology</article-title>. 
+<source>Journal of Ecology</source>. doi: 
+<pub-id pub-id-type="doi">10.1111/1365-2745.12195</pub-id></mixed-citation>
+</ref>
+<ref id="bibr031">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Shennan</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Downey</surname><given-names>SS</given-names></name>, 
+<name name-style="western"><surname>Timpson</surname><given-names>A</given-names></name>, 
+<name name-style="western"><surname>Edinborough</surname><given-names>K</given-names></name>, 
+<name name-style="western"><surname>Colledge</surname><given-names>S</given-names></name>, <etal>et al.</etal> 
+<year>2013</year>. 
+<article-title>Regional population collapse followed initial agriculture booms in mid-Holocene Europe</article-title>. 
+<source>Nat Commun</source> <volume>4</volume>.</mixed-citation>
+</ref>
+<ref id="bibr032">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Smith</surname><given-names>BD</given-names></name>, 
+<name name-style="western"><surname>Zeder</surname><given-names>MA</given-names></name>. MITH, 
+<year>2013</year>. 
+<article-title>The Onset of the Anthropocene</article-title>. 
+<source>Anthropocene</source>. 
+<uri>http://dx.doi.org/10.1016/j.ancene.2013.05.001</uri>
+</mixed-citation>
+</ref>
+<ref id="bibr033">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Steffen</surname><given-names>W</given-names></name>, 
+<name name-style="western"><surname>Crutzen</surname><given-names>PJ</given-names></name>, 
+<name name-style="western"><surname>McNeill</surname><given-names>JR</given-names></name>. 
+<year>2007</year>. 
+<article-title>The Anthropocene: Are Humans Now Overwhelming the Great Forces of Nature</article-title>. 
+<source>AMBIO: A Journal of the Human Environment</source> 
+<volume>36</volume>: 
+<fpage>614</fpage>–<lpage>621</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr034">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Steffen</surname><given-names>W</given-names></name>, 
+<name name-style="western"><surname>Grinevald</surname><given-names>J</given-names></name>, 
+<name name-style="western"><surname>Crutzen</surname><given-names>P</given-names></name>, 
+<name name-style="western"><surname>McNeill</surname><given-names>J</given-names></name>. 
+<year>2011</year>. 
+<article-title>The Anthropocene: Conceptual and historical perspectives</article-title>. 
+<source>Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences</source> 
+<volume>369</volume>: 
+<fpage>842</fpage>–<lpage>867</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr035">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Syvitski</surname><given-names>JPM</given-names></name>, 
+<name name-style="western"><surname>Kettner</surname><given-names>A</given-names></name>. 
+<year>2011</year>. 
+<article-title>Sediment flux and the Anthropocene</article-title>. 
+<source>Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences</source> 
+<volume>369</volume>: 
+<fpage>957</fpage>–<lpage>975</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr036">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Tallis</surname><given-names>H</given-names></name>, 
+<name name-style="western"><surname>Mooney</surname><given-names>H</given-names></name>, 
+<name name-style="western"><surname>Andelman</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Balvanera</surname><given-names>P</given-names></name>, 
+<name name-style="western"><surname>Cramer</surname><given-names>W</given-names></name>, <etal>et al.</etal> 
+<year>2012</year>. 
+<article-title>A Global System for Monitoring Ecosystem Service Change</article-title>. 
+<source>BioScience</source> 
+<volume>62</volume>: 
+<fpage>977</fpage>–<lpage>986</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr037">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Vihervaara</surname><given-names>P</given-names></name>, 
+<name name-style="western"><surname>D’Amato</surname><given-names>D</given-names></name>, 
+<name name-style="western"><surname>Forsius</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>Angelstam</surname><given-names>P</given-names></name>, 
+<name name-style="western"><surname>Baessler</surname><given-names>C</given-names></name>, <etal>et al.</etal> 
+<year>2013</year>. 
+<article-title>Using long-term ecosystem service and biodiversity data to study the impacts and adaptation options in response to climate change: insights from the global ILTER sites network</article-title>. 
+<source>Current Opinion in Environmental Sustainability</source> 
+<volume>5</volume>: 
+<fpage>53</fpage>–<lpage>66</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr038">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Zalasiewicz</surname><given-names>J</given-names></name>, 
+<name name-style="western"><surname>Williams</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>Haywood</surname><given-names>A</given-names></name>, 
+<name name-style="western"><surname>Ellis</surname><given-names>M</given-names></name>. 
+<year>2011</year>. 
+<article-title>The Anthropocene: a new epoch of geological time</article-title>? 
+<source>Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences</source> 
+<volume>369</volume>: 
+<fpage>835</fpage>–<lpage>841</lpage>.</mixed-citation>
+</ref>
+</ref-list>
+</back>
+</article>

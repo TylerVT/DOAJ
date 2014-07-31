@@ -1,0 +1,1723 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article" dtd-version="1.0" xml:lang="en">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">BioOne</journal-id>
+<journal-id journal-id-type="journal-id">Elementa</journal-id>
+<journal-title-group>
+<journal-title>Elementa</journal-title>
+<journal-subtitle>Science of the Anthropocene</journal-subtitle>
+<abbrev-journal-title>Elem. Sci. Anth.</abbrev-journal-title>
+</journal-title-group>
+<contrib-group>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Helmig</surname><given-names>Detlev</given-names></name>
+<xref ref-type="aff" rid="affa"/>
+<role>Editor-in-Chief: Atmospheric Science</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/detlev-helmig/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Blum</surname><given-names>Joel D.</given-names></name>
+<xref ref-type="aff" rid="affb"/>
+<role>Editor-in-Chief: Earth &amp; Environmental Science</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/joel-d-blum/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Zak</surname><given-names>Donald R.</given-names></name>
+<xref ref-type="aff" rid="affb"/>
+<role>Editor-in-Chief: Ecology</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/donald-r-zak/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Deming</surname><given-names>Jody W.</given-names></name>
+<xref ref-type="aff" rid="affc"/>
+<role>Editor-in-Chief: Ocean Science</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/jody-w-deming/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Chang</surname><given-names>Michael E.</given-names></name>
+<xref ref-type="aff" rid="affd"/>
+<role>Editor-in-Chief: Sustainable Engineering</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/michael-e-chang/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Kapuscinski</surname><given-names>Anne</given-names></name>
+<xref ref-type="aff" rid="affe"/>
+<role>Editor-in-Chief: Sustainability Transitions</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/anne-kapuscinski/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Peart</surname><given-names>David R.</given-names></name>
+<xref ref-type="aff" rid="affe"/>
+<role>Editor-in-Chief: Sustainability Transitions</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/david-r-peart/</uri>
+</contrib>
+</contrib-group>
+<aff id="affa">
+<institution>University of Colorado Boulder</institution>
+<country>United States</country>
+</aff>
+<aff id="affb">
+<institution>University of Michigan</institution>
+<country>United States</country>
+</aff>
+<aff id="affc">
+<institution>University of Washington</institution>
+<country>United States</country>
+</aff>
+<aff id="affd">
+<institution>Georgia Institute of Technology</institution>
+<country>United States</country>
+</aff>
+<aff id="affe">
+<institution>Dartmouth</institution>
+<country>United States</country>
+</aff>
+<issn pub-type="epub">2325-1026</issn>
+<publisher>
+<publisher-name>BioOne</publisher-name>
+<publisher-loc>21 Dupont Circle NW, Suite 800, Washington, DC 20036, United States<email>team@elementascience.org</email>
+<uri>http://bioone.org</uri><uri>http://elementascience.org</uri>
+</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">ELEMENTA-D-13-00002</article-id>
+<article-id pub-id-type="doi">10.12952/journal.elementa.000022</article-id>
+<article-categories>
+<subj-group subj-group-type="article-type">
+<subject>Research Article</subject>
+</subj-group>
+<subj-group subj-group-type="domain">
+<subject>Ocean Science</subject>
+</subj-group>
+<subj-group subj-group-type="classification">
+<subject>Ecology</subject>
+</subj-group>
+<subj-group subj-group-type="classification">
+<subject>Ocean Science</subject>
+<subj-group>
+<subject>Biological Oceanography</subject>
+</subj-group>
+<subj-group>
+<subject>Interdisciplinary Themes</subject>
+<subj-group>
+<subject>Biogeochemical Cycles</subject>
+<subject>Coastal Eutrophication</subject>
+</subj-group>
+</subj-group>
+<subj-group>
+<subject>Regions</subject>
+<subj-group>
+<subject>Gulf of Mexico</subject>
+</subj-group>
+</subj-group>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Simulated reduction of hypoxia in the northern Gulf of Mexico due to phosphorus limitation</article-title>
+<alt-title alt-title-type="short-title">P limitation reduces hypoxia in NGOM</alt-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Laurent</surname><given-names>Arnaud</given-names></name>
+<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+<xref ref-type="corresp" rid="cor1"><sup>*</sup></xref></contrib>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Fennel</surname><given-names>Katja</given-names></name>
+<xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib>
+</contrib-group>
+<aff id="aff1"><label>1</label><institution content-type="dept">Department of Oceanography</institution>, <institution>Dalhousie University</institution>, <addr-line content-type="city">Halifax</addr-line>, <addr-line content-type="state">Nova Scotia</addr-line>, <country>Canada</country></aff>
+<contrib-group>
+<contrib contrib-type="domain-editor-in-chief" xlink:type="simple">
+<name name-style="western"><surname>Deming</surname><given-names>Jody W.</given-names></name>
+<xref ref-type="aff" rid="afff"/>
+<role>Domain Editor-in-Chief</role>
+</contrib>
+<contrib contrib-type="associate-editor" xlink:type="simple">
+<name name-style="western"><surname>Miller</surname><given-names>Lisa A.</given-names></name>
+<xref ref-type="aff" rid="affg"/>
+<role>Associate Editor</role>
+</contrib>
+</contrib-group>
+<aff id="afff">
+<institution content-type="dept">Department of Biological Oceanography</institution>
+<institution>University of Washington</institution>
+<addr-line content-type="city">Seattle</addr-line>
+<addr-line content-type="state">Washington</addr-line>
+<country>United States</country>
+</aff>
+<aff id="affg">
+<institution content-type="dept">Institute of Ocean Sciences</institution>
+<institution>Fisheries and Oceans Canada</institution>
+<addr-line content-type="city">Sidney</addr-line>
+<addr-line content-type="state">British Columbia</addr-line>
+<country>Canada</country>
+</aff>
+<author-notes><corresp id="cor1"><label><sup>*</sup></label><email xlink:type="simple">arnaud.laurent@dal.ca</email></corresp>
+<fn fn-type="conflict"><p>The authors declare that they have no financial or non-financial competing interests.</p></fn>
+<fn fn-type="con">
+<p>Contributed to conception and design: AL, KF</p>
+<p>Contributed to model simulations: AL, KF</p>
+<p>Contributed to analysis and interpretation of data: AL, KF</p>
+<p>Drafted the article: AL, KF</p>
+<p>Approved the submitted version for publication: AL, KF</p></fn>
+</author-notes>
+<pub-date pub-type="collection" iso-8601-date="2014-02-05">
+<day>05</day>
+<month>02</month>
+<year>2014</year>
+</pub-date>
+<pub-date pub-type="epub" iso-8601-date="2014-02-05">
+<day>05</day>
+<month>02</month>
+<year>2014</year>
+</pub-date>
+<volume content-type="volume">2</volume>
+<elocation-id>000022</elocation-id>
+<history>
+<date date-type="received" iso-8601-date="2013-06-04">
+<day>04</day>
+<month>06</month>
+<year>2013</year>
+</date>
+<date date-type="rev-recd" iso-8601-date="2013-11-06">
+<day>06</day>
+<month>11</month>
+<year>2013</year>
+</date>
+<date date-type="accepted" iso-8601-date="2013-12-08">
+<day>08</day>
+<month>12</month>
+<year>2013</year>
+</date>
+</history>
+<permissions>
+<copyright-year>2014</copyright-year>
+<copyright-holder>Laurent and Fennel</copyright-holder>
+<license license-type="open-access" xlink:type="simple">
+<license-p><open-access><p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</p>
+</open-access>
+</license-p>
+</license>
+</permissions>
+<abstract><title>Abstract</title>
+<p>Excess nutrient loading from the Mississippi-Atchafalaya River system promotes the seasonal development of hypoxic bottom waters on the Louisiana shelf with detrimental effects on the benthic fauna. In the Mississippi River plume, primary production becomes phosphorus-limited between May and July at the peak of nutrient loading, displacing a portion of primary production and depositional fluxes westward. Here we quantitatively assessed, for the first time, the effect of phosphorus limitation on hypoxia development in the Mississippi-Atchafalaya River plume using a realistic physical-biogeochemical model. Results indicate that, despite a redistribution of respiration processes toward the western shelf, phosphorus limitation does not promote a westward expansion or relocation of hypoxia, as previously speculated. Rather, the onset of hypoxia was delayed and the size of the hypoxic zone reduced. Sensitivity experiments showed that this feature is robust in our model. Results from simulations with altered river input indicate that, despite phosphorus limitation, the co-reduction of nitrogen and phosphorus loads remains the best strategy to reduce hypoxia. Yet, even though nutrient load reductions have an immediate effect on hypoxia in this analysis, a 50% reduction in both nutrients will not be sufficient to meet the Gulf Hypoxia action plan goal of a 5·10<sup>3</sup> km<sup>2</sup> hypoxic area.</p>
+</abstract>
+<kwd-group>
+<kwd>phosphorus limitation</kwd>
+<kwd>hypoxia</kwd>
+<kwd>Gulf of Mexico</kwd>
+</kwd-group>
+<funding-group>
+<award-group award-type="grant"><funding-source country="US">NOAA CSCOR</funding-source><award-id>NA09NOS4780208</award-id></award-group><funding-statement>This work was supported by NOAA CSCOR grant NA09NOS4780208.</funding-statement></funding-group>
+</article-meta>
+</front>
+<body>
+<sec id="s1"><title>Introduction</title>
+<p>Coastal eutrophication associated with excess nitrogen (N) and phosphorus (P) loads from rivers has resulted in a worldwide expansion of bottom-water hypoxia (defined hereafter as O<sub>2 </sub>&lt; 2 mg 1<sup>−1</sup> or 62.5 mmol O<sub>2</sub> m<sup>−3</sup>; <xref ref-type="bibr" rid="bibr007">Diaz and Rosenberg, 2008</xref>; <xref ref-type="bibr" rid="bibr004">Conley et al., 2009</xref>). Hypoxia causes mortality of benthic organisms and has detrimental effects on the foodweb (<xref ref-type="bibr" rid="bibr020">Kidwell et al., 2009</xref>). In North America, the largest coastal hypoxic area is located on the Louisiana shelf, which is influenced by the Mississippi-Atchafalaya River plume (<xref ref-type="bibr" rid="bibr037">Rabalais et al., 2002</xref>). Nutrient loading from the Mississippi-Atchafalaya River basin has increased in the last 50 years, resulting in enhanced primary production (<xref ref-type="bibr" rid="bibr023">Lohrenz et al., 1997</xref>) and a concomitant intensification of bottom-water hypoxia (<xref ref-type="bibr" rid="bibr047">Turner et al., 2006</xref>; <xref ref-type="bibr" rid="bibr032">Osterman et al., 2009</xref>).</p>
+<p>River inputs of dissolved inorganic N (DIN) have increased faster than inputs of dissolved inorganic P (DIP). As a result, P-limited primary production is now observed in the Mississippi-Atchafalaya River plume between May and July at the peak of nutrient loading (<xref ref-type="bibr" rid="bibr001">Ammerman, 1992</xref>; <xref ref-type="bibr" rid="bibr008">Dortch and Whitledge, 1992</xref>; <xref ref-type="bibr" rid="bibr042">Smith and Hitchcock, 1994</xref>; <xref ref-type="bibr" rid="bibr044">Sylvan et al., 2006</xref>, <xref ref-type="bibr" rid="bibr045">2007</xref>, <xref ref-type="bibr" rid="bibr043">2011</xref>; <xref ref-type="bibr" rid="bibr034">Quigg et al., 2011</xref>). Transient P limitation in spring is a common feature of estuarine systems (<xref ref-type="bibr" rid="bibr003">Conley, 2000</xref>). During P limitation, the excess DIN is transported downstream where it supports primary production in otherwise N-limited coastal waters. This downstream shift of the P-limited primary production has been recorded in several eutrophied systems (e.g., Neuse River estuary, Baltic Sea) following P reduction management measures (<xref ref-type="bibr" rid="bibr013">Granéli et al., 1990</xref>; <xref ref-type="bibr" rid="bibr033">Paerl et al., 2004</xref>).</p>
+<p>Some have speculated that this westward shift of primary production and particulate organic matter (POM) deposition enhances bottom O<sub>2</sub> depletion on the western shelf, resulting in an expansion of the hypoxic zone (<xref ref-type="bibr" rid="bibr038">Scavia and Donnelly, 2007</xref>; <xref ref-type="bibr" rid="bibr034">Quigg et al., 2011</xref>). On the other hand, P limitation could dilute eutrophication effects over the Louisiana shelf (<xref ref-type="bibr" rid="bibr034">Quigg et al., 2011</xref>) resulting in a reduced hypoxic zone. Here, we quantitatively assessed the effect of P limitation on hypoxia development with a realistic physical-biogeochemical model.</p>
+<p>The objectives of this study were to establish whether P limitation is likely to expand or contract the hypoxic zone on the Louisiana shelf and to determine the underlying mechanisms. Results from a 7-yr simulation (2001–2007) were analyzed, contrasted against simulations without P limitation, and compared with observations. The consequences of varying river inputs were assessed in a series of sensitivity experiments.</p></sec>
+<sec id="s2"><title>Model description and experiments</title>
+<p>The model is configured with the Regional Ocean Modeling System (ROMS) (<xref ref-type="bibr" rid="bibr041">Shchepetkin and McWilliams, 2005</xref>; <xref ref-type="bibr" rid="bibr014">Haidvogel et al., 2008</xref>) to simulate water circulation on the northern Gulf of Mexico shelf near the Mississippi and Atchafalaya River outflows (<xref ref-type="bibr" rid="bibr15">Hetland and DiMarco, 2008</xref>, <xref ref-type="bibr" rid="bibr016">2012</xref>). The model has 20 layers with increased resolution near the surface and bottom. Horizontal resolution varies from ∼ 20 km in the southwestern corner to up to 1 km near the Mississippi River delta. Atmospheric forcing was prescribed with 3-h winds from the NCEP North American Regional Reanalysis data set (<xref ref-type="bibr" rid="bibr028">Mesinger et al., 2006</xref>) and with surface heat and freshwater flux climatologies (<xref ref-type="bibr" rid="bibr005">da Silva et al., 1994a</xref>, <xref ref-type="bibr" rid="bibr006">1994b</xref>). Daily freshwater fluxes from the Mississippi and Atchafalaya Rivers were prescribed using freshwater transports estimated by the US Army Corps of Engineers at Tarbert Landing and Simmesport, respectively. Nutrient and POM loading are based on monthly nutrient flux estimates from the U.S. Geological Survey (<xref ref-type="bibr" rid="bibr002">Aulenbach et al., 2007</xref>).</p>
+<p>The biogeochemical model (<xref ref-type="fig" rid="elementa.000022.f001">Figure 1</xref>) is based on the pelagic N-cycle model of <xref ref-type="bibr" rid="bibr011">Fennel et al. (2006</xref>, <xref ref-type="bibr" rid="bibr012">2008</xref>, <xref ref-type="bibr" rid="bibr009">2011)</xref>. The N-cycle model includes two forms of DIN, nitrate (NO<sub>3</sub>) and ammonium (NH<sub>4</sub>), phytoplankton, chlorophyll, zooplankton and two pools of POM, one that is suspended and sinks slowly and one that represents fast-sinking detrital matter. The model was recently extended to include DIP (<xref ref-type="bibr" rid="bibr021">Laurent et al., 2012</xref>) and dissolved O<sub>2</sub> (<xref ref-type="bibr" rid="bibr010">Fennel et al., 2013</xref>). Phytoplankton growth is limited by temperature, light and nutrients. The degree of nutrient limitation is determined by the most limiting nutrient, either DIN (N limitation) or DIP (P limitation) as described in <xref ref-type="bibr" rid="bibr021">Laurent et al. (2012)</xref>. Phytoplankton and suspended detrital matter aggregate into fast-sinking detritus at a rate proportional to their squared concentrations. Sinking POM is instantly remineralized into NH<sub>4</sub> and DIP at the sediment-water interface. All P is returned to the water column as DIP but a constant fraction of N is lost through denitrification in the sediment. A detailed description of this instant remineralization (IR) parameterization is given in <xref ref-type="bibr" rid="bibr011">Fennel et al. (2006</xref>, <xref ref-type="bibr" rid="bibr010">2013)</xref>.</p>
+<fig id="elementa.000022.f001" position="float">
+<object-id pub-id-type="doi">10.12952/journal.elementa.000022.f001</object-id>
+<label>Figure 1</label>
+<caption><title>Schematic of the biogeochemical model representing ecosystem processes and O<sub>2</sub> dynamics.</title>
+<p>DIP and its related processes (shown in blue in the figure) are represented in the control simulations but not in the N-only simulations.</p></caption>
+<graphic position="float" mimetype="image" xlink:type="simple" xlink:href="info:doi/10.12952/journal.elementa.000022.f001">
+</graphic></fig>
+<p>In the model, O<sub>2</sub> is produced during primary production, consumed during respiration in the water column and in the sediment, and exchanged with the atmosphere across the air-sea interface (<xref ref-type="fig" rid="elementa.000022.f001">Figure 1</xref>). Consumption of O<sub>2</sub> in the water column occurs through zooplankton respiration, POM remineralization and light-dependent nitrification. The IR parameterization assumes that O<sub>2</sub> is consumed in the sediment due to nitrification and aerobic remineralization only; it uses a fixed ratio between aerobic remineralization of organic matter and denitrification according to the linear relationship between sediment oxygen consumption and denitrification of <xref ref-type="bibr" rid="bibr040">Seitzinger and Giblin (1996)</xref>. Alternatively, sediment respiration can be parameterized dependent on bottom water O<sub>2</sub> concentration and temperature as suggested by <xref ref-type="bibr" rid="bibr15">Hetland and DiMarco (2008)</xref>. This alternative parameterization (which we refer to as H&amp;D) improves the agreement between simulated and observed distributions of bottom water O<sub>2</sub> on the Louisiana shelf compared to the IR parameterization (<xref ref-type="bibr" rid="bibr010">Fennel et al., 2013</xref>). However, in the H&amp;D parameterization sediment respiration does not depend on POM deposition and is completely insensitive to nutrient load. We have shown previously that P limitation influences the pattern of POM deposition (<xref ref-type="bibr" rid="bibr021">Laurent et al., 2012</xref>) and that sediment respiration represents a significant O<sub>2</sub> sink in bottom waters of the Louisiana shelf (<xref ref-type="bibr" rid="bibr010">Fennel et al. 2013</xref>; also see <xref ref-type="bibr" rid="bibr036">Quiñones-Rivera et al., 2010</xref>). The sensitivity of sediment respiration to POM deposition is thus essential to the objectives of this study; because the H&amp;D parameterization is not appropriate, we used the IR parameterization.</p>
+<p>Two types of simulations (all for the period 2001–2007) were carried out: control simulations, which used the complete model with DIP and dissolved O<sub>2</sub> as described above, and N-only simulations, where DIP was disabled but with otherwise identical settings. In the latter case, DIP is not represented in the model and therefore never limits primary production (see <xref ref-type="fig" rid="elementa.000022.f001">Figure 1</xref>). Differences in results between the two simulations (hereafter defined as the result of the control simulation minus the result of the N-only simulation) indicate the effect of P limitation on biological dynamics. A pair of the above simulations was carried out with realistic river discharge and nutrient loads (referred to as the baseline simulations). In addition, six pairs of simulations with modified river forcing (as listed in <xref ref-type="table" rid="elementa.000022.t001">Table 1</xref>) were carried out to investigate the sensitivity of the results to variable river inputs of DIN, DIP and freshwater.</p>
+<table-wrap id="elementa.000022.t001" position="float">
+<object-id pub-id-type="doi">10.12952/journal.elementa.000022.t001</object-id>
+<label>Table 1. </label>
+<caption><title>Selected metrics for the baseline simulations and the sensitivity experiments in 2004.</title>
+<p>Hypoxia duration and respiration are reported for stations W and E (see locations in <xref ref-type="fig" rid="elementa.000022.f001">Figure 1</xref>). Respiration is given as the July average at station E and the August average at station W. P-limited area is an average in July (i.e. the average of daily P-limited area estimates in July). Hypoxic area is the July–August average (i.e. the average of daily hypoxic area estimates in July and August). Hypoxia duration is the total number of days with hypoxia in 2004 at a given station. Effect of P limitation (in parenthesis) was calculated for each experiment by taking the result of the control simulation (complete model with P limitation) minus the N-only simulation (model without P) and reported as percent change relative to the N-only simulation.</p></caption>
+<alternatives>
+<graphic id="elementa.000022.t001-i" position="float" mimetype="image" xlink:type="simple" xlink:href="info:doi/10.12952/journal.elementa.000022.t001"/> 
+<table>
+<colgroup span="1">
+<col width="10%" span="1"/>
+<col width="20%" span="1"/>
+<col width="10%" span="1"/>
+<col width="10%" span="1"/>
+<col width="10%" span="1"/>
+<col width="10%" span="1"/>
+<col width="10%" span="1"/>
+<col width="10%" span="1"/>
+<col width="10%" span="1"/>
+</colgroup>
+<thead>
+<tr>
+<th rowspan="1" colspan="1">
+</th>
+<th rowspan="1" colspan="1">
+</th>
+<th colspan="3" rowspan="1">
+Bottom water hypoxia
+</th>
+<th colspan="4" rowspan="1">
+Respiration (mmol O<sub>2</sub> m<sup>−2</sup> d<sup>−1</sup>)
+</th>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+Model
+</th>
+<th rowspan="1" colspan="1">
+P-limited area
+</th>
+<th rowspan="1" colspan="1">
+Area
+</th>
+<th colspan="2" rowspan="1">
+Duration (days)
+</th>
+<th colspan="2" rowspan="1">
+Water column
+</th>
+<th colspan="2" rowspan="1">
+Sediment
+</th>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+</th>
+<th rowspan="1" colspan="1">(10<sup>4</sup> km<sup>2</sup>)
+</th>
+<th rowspan="1" colspan="1">
+(10<sup>4</sup> km<sup>2</sup>)
+</th>
+<th rowspan="1" colspan="1">
+W
+</th>
+<th rowspan="1" colspan="1">
+E
+</th>
+<th rowspan="1" colspan="1">
+W
+</th>
+<th rowspan="1" colspan="1">
+E
+</th>
+<th rowspan="1" colspan="1">
+W
+</th>
+<th rowspan="1" colspan="1">
+E
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="9" align="center" rowspan="1">
+<bold>Baseline simulation</bold>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+N-only 
+</td>
+<td rowspan="1" colspan="1">
+-
+</td>
+<td rowspan="1" colspan="1">
+1.9
+</td>
+<td rowspan="1" colspan="1">
+17
+</td>
+<td rowspan="1" colspan="1">
+87
+</td>
+<td rowspan="1" colspan="1">
+75.3
+</td>
+<td rowspan="1" colspan="1">
+140.4
+</td>
+<td rowspan="1" colspan="1">
+16.4
+</td>
+<td rowspan="1" colspan="1">
+152.6
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+Control 
+</td>
+<td rowspan="1" colspan="1">
+5.1
+</td>
+<td rowspan="1" colspan="1">
+1.5
+</td>
+<td rowspan="1" colspan="1">
+18
+</td>
+<td rowspan="1" colspan="1">
+60
+</td>
+<td rowspan="1" colspan="1">
+100.4
+</td>
+<td rowspan="1" colspan="1">
+115.0
+</td>
+<td rowspan="1" colspan="1">
+22.0
+</td>
+<td rowspan="1" colspan="1">
+96.4
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+(effect)
+</td>
+<td rowspan="1" colspan="1">
+-
+</td>
+<td rowspan="1" colspan="1">
+(−23%)
+</td>
+<td rowspan="1" colspan="1">
+(+6%)
+</td>
+<td rowspan="1" colspan="1">
+(−31%)
+</td>
+<td rowspan="1" colspan="1">
+(+33%)
+</td>
+<td rowspan="1" colspan="1">
+(−18%)
+</td>
+<td rowspan="1" colspan="1">
+(+34%)
+</td>
+<td rowspan="1" colspan="1">
+(−37%)
+</td>
+</tr>
+<tr>
+<td colspan="9" align="center" rowspan="1">
+<bold>Sensitivity 1: +50% nutrients</bold>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+N-only 
+</td>
+<td rowspan="1" colspan="1">
+-
+</td>
+<td rowspan="1" colspan="1">
+2.6
+</td>
+<td rowspan="1" colspan="1">
+45
+</td>
+<td rowspan="1" colspan="1">
+96
+</td>
+<td rowspan="1" colspan="1">
+101.2
+</td>
+<td rowspan="1" colspan="1">
+152.6
+</td>
+<td rowspan="1" colspan="1">
+24.8
+</td>
+<td rowspan="1" colspan="1">
+186.2
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+Control 
+</td>
+<td rowspan="1" colspan="1">
+6.0
+</td>
+<td rowspan="1" colspan="1">
+1.9
+</td>
+<td rowspan="1" colspan="1">
+39
+</td>
+<td rowspan="1" colspan="1">
+68
+</td>
+<td rowspan="1" colspan="1">
+128.3
+</td>
+<td rowspan="1" colspan="1">
+123.3
+</td>
+<td rowspan="1" colspan="1">
+32.0
+</td>
+<td rowspan="1" colspan="1">
+111.6
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+(effect)
+</td>
+<td rowspan="1" colspan="1">
+-
+</td>
+<td rowspan="1" colspan="1">
+(−26%)
+</td>
+<td rowspan="1" colspan="1">
+(−13%)
+</td>
+<td rowspan="1" colspan="1">
+(−29%)
+</td>
+<td rowspan="1" colspan="1">
+(+27%)
+</td>
+<td rowspan="1" colspan="1">
+(−20%)
+</td>
+<td rowspan="1" colspan="1">
+(+29%)
+</td>
+<td rowspan="1" colspan="1">
+(−40%)
+</td>
+</tr>
+<tr>
+<td colspan="9" align="center" rowspan="1">
+<bold>Sensitivity 2: −50% nutrients</bold>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+N-only 
+</td>
+<td rowspan="1" colspan="1">
+-
+</td>
+<td rowspan="1" colspan="1">
+1.3
+</td>
+<td rowspan="1" colspan="1">
+0
+</td>
+<td rowspan="1" colspan="1">
+66
+</td>
+<td rowspan="1" colspan="1">
+46.7
+</td>
+<td rowspan="1" colspan="1">
+118.7
+</td>
+<td rowspan="1" colspan="1">
+9.1
+</td>
+<td rowspan="1" colspan="1">
+113.9
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+Control 
+</td>
+<td rowspan="1" colspan="1">
+3.6
+</td>
+<td rowspan="1" colspan="1">
+1.2
+</td>
+<td rowspan="1" colspan="1">
+0
+</td>
+<td rowspan="1" colspan="1">
+56
+</td>
+<td rowspan="1" colspan="1">
+57.6
+</td>
+<td rowspan="1" colspan="1">
+104.4
+</td>
+<td rowspan="1" colspan="1">
+11.1
+</td>
+<td rowspan="1" colspan="1">
+78.1
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+(effect)
+</td>
+<td rowspan="1" colspan="1">
+-
+</td>
+<td rowspan="1" colspan="1">
+(−13%)
+</td>
+<td rowspan="1" colspan="1">
+-
+</td>
+<td rowspan="1" colspan="1">
+(−15%)
+</td>
+<td rowspan="1" colspan="1">
+(+23%)
+</td>
+<td rowspan="1" colspan="1">
+(−12%)
+</td>
+<td rowspan="1" colspan="1">
+(+22%)
+</td>
+<td rowspan="1" colspan="1">
+(−31%)
+</td>
+</tr>
+<tr>
+<td colspan="9" align="center" rowspan="1">
+<bold>Sensitivity 3: −50% DIN</bold>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+N-only 
+</td>
+<td rowspan="1" colspan="1">
+-
+</td>
+<td rowspan="1" colspan="1">
+1.3
+</td>
+<td rowspan="1" colspan="1">
+0
+</td>
+<td rowspan="1" colspan="1">
+66
+</td>
+<td rowspan="1" colspan="1">
+46.7
+</td>
+<td rowspan="1" colspan="1">
+118.7
+</td>
+<td rowspan="1" colspan="1">
+9.1
+</td>
+<td rowspan="1" colspan="1">
+113.9
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+Control 
+</td>
+<td rowspan="1" colspan="1">
+2.2
+</td>
+<td rowspan="1" colspan="1">
+1.3
+</td>
+<td rowspan="1" colspan="1">
+0
+</td>
+<td rowspan="1" colspan="1">
+59
+</td>
+<td rowspan="1" colspan="1">
+49.7
+</td>
+<td rowspan="1" colspan="1">
+114.2
+</td>
+<td rowspan="1" colspan="1">
+9.6
+</td>
+<td rowspan="1" colspan="1">
+98.1
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+(effect)
+</td>
+<td rowspan="1" colspan="1">
+-
+</td>
+<td rowspan="1" colspan="1">
+(−6%)
+</td>
+<td rowspan="1" colspan="1">
+-
+</td>
+<td rowspan="1" colspan="1">
+(−11%)
+</td>
+<td rowspan="1" colspan="1">
+(+6%)
+</td>
+<td rowspan="1" colspan="1">
+(−4%)
+</td>
+<td rowspan="1" colspan="1">
+(+5%)
+</td>
+<td rowspan="1" colspan="1">
+(−14%)
+</td>
+</tr>
+<tr>
+<td colspan="9" align="center" rowspan="1">
+<bold>Sensitivity 4: −50% DIP</bold>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+N-only 
+</td>
+<td rowspan="1" colspan="1">
+-
+</td>
+<td rowspan="1" colspan="1">
+1.9
+</td>
+<td rowspan="1" colspan="1">
+17
+</td>
+<td rowspan="1" colspan="1">
+87
+</td>
+<td rowspan="1" colspan="1">
+75.3
+</td>
+<td rowspan="1" colspan="1">
+140.4
+</td>
+<td rowspan="1" colspan="1">
+16.4
+</td>
+<td rowspan="1" colspan="1">
+152.6
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+Control 
+</td>
+<td rowspan="1" colspan="1">
+6.3
+</td>
+<td rowspan="1" colspan="1">
+1.3
+</td>
+<td rowspan="1" colspan="1">
+13
+</td>
+<td rowspan="1" colspan="1">
+58
+</td>
+<td rowspan="1" colspan="1">
+101.7
+</td>
+<td rowspan="1" colspan="1">
+105.1
+</td>
+<td rowspan="1" colspan="1">
+22.4
+</td>
+<td rowspan="1" colspan="1">
+77.7
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+(effect)
+</td>
+<td rowspan="1" colspan="1">
+-
+</td>
+<td rowspan="1" colspan="1">
+(−32%)
+</td>
+<td rowspan="1" colspan="1">
+(−24%)
+</td>
+<td rowspan="1" colspan="1">
+(−33%)
+</td>
+<td rowspan="1" colspan="1">
+(+35%)
+</td>
+<td rowspan="1" colspan="1">
+(−25%)
+</td>
+<td rowspan="1" colspan="1">
+(+36%)
+</td>
+<td rowspan="1" colspan="1">
+(−49%)
+</td>
+</tr>
+<tr>
+<td colspan="9" align="center" rowspan="1">
+<bold>Sensitivity 5: −50% DIP, +50% DIN</bold>
+</td>
+</tr>
+ <tr>
+<td rowspan="1" colspan="1">
+N-only 
+</td>
+<td rowspan="1" colspan="1">-
+</td>
+<td rowspan="1" colspan="1">
+2.6
+</td>
+<td rowspan="1" colspan="1">
+45
+</td>
+<td rowspan="1" colspan="1">
+96
+</td>
+<td rowspan="1" colspan="1">
+101.2
+</td>
+<td rowspan="1" colspan="1">
+152.6
+</td>
+<td rowspan="1" colspan="1">
+24.8
+</td>
+<td rowspan="1" colspan="1">
+186.2
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+Control 
+</td>
+<td rowspan="1" colspan="1">
+8.1
+</td>
+<td rowspan="1" colspan="1">
+1.4
+</td>
+<td rowspan="1" colspan="1">
+27
+</td>
+<td rowspan="1" colspan="1">
+58
+</td>
+<td rowspan="1" colspan="1">
+114.4
+</td>
+<td rowspan="1" colspan="1">
+105.2
+</td>
+<td rowspan="1" colspan="1">
+27.1
+</td>
+<td rowspan="1" colspan="1">
+77.6
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+(effect)
+</td>
+<td rowspan="1" colspan="1">
+-
+</td>
+<td rowspan="1" colspan="1">
+(−46%)
+</td>
+<td rowspan="1" colspan="1">
+(−40%)
+</td>
+<td rowspan="1" colspan="1">
+(−40%)
+</td>
+<td rowspan="1" colspan="1">
+(+13%)
+</td>
+<td rowspan="1" colspan="1">
+(−31%)
+</td>
+<td rowspan="1" colspan="1">
+(+9%)
+</td>
+<td rowspan="1" colspan="1">
+(−58%)
+</td>
+</tr>
+<tr>
+<td colspan="9" align="center" rowspan="1">
+<bold>Sensitivity 6: +50% freshwater discharge</bold>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+N-only 
+</td>
+<td rowspan="1" colspan="1">
+-
+</td>
+<td rowspan="1" colspan="1">
+1.9
+</td>
+<td rowspan="1" colspan="1">
+21
+</td>
+<td rowspan="1" colspan="1">
+96
+</td>
+<td rowspan="1" colspan="1">
+66.7
+</td>
+<td rowspan="1" colspan="1">
+124.1
+</td>
+<td rowspan="1" colspan="1">
+11.9
+</td>
+<td rowspan="1" colspan="1">
+98.9
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+Control 
+</td>
+<td rowspan="1" colspan="1">
+5.9
+</td>
+<td rowspan="1" colspan="1">
+1.4
+</td>
+<td rowspan="1" colspan="1">
+25
+</td>
+<td rowspan="1" colspan="1">
+49
+</td>
+<td rowspan="1" colspan="1">
+87.1
+</td>
+<td rowspan="1" colspan="1">
+91.2
+</td>
+<td rowspan="1" colspan="1">
+16.9
+</td>
+<td rowspan="1" colspan="1">
+48.3
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+(effect)
+</td>
+<td rowspan="1" colspan="1">
+-
+</td>
+<td rowspan="1" colspan="1">
+(−26%)
+</td>
+<td rowspan="1" colspan="1">
+(+19%)
+</td>
+<td rowspan="1" colspan="1">
+(−49%)
+</td>
+<td rowspan="1" colspan="1">
+(+31%)
+</td>
+<td rowspan="1" colspan="1">
+(−26%)
+</td>
+<td rowspan="1" colspan="1">
+(+42%)
+</td>
+<td rowspan="1" colspan="1">
+(−51%)
+</td>
+</tr></tbody>
+</table>
+</alternatives></table-wrap>
+<p>We chose to focus our detailed analysis on the year 2004, which was an average year in terms of the observed size of the hypoxic area (1.5·10<sup>4</sup> km<sup>2</sup> observed in 2004 compared to the 1985–2010 average of 1.4·10<sup>4</sup> km<sup>2</sup>; <xref ref-type="bibr" rid="bibr049">USEPA, 2010</xref>). Three locations along the 20-m isobath were selected for detailed analysis (<xref ref-type="fig" rid="elementa.000022.f002">Figure 2</xref>). Station C6 was used to compare simulated O<sub>2</sub> concentrations with observations from monthly cruises (using a combined dataset from stations C6, C6B and C6C, all located within 3 km of each other). Stations E and W, characteristic of the eastern and western Louisiana shelf, respectively, were used to analyse the larger scale, spatial effect of P limitation.</p>
+<fig id="elementa.000022.f002" position="float">
+<object-id pub-id-type="doi">10.12952/journal.elementa.000022.f002</object-id>
+<label>Figure 2</label>
+<caption><title>Study area and average difference in bottom water O<sub>2</sub> between control and N-only simulations.</title>
+<p>P is included in the baseline control simulation. Simulations are for August (2001–2007 average). Red: increase in bottom water O<sub>2</sub> concentration due to P limitation; blue: decrease, due to P limitation.</p></caption>
+<graphic position="float" mimetype="image" xlink:type="simple" xlink:href="info:doi/10.12952/journal.elementa.000022.f002">
+</graphic></fig>
+</sec>
+<sec id="s3"><title>Results and discussion</title>
+<sec id="s3a"><title>Temporal variation in bottom water O<sub>2</sub> concentration at station C6</title>
+<p>Bottom water O<sub>2</sub> is controlled by the balance of organic matter respiration and re-aeration (organic matter is ultimately supplied by surface primary production). When the rate of bottom water re-aeration falls below the respiration rate, bottom water O<sub>2</sub> will decrease and eventually become depleted. The dominant seasonal variation in bottom water re-aeration is due to variations in the vertical stratification. Previous model simulations have shown that bottom water O<sub>2</sub> and stratification strength are highly correlated on the Louisiana shelf (<xref ref-type="bibr" rid="bibr010">Fennel et al., 2013</xref>).</p>
+<p>At station C6 in 2004, simulated primary production followed a well-defined annual cycle with highest rates between March and August (<xref ref-type="fig" rid="elementa.000022.f003">Figure 3a</xref>). Stratification, approximated by the potential energy anomaly (PEA), reached annual maxima in July–August (<xref ref-type="fig" rid="elementa.000022.f003">Figure 3a</xref>) and coincided with minima in bottom water O<sub>2</sub> (<xref ref-type="fig" rid="elementa.000022.f003">Figure 3a</xref>, <xref ref-type="fig" rid="elementa.000022.f003">b</xref>). Bottom water O<sub>2</sub> started declining as early as March with the onset of stratification and reached hypoxic levels in July–August. Model results and observations both show that bottom water O<sub>2</sub> dropped below the hypoxia threshold for part of July and August (<xref ref-type="fig" rid="elementa.000022.f003">Figure 3b</xref>). In late summer and fall, cooling and increased wind mixing eroded stratification and promoted the renewal of bottom water O<sub>2</sub> (<xref ref-type="fig" rid="elementa.000022.f003">Figure 3b</xref>).</p>
+<fig id="elementa.000022.f003" position="float">
+<object-id pub-id-type="doi">10.12952/journal.elementa.000022.f003</object-id>
+<label>Figure 3</label>
+<caption><title>Time series of Primary Production, water column stratification and bottom water O<sub>2</sub> in 2004.</title> 
+<p>Results are for station C6: (a) simulated water column-integrated primary production and potential energy anomaly (PEA) calculated from vertical density profiles; (b) simulated (black line) and observed (dark grey symbols) bottom water O<sub>2</sub> concentration. Observations are from stations C6 (circles), C6B (diamonds) and C6C (squares), all located within 3 km of each other. Grey envelope: range of simulated bottom water O<sub>2</sub> concentrations within a 15 km radius of C6. White squares: climatological values. Error bars: standard deviation of the monthly-binned climatological dataset.</p></caption>
+<graphic position="float" mimetype="image" xlink:type="simple" xlink:href="info:doi/10.12952/journal.elementa.000022.f003">
+</graphic></fig>
+<p>The simulated bottom water O<sub>2</sub> concentration (black line in <xref ref-type="fig" rid="elementa.000022.f003">Figure 3b</xref>) did not exactly agree with the observations (dark grey symbols in <xref ref-type="fig" rid="elementa.000022.f003">Figure 3b</xref>), which is not surprising given the strong mesoscale variability in this region (e.g., <xref ref-type="bibr" rid="bibr022">Li et al., 1996</xref>). <xref ref-type="bibr" rid="bibr024">Marta-Almeida et al. (2013)</xref> have shown that mesoscale variability is high in the Mississippi River plume due to hydrodynamic instabilities along the plume front and that variability is at its peak during spring and early summer. This hydrodynamic variability translates into uncertainty in the detailed spatial and temporal patterns of model-predicted stratification and hypoxia (<xref ref-type="bibr" rid="bibr025">Mattern et al., 2013</xref>). Thus the model should be evaluated based on the agreement of mean properties between simulation and observations and not based on matches with individual data points. The effect of the spatial variability is illustrated by the spread in observed bottom water O<sub>2</sub> concentrations from three stations (C6, C6B and C6C) that are within 3 km of each other (dark grey symbols in <xref ref-type="fig" rid="elementa.000022.f003">Figure 3b</xref>). Similarly, spatial variability in modeled bottom water O<sub>2</sub> is illustrated by showing the range of bottom water O<sub>2</sub> within a 15-km radius around station C6 (grey envelope in <xref ref-type="fig" rid="elementa.000022.f003">Figure 3b</xref>).</p>
+<p>The model did represent the observed seasonal pattern but overestimated bottom O<sub>2</sub> in June and somewhat in September at station C6 (<xref ref-type="fig" rid="elementa.000022.f003">Figure 3b</xref>). We attribute the overestimation in June to the weak stratification simulated at this station at that time (see <xref ref-type="fig" rid="elementa.000022.f003">Figure 3a</xref>). Since low bottom water O<sub>2</sub> did not occur during periods of weak stratification but was observed, the model must be underestimating the actual stratification that was present at C6 in June 2004. Such mismatches in local stratification can be explained by the inherent variability in salinity distribution of the dynamic river plume. While the model did properly resolve mesoscale hydrographic variability in a statistical sense, one cannot expect that individual features align between observed and simulated distributions.</p>
+<p>Aside from the inherent variability, the model did overestimate bottom water O<sub>2</sub> slightly. We attribute this overestimation to the fact that sediment respiration in the IR parameterization does not account for the effects of bottom water O<sub>2</sub> concentration and temperature on sediment metabolism (temperature has been shown to be the most important driver of seasonal variations in sediment respiration in a mesocosm experiment; <xref ref-type="bibr" rid="bibr050">Wilson et al., 2013</xref>) and does not allow for an accumulation of POM in the sediment. Thus IR was likely underestimating sediment respiration, especially in late summer when primary production was decreasing (the agreement between mean observed and simulated bottom water O<sub>2</sub> concentrations improved with the temperature-dependent H&amp;D parameterization; see <xref ref-type="supplementary-material" rid="elementa.000022.s001">Figure S1</xref> of the Online Supplement). Nevertheless, the simulated annual cycle of bottom water O<sub>2</sub> and its July–August concentrations (when the simulated effect of P limitation is strongest; <xref ref-type="bibr" rid="bibr021">Laurent et al., 2012</xref>), were represented reasonably well. Here we examined differences between simulations with and without P, hence our results should not be strongly affected by the slight overestimation in mean bottom water O<sub>2</sub> concentrations at C6. In fact, the size of the hypoxic area simulated at the time of the 2004 mid-summer monitoring cruise was 1.4·10<sup>4</sup> km<sup>2</sup> (average over 21–26 July), only slightly smaller than the size estimated from the cruise observations (1.6 ± 0.4·10<sup>4</sup> km<sup>2</sup>; <xref ref-type="bibr" rid="bibr031">Obenour et al., 2013</xref>).</p></sec>
+<sec id="s3b"><title>The effect of P limitation on O<sub>2</sub> dynamics</title>
+<p>Although there is an ongoing debate over the occurrence of P limitation in the northern Gulf of Mexico (<xref ref-type="bibr" rid="bibr046">Turner and Rabalais, 2013</xref>), several recent empirical studies indicate that P limitation does occur in spring and early summer on the Louisiana shelf and that it is associated with an excess DIN load from the Mississippi River (<xref ref-type="bibr" rid="bibr044">Sylvan et al., 2006</xref>, <xref ref-type="bibr" rid="bibr045">2007</xref>; <xref ref-type="bibr" rid="bibr034">Quigg et al., 2011</xref>). Similar to other eutrophied systems such as the Baltic Sea (<xref ref-type="bibr" rid="bibr013">Granéli et al., 1990</xref>) and the Neuse River estuary (<xref ref-type="bibr" rid="bibr033">Paerl et al., 2004</xref>), model simulations have shown that primary production and depositional fluxes on the Louisiana shelf are shifted downstream and delayed in time due to P limitation (<xref ref-type="bibr" rid="bibr021">Laurent et al., 2012</xref>). What remains unclear is whether P limitation exacerbates or diminishes hypoxia. Here we considered the simulated effect of P limitation on bottom water O<sub>2</sub> concentrations, water column and sediment respiration and the size of the hypoxic zone by examining the differences between the control simulation (with P limitation) and the N-only simulation (without P limitation). We sometimes refer to these differences simply as the “effect of P limitation.” In other words, a positive/negative effect of P limitation on a specific variable (e.g. bottom water oxygen) implies that the variable increased/decreased due to P limitation.</p>
+<p>The effect of P limitation on bottom water O<sub>2</sub> concentrations varied spatially over the Louisiana shelf as illustrated in <xref ref-type="fig" rid="elementa.000022.f002">Figure 2</xref> (an animation for 2004 is available in the Online Supplement). P limitation had a strong positive effect near the Mississippi River delta where bottom water O<sub>2</sub> concentrations increased by up to 40 mmol O<sub>2</sub> m<sup>−3</sup> in August (2001–2007 average) compared to the N-only simulation. For reference, the hypoxia threshold is 62.5 mmol O<sub>2</sub> m<sup>−3</sup>. P limitation can therefore easily induce a change from hypoxic to normoxic bottom waters in this region. In contrast, P limitation had a negative effect on the western shelf where bottom water O<sub>2</sub> decreased by up to 9 mmol O<sub>2</sub> m<sup>−3</sup> in August compared to the N-only simulation (<xref ref-type="fig" rid="elementa.000022.f002">Figure 2</xref>). This increase/decrease in bottom water O<sub>2</sub> on the eastern/western shelf occurs every year, but the intensity of the changes varies from year to year due to interannual variations in river inputs and hydrographic conditions on the shelf. <xref ref-type="fig" rid="elementa.000022.f004">Figure 4</xref> illustrates this variability along the 20-m isobath. In 2002 and 2003, P limitation had only a very small effect on bottom water O<sub>2</sub> on the western shelf, because May–July DIN loads were smaller than usual resulting in a smaller P-limited area in July than in the other years that were simulated.</p>
+<fig id="elementa.000022.f004" position="float">
+<object-id pub-id-type="doi">10.12952/journal.elementa.000022.f004</object-id>
+<label>Figure 4</label><caption><title>Temporal evolution of changes in bottom water O<sub>2</sub> due to P limitation along the 20-m isobath.</title>
+<p>Red/blue: an increase/decrease in bottom water O<sub>2</sub> due to P limitation, calculated as the control simulation minus the N-only simulation (without P limitation). Vertical lines: location of stations E and W. Open black rectangles: time frame and locations of the time series presented in <xref ref-type="fig" rid="elementa.000022.f005">Figure 5</xref>.</p></caption>
+<graphic position="float" mimetype="image" xlink:type="simple" xlink:href="info:doi/10.12952/journal.elementa.000022.f004">
+</graphic></fig>
+<p>On the Louisiana shelf (defined by water depth z≤50 m), total time- and space-integrated annual primary production and respiration (water column + sediment) increased with P limitation (by 2.2% and 2.0%, respectively). These increases occurred because offshore export of POM from the Mississippi delta was smaller with P limitation. Cross-shelf transports are much larger near the Mississippi Delta than along the western shelf (<xref ref-type="bibr" rid="bibr052">Xue et al., 2013</xref>). With P limitation, less organic matter was produced near the delta and thus less organic matter was exported from the shelf. Annual water column respiration increased (+ 3.0%) due to P limitation, while annual sediment oxygen consumption decreased (− 4.3%), indicating a shift of respiration processes from the sediment to the water column.</p>
+<p>We next chose two stations, E on the eastern shelf and W on the western shelf (<xref ref-type="fig" rid="elementa.000022.f002">Figure 2</xref>) to illustrate the spatial and temporal effects of P limitation on oxygen sources and sinks in the water column and sediments. The stations are located where the greatest positive/negative effects of P limitation occur. The magnitude of change in bottom water O<sub>2</sub> was always much smaller at station W than at station E (<xref ref-type="fig" rid="elementa.000022.f004">Figure 4</xref>). At station W, bottom water O<sub>2</sub> increased slightly in July and decreased slightly in late summer (<xref ref-type="fig" rid="elementa.000022.f005">Figure 5a</xref>). At station E, a large increase in bottom water O<sub>2</sub> occurred from mid-June to early July (by up to 94 mmol O<sub>2</sub> m<sup>−3</sup>; <xref ref-type="fig" rid="elementa.000022.f005">Figure 5b</xref>) delaying the onset of hypoxia by three weeks. P limitation resulted in a redistribution of respiration processes such that O<sub>2</sub> consumption through respiration was enhanced at station W and reduced at station E near the Mississippi delta (<xref ref-type="fig" rid="elementa.000022.f005">Figure 5c</xref>–<xref ref-type="fig" rid="elementa.000022.f005">f</xref>). At station W the effect was largest for water column respiration, which increased in August and September by up to 51 mmol O<sub>2</sub> m<sup>−2</sup> d<sup>−1</sup> (<xref ref-type="fig" rid="elementa.000022.f005">Figure 5c</xref>). A reduction of similar magnitude occurred between May and July at station E during the high production season (<xref ref-type="fig" rid="elementa.000022.f005">Figure 5d</xref>). In contrast, the increase in sediment respiration was minor on the western shelf, because the depositional flux of POM increased only slightly. The maximum increase in sediment respiration was 11 mmol O<sub>2</sub> m<sup>−2</sup> d<sup>−1</sup> at station W in late summer (<xref ref-type="fig" rid="elementa.000022.f005">Figure 5e</xref>), which is small compared to the increase in water column respiration and in contrast to the large decrease in sediment respiration simulated in June and July at station E (<xref ref-type="fig" rid="elementa.000022.f005">Figure 5f</xref>). Thus, despite a large increase in water column respiration, bottom water O<sub>2</sub> changed little at station W (<xref ref-type="fig" rid="elementa.000022.f005">Figure 5a</xref>). In contrast, the large changes in water column and sediment respiration at station E led to a three-week delay in the onset of hypoxia in June, but did not influence bottom O<sub>2</sub> in July and August because sediment respiration was still high during this period (<xref ref-type="fig" rid="elementa.000022.f005">Figure 5b</xref>).</p>
+<fig id="elementa.000022.f005" position="float">
+<object-id pub-id-type="doi">10.12952/journal.elementa.000022.f005</object-id>
+<label>Figure 5</label>
+<caption><title>Time series of bottom water O<sub>2</sub>, water column respiration and sediment respiration in 2004.</title>
+<p>Results are for stations E (right panels) and W (left panels): (a–b) bottom water O<sub>2</sub> concentration, (c–d) integrated water column respiration, and (e–f) sediment respiration. Thick and thin black lines: control simulation and N-only simulation, respectively. Effect of P limitation indicated by difference between the two simulations (red: positive effect, blue: negative effect). Dashed lines in panels a and b: the hypoxic threshold; dashed line in panel f: anoxic conditions.</p></caption>
+<graphic position="float" mimetype="image" xlink:type="simple" xlink:href="info:doi/10.12952/journal.elementa.000022.f005">
+</graphic></fig>
+<p>On the western Louisiana shelf, P limitation primarily affected water column respiration because excess, nitrogen-stimulated primary production over the western Louisiana shelf was diluted compared to the eastern shelf. Lower phytoplankton concentrations (relative to the eastern shelf) resulted in less aggregation of suspended detritus and phytoplankton into fast sinking detritus; therefore a smaller fraction of primary production was deposited and recycled in the sediment.</p>
+<p>The importance of the sediment O<sub>2</sub> sink for hypoxia development on the Louisiana shelf is debated. On the one hand, <xref ref-type="bibr" rid="bibr029">Murrell and Lehrter (2011)</xref> and <xref ref-type="bibr" rid="bibr026">McCarthy et al. (2013)</xref> found that sediment respiration contributes 20% and 25%, respectively, to below-pycnocline respiration. On the other hand, <xref ref-type="bibr" rid="bibr035">Quiñones-Rivera et al. (2007</xref>, <xref ref-type="bibr" rid="bibr036">2010)</xref> found that oxygen consumption by the sediments contributes 75% to total O<sub>2</sub> loss in bottom waters. Using the N-only model, <xref ref-type="bibr" rid="bibr010">Fennel et al. (2013)</xref> found that the sediment O<sub>2</sub> sink is an important driver of O<sub>2</sub> depletion because hypoxia on the western Louisiana shelf is often limited to the bottom boundary layer (i.e. the secondary pycnocline; <xref ref-type="bibr" rid="bibr051">Wiseman et al., 1997</xref>). Since most of the increase in western shelf O<sub>2</sub> sinks was restricted to the water column, P limitation did not significantly increase hypoxia on the western Louisiana shelf.</p>
+<p>As mentioned above, stratification intensity is also an important driver of hypoxia (<xref ref-type="bibr" rid="bibr010">Fennel et al., 2013</xref>) and contributes to the asymmetric effect of a marked decrease in hypoxic conditions on the eastern shelf (upstream) versus an insignificant increase on the western shelf (downstream). <xref ref-type="bibr" rid="bibr15">Hetland and DiMarco (2008)</xref> suggested that changes in the structure of hypoxia on the eastern versus western shelf are related to differences in vertical stratification, which is strongest on the eastern shelf. In summer, under typically southerly wind conditions, plume waters tend to move upcoast from the Texas shelf and accumulate on the eastern Louisiana shelf, which enhances vertical stratification there (<xref ref-type="bibr" rid="bibr053">Zhang et al., 2012</xref>). Since stratification weakens in the westward direction, it is plausible that a westward shift in respiration does not translate into a westward relocation of hypoxia.</p>
+<p>In our simulations, the overall effect of P limitation was a decrease of the hypoxic zone. The model suggests that, without P limitation, the hypoxic area would have reached 2.0·10<sup>4</sup> km<sup>2</sup> in July 2004 (N-only simulation) instead of 1.4·10<sup>4</sup> km<sup>2</sup> (simulation with P limitation), a decrease of the hypoxic area by 29%.</p>
+<p><xref ref-type="bibr" rid="bibr038">Scavia and Donnelly (2007)</xref> postulated that P limitation should increase the hypoxic area. This notion is not supported by our model results. Instead, P limitation decreased the hypoxic zone primarily by reducing hypoxic conditions on the eastern shelf, while conditions on the western shelf were not strongly affected. P limitation thus lessens the effect of eutrophication on bottom O<sub>2</sub> concentrations, reducing the occurrence and severity of hypoxia.</p></sec>
+<sec id="s3c"><title>Sensitivity of O<sub>2</sub> dynamics to river discharge</title>
+<p>The robustness of our results was assessed in six sensitivity experiments with varying river inputs (<xref ref-type="table" rid="elementa.000022.t001">Table 1</xref>). These sensitivity experiments were motivated by the question of whether P limitation always results in a reduction of hypoxic area or whether it can, under specific river discharge conditions, lead to an expansion of the hypoxic area as postulated by <xref ref-type="bibr" rid="bibr038">Scavia and Donnelly (2007)</xref>. A pair of simulations (control and N-only) was used for each sensitivity experiment in order to assess the effect of P limitation. A change in river DIP affected only the control simulation (with P limitation), whereas a change in river DIN affected both the control and the N-only simulations. When DIN and DIP were changed simultaneously, the N-only simulation (without P limitation) was affected by the change in DIN only. Results for 2004 are presented in <xref ref-type="table" rid="elementa.000022.t001">Table 1</xref> and discussed below; for completeness, results for 2001–2007 are shown in <xref ref-type="fig" rid="elementa.000022.f006">Figure 6</xref>.</p>
+<fig id="elementa.000022.f006" position="float">
+<object-id pub-id-type="doi">10.12952/journal.elementa.000022.f006</object-id>
+<label>Figure 6</label>
+<caption><title>Average size of the P-limited area and the hypoxic area for each experiment.</title>
+<p>Shown are the P-limited area in July (a) and hypoxic area in July–August (b). For each experiment: control (C), +50% N and P (+NP), 50% N and P (−NP), 50% N (−N), 50% P (−P), +50% N and 50% P (+N−P) and +50% freshwater discharge (+FW). Small bars: area for each year of the simulation from 2001 to 2007 (left to right); wide grey bars: average for the whole simulation; dashed lines: averages in the control simulation.</p></caption>
+<graphic position="float" mimetype="image" xlink:type="simple" xlink:href="info:doi/10.12952/journal.elementa.000022.f006">
+</graphic></fig>
+<p>When river DIN and DIP loads were increased simultaneously by 50% (experiment 1) primary production was strongly enhanced (<xref ref-type="table" rid="elementa.000022.t001">Table 1</xref>). Given the high DIN:DIP ratio in the river, primary production became strongly P-limited and the region that directly experiences P limitation expanded. Higher primary production also led to increased respiration rates and more persistent hypoxia over a larger area compared to the baseline simulation with standard river inputs (<xref ref-type="table" rid="elementa.000022.t001">Table 1</xref>). The increase in nutrient load led to substantial changes at station W: water column and sediment respiration increased by 28% and 45%, respectively; and the duration of hypoxia was prolonged by 21 days (<xref ref-type="table" rid="elementa.000022.t001">Table 1</xref>). Without P limitation the hypoxic area would have increased even more, from 1.9·10<sup>4</sup> km<sup>2</sup> in the simulation with P limitation to 2.6·10<sup>4</sup> km<sup>2</sup> in the N-only simulation without P limitation.</p>
+<p>In contrast, when DIN and DIP loads were decreased by 50% (experiment 2), P limitation was reduced and the extent of the hypoxic area decreased from 1.5·10<sup>4</sup> km<sup>2</sup> in the baseline simulation to 1.2·10<sup>4</sup> km<sup>2</sup> (control simulations) due to lower respiration on the shelf. Under these nutrient load conditions hypoxia did not occur at station W; it was restricted to the river delta. The effect of P limitation (i.e., the difference between the control simulation with P limitation and the N-only simulation) on respiration and hypoxia was reduced significantly in comparison to the pair of baseline simulations with realistic river inputs (<xref ref-type="table" rid="elementa.000022.t001">Table 1</xref>). This experiment with co-reduction of river DIN and DIP resulted in the largest reduction of the hypoxic area in our experiments (a decrease by 21% on average in July–August).</p>
+<p>When decreasing river DIN load by 50% without changing the DIP load (experiment 3), the N-only simulation was the same as in the previous experiment (experiment 2), whereas river DIN:DIP was reduced in the control simulation with P. When comparing the control simulation (model with P limitation) from this experiment with the corresponding simulation from the baseline experiment, the only major difference was that bottom water O<sub>2</sub> increased on the western Louisiana shelf due to a decrease in respiration. At station W, water column and sediment respiration were halved relative to the baseline simulation and hypoxia did not occur anymore (<xref ref-type="table" rid="elementa.000022.t001">Table 1</xref>). The size of the hypoxic area was reduced by 14% to 1.3·10<sup>4</sup> km<sup>2</sup> in comparison to 1.5·10<sup>4</sup> km<sup>2</sup> in the baseline simulation. The size of the P-limited area was reduced by 57% relative to the baseline simulation. P limitation had only a small effect on respiration and hypoxia.</p>
+<p>When only the river DIP load was decreased by 50% (experiment 4), the N-only simulation was not affected (it was the same as the baseline with standard river inputs), whereas river DIN:DIP increased in the control simulation with P limitation. As one would expect, P limitation on the shelf became more severe, the hypoxic area decreased, and the duration of hypoxia was reduced (by 29 days at station E; see <xref ref-type="table" rid="elementa.000022.t001">Table 1</xref>). At station E, water column and sediment respiration were both reduced relative to the baseline simulation with standard river inputs, whereas they remained the same at station W. Overall, the size of the hypoxic area was reduced by 12% in comparison to the baseline simulation with standard river inputs.</p>
+<p>When decreasing the DIP load by 50% while increasing the DIN load by 50% (experiment 5), the N-only simulation was the same as in experiment 1, whereas river DIN:DIP increased significantly in the control simulation with P. This increase led to the largest P-limited area in our experiments and the most severe effect of P limitation on hypoxia: a 46% reduction in size and a 40% reduction in duration at both station W and E (<xref ref-type="table" rid="elementa.000022.t001">Table 1</xref>). Since primary production was P-limited near the Mississippi delta when DIP was reduced (as seen already in experiment 4), adding more DIN did not influence respiration or hypoxia further in this area in the control simulation with P limitation (i.e., results at station E are similar to those from experiment 4). On the western shelf, however, the additional DIN increased water column and sediment respiration, leading to more persistent hypoxic conditions there compared to experiment 4. This result indicates that adding more DIN to a severely P-limited Louisiana shelf (i.e. experiments 4 and 5) will result in a westward extension of hypoxia. When compared to the baseline, the combined increase in DIN load and decrease in DIP load did not significantly affect the size of the hypoxic area; however, hypoxic conditions were more persistent on the western shelf.</p> 
+<p>In sensitivity experiment 6, freshwater discharge was increased by 50% without altering nutrient loads (as a result nutrients are diluted in the river). The motivation for this experiment was that larger freshwater flow will increase stratification on the Louisiana shelf, which may, independently of nutrient load, modify the effect of P limitation on O<sub>2</sub> dynamics. This experiment allowed us to assess if, with increased stratification on the western shelf, P limitation results in a westward relocation or expansion of hypoxia, as postulated by <xref ref-type="bibr" rid="bibr038">Scavia and Donnelly (2007)</xref>, rather than a reduction as we have seen in the other simulations.</p>
+<p>In this experiment the river plume was larger and the region affected by P limitation expanded (<xref ref-type="table" rid="elementa.000022.t001">Table 1</xref>). Since nutrient concentrations were diluted, respiration decreased significantly relative to the baseline simulation with standard river inputs. Nonetheless, despite lower respiration, hypoxia developed on the western shelf due to increased stratification; average PEA in July–August 2004 was 3347 J m<sup>−3</sup> at station W, a 45% increase from the baseline simulation with standard river inputs. Overall, the size of the hypoxic area decreased by only 2% compared to the baseline simulation. The effect of P limitation (i.e., the difference between the control simulation and the N-only simulation) remained a reduction of hypoxia (by 26%) although hypoxia was relocated westward. This experiment highlights the importance of stratification in hypoxia development on the western shelf.</p>
+<p>The 2008 action plan by the Hypoxia Task Force (<xref ref-type="bibr" rid="bibr048">USEPA, 2008</xref>), an alliance of multiple federal agencies, states and tribes in the Mississippi River Basin, calls for a dual nutrient reduction of at least 45% of N and P river load in order to reduce the hypoxic area to a five-year average of 5·10<sup>3</sup> km<sup>2</sup> (<xref ref-type="bibr" rid="bibr048">USEPA, 2008</xref>). For the period 2001–2007, the simulated summer (July–August) hypoxic extent was 1.17·10<sup>4</sup> km<sup>2</sup> on average. Our nutrient reduction scenarios showed that reducing P loads would help reduce the hypoxic extent (by promoting the dilution effect) as would reducing N loads (by decreasing river-stimulated primary production overall). In the model, both of these single-nutrient strategies had a similar effect on the extent of hypoxia (reducing P or N loads by 50% results, on average, in a 12% or 14% reduction of the hypoxic area, respectively). In our experiments, the largest reduction was achieved by simultaneously reducing N and P. In this case, the hypoxic area was reduced by 21% on average. This result provides justification in support of the dual nutrient reduction strategy of the Hypoxia Task Force. However, our model results also showed that despite a 50% reduction of N and P loads, the hypoxic area remained large at 1.15·10<sup>4</sup> km<sup>2</sup> on average. Thus, to meet the action plan goal of 5·10<sup>3</sup> km<sup>2</sup>, a larger nutrient load reduction is required. This result is consistent with the recent model estimate by <xref ref-type="bibr" rid="bibr039">Scavia et al. (2013)</xref>, who found that a 62% nutrient reduction is necessary to meet the action plan goal.</p></sec>
+<sec id="s3d"><title>Sources of uncertainty and further validation</title>
+<p>Several factors contribute to uncertainties in our simulations. For example, our parameterization of sediment remineralization did not account for the enhanced release of P from sediments under anoxic conditions due to desorption from iron oxides (<xref ref-type="bibr" rid="bibr027">McManus et al., 1997</xref>). The release of P from sediments at low O<sub>2</sub> (<xref ref-type="bibr" rid="bibr017">Ingall and Jahnke, 1994</xref>, <xref ref-type="bibr" rid="bibr018">1997</xref>) may reduce P limitation during severe hypoxia and anoxia. It is not clear if this enhanced P release occurs on the Louisiana shelf. <xref ref-type="bibr" rid="bibr030">Nunnally et al. (2013)</xref> recently reported P uptake by the sediments, even under hypoxic conditions. Furthermore, the inhibition of coupled nitrification-denitrification at low O<sub>2</sub> has not been considered yet in our model. This feedback would enhance the return flux of NH<sub>4</sub> from the sediment during hypoxic conditions and thus would result in a positive feedback on eutrophication (<xref ref-type="bibr" rid="bibr019">Kemp et al., 1990</xref>) and further intensify P limitation. Overall, the O<sub>2</sub>-dependent effects on N and P remineralization in the sediment may compensate each other and not influence P limitation significantly. In the context of this study, and given the large uncertainty on O<sub>2</sub>-dependent processes, constant denitrification and instant remineralization in the sediment are reasonable assumptions; our main conclusions would not change with O<sub>2</sub>-dependent benthic processes. Further work is necessary, however, to simulate more realistic sediment-water nutrients and O<sub>2</sub> fluxes.</p>
+<p>The dilution effect simulated by our model could be validated by comparing bottom O<sub>2</sub> observations for years with similar DIN load but contrasting river DIN:DIP. High temporal resolution monitoring of O<sub>2</sub> dynamics at contrasting locations such as stations E and W would enable this comparison. The currently available observational dataset for these locations does not allow for such an analysis.</p></sec></sec>
+<sec id="s4"><title>Conclusions</title>
+<p>We have quantitatively assessed the influence of P limitation on hypoxia for the Louisiana shelf. Model results indicate that seasonal P limitation induces a westward shift in primary production and water column respiration, and a reduction in sediment respiration near the Mississippi delta. P limitation made hypoxia less severe near the Mississippi delta, but, due to the relatively small change in sediment respiration on the western shelf and the generally weaker stratification there, hypoxia did not become more severe on the western shelf. In other words, P limitation diluted the effects of eutrophication on the Louisiana shelf. The sensitivity experiments show that this dilution was a robust feature that always occurred with P limitation, regardless of the severity of P limitation. Our results also emphasize the need for a drastic co-reduction of N and P loads to maximize hypoxia reduction.</p></sec>
+<sec id="s5"><title>Data accessibility statement</title>
+<p>Oxygen data used in this manuscript are available from the National Oceanographic Data Center (NODC, <related-object content-type="dryad" document-type="dataset"><uri>http://www.nodc.noaa.gov</uri></related-object>).</p></sec>
+<sec id="s6">
+<title>Supplementary material legends</title>
+<supplementary-material id="elementa.000022.s001" position="float" mimetype="aplication/eps" xlink:type="simple" xlink:href="info:doi/10.12952/journal.elementa.000022.s001"><label>Figure S1. </label>
+<caption><title>Observed (dark grey dots) and simulated (black line) bottom water O<sub>2</sub> concentrations simulated with the H&amp;D bottom boundary condition at station C6 in 2004. Climatological values are shown as white squares. Error bars indicate the standard deviation of the monthly-binned climatological dataset.</title>
+<p specific-use="supplementary-material-metadata">
+<named-content content-type="file-type">EPS</named-content>
+<named-content content-type="file-size">0.12 MB</named-content></p></caption>
+</supplementary-material>
+<supplementary-material id="elementa.000022.s002" position="float" mimetype="video/mp4" xlink:type="simple" xlink:href="info:doi/10.12952/journal.elementa.000022.s002">
+<label>Animation S2. </label>
+<caption><title>Change in bottom O<sub>2</sub> in the baseline simulations due to P limitation during 2004. Red/blue represents an increase/decrease in bottom water O<sub>2</sub> due to P limitation and is calculated as the control minus the N-only simulation.</title>
+<p specific-use="supplementary-material-metadata">
+<named-content content-type="file-type">MP4</named-content>
+<named-content content-type="file-size">1.33 MB</named-content></p></caption>
+</supplementary-material>
+</sec>
+<sec id="s7" sec-type="copyright-statement"><title>Copyright</title>
+<p>© 2014 Laurent and Fennel. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</p></sec>
+</body> 
+<back>
+<ack><title>Acknowledgments</title>
+<p>This work is NOAA NGOMEX publication no. 189. We thank three anonymous reviewers, Lisa Miller and Jody Deming for their constructive comments which helped improve the manuscript.</p></ack>
+<ref-list content-type="parsed"><title>References</title>
+<ref id="bibr001">
+<mixed-citation publication-type="inbook">
+<name name-style="western"><surname>Ammerman</surname><given-names>JW</given-names></name>. 
+<year>1992</year>. 
+<chapter-title>Seasonal variation in phosphate turnover in the Mississippi River plume and the inner Gulf Shelf: rapid summer turnover</chapter-title>, in 
+<source>Proceedings of the Nutrient Enhanced Coastal Ocean Productivity Workshop</source>. 
+<publisher-name>Texas A&amp;M University, College Station</publisher-name>, 
+<publisher-loc>Texas</publisher-loc>, pp. 
+<fpage>69</fpage>–<lpage>75</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr002">
+<mixed-citation publication-type="book">
+<name name-style="western"><surname>Aulenbach</surname><given-names>BT</given-names></name>, 
+<name name-style="western"><surname>Buxton</surname><given-names>HT</given-names></name>, 
+<name name-style="western"><surname>Battaglin</surname><given-names>WT</given-names></name>, 
+<name name-style="western"><surname>Coupe</surname><given-names>RH</given-names></name>. 
+<year>2007</year>. 
+<source>Streamflow and nutrient fluxes of the Mississippi-Atchafalaya River Basin and subbasins for the period of record through 2005</source>. 
+Open-File Report No. 2007–1080, <publisher-name>U.S. Geological Survey</publisher-name>.</mixed-citation>
+</ref>
+<ref id="bibr003">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Conley</surname><given-names>DJ</given-names></name>. 
+<year>2000</year>. 
+<article-title>Biogeochemical nutrient cycles and nutrient management strategies</article-title>. 
+<source>Hydrobiologia</source> 
+<volume>410</volume>:
+<fpage>87</fpage>–<lpage>96</lpage>. doi:
+<pub-id pub-id-type="doi">10.1023/A:1003784504005</pub-id></mixed-citation>
+</ref>
+<ref id="bibr004">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Conley</surname><given-names>DJ</given-names></name>, 
+<name name-style="western"><surname>Paerl</surname><given-names>HW</given-names></name>, 
+<name name-style="western"><surname>Howarth</surname><given-names>RW</given-names></name>, 
+<name name-style="western"><surname>Boesch</surname><given-names>DF</given-names></name>, 
+<name name-style="western"><surname>Seitzinger</surname><given-names>SP</given-names></name>, 
+<name name-style="western"><surname>Havens</surname><given-names>KE</given-names></name>, 
+<name name-style="western"><surname>Lancelot</surname><given-names>C</given-names></name>, 
+<name name-style="western"><surname>Likens</surname><given-names>GE</given-names></name>. 
+<year>2009</year>. 
+<article-title>Controlling eutrophication: nitrogen and phosphorus</article-title>. 
+<source>Science</source> 
+<volume>323</volume>:
+<fpage>1014</fpage>–<lpage>1015</lpage>. doi:
+<pub-id pub-id-type="doi">10.1126/science.1167755</pub-id></mixed-citation>
+</ref>
+<ref id="bibr005">
+<mixed-citation publication-type="book">
+<name name-style="western"><surname>Da Silva</surname><given-names>AM</given-names></name>, 
+<name name-style="western"><surname>Young-Molling</surname><given-names>CC</given-names></name>, 
+<name name-style="western"><surname>Levitus</surname><given-names>S</given-names></name>. 
+<year>1994a</year>. 
+<source>Atlas of surface marine data 1994, Vol. 3. Anomalies of fluxes of heat and momentum</source>. 
+<publisher-name>NOAA Atlas NESDIS 8, U.S. Dept. of Commerce</publisher-name>, 
+<publisher-loc>Washington, DC</publisher-loc>.</mixed-citation>
+</ref>
+<ref id="bibr006">
+<mixed-citation publication-type="book">
+<name name-style="western"><surname>Da Silva</surname><given-names>AM</given-names></name>, 
+<name name-style="western"><surname>Young-Molling</surname><given-names>CC</given-names></name>, 
+<name name-style="western"><surname>Levitus</surname><given-names>S</given-names></name>. 
+<year>1994b</year>. 
+<source>Atlas of surface marine data 1994, Vol. 4. Anomalies of fresh water fluxes</source>. 
+<publisher-name>NOAA Atlas NESDIS 9, U.S. Dept. of Commerce</publisher-name>, 
+<publisher-loc>Washington, DC</publisher-loc>.</mixed-citation>
+</ref>
+<ref id="bibr007">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Diaz</surname><given-names>RJ</given-names></name>, 
+<name name-style="western"><surname>Rosenberg</surname><given-names>R</given-names></name>. 
+<year>2008</year>. 
+<article-title>Spreading dead zones and consequences for marine ecosystems</article-title>. 
+<source>Science</source> 
+<volume>321</volume>:
+<fpage>926</fpage>–<lpage>929</lpage>. doi: 
+<pub-id pub-id-type="doi">10.1126/science.1156401</pub-id></mixed-citation>
+</ref>
+<ref id="bibr008">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Dortch</surname><given-names>Q</given-names></name>, 
+<name name-style="western"><surname>Whitledge</surname><given-names>TE</given-names></name>. 
+<year>1992</year>. 
+<article-title>Does nitrogen or silicon limit phytoplankton production in the Mississippi River plume and nearby regions?</article-title> 
+<source>Cont Shelf Res</source> 
+<volume>12</volume>:
+<fpage>1293</fpage>–<lpage>1309</lpage>. doi:
+<pub-id pub-id-type="doi">10.1016/0278-4343(92)90065-R</pub-id></mixed-citation>
+</ref>
+<ref id="bibr009">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Fennel</surname><given-names>K</given-names></name>, 
+<name name-style="western"><surname>Hetland</surname><given-names>R</given-names></name>, 
+<name name-style="western"><surname>Feng</surname><given-names>Y</given-names></name>, 
+<name name-style="western"><surname>DiMarco</surname><given-names>S</given-names></name>. 
+<year>2011</year>. 
+<article-title>A coupled physical-biological model of the Northern Gulf of Mexico shelf: model description, validation and analysis of phytoplankton variability</article-title>. 
+<source>Biogeosciences</source> 
+<volume>8</volume>:
+<fpage>1881</fpage>–<lpage>1899</lpage>. doi:
+<pub-id pub-id-type="doi">10.5194/bg-8-1881-2011</pub-id></mixed-citation>
+</ref>
+<ref id="bibr010">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Fennel</surname><given-names>K</given-names></name>, 
+<name name-style="western"><surname>Hu</surname><given-names>J</given-names></name>, 
+<name name-style="western"><surname>Laurent</surname><given-names>A</given-names></name>, 
+<name name-style="western"><surname>Marta-Almeida</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>Hetland</surname><given-names>R</given-names></name>. 
+<year>2013</year>. 
+<article-title>Sensitivity of hypoxia predictions for the Northern Gulf of Mexico to sediment oxygen consumption and model nesting</article-title>. 
+<source>J Geophys Res-Oceans</source> 
+<volume>118</volume>:
+<fpage>990</fpage>–<lpage>1002</lpage>. doi:
+<pub-id pub-id-type="doi">10.1002/jgrc.20077</pub-id></mixed-citation>
+</ref>
+<ref id="bibr011">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Fennel</surname><given-names>K</given-names></name>, 
+<name name-style="western"><surname>Wilkin</surname><given-names>J</given-names></name>, 
+<name name-style="western"><surname>Levin</surname><given-names>J</given-names></name>, 
+<name name-style="western"><surname>Moisan</surname><given-names>J</given-names></name>, 
+<name name-style="western"><surname>O’Reilly</surname><given-names>J</given-names></name>, 
+<name name-style="western"><surname>Haidvogel</surname><given-names>D</given-names></name>. 
+<year>2006</year>. 
+<article-title>Nitrogen cycling in the Middle Atlantic Bight: results from a three-dimensional model and implications for the North Atlantic nitrogen budget</article-title>. 
+<source>Global Biogeochem Cycles</source> 
+<volume>20</volume>:
+<fpage>GB3007</fpage>. doi:
+<pub-id pub-id-type="doi">10.1029/2005GB002456</pub-id></mixed-citation>
+</ref>
+<ref id="bibr012">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Fennel</surname><given-names>K</given-names></name>, 
+<name name-style="western"><surname>Wilkin</surname><given-names>J</given-names></name>, 
+<name name-style="western"><surname>Previdi</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>Najjar</surname><given-names>R</given-names></name>. 
+<year>2008</year>. 
+<article-title>Denitrification effects on air-sea CO<sub>2</sub> flux in the coastal ocean: Simulations for the northwest North Atlantic</article-title>. 
+<source>Geophys Res Lett</source> 
+<volume>35</volume>:
+<fpage>L24608</fpage>. doi:
+<pub-id pub-id-type="doi">10.1029/2008GL036147</pub-id></mixed-citation>
+</ref>
+<ref id="bibr013">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Granéli</surname><given-names>E</given-names></name>, 
+<name name-style="western"><surname>Wallström</surname><given-names>K</given-names></name>, 
+<name name-style="western"><surname>Larsson</surname><given-names>U</given-names></name>, 
+<name name-style="western"><surname>Granéli</surname><given-names>W</given-names></name>, 
+<name name-style="western"><surname>Elmgren</surname><given-names>R</given-names></name>. 
+<year>1990</year>. 
+<article-title>Nutrient limitation of primary production in the Baltic Sea area</article-title>. 
+<source>Ambio</source> 
+<volume>19</volume>:
+<fpage>142</fpage>–<lpage>151</lpage></mixed-citation>
+</ref>
+<ref id="bibr014">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Haidvogel</surname><given-names>DB</given-names></name>, 
+<name name-style="western"><surname>Arango</surname><given-names>H</given-names></name>, 
+<name name-style="western"><surname>Budgell</surname><given-names>WP</given-names></name>, 
+<name name-style="western"><surname>Cornuelle</surname><given-names>BD</given-names></name>, 
+<name name-style="western"><surname>Curchitser</surname><given-names>E</given-names></name>, <etal>et al.</etal> 
+<year>2008</year>. 
+<article-title>Ocean forecasting in terrain-following coordinates: Formulation and skill assessment of the Regional Ocean Modeling System</article-title>. 
+<source>J Comput Phys</source> 
+<volume>227</volume>:
+<fpage>3595</fpage>–<lpage>3624</lpage>. doi:
+<pub-id pub-id-type="doi">10.1016/j.jcp.2007.06.016</pub-id></mixed-citation>
+</ref>
+<ref id="bibr15">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Hetland</surname><given-names>RD</given-names></name>, 
+<name name-style="western"><surname>DiMarco</surname><given-names>SF</given-names></name>. 
+<year>2008</year>. 
+<article-title>How does the character of oxygen demand control the structure of hypoxia on the Texas–Louisiana continental shelf?</article-title> 
+<source>J Mar Syst</source> 
+<volume>70</volume>:
+<fpage>49</fpage>–<lpage>62</lpage>. doi:
+<pub-id pub-id-type="doi">10.1016/j.jmarsys.2007.03.002</pub-id></mixed-citation>
+</ref>
+<ref id="bibr016">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Hetland</surname><given-names>RD</given-names></name>, 
+<name name-style="western"><surname>DiMarco</surname><given-names>SF</given-names></name>. 
+<year>2012</year>. 
+<article-title>Skill assessment of a hydrodynamic model of circulation over the Texas-Louisiana continental shelf</article-title>. 
+<source>Ocean Model</source> 
+<volume>43–44</volume>:
+<fpage>64</fpage>–<lpage>76</lpage>. doi:
+<pub-id pub-id-type="doi">10.1016/j.ocemod.2011.11.009</pub-id></mixed-citation>
+</ref>
+<ref id="bibr017">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Ingall</surname><given-names>E</given-names></name>, 
+<name name-style="western"><surname>Jahnke</surname><given-names>R</given-names></name>. 
+<year>1994</year>. 
+<article-title>Evidence for enhanced phosphorus regeneration from marine sediments overlain by oxygen depleted waters</article-title>. 
+<source>Geochim Cosmochim Acta</source> 
+<volume>58</volume>:
+<fpage>2571</fpage>–<lpage>2575</lpage>. doi:
+<pub-id pub-id-type="doi">10.1016/0016-7037(94)90033-7</pub-id></mixed-citation>
+</ref>
+<ref id="bibr018">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Ingall</surname><given-names>E</given-names></name>, 
+<name name-style="western"><surname>Jahnke</surname><given-names>R</given-names></name>. 
+<year>1997</year>. 
+<article-title>Influence of water-column anoxia on the elemental fractionation of carbon and phosphorus during sediment diagenesis</article-title>. 
+<source>Mar Geol</source> 
+<volume>139</volume>:
+<fpage>219</fpage>–<lpage>229</lpage>. doi:
+<pub-id pub-id-type="doi">10.1016/S0025-3227(96)00112-0</pub-id></mixed-citation>
+</ref>
+<ref id="bibr019">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Kemp</surname><given-names>WM</given-names></name>, 
+<name name-style="western"><surname>Sampou</surname><given-names>P</given-names></name>, 
+<name name-style="western"><surname>Cafrey</surname><given-names>J</given-names></name>, 
+<name name-style="western"><surname>Mayer</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>Henriksen</surname><given-names>K</given-names></name>, 
+<name name-style="western"><surname>Boynton</surname><given-names>WR</given-names></name>. 
+<year>1990</year>. 
+<article-title>Ammonium recycling versus denitrification Chesapeake Bay sediments</article-title>. 
+<source>Limnol Oceanogr</source> 
+<volume>35</volume>:
+<fpage>1545</fpage>–<lpage>1563</lpage></mixed-citation>
+</ref>
+<ref id="bibr020">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Kidwell</surname><given-names>DM</given-names></name>, 
+<name name-style="western"><surname>Lewitus</surname><given-names>AJ</given-names></name>, 
+<name name-style="western"><surname>Brandt</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Jewett</surname><given-names>EB</given-names></name>, 
+<name name-style="western"><surname>Mason</surname><given-names>DM</given-names></name>. 
+<year>2009</year>. 
+<article-title>Ecological impacts of hypoxia on living resources</article-title>. 
+<source>J Exp Mar Biol Ecol</source> 
+<volume>381</volume>:
+<fpage>S1</fpage>–<lpage>S3</lpage>. doi:
+<pub-id pub-id-type="doi">10.1016/j.jembe.2009.07.009</pub-id></mixed-citation>
+</ref>
+<ref id="bibr021">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Laurent</surname><given-names>A</given-names></name>, 
+<name name-style="western"><surname>Fennel</surname><given-names>K</given-names></name>, 
+<name name-style="western"><surname>Hu</surname><given-names>J</given-names></name>, 
+<name name-style="western"><surname>Hetland</surname><given-names>R</given-names></name>. 
+<year>2012</year>. 
+<article-title>Simulating the effects of phosphorus limitation in the Mississippi and Atchafalaya River plumes</article-title>. 
+<source>Biogeosciences</source> 
+<volume>9</volume>:
+<fpage>4707</fpage>–<lpage>4723</lpage>. doi:
+<pub-id pub-id-type="doi">10.5194/bg-9-4707-2012</pub-id></mixed-citation>
+</ref>
+<ref id="bibr022">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Li</surname><given-names>Y</given-names></name>, 
+<name name-style="western"><surname>Nowlin</surname><given-names>WD</given-names></name>, 
+<name name-style="western"><surname>Reid</surname><given-names>RO</given-names></name>. 
+<year>1996</year>. 
+<article-title>Spatial-scale analysis of hydrographic data over the Texas-Louisiana continental shelf</article-title>. 
+<source>J Geophys Res</source> 
+<volume>101</volume>(<issue>C9</issue>):
+<fpage>20595</fpage>–<lpage>20</lpage>. doi:
+<pub-id pub-id-type="doi">10.1029/96JC02163</pub-id></mixed-citation>
+</ref>
+<ref id="bibr023">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Lohrenz</surname><given-names>SE</given-names></name>, 
+<name name-style="western"><surname>Fahnenstiel</surname><given-names>GL</given-names></name>, 
+<name name-style="western"><surname>Redalje</surname><given-names>DG</given-names></name>, 
+<name name-style="western"><surname>Lang</surname><given-names>GA</given-names></name>, 
+<name name-style="western"><surname>Chen</surname><given-names>X</given-names></name>, 
+<name name-style="western"><surname>Dagg</surname><given-names>MJ</given-names></name>. 
+<year>1997</year>. 
+<article-title>Variations in primary production of northern Gulf of Mexico continental shelf waters linked to nutrient inputs from the Mississippi River</article-title>. 
+<source>Mar Ecol Prog Ser</source> 
+<volume>155</volume>:
+<fpage>45</fpage>–<lpage>54</lpage>. doi:
+<pub-id pub-id-type="doi">10.3354/meps155045</pub-id></mixed-citation>
+</ref>
+<ref id="bibr024">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Marta-Almeida</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>Hetland</surname><given-names>RD</given-names></name>, 
+<name name-style="western"><surname>Zhang</surname><given-names>X</given-names></name>. 
+<year>2013</year>. 
+<article-title>Evaluation of model nesting performance on the Texas-Louisiana continental shelf</article-title>. 
+<source>J Geophys Res-Oceans</source> 
+<volume>118</volume>:
+<fpage>1</fpage>–<lpage>16</lpage>. doi:
+<pub-id pub-id-type="doi">10.1002/jgrc.20163</pub-id></mixed-citation>
+</ref>
+<ref id="bibr025">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Mattern</surname><given-names>JP</given-names></name>, 
+<name name-style="western"><surname>Fennel</surname><given-names>K</given-names></name>, 
+<name name-style="western"><surname>Dowd</surname><given-names>M</given-names></name>. 
+<year>2013</year>. 
+<article-title>Sensitivity and uncertainty analysis of model hypoxia estimates for the Texas-Louisiana shelf</article-title>. 
+<source>J Geophys Res-Oceans</source> 
+<volume>118</volume>:
+<fpage>1316</fpage>–<lpage>1332</lpage>. doi:
+<pub-id pub-id-type="doi">10.1002/jgrc.20130</pub-id></mixed-citation>
+</ref>
+<ref id="bibr026">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>McCarthy</surname><given-names>MJ</given-names></name>, 
+<name name-style="western"><surname>Carini</surname><given-names>SA</given-names></name>, 
+<name name-style="western"><surname>Liu</surname><given-names>Z</given-names></name>, 
+<name name-style="western"><surname>Ostrom</surname><given-names>NE</given-names></name>, 
+<name name-style="western"><surname>Gardner</surname><given-names>WS</given-names></name>. 
+<year>2013</year>. 
+<article-title>Oxygen consumption in the water column and sediments of the northern Gulf of Mexico hypoxic zone</article-title>. 
+<source>Estuar, Coast Shelf Sci</source> 
+<volume>123</volume>:
+<fpage>46</fpage>–<lpage>53</lpage>. doi:
+<pub-id pub-id-type="doi">10.1016/j.ecss.2013.02.019</pub-id></mixed-citation>
+</ref>
+<ref id="bibr027">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>McManus</surname><given-names>J</given-names></name>, 
+<name name-style="western"><surname>Berelson</surname><given-names>WM</given-names></name>, 
+<name name-style="western"><surname>Coale</surname><given-names>KH</given-names></name>, 
+<name name-style="western"><surname>Johnson</surname><given-names>KS</given-names></name>, 
+<name name-style="western"><surname>Kilgore</surname><given-names>TE</given-names></name>. 
+<year>1997</year>. 
+<article-title>Phosphorus regeneration in continental margin sediments</article-title>. 
+<source>Geochim Cosmochim Acta</source> 
+<volume>61</volume>:
+<fpage>2891</fpage>–<lpage>2907</lpage>. doi:
+<pub-id pub-id-type="doi">10.1016/S0016-7037(97)00138-5</pub-id></mixed-citation>
+</ref>
+<ref id="bibr028">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Mesinger</surname><given-names>F</given-names></name>, 
+<name name-style="western"><surname>DiMego</surname><given-names>G</given-names></name>, 
+<name name-style="western"><surname>Kalnay</surname><given-names>E</given-names></name>, 
+<name name-style="western"><surname>Mitchell</surname><given-names>K</given-names></name>, 
+<name name-style="western"><surname>Shafran</surname><given-names>PC</given-names></name>, 
+<name name-style="western"><surname>Ebisuzaki</surname><given-names>W</given-names></name>, 
+<name name-style="western"><surname>Jovi</surname><given-names>D</given-names></name>, 
+<name name-style="western"><surname>Woollen</surname><given-names>J</given-names></name>, 
+<name name-style="western"><surname>Rogers</surname><given-names>E</given-names></name>, 
+<name name-style="western"><surname>Berbery</surname><given-names>EH</given-names></name>. <etal>et al</etal>, 
+<year>2006</year>. 
+<article-title>North American regional reanalysis</article-title>. 
+<source>Bull Amer Meteorol Soc</source> 
+<volume>87</volume>:
+<fpage>343</fpage>–<lpage>360</lpage>. doi:
+<pub-id pub-id-type="doi">10.1175/BAMS-87-3-343</pub-id></mixed-citation>
+</ref>
+<ref id="bibr029">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Murrell</surname><given-names>MC</given-names></name>, 
+<name name-style="western"><surname>Lehrter</surname><given-names>JC</given-names></name>. 
+<year>2011</year>. 
+<article-title>Sediment and lower water column oxygen consumption in the seasonally hypoxic region of the Louisiana continental shelf</article-title>. 
+<source>Estuar Coast</source> 
+<volume>34</volume>:
+<fpage>912</fpage>–<lpage>924</lpage>. doi:
+<pub-id pub-id-type="doi">10.1007/s12237-010-9351-9</pub-id></mixed-citation>
+</ref>
+<ref id="bibr030">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Nunnally</surname><given-names>CC</given-names></name>, 
+<name name-style="western"><surname>Rowe</surname><given-names>GT</given-names></name>, 
+<name name-style="western"><surname>Thornton</surname><given-names>DCO</given-names></name>, 
+<name name-style="western"><surname>Quigg</surname><given-names>A</given-names></name>. 
+<year>2013</year>. 
+<article-title>Sedimentary oxygen consumption and nutrient regeneration in the Northern Gulf of Mexico hypoxic zone</article-title>. 
+<source>J Coast Res</source> 
+<volume>S63</volume>:
+<fpage>84</fpage>–<lpage>96</lpage>. doi:
+<pub-id pub-id-type="doi">10.2112/SI63-008.1</pub-id></mixed-citation>
+</ref>
+<ref id="bibr031">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Obenour</surname><given-names>DR</given-names></name>, 
+<name name-style="western"><surname>Scavia</surname><given-names>D</given-names></name>, 
+<name name-style="western"><surname>Rabalais</surname><given-names>NN</given-names></name>, 
+<name name-style="western"><surname>Turner</surname><given-names>RE</given-names></name>, 
+<name name-style="western"><surname>Michalak</surname><given-names>AM</given-names></name>. 
+<year>2013</year>. 
+<article-title>A retrospective analysis of mid-summer hypoxic area and volume in the northern Gulf of Mexico, 1985–2011</article-title>. 
+<source>Environ Sci Technol</source> 
+<volume>47</volume>(<issue>17</issue>):
+<fpage>9808</fpage>–<lpage>9815</lpage>. doi:
+<pub-id pub-id-type="doi">10.1021/es400983g</pub-id></mixed-citation>
+</ref>
+<ref id="bibr032">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Osterman</surname><given-names>L</given-names></name>, 
+<name name-style="western"><surname>Poore</surname><given-names>R</given-names></name>, 
+<name name-style="western"><surname>Swarzenski</surname><given-names>P</given-names></name>, 
+<name name-style="western"><surname>Senn</surname><given-names>D</given-names></name>, 
+<name name-style="western"><surname>DiMarco</surname><given-names>SF</given-names></name>. 
+<year>2009</year>. 
+<article-title>The 20th-century development and expansion of Louisiana shelf hypoxia, Gulf of Mexico</article-title>. 
+<source>Geo-Mar Lett</source> 
+<volume>29</volume>:
+<fpage>405</fpage>–<lpage>414</lpage>. doi:
+<pub-id pub-id-type="doi">10.1007/s00367-009-0158-2</pub-id></mixed-citation>
+</ref>
+<ref id="bibr033">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Paerl</surname><given-names>HW</given-names></name>, 
+<name name-style="western"><surname>Valdes</surname><given-names>LM</given-names></name>, 
+<name name-style="western"><surname>Joyner</surname><given-names>AR</given-names></name>, 
+<name name-style="western"><surname>Piehler</surname><given-names>MF</given-names></name>, 
+<name name-style="western"><surname>Lebo</surname><given-names>ME</given-names></name>. 
+<year>2004</year>. 
+<article-title>Solving problems resulting from solutions: evolution of a dual nutrient management strategy for the eutrophying Neuse River Estuary, North Carolina</article-title>. 
+<source>Environ Sci Technol</source> 
+<volume>38</volume>:
+<fpage>3068</fpage>–<lpage>3073</lpage>. doi:
+<pub-id pub-id-type="doi">10.1021/es0352350</pub-id></mixed-citation>
+</ref>
+<ref id="bibr034">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Quigg</surname><given-names>A</given-names></name>, 
+<name name-style="western"><surname>Sylvan</surname><given-names>JB</given-names></name>, 
+<name name-style="western"><surname>Gustafson</surname><given-names>AB</given-names></name>, 
+<name name-style="western"><surname>Fisher</surname><given-names>TR</given-names></name>, 
+<name name-style="western"><surname>Oliver</surname><given-names>RL</given-names></name>, 
+<name name-style="western"><surname>Tozzi</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Ammerman</surname><given-names>JW</given-names></name>. 
+<year>2011</year>. 
+<article-title>Going west: nutrient limitation of primary production in the Northern Gulf of Mexico and the importance of the Atchafalaya River</article-title>. 
+<source>Aquat Geochem</source> 
+<volume>17</volume>:
+<fpage>519</fpage>–<lpage>544</lpage>. doi:
+<pub-id pub-id-type="doi">10.1007/s10498-011-9134-3</pub-id></mixed-citation>
+</ref>
+<ref id="bibr035">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Quiñones-Rivera</surname><given-names>ZJ</given-names></name>, 
+<name name-style="western"><surname>Wissel</surname><given-names>B</given-names></name>, 
+<name name-style="western"><surname>Justic</surname><given-names>D</given-names></name>, 
+<name name-style="western"><surname>Fry</surname><given-names>B</given-names></name>. 
+<year>2007</year>. 
+<article-title>Partitioning oxygen sources and sinks in a stratified, eutrophic coastal ecosystem using stable oxygen isotopes</article-title>. 
+<source>Mar Ecol Prog Ser</source> 
+<volume>342</volume>:
+<fpage>69</fpage>–<lpage>83</lpage>. doi:
+<pub-id pub-id-type="doi">10.3354/meps342069</pub-id></mixed-citation>
+</ref>
+<ref id="bibr036">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Quiñones-Rivera</surname><given-names>ZJ</given-names></name>, 
+<name name-style="western"><surname>Wissel</surname><given-names>B</given-names></name>, 
+<name name-style="western"><surname>Rabalais</surname><given-names>NN</given-names></name>, 
+<name name-style="western"><surname>Justic</surname><given-names>D</given-names></name>. 
+<year>2010</year>. 
+<article-title>Effects of biological and physical factors on seasonal oxygen dynamics in a stratified, eutrophic coastal ecosystem</article-title>. 
+<source>Limnol Oceanogr</source> 
+<volume>55</volume>:
+<fpage>289</fpage>–<lpage>304</lpage>. doi:
+<pub-id pub-id-type="doi">10.4319/lo.2010.55.1.0289</pub-id></mixed-citation>
+</ref>
+<ref id="bibr037">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Rabalais</surname><given-names>N</given-names></name>, 
+<name name-style="western"><surname>Turner</surname><given-names>RE</given-names></name>, 
+<name name-style="western"><surname>Dortch</surname><given-names>Q</given-names></name>, 
+<name name-style="western"><surname>Justic</surname><given-names>D</given-names></name>, 
+<name name-style="western"><surname>Bierman</surname><given-names>V</given-names></name>, 
+<name name-style="western"><surname>Wiseman</surname><given-names>W</given-names></name>. 
+<year>2002</year>. 
+<article-title>Nutrient-enhanced productivity in the northern Gulf of Mexico: past, present and future</article-title>. 
+<source>Hydrobiologia</source> 
+<volume>475–476</volume>:
+<fpage>39</fpage>–<lpage>63</lpage>. doi:
+<pub-id pub-id-type="doi">10.1023/A:1020388503274</pub-id></mixed-citation>
+</ref>
+<ref id="bibr038">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Scavia</surname><given-names>D</given-names></name>, 
+<name name-style="western"><surname>Donnelly</surname><given-names>KA</given-names></name>. 
+<year>2007</year>. 
+<article-title>Reassessing hypoxia forecasts for the Gulf of Mexico</article-title>. 
+<source>Environ Sci Technol</source> 
+<volume>41</volume>:
+<fpage>8111</fpage>–<lpage>8117</lpage>. doi:
+<pub-id pub-id-type="doi">10.1021/es0714235</pub-id></mixed-citation>
+</ref>
+<ref id="bibr039">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Scavia</surname><given-names>D</given-names></name>, 
+<name name-style="western"><surname>Evans</surname><given-names>MA</given-names></name>, 
+<name name-style="western"><surname>Obenour</surname><given-names>DR</given-names></name>. 
+<year>2013</year>. 
+<article-title>A scenario and forecast model for Gulf of Mexico hypoxic area and volume</article-title>. 
+<source>Environ Sci Technol</source> 
+<volume>47</volume>(<issue>18</issue>):
+<fpage>10423</fpage>–<lpage>10428</lpage>. doi:
+<pub-id pub-id-type="doi">10.1021/es4025035</pub-id></mixed-citation>
+</ref>
+<ref id="bibr040">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Seitzinger</surname><given-names>SP</given-names></name>, 
+<name name-style="western"><surname>Giblin</surname><given-names>AE</given-names></name>. 
+<year>1996</year>. 
+<article-title>Estimating denitrification in North Atlantic continental shelf sediments</article-title>. 
+<source>Biogeochemistry</source> 
+<volume>35</volume>:
+<fpage>235</fpage>–<lpage>260</lpage>. doi:
+<pub-id pub-id-type="doi">10.1007/BF02179829</pub-id></mixed-citation>
+</ref>
+<ref id="bibr041">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Shchepetkin</surname><given-names>AF</given-names></name>, 
+<name name-style="western"><surname>McWilliams</surname><given-names>JC</given-names></name>. 
+<year>2005</year>. 
+<article-title>The regional oceanic modeling system (ROMS): a split-explicit, free-surface, topography-following-coordinate oceanic model</article-title>. 
+<source>Ocean Model</source> 
+<volume>9</volume>:
+<fpage>347</fpage>–<lpage>404</lpage>. doi:
+<pub-id pub-id-type="doi">10.1016/j.ocemod.2004.08.002</pub-id></mixed-citation>
+</ref>
+<ref id="bibr042">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Smith</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Hitchcock</surname><given-names>G</given-names></name>. 
+<year>1994</year>. 
+<article-title>Nutrient enrichments and phytoplankton growth in the surface waters of the Louisiana Bight</article-title>. 
+<source>Estuar Coast</source> 
+<volume>17</volume>:
+<fpage>740</fpage>–<lpage>753</lpage>. doi:
+<pub-id pub-id-type="doi">10.2307/1352744</pub-id></mixed-citation>
+</ref>
+<ref id="bibr043">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Sylvan</surname><given-names>J</given-names></name>, 
+<name name-style="western"><surname>Quigg</surname><given-names>A</given-names></name>, 
+<name name-style="western"><surname>Tozzi</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Ammerman</surname><given-names>J</given-names></name>. 
+<year>2011</year>. 
+<article-title>Mapping phytoplankton community physiology on a river impacted continental shelf: testing a multifaceted approach</article-title>. 
+<source>Estuar Coast</source> 
+<volume>34</volume>:
+<fpage>1</fpage>–<lpage>14</lpage>. doi:
+<pub-id pub-id-type="doi">10.1007/s12237-011-9415-5</pub-id></mixed-citation>
+</ref>
+<ref id="bibr044">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Sylvan</surname><given-names>JB</given-names></name>, 
+<name name-style="western"><surname>Dortch</surname><given-names>Q</given-names></name>, 
+<name name-style="western"><surname>Nelson</surname><given-names>DM</given-names></name>, 
+<name name-style="western"><surname>Brown</surname><given-names>AFM</given-names></name>, 
+<name name-style="western"><surname>Morrison</surname><given-names>W</given-names></name>, 
+<name name-style="western"><surname>Ammerman</surname><given-names>JW</given-names></name>. 
+<year>2006</year>. 
+<article-title>Phosphorus limits phytoplankton growth on the Louisiana shelf during the period of hypoxia formation</article-title>. 
+<source>Environ Sci Technol</source> 
+<volume>40</volume>:
+<fpage>7548</fpage>–<lpage>7553</lpage>. doi:
+<pub-id pub-id-type="doi">10.1021/es061417t</pub-id></mixed-citation>
+</ref>
+<ref id="bibr045">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Sylvan</surname><given-names>JB</given-names></name>, 
+<name name-style="western"><surname>Quigg</surname><given-names>A</given-names></name>, 
+<name name-style="western"><surname>Tozzi</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Ammerman</surname><given-names>JW</given-names></name>. 
+<year>2007</year>. 
+<article-title>Eutrophication-induced phosphorus limitation in the Mississippi River Plume: evidence from fast repetition rate fluorometry</article-title>. 
+<source>Limnol Oceanogr</source> 
+<volume>52</volume>:
+<fpage>2679</fpage>–<lpage>2685</lpage>. doi:
+<pub-id pub-id-type="doi">10.4319/lo.2007.52.6.2679</pub-id></mixed-citation>
+</ref>
+<ref id="bibr046">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Turner</surname><given-names>R</given-names></name>, 
+<name name-style="western"><surname>Rabalais</surname><given-names>N</given-names></name>. 
+<year>2013</year>. 
+<article-title>Nitrogen and phosphorus phytoplankton growth limitation in the northern Gulf of Mexico</article-title>. 
+<source>Aquat Microb Ecol</source> 
+<volume>68</volume>:
+<fpage>159</fpage>–<lpage>169</lpage>. doi:
+<pub-id pub-id-type="doi">10.3354/ame01607</pub-id></mixed-citation>
+</ref>
+<ref id="bibr047">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Turner</surname><given-names>RE</given-names></name>, 
+<name name-style="western"><surname>Rabalais</surname><given-names>NN</given-names></name>, 
+<name name-style="western"><surname>Justic</surname><given-names>D</given-names></name>. 
+<year>2006</year>. 
+<article-title>Predicting summer hypoxia in the northern Gulf of Mexico: riverine N, P, and Si loading</article-title>. 
+<source>Mar Pollut Bull</source> 
+<volume>52</volume>:
+<fpage>139</fpage>–<lpage>148</lpage>. doi:
+<pub-id pub-id-type="doi">10.1016/j.marpolbul.2005.08.012</pub-id></mixed-citation>
+</ref>
+<ref id="bibr048">
+<mixed-citation publication-type="book">
+<collab>USEPA</collab>, 
+<year>2008</year>. 
+<source>Gulf hypoxia action plan 2008 for reducing, mitigating, and controlling hypoxia in the northern Gulf of Mexico and improving water quality in the Mississippi River basin</source>. 
+<publisher-name>Mississippi River/Gulf of Mexico Watershed Nutrient Task Force</publisher-name>, 
+<publisher-loc>Washington, DC</publisher-loc>.</mixed-citation>
+</ref>
+<ref id="bibr049">
+<mixed-citation publication-type="book">
+<collab>USEPA</collab>, 
+<year>2010</year>. 
+<source>Moving forward on Gulf hypoxia: annual report 2010</source>. 
+<publisher-name>Mississippi River/Gulf of Mexico Watershed Nutrient Task Force</publisher-name>, 
+<publisher-loc>Washington, DC</publisher-loc>.</mixed-citation>
+</ref>
+<ref id="bibr050">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Wilson</surname><given-names>RF</given-names></name>, 
+<name name-style="western"><surname>Fennel</surname><given-names>K</given-names></name>, 
+<name name-style="western"><surname>Mattern</surname><given-names>JP</given-names></name>. 
+<year>2013</year>. 
+<article-title>Simulating sediment-water exchange of nutrients and oxygen: a comparative assessment of models against mesocosm observations</article-title>. 
+<source>Cont Shelf Res</source> 
+<volume>63</volume>:
+<fpage>69</fpage>–<lpage>84</lpage>. doi:
+<pub-id pub-id-type="doi">10.1016/j.csr.2013.05.003</pub-id></mixed-citation>
+</ref>
+<ref id="bibr051">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Wiseman</surname><given-names>WJ</given-names></name>, 
+<name name-style="western"><surname>Rabalais</surname><given-names>NN</given-names></name>, 
+<name name-style="western"><surname>Turner</surname><given-names>RE</given-names></name>, 
+<name name-style="western"><surname>Dinnel</surname><given-names>SP</given-names></name>, 
+<name name-style="western"><surname>MacNaughton</surname><given-names>A</given-names></name>. 
+<year>1997</year>. 
+<article-title>Seasonal and interannual variability within the Louisiana coastal current: stratification and hypoxia</article-title>. 
+<source>J Marine Syst</source> 
+<volume>12</volume>:
+<fpage>237</fpage>–<lpage>248</lpage>. doi:
+<pub-id pub-id-type="doi">10.1016/S0924-7963(96)00100-5</pub-id></mixed-citation>
+</ref>
+<ref id="bibr052">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Xue</surname><given-names>Z</given-names></name>, 
+<name name-style="western"><surname>He</surname><given-names>R</given-names></name>, 
+<name name-style="western"><surname>Fennel</surname><given-names>K</given-names></name>, 
+<name name-style="western"><surname>Cai</surname><given-names>W-J</given-names></name>, 
+<name name-style="western"><surname>Lohrenz</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Hopkinson</surname><given-names>C</given-names></name>. 
+<year>2013</year>. 
+<article-title>Modeling ocean circulation and biogeochemical variability in the Gulf of Mexico</article-title>. 
+<source>Biogeosciences</source> 
+<volume>10</volume>:
+<fpage>7219</fpage>–<lpage>7234</lpage>. doi:
+<pub-id pub-id-type="doi">10.5194/bg-10-7219-2013</pub-id></mixed-citation>
+</ref>
+<ref id="bibr053">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Zhang</surname><given-names>X</given-names></name>, 
+<name name-style="western"><surname>Hetland</surname><given-names>RD</given-names></name>, 
+<name name-style="western"><surname>Marta-Almeida</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>DiMarco</surname><given-names>SF</given-names></name>. 
+<year>2012</year>. 
+<article-title>A numerical investigation of the Mississippi and Atchafalaya freshwater transport, filling and flushing times on the Texas-Louisiana Shelf</article-title>. 
+<source>J Geophys Res</source> 
+<volume>117</volume>:
+<fpage>C11009</fpage>. doi:
+<pub-id pub-id-type="doi">10.1029/2012JC008108</pub-id></mixed-citation>
+</ref></ref-list>
+</back>
+</article>

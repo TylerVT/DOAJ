@@ -1,0 +1,1153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article" dtd-version="1.0" xml:lang="en">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">BioOne</journal-id>
+<journal-id journal-id-type="journal-id">Elementa</journal-id>
+<journal-title-group>
+<journal-title>Elementa</journal-title>
+<journal-subtitle>Science of the Anthropocene</journal-subtitle>
+<abbrev-journal-title>Elem. Sci. Anth.</abbrev-journal-title>
+</journal-title-group>
+<contrib-group>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Helmig</surname><given-names>Detlev</given-names></name>
+<xref ref-type="aff" rid="affa"/>
+<role>Editor-in-Chief: Atmospheric Science</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/detlev-helmig/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Blum</surname><given-names>Joel D.</given-names></name>
+<xref ref-type="aff" rid="affb"/>
+<role>Editor-in-Chief: Earth &amp; Environmental Science</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/joel-d-blum/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Zak</surname><given-names>Donald R.</given-names></name>
+<xref ref-type="aff" rid="affb"/>
+<role>Editor-in-Chief: Ecology</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/donald-r-zak/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Deming</surname><given-names>Jody W.</given-names></name>
+<xref ref-type="aff" rid="affc"/>
+<role>Editor-in-Chief: Ocean Science</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/jody-w-deming/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Chang</surname><given-names>Michael E.</given-names></name>
+<xref ref-type="aff" rid="affd"/>
+<role>Editor-in-Chief: Sustainable Engineering</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/michael-e-chang/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Kapuscinski</surname><given-names>Anne</given-names></name>
+<xref ref-type="aff" rid="affe"/>
+<role>Editor-in-Chief: Sustainability Transitions</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/anne-kapuscinski/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Peart</surname><given-names>David R.</given-names></name>
+<xref ref-type="aff" rid="affe"/>
+<role>Editor-in-Chief: Sustainability Transitions</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/david-r-peart/</uri>
+</contrib>
+</contrib-group>
+<aff id="affa">
+<institution>University of Colorado Boulder</institution>
+<country>United States</country>
+</aff>
+<aff id="affb">
+<institution>University of Michigan</institution>
+<country>United States</country>
+</aff>
+<aff id="affc">
+<institution>University of Washington</institution>
+<country>United States</country>
+</aff>
+<aff id="affd">
+<institution>Georgia Institute of Technology</institution>
+<country>United States</country>
+</aff>
+<aff id="affe">
+<institution>Dartmouth</institution>
+<country>United States</country>
+</aff>
+<issn pub-type="epub">2325-1026</issn>
+<publisher>
+<publisher-name>BioOne</publisher-name>
+<publisher-loc>21 Dupont Circle NW, Suite 800, Washington, DC 20036, United States<email>team@elementascience.org</email>
+<uri>http://bioone.org</uri><uri>http://elementascience.org</uri>
+</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">ELEMENTA-D-13-00017</article-id>
+<article-id pub-id-type="doi">10.12952/journal.elementa.000020</article-id>
+<article-categories>
+<subj-group subj-group-type="article-type">
+<subject>Research Article</subject>
+</subj-group>
+<subj-group subj-group-type="domain">
+<subject>Ecology</subject>
+</subj-group>
+<subj-group subj-group-type="classification">
+<subject>Ecology</subject>
+<subj-group>
+<subject>Population Ecology</subject>
+</subj-group>
+<subj-group>
+<subject>Plants</subject>
+</subj-group>
+<subj-group>
+<subject>Invasive species</subject>
+</subj-group>
+<subj-group>
+<subject>Experimental Ecology</subject>
+</subj-group>
+<subj-group>
+<subject>Global Change</subject>
+</subj-group>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Warming, soil moisture, and loss of snow increase <italic>Bromus tectorum</italic>’s population growth rate</article-title>
+<alt-title alt-title-type="short-title">Warming favors <italic>Bromus tectorum</italic></alt-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Compagnoni</surname><given-names>Aldo</given-names></name>
+<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+<xref ref-type="corresp" rid="cor1"><sup>*</sup></xref>
+</contrib>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Adler</surname><given-names>Peter B.</given-names></name>
+<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+</contrib>
+</contrib-group>
+<aff id="aff1"><label>1</label>
+<institution content-type="dept">Department of Wildland Resources and the Ecology Center</institution>, <institution>Utah State University</institution>, <addr-line content-type="city">Logan</addr-line>, <addr-line content-type="state">Utah</addr-line>, <country>United States</country></aff>
+<contrib-group>
+<contrib contrib-type="domain-editor-in-chief" xlink:type="simple">
+<name name-style="western"><surname>Zak</surname><given-names>Donald R.</given-names></name>
+<xref ref-type="aff" rid="afff"/>
+<role>Domain Editor-in-Chief</role>
+</contrib>
+<contrib contrib-type="associate-editor" xlink:type="simple">
+<name name-style="western"><surname>Sanders</surname><given-names>Nathan J.</given-names></name>
+<xref ref-type="aff" rid="affg"/>
+<role>Associate Editor</role>
+</contrib>
+</contrib-group>
+<aff id="afff">
+<institution content-type="dept">School of Natural Resources &amp; Environment</institution>
+<institution>University of Michigan</institution>
+<addr-line content-type="city">Ann Arbor</addr-line>
+<addr-line content-type="state">Michigan</addr-line>
+<country>United States</country>
+</aff>
+<aff id="affg">
+<institution content-type="dept">Department of Ecology and Evolutionary Biology</institution>
+<institution>The University of Tennessee</institution>
+<addr-line content-type="city">Knoxville</addr-line>
+<addr-line content-type="state">Tennessee</addr-line>
+<country>United States</country>
+</aff>
+<author-notes><corresp id="cor1"><label><sup>*</sup></label><email xlink:type="simple">aldo.compagnoni@aggiemail.usu.edu</email></corresp>
+<fn fn-type="conflict"><p>We have no competing interests to report.</p></fn>
+<fn fn-type="con">
+<p>Contributed to conception and design: PBA, AC</p>
+<p>Contributed to acquisition of data: AC</p>
+<p>Contributed to analysis and interpretation of data: AC, PBA</p>
+<p>Drafted and/or revised the article: AC, PBA</p>
+<p>Approved the submitted version for publication: AC, PBA</p></fn>
+</author-notes>
+<pub-date pub-type="collection" iso-8601-date="2014-01-08">
+<day>08</day>
+<month>01</month>
+<year>2014</year>
+</pub-date>
+<pub-date pub-type="epub" iso-8601-date="2014-01-08">
+<day>08</day>
+<month>01</month>
+<year>2014</year>
+</pub-date>
+<volume content-type="volume">2</volume>
+<elocation-id>000020</elocation-id>
+<history>
+<date date-type="received" iso-8601-date="2013-09-09">
+<day>09</day>
+<month>09</month>
+<year>2013</year>
+</date>
+<date date-type="rev-recd" iso-8601-date="2013-11-14">
+<day>14</day>
+<month>11</month>
+<year>2013</year>
+</date>
+<date date-type="accepted" iso-8601-date="2013-11-25">
+<day>25</day>
+<month>11</month>
+<year>2013</year>
+</date>
+</history>
+<permissions>
+<copyright-year>2014</copyright-year>
+<copyright-holder>Compagnoni and Adler</copyright-holder>
+<license license-type="open-access" xlink:type="simple">
+<license-p><open-access><p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</p>
+</open-access>
+</license-p>
+</license>
+</permissions>
+<abstract>
+<title>Abstract</title>
+<p>Climate change threatens to exacerbate the impacts of invasive species. In temperate ecosystems, direct effects of warming may be compounded by dramatic reductions in winter snow cover. Cheatgrass (<italic>Bromus tectorum</italic>) is arguably the most destructive biological invader in basins of the North American Intermountain West, and warming could increase its performance through direct effects on demographic rates or through indirect effects mediated by loss of snow. We conducted a two-year experimental manipulation of temperature and snow pack to test whether 1) warming increases cheatgrass population growth rate and 2) reduced snow cover contributes to cheatgrass’ positive response to warming. We used infrared heaters operating continuously to create the warming treatment, but turned heaters on only during snowfalls for the snowmelt treatment. We monitored cheatgrass population growth rate and the vital rates that determine it: emergence, survival and fecundity. Growth rate increased in both warming and snowmelt treatments. The largest increases occurred in warming plots during the wettest year, indicating that the magnitude of response to warming depends on moisture availability. Warming increased both fecundity and survival, especially in the wet year, while snowmelt contributed to the positive effects of warming by increasing survival. Our results indicate that increasing temperature will exacerbate cheatgrass impacts, especially where warming causes large reductions in the depth and duration of snow cover.</p>
+</abstract>
+<kwd-group>
+<kwd>Cheatgrass</kwd>
+<kwd>climate change</kwd>
+<kwd>plant demography</kwd>
+</kwd-group>
+<funding-group>
+<funding-statement>Aldo Compagnoni was funded by a Quinney Fellowship. This research was funded by the Utah State University and the Utah Agricultural Experiment Station, which approves this paper as journal article 8557.</funding-statement></funding-group>
+</article-meta>
+</front>
+<body>
+<sec id="s1"><title>Introduction</title>
+<p>Climate change (<xref ref-type="bibr" rid="bibr028">Parmesan, 2006</xref>) and biological invasions (<xref ref-type="bibr" rid="bibr043">Vitousek et al., 1996</xref>) are greatly impacting the world’s ecosystems. However, the effects of these global change agents are often studied in isolation. For example, climate change alters the function and structure of terrestrial vegetation (<xref ref-type="bibr" rid="bibr008">Cramer et al., 2001</xref>), shifts species ranges (<xref ref-type="bibr" rid="bibr033">Root et al., 2003</xref>), and will likely cause extinctions (<xref ref-type="bibr" rid="bibr040">Thomas et al., 2004</xref>; <xref ref-type="bibr" rid="bibr041">Thuiller et al., 2005</xref>). Plant invasions alter species composition and diversity (<xref ref-type="bibr" rid="bibr027">Parker et al., 1999</xref>; <xref ref-type="bibr" rid="bibr015">Hejda et al., 2009</xref>), fire regimes (<xref ref-type="bibr" rid="bibr009">D’Antonio and Vitousek, 1992</xref>), hydrology (<xref ref-type="bibr" rid="bibr003">Cavaleri and Sack, 2010</xref>), and biogeochemical cycles (<xref ref-type="bibr" rid="bibr042">Vitousek and Walker, 1989</xref>). Given the impacts of climate change and invasions when operating independently, understanding their potential interactions should be a high priority. Such interactions might drive rapid ecological changes, posing tremendous challenges to natural resource management.</p>
+<p>In many temperate zones, winter snow cover plays a key role in regulating the function (<xref ref-type="bibr" rid="bibr035">Schimel et al., 2004</xref>; <xref ref-type="bibr" rid="bibr026">Monson et al., 2006</xref>) and structure (<xref ref-type="bibr" rid="bibr014">Harte and Shaw, 1995</xref>; <xref ref-type="bibr" rid="bibr029">Pauli et al., 2013</xref>) of ecosystems. Warming will dramatically reduce the depth and duration of winter snowpacks (<xref ref-type="bibr" rid="bibr010">Déry and Brown, 2007</xref>). Most experimental studies addressing the ecological role of snow on plants have been carried out in arctic, boreal, and alpine systems (<xref ref-type="bibr" rid="bibr019">Kreyling, 2010</xref>). However, loss of snow also can be ecologically important at lower latitudes and elevations by influencing soil processes and plant overwintering strategies (<xref ref-type="bibr" rid="bibr019">Kreyling, 2010</xref>).</p>
+<p>Cheatgrass (<italic>Bromus tectorum</italic>) is arguably the most destructive exotic plant invader in the North American Intermountain West (<xref ref-type="bibr" rid="bibr018">Knapp, 1996</xref>). This annual grass dramatically shortens the natural fire return interval (<xref ref-type="bibr" rid="bibr045">Whisenant, 1990</xref>; <xref ref-type="bibr" rid="bibr001">Balch et al., 2013</xref>) by producing large amounts of flammable biomass (<xref ref-type="bibr" rid="bibr009">D’Antonio and Vitousek, 1992</xref>). Frequent fires negatively impact native, perennial plant species, decreasing natural habitat (<xref ref-type="bibr" rid="bibr044">West and Yorks, 2002</xref>) and endangering obligate consumer species (<xref ref-type="bibr" rid="bibr011">Dobkin and Sauder, 2004</xref>). Currently, cheatgrass impacts are greatest in the lower elevation basins of the Intermountain West. Although cheatgrass is also present at higher elevations, it has not reached sufficient abundance to cause large impacts (<xref ref-type="bibr" rid="bibr039">Suring et al., 2005</xref>). Recent experimental (<xref ref-type="bibr" rid="bibr005">Chambers et al., 2007</xref>) and modeling (<xref ref-type="bibr" rid="bibr002">Bradley, 2009</xref>) studies suggest warming might increase cheatgrass impacts at higher elevations. However, to our knowledge no study has directly tested this hypothesis with a manipulative field experiment.</p>
+<p>Understanding limitations on cheatgrass performance at high elevations, and predicting how these limitations may be altered by climate change, requires disentangling the effect of abiotic factors that co-vary with elevation, such as temperature, precipitation, and snow pack. If temperature has a direct, limiting effect on cheatgrass performance, then warming should favor cheatgrass at high elevations regardless of snow cover. However, because a small temperature increase can trigger large reductions in snow cover (<xref ref-type="bibr" rid="bibr016">IPCC, 2007</xref>), the direct effects of warming might be amplified or buffered by reductions in snow pack. Recent work at the upper end of cheatgrass’ elevation range, where cheatgrass germinates after spring snowmelt, has shown that snow cover can decrease the population growth rate of cheatgrass (<xref ref-type="bibr" rid="bibr013">Griffith and Loik, 2010</xref>). However, in much of its range, cheatgrass typically germinates and establishes between fall and the end of winter (e.g. <xref ref-type="bibr" rid="bibr022">Mack and Pyke, 1983</xref>; <xref ref-type="bibr" rid="bibr023">Mack and Pyke, 1984</xref>; <xref ref-type="bibr" rid="bibr030">Pierson and Mack, 1990</xref>), provided sufficient moisture (<xref ref-type="bibr" rid="bibr037">Smith et al., 2008</xref>). If snow negatively impacts overwintering seedlings, loss of snow pack could play a significant role in exacerbating the invasion of cheatgrass, especially where the greatest reductions in snow depth and duration occur.</p>
+<p>Our objective was to experimentally test the effect of warming and loss of snow on cheatgrass population growth rates. We manipulated temperature and snow cover to evaluate the following hypotheses: (1) warming will improve cheatgrass performance, and (2) melting of snow will contribute to the positive effect of warming. We tested these hypotheses by monitoring population growth rate, a proxy for cheatgrass impact, and the vital rates that determine it: emergence, survival and fecundity. Emergence reflects how abiotic factors affect seed germination, survival reflects the effect of stress on established plants, and fecundity is a proxy for plant growth. Thus, the vital rate data provide inference about the mechanisms driving responses to the warming and snowmelt treatments.</p></sec>
+<sec id="s2"><title>Methods</title>
+<sec id="s2a"><title>Site description</title>
+<p>The Green Canyon ecological station is located in Logan, Utah, USA, at 41°76′ N, 111°79′ W and at 1460m above sea level. The site is located on a flat alluvial fan and soil is a silt loam (<uri>http://websoilsurvey.nrcs.usda.gov/app/WebSoilSurvey.aspx</uri>). Climate variables are summarized in <xref ref-type="table" rid="elementa.000020.t001">Table 1</xref>. Within the region of the Western United States dominated by cheatgrass, the climate of this site is close to the median and upper bound of temperature and precipitation range, respectively (Compagnoni and Adler, in review). Vegetation is dominated by <italic>Artemisia tridentata</italic> ssp. <italic>tridentata</italic> in the shrub layer and by <italic>Agropyron repens</italic> and <italic>Poa bulbosa</italic> in the herbaceous layer.</p>
+<table-wrap id="elementa.000020.t001" position="float">
+<object-id pub-id-type="doi">10.12952/journal.elementa.000020.t001</object-id>
+<label>Table 1. </label>
+<caption><title>Growing season (September through June) weather variables in the two years of the experiment</title></caption>
+<alternatives>
+<graphic id="elementa.000020.t001-i" position="float" mimetype="image" xlink:type="simple" xlink:href="info:doi/10.12952/journal.elementa.000020.t001"/>
+<table>
+<colgroup span="1">
+<col width="20%" span="1"/>
+<col width="20%" span="1"/>
+<col width="20%" span="1"/>
+<col width="20%" span="1"/>
+<col width="20%" span="1"/>
+</colgroup>
+<thead>
+<tr>
+<th rowspan="1" colspan="1">
+Growing season
+</th>
+<th rowspan="1" colspan="1">
+Temperature (°C)
+</th>
+<th rowspan="1" colspan="1">
+Precipitation (mm)
+</th>
+<th rowspan="1" colspan="1">
+Snow fall (cm)
+</th>
+<th rowspan="1" colspan="1">
+Mean snow depth (cm)
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+2010–2011
+</td>
+<td rowspan="1" colspan="1">
+5.9
+</td>
+<td rowspan="1" colspan="1">
+645
+</td>
+<td rowspan="1" colspan="1">
+250
+</td>
+<td rowspan="1" colspan="1">
+4.2
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+2011–2012
+</td>
+<td rowspan="1" colspan="1">
+7.3
+</td>
+<td rowspan="1" colspan="1">
+327
+</td>
+<td rowspan="1" colspan="1">
+130
+</td>
+<td rowspan="1" colspan="1">
+1.2
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+Average
+</td>
+<td rowspan="1" colspan="1">
+6.2
+</td>
+<td rowspan="1" colspan="1">
+438
+</td>
+<td rowspan="1" colspan="1">
+164
+</td>
+<td rowspan="1" colspan="1">
+3.7
+</td>
+</tr>
+</tbody></table></alternatives></table-wrap>
+</sec>
+<sec id="s2b"><title>Experiment</title>
+<p>In September 2010, we implemented an experiment with three treatments replicated eight times: control, snowmelt and warming. Snowmelt and warming treatments were imposed with infrared heat lamps (Model HS-2420, Kalgo Electronics Co.; e.g. <xref ref-type="bibr" rid="bibr014">Harte and Shaw, 1995</xref>) installed 1.6 m above the ground surface. In warming plots, the lamps were left on from November until cheatgrass seed set, which occurred in May or June depending on phenology. In snowmelt plots, the lamps were turned on only during snowfalls and were turned off immediately after the snow had been melted. Each plot contained four 25 × 25 cm quadrats consisting of a plastic mesh grid with 100 2.5 × 2.5 cm cells. We planted three of these quadrats with seed collected from three sites located along an elevation gradient. One of these sites was in the immediate vicinity of the experiment. The others were located within 60 km and 25 km of it, and 120 m lower and 370 m higher in elevation, respectively. We collected seed in both years during the month of June. Quadrats were randomly assigned to be planted with one of these three seed sources, and the fourth quadrat was left unplanted to determine background emergence. We planted one seed in each 2.5 × 2.5 cm cell of the planted quadrats at the beginning of September. This is a density of 1600 seeds m<sup>-2</sup>, much lower than cheatgrass dominated sites in the Great Basin where seed rain can range from 6000 (<xref ref-type="bibr" rid="bibr046">Young et al., 1969</xref>) to 17000 (<xref ref-type="bibr" rid="bibr038">Stewart and Hull, 1949</xref>) seeds m<sup>-2</sup>. We planted cheatgrass at relatively low density to estimate population growth rate in the absence of intense intraspecific competition.</p>
+<p>Three plots in each of the control, snowmelt, and warming treatments were randomly chosen for soil moisture and temperature monitoring. We used Decagon Devices EC-5 and 5TM soil moisture sensors and ECT temperature sensors connected to Em50 digital/analog and Em5b analog data loggers to measure soil moisture at 5 cm and 20 cm depth, soil temperature at 5 cm depth, and air temperature at 5 cm above the ground surface. Data loggers operated from December through the end of June and recorded data every hour by saving the average of the values observed by sensors in the previous 60 minutes.</p>
+<p>We estimated the geometric population growth rate (λ) of cheatgrass in each quadrat as λ=n<sub>t+1</sub>/n<sub>t</sub>, where n<sub>t</sub> is the number of seeds in the population at year t. n<sub>t</sub> = 100 because every quadrat is planted with exactly 100 seeds at the beginning of the growing season. Therefore, λ = quadrat seed production/100. Quadrat seed production was estimated by multiplying the number of cheatgrass spikelets harvested in each quadrat by the average number of seeds per spikelet. The latter was estimated by subsampling five individuals per quadrat. ANOVA tests showed that the number of seeds per spikelet varied with treatment but not with seed provenance.</p>
+<p>We followed the fate of seeds planted in each cell of the plastic grids to estimate the three vital rates that determine cheatgrass population growth rate: <italic>emergence</italic>, the percentage of cells where cheatgrass emerged, <italic>survival</italic>, the percentage of emerged individuals that survived until seed set, and <italic>fecundity</italic>, the average number of seeds produced per surviving individual. λ relates to vital rates through the formula λ = emergence × survival × fecundity. We censused cheatgrass presence three times during the growing season: in November, at the end of March and at the end of the growing season. The last census was carried out at the beginning of June in 2011 and in mid May in 2012. We censused three times to minimize the risk of missing cells where cheatgrass emerged in the spring, and to estimate seasonal survival rates.</p>
+<p>Our estimate of λ assumes no carryover of seeds from one year to the next. Therefore, we consider dead those seeds that did not emerge the year we planted them. This assumption is supported by a buried bag experiment carried out in control and warming plots during the first growing season which showed that more than 99% of seeds germinated regardless of treatment. Even if the seed bank has little effect on population dynamics, natural dispersal could add seeds to our study plots. To account for contributions from naturally dispersed seeds, we subtracted the seed production in unplanted quadrats from the seed production of planted quadrats. We did this in two ways. First, we subtracted treatment-specific averages of seed production in unplanted plots. These averages were the predicted values of a linear model explaining seed production in unplanted quadrats as a function of treatment. Second, we subtracted the plot-specific seed production in unplanted quadrats. To check for differences between these two ways of accounting for naturally dispersed seeds, we fit models of λ using both of these estimations.</p> 
+<p>Our two estimates of λ, based on different methods of correcting for background emergence, yielded qualitatively identical figures (<xref ref-type="fig" rid="elementa.000020.f001">Figure 1</xref>, <xref ref-type="supplementary-material" rid="elementa.000020.s001">Figure S1</xref>) and model results (<xref ref-type="table" rid="elementa.000020.t002">Table 2</xref>, <xref ref-type="supplementary-material" rid="elementa.000020.s007">Table S1</xref>). Henceforth, we refer to analyses of values of λ estimated by subtracting treatment-specific means of background emergence.</p>
+<table-wrap id="elementa.000020.t002" position="float">
+<object-id pub-id-type="doi">10.12952/journal.elementa.000020.t002</object-id>
+<label>Table 2. </label>
+<caption><title>Results of Tukey’s HSD tests on population growth rate differences among treatments</title></caption>
+<alternatives>
+<graphic id="elementa.000020.t002-i" position="float" mimetype="image" xlink:type="simple" xlink:href="info:doi/10.12952/journal.elementa.000020.t002"/>
+<table>
+<colgroup span="1">
+<col width="40%" span="1"/>
+<col width="20%" span="1"/>
+<col width="20%" span="1"/>
+<col width="20%" span="1"/>
+</colgroup>
+<thead>
+<tr>
+<th rowspan="1" colspan="1">
+Contrast
+</th>
+<th rowspan="1" colspan="1">
+Estimate
+</th>
+<th rowspan="1" colspan="1">
+z value
+</th>
+<th rowspan="1" colspan="1">
+p value
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="4" rowspan="1">
+2011
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+Snowmelt - Control
+</td>
+<td rowspan="1" colspan="1">
+1.2830
+</td>
+<td rowspan="1" colspan="1">
+3.6198
+</td>
+<td rowspan="1" colspan="1">
+0.0009
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+Warming - Control
+</td>
+<td rowspan="1" colspan="1">
+2.2198
+</td>
+<td rowspan="1" colspan="1">
+6.2068
+</td>
+<td rowspan="1" colspan="1">
+&lt;0.0001
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+Warming - Snowmelt
+</td>
+<td rowspan="1" colspan="1">
+0.9368
+</td>
+<td rowspan="1" colspan="1">
+2.7490
+</td>
+<td rowspan="1" colspan="1">
+0.0166
+</td>
+</tr>
+<tr>
+<td colspan="4" rowspan="1">
+2012
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+Snowmelt - Control
+</td>
+<td rowspan="1" colspan="1">
+0.4984
+</td>
+<td rowspan="1" colspan="1">
+3.0119
+</td>
+<td rowspan="1" colspan="1">
+0.0069
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+Warming - Control
+</td>
+<td rowspan="1" colspan="1">
+0.1324
+</td>
+<td rowspan="1" colspan="1">
+0.4658
+</td>
+<td rowspan="1" colspan="1">
+0.8841
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+Warming - Snowmelt
+</td>
+<td rowspan="1" colspan="1">
+−0.3661
+</td>
+<td rowspan="1" colspan="1">
+−1.2912
+</td>
+<td rowspan="1" colspan="1">
+0.3905
+</td>
+</tr>
+</tbody></table></alternatives></table-wrap>
+</sec>
+<sec id="s2c"><title>Analyses</title>
+<p>Growing season (September through June) temperature, snow cover, precipitation and snow fall were measured at the Utah State University weather station, located 4 km from the experimental site (source: Utah Climate Center <uri>http://climate.usurf.usu.edu/mapGUI/mapGUI.php</uri>). We also used these data to calculate the 25%, 50% and 75% percentile of the historical climate record, the daily probability of snow presence, and average seasonal snow depth. We used the percentiles to compare the weather during the experiment to long term climate and the daily snow data to show the seasonality and length of the snow season. We quantified treatment differences in air temperature, soil temperature, and soil moisture by plotting daily averages and by calculating average values for the period between December 5th and June 15th.</p>
+<p>Because we tested results averaged across the three ecotypes planted in each plot, before testing for treatment differences in population growth rate we verified that no ecotype x treatment interactions were significant. We did this because ignoring significant interactions could confound treatment effects. We tested for interactions with ecotype by fitting two year-specific models where we log-transformed λ and modeled it as a function of treatment, ecotype and their interactions, assuming normally-distributed errors.</p>
+<p>We tested treatment differences in population growth rate and vital rates using linear mixed-models and Tukey’s Honestly Significant Difference (HSD) test for post-hoc comparisons. We log-transformed λ and fecundity and modeled them as normally-distributed variables. We modeled emergence, survival, winter survival, and spring survival with a binomial distribution. We fit λ and fecundity data with a linear mixed model and emergence and survival data with a generalized linear mixed-model with a logit link function. We modeled unequal variance for λ and fecundity because Bartlett homogeneity of variance tests for these variables were significant among treatments. All models were fit using treatment as a fixed factor and plot as a random factor. Note that the plot effect was estimated with data from all three planted quadrats located within each plot.</p>
+<p>We employed a Life Table Response Experiment (LTRE) to estimate the contribution of each vital rate to the differences in λ among treatments. Following <xref ref-type="bibr" rid="bibr004">Caswell (2001)</xref>, we calculated treatment differences as:
+<disp-formula id="elementa.000020.e001">
+<alternatives>
+<graphic xlink:type="simple" xlink:href="info:doi/10.12952/journal.elementa.000020.e001" position="float"/>
+<mml:math overflow="scroll">
+<mml:mrow>
+<mml:msup>
+<mml:mi>α</mml:mi>
+<mml:mrow>
+<mml:mo style="font-style: normal;">(</mml:mo>
+<mml:mi style="font-style: italic;">treatment</mml:mi>
+<mml:mo>)</mml:mo>
+</mml:mrow>
+</mml:msup>
+<mml:mo>=</mml:mo>
+<mml:msup>
+<mml:mi>λ</mml:mi>
+<mml:mi style="font-style: italic;">treatment</mml:mi>
+</mml:msup>
+<mml:mo>−</mml:mo>
+<mml:msup>
+<mml:mi>λ</mml:mi>
+<mml:mi style="font-style: italic;">control</mml:mi>
+</mml:msup>
+</mml:mrow>
+</mml:math></alternatives></disp-formula>
+The contribution of each vital rate to the above differences was calculated as:
+<disp-formula id="elementa.000020.e002">
+<alternatives>
+<graphic xlink:type="simple" xlink:href="info:doi/10.12952/journal.elementa.000020.e002" position="float"/>
+<mml:math overflow="scroll">
+<mml:mrow>
+<mml:mover>
+<mml:mi style="font-style: italic;">α</mml:mi>
+<mml:mo>Â¯</mml:mo>
+</mml:mover>
+<mml:mo>=</mml:mo>
+<mml:mrow>
+<mml:munderover>
+<mml:mo>∑</mml:mo>
+<mml:mi>i</mml:mi>
+<mml:mn>3</mml:mn>
+</mml:munderover>
+<mml:mrow>
+<mml:mo>(</mml:mo>
+<mml:msubsup>
+<mml:mi>a</mml:mi>
+<mml:mi>i</mml:mi>
+<mml:mi style="font-style: italic;">treatment</mml:mi>
+</mml:msubsup>
+<mml:mo>−</mml:mo>
+<mml:msubsup>
+<mml:mi>a</mml:mi>
+<mml:mi>i</mml:mi>
+<mml:mi style="font-style: italic;">control</mml:mi>
+</mml:msubsup>
+<mml:mo>)</mml:mo>
+<mml:mfrac>
+<mml:mrow>
+<mml:mo>∂</mml:mo>
+<mml:mi>λ</mml:mi>
+</mml:mrow>
+<mml:msub>
+<mml:mrow>
+<mml:mo>∂</mml:mo>
+<mml:mi>a</mml:mi>
+</mml:mrow>
+<mml:mi>i</mml:mi>
+</mml:msub>
+</mml:mfrac>
+</mml:mrow>
+</mml:mrow>
+</mml:mrow>
+</mml:math></alternatives></disp-formula>
+where <italic>a</italic><sub><italic>i</italic></sub> is one of the three vital rates and <inline-formula id="elementa.000020.e003">
+<alternatives>
+<inline-graphic xlink:type="simple" xlink:href="info:doi/10.12952/journal.elementa.000020.e003"/>
+<mml:math overflow="scroll">
+<mml:mrow>
+<mml:mo>∂</mml:mo>
+<mml:mi>λ</mml:mi>
+<mml:mo>/</mml:mo>
+<mml:mo>∂</mml:mo>
+<mml:msub>
+<mml:mi>a</mml:mi>
+<mml:mi>i</mml:mi>
+</mml:msub>
+</mml:mrow>
+</mml:math></alternatives></inline-formula> is the sensitivity of a population whose vital rates are the arithmetic average of the vital rates from the two treatments being compared. These formulas provide a deterministic value for each vital rate contribution. To estimate the standard deviation of these values, we performed analyses on 1000 bootstrap samples. Because differences in λ among treatments vary widely, so do the contributions to λ differences. To visually display values on the same scale, we constrained values between -1 and +1 by plotting the proportion of the contribution to the difference in λ. All analyses were carried out using R v 2.15 (<xref ref-type="bibr" rid="bibr032">R Development Core Team, 2012</xref>); linear mixed models were fit using libraries nlme and lme4, and Tukey tests were carried out using the multcomp library.</p></sec></sec>
+<sec id="s3"><title>Results</title>
+<p>Weather varied dramatically between the two growing seasons. The first year was cold and wet, and the second year was hot and dry (<xref ref-type="table" rid="elementa.000020.t001">Table 1</xref>). Compared to historical climate data, temperature was between the 25<sup>th</sup> and 50<sup>th</sup> percentile in the first year and above the 75<sup>th</sup> percentile in the second year. Precipitation was above the 75<sup>th </sup>percentile the first year and below the 25<sup>th</sup> percentile the second year. Snow cover is common, but intermittent, at our site between the end of December and the end of February (<xref ref-type="fig" rid="elementa.000020.f002">Figure 2a</xref>). Average daily snow cover peaks at the end of January, when average snow cover is 15cm (<xref ref-type="fig" rid="elementa.000020.f002">Figure 2b</xref>). During the experiment, the first year was by far the snowiest, with 81 days of snow cover and a peak snow depth of 41 cm. In the second year, there were 51 days of snow cover and a peak snow depth of 20 cm.</p>
+<fig id="elementa.000020.f001" position="float">
+<object-id pub-id-type="doi">10.12952/journal.elementa.000020.f001</object-id>
+<label>Figure 1 </label>
+<caption><title>Effect of treatments on cheatgrass population growth rate (λ).</title>
+<p>Panels (a) and (b) refer to the first and second growing seasons, respectively. Bars show the size of cheatgrass population growth rate (λ).</p>
+</caption>
+<graphic position="float" mimetype="image" xlink:type="simple" xlink:href="info:doi/10.12952/journal.elementa.000020.f001"/>
+</fig>
+<fig id="elementa.000020.f002" position="float">
+<object-id pub-id-type="doi">10.12952/journal.elementa.000020.f002</object-id>
+<label>Figure 2 </label>
+<caption><title>Daily values of probability of snow presence and average snow depth.</title>
+<p>Panels (a) and (b) refer to probability of snow presence and average snow depth, respectively. Data comes from the Utah State University weather station, which is located 4 km from the experimental site.</p>
+</caption><graphic position="float" mimetype="image" xlink:type="simple" xlink:href="info:doi/10.12952/journal.elementa.000020.f002"/>
+</fig>
+<p>The warming treatment increased air temperatures an average of 4.3 °C the first year and by 7 °C the second. The increase in the effect of infrared heaters in warming plots during the second year likely resulted from lower soil moisture decreasing evaporative cooling. Soil volumetric water content at 5 cm depth in the second year was on average 0.06 % lower than in the previous year. We found a negative correlation between soil moisture and the increase in temperature caused by warming treatments (<xref ref-type="supplementary-material" rid="elementa.000020.s002">Figure S2</xref>): the linear model fit on these data indicates that decreasing moisture by 0.1 % increases the effect of the infrared heaters by 4 °C (P = &lt; 0.0001). Warming increased soil temperature (<xref ref-type="supplementary-material" rid="elementa.000020.s003">Figure S3</xref>) and decreased soil moisture at 5 cm depth, especially during the spring growing season (<xref ref-type="supplementary-material" rid="elementa.000020.s004">Figure S4</xref>). Interestingly, moisture at 20 cm depth was higher in warming treatments during the first growing season and in the first part of the second winter (<xref ref-type="supplementary-material" rid="elementa.000020.s004">Figure S4</xref>).</p>
+<p>The effect of the snowmelt treatment on abiotic conditions was generally smaller. Loss of snow increased surface and soil temperature by ∼1 °C and had little effect on average soil moisture. Soil temperatures in snowmelt treatments were lower than in control plots only for a week, during January 2011 (<xref ref-type="supplementary-material" rid="elementa.000020.s003">Figure S3</xref>).</p>
+<p>Cheatgrass’ population growth rate, λ, responded significantly to warming and/or snowmelt treatments in both the first (F<sub>2,21</sub> = 18.5039, P = &lt;0.0001) and second year (F<sub>2,21</sub> = 4.6343, P = 0.0215) of the experiment. Tukey’s HSD contrasts show that the warming and snowmelt treatments significantly increased cheatgrass population growth rates relative to controls in all but one case. Warming plots had significantly higher population growth rates than all other treatments in the first year, but not in the second (<xref ref-type="fig" rid="elementa.000020.f001">Figure 1</xref>, <xref ref-type="table" rid="elementa.000020.t002">Table 2</xref>). The snowmelt treatment significantly increased population growth compared to the control in both years (<xref ref-type="fig" rid="elementa.000020.f001">Figure 1</xref>, <xref ref-type="table" rid="elementa.000020.t002">Table 2</xref>).</p>
+<p>Vital rates also responded significantly to warming and snowmelt treatments. Relative to controls, warming increased fecundity and survival in the first year (Z = 4.1809, P = 0.0001 for fecundity; Z = 5.4699, P = &lt;0.0001 for survival) but not in the second (Z = 1.4737, P = 0.2992 for fecundity; Z = -0.0552, P = 0.9983 for survival). Snowmelt increased survival in both years (Z = 4.4753, P = &lt;0.0001 in 2011; Z = 3.7157, P = &lt;0.0006 in 2012) and caused a marginally significant increase in emergence in the first year (<xref ref-type="fig" rid="elementa.000020.f003">Figure 3</xref>; Z = 2.1099, P = 0.0878). The LTRE analysis indicated that warming effects were caused primarily by increased fecundity in both years and increased survival in the first year (<xref ref-type="fig" rid="elementa.000020.f004">Figure 4</xref>). In contrast, the positive effect of the snowmelt treatment on cheatgrass population growth rate mostly resulted from increased survival (<xref ref-type="fig" rid="elementa.000020.f004">Figure 4</xref>).</p>
+<fig id="elementa.000020.f003" position="float">
+<object-id pub-id-type="doi">10.12952/journal.elementa.000020.f003</object-id>
+<label>Figure 3 </label>
+<caption><title>Vital rates observed during the experiment.</title>
+<p>Vital rates from the first (a–c) and second (d–f) growing seasons. Letters denote statistically significant Tukey’s HSD contrasts. In particular, snowmelt vs. control (x), warming vs. control (y), and warming vs. snowmelt (z). The y-axis in each graph reports the vital rate’s unit of measure in brackets.</p>
+</caption><graphic position="float" mimetype="image" xlink:type="simple" xlink:href="info:doi/10.12952/journal.elementa.000020.f003"/>
+</fig>
+<fig id="elementa.000020.f004" position="float">
+<object-id pub-id-type="doi">10.12952/journal.elementa.000020.f004</object-id>
+<label>Figure 4 </label>
+<caption><title>LTRE results for the two years of the experiment.</title>
+<p>Panels (a) and (b) refer to the first and second growing seasons, respectively. Bars show the effect of treatments on vital rates by using controls plots as a reference point.</p>
+</caption>
+<graphic position="float" mimetype="image" xlink:type="simple" xlink:href="info:doi/10.12952/journal.elementa.000020.f004"/>
+</fig>
+<p>Including ecotype in the models of λ did not change the effect of treatments. Ecotype x treatment interactions were not significant (F<sub>4,42 </sub>= 1.3186, P = 0.2788 in 2011; F<sub>4,42 </sub>= 0.2022, P = 0.9357 in 2012) because ecotype effects were generally equal across treatments: high elevation ecotypes had higher λ regardless of treatment (<xref ref-type="supplementary-material" rid="elementa.000020.s005">Figure S5</xref>).</p></sec>
+<sec id="s4">
+<title>Discussion</title>
+<sec id="s4a"><title>H1) Warming will increase cheatgrass population growth rate</title>
+<p>We found that warming increased cheatgrass population growth rate and that the magnitude of this increase depended on soil moisture. Warming effects were much stronger in the first year when soil moisture was high. In this year, warming increased cheatgrass population growth rate ten-fold. During the second year, low soil moisture likely limited growth and also amplified the effect of infrared heaters much more than we expected: December through June average temperature in warmed plots was up to ∼4.5 °C higher than in the same plots the previous year. Despite such high temperatures, cheatgrass still increased its population growth by 50% compared to controls, almost the same increase observed in snowmelt treatments (<xref ref-type="fig" rid="elementa.000020.f001">Figure 1</xref>).</p>
+<p>In the first year, warming increased per capita growth rates mostly through its effect on fecundity. Previous work suggests that warming may increase fecundity by increasing both photosynthetic rate and nitrogen uptake. First, cheatgrass net photosynthesis increases with temperature to a peak at 25–30 °C (<xref ref-type="bibr" rid="bibr031">Rice et al., 1992</xref>). In the first year, only 0–3% of the hourly air temperature readings in warming treatments exceeded 30 °C. Because leaf and air temperatures are usually decoupled, the temperature of cheatgrass’ leaves might have exceeded 30 °C. However, abundant soil moisture in the first year should have promoted high transpiration rates (<xref ref-type="bibr" rid="bibr024">Melgoza et al., 1990</xref>; <xref ref-type="bibr" rid="bibr031">Rice et al., 1992</xref>), cooling leaves via evaporative heat exchange (<xref ref-type="bibr" rid="bibr020">Lambers et al., 2008</xref>). Second, higher soil temperatures may increase cheatgrass nitrogen uptake rate (<xref ref-type="bibr" rid="bibr021">Leffler et al., 2011</xref>). Both high photosynthesis and nitrogen uptake rates should promote biomass growth, and because high biomass is tightly correlated with seed production in cheatgrass (<xref ref-type="bibr" rid="bibr031">Rice et al., 1992</xref>), high biomass should correlate with the population growth rate.</p>
+<p>An interaction between temperature and cheatgrass pathogens might offer an alternative explanation to differences in soil moisture for the interannual variability in the effects of warming. However, we are doubtful that our manipulations increased the prevalence or virulence of <italic>Ustilago bullata</italic> (head smut) and <italic>Pyrenophora semeniperda</italic> (black fingers of death), the pathogens currently known to limit cheatgrass populations in the field (<xref ref-type="bibr" rid="bibr025">Meyer et al., 2008</xref>). The head smut preferentially infects seedlings germinating at high temperatures (<xref ref-type="bibr" rid="bibr025">Meyer et al., 2008</xref>), but we initiated warming in November, after the bulk of cheatgrass seedlings had emerged. The black fingers of death infects cheatgrass seeds that become dormant because of low moisture or temperature (<xref ref-type="bibr" rid="bibr012">Finch et al., 2013</xref>). This pathogen should decrease emergence, but differences in population growth rate among years were driven by fecundity (<xref ref-type="fig" rid="elementa.000020.f003">Figure 3</xref>).</p></sec>
+<sec id="s4b"><title>H2) Loss of snow will contribute to the effect of warming</title>
+<p>Our data show that reduced snow cover contributes to the direct effects of warming by increasing cheatgrass seedling survival. In the first year, survival in both snowmelt and warming plots was two-fold higher than survival in control plots (<xref ref-type="fig" rid="elementa.000020.f003">Figure 3</xref>), suggesting that part of the effect of warming was due to the increase in survival caused by the removal of snow. While the head smut and black fingers of death appear unlikely to have played a role in our study, lower survival in control plots might have resulted from a different pathogen. In particular, conditions under snow are conducive to fungal growth (<xref ref-type="bibr" rid="bibr036">Schmidt et al., 2009</xref>) and some of these fungi are pathogenic snow molds capable of causing cheatgrass mortality (<xref ref-type="bibr" rid="bibr017">Klemmedson and Smith, 1964</xref>; <xref ref-type="bibr" rid="bibr025">Meyer et al., 2008</xref>). Regardless of the underlying mechanism, the positive effect of loss of snow on survival indicates that future increases in cheatgrass density could be largest where warming will cause the greatest decreases in the depth and duration of snow cover.</p>
+<p>Our results imply that snow should limit cheatgrass population growth rate at sites where a significant proportion of plants overwinter as seedlings rather than seeds. This should be common across cheatgrass’ range, as indicated by several observational studies that found the bulk of cheatgrass seedlings generally emerges between fall and winter (<xref ref-type="bibr" rid="bibr022">Mack and Pyke, 1983</xref>; <xref ref-type="bibr" rid="bibr023">Mack and Pyke, 1984</xref>; <xref ref-type="bibr" rid="bibr030">Pierson and Mack, 1990</xref>). Moreover, warming has the potential to increase the proportion of fall germinating seeds, because fall germination is often limited by temperature rather than moisture (<xref ref-type="bibr" rid="bibr034">Roundy et al., 2007</xref>).</p>
+<p>In portions of its range where cheatgrass overwinters as seed and emerges after snowmelt, changes in snow cover should have smaller ecological effects. Consistent with this interpretation, a recent study carried out at high elevations found that the effect of snow on cheatgrass is neutral (<xref ref-type="bibr" rid="bibr007">Concilio et al., 2013</xref>). An earlier study from the same site showed that snow cover had both negative and positive effects on cheatgrass (<xref ref-type="bibr" rid="bibr013">Griffith and Loik, 2010</xref>). However, to explain the positive correlation between snow cover and cheatgrass performance, <xref ref-type="bibr" rid="bibr013">Griffith and Loik (2010)</xref> suggest that high snow years prevent cheatgrass from germinating in fall and winter, thereby preventing mortality during winter. This hypothesis is consistent with our results showing that snow increases winter mortality of seedlings.</p> 
+<p>We were surprised that survival was lower in warming than snowmelt plots in the second year (<xref ref-type="fig" rid="elementa.000020.f003">Figure 3</xref>). Analysis of seasonal survival rates suggests this partly resulted from heat and moisture stress during spring. In this season warming plots were not only experiencing higher temperatures, but also lower soil moisture than control and snowmelt plots (<xref ref-type="supplementary-material" rid="elementa.000020.s004">Figures S4</xref>). Lower soil moisture in the second year should have resulted in lower transpiration rates, and therefore lower leaf evaporative cooling of cheatgrass leaves. Because air temperatures were much higher in the second year, the chance that cheatgrass plants suffered heat stress is much higher than in the previous year. This is a potential explanation for why spring survival in warming plots was lower than in snowmelt plots (<xref ref-type="supplementary-material" rid="elementa.000020.s006">Figure S6</xref>). However, we have no convincing explanation for why winter survival was significantly higher than controls in snowmelt but not warming treatments (<xref ref-type="supplementary-material" rid="elementa.000020.s006">Figure S6</xref>). The mortality in the warming treatment was unlikely an effect of heat because winter temperatures were too low. Drought stress is also unlikely, because in the second winter, soil moisture was higher in the warming treatment than in the control (<xref ref-type="supplementary-material" rid="elementa.000020.s004">Figure S4</xref>).</p></sec></sec>
+<sec id="s5"><title>Conclusions</title>
+<p>Our data strongly support the prediction that warming will exacerbate cheatgrass impacts in sites and years when moisture is not limiting. First, warming has a positive direct effect on cheatgrass fecundity, consistent with the assumption that temperature limits this species’ performance at high elevations (<xref ref-type="bibr" rid="bibr005">Chambers et al., 2007</xref>; <xref ref-type="bibr" rid="bibr002">Bradley, 2009</xref>). Second, warming indirectly increases cheatgrass survival by decreasing snow cover. We expect that the effect of warming on cheatgrass will be greatest in areas that will experience a large decrease in snow cover. Large decreases in snow cover are expected where average winter temperatures are currently close to 0 °C, because the largest percent change in snow water equivalent occurs as temperatures approach this value (<xref ref-type="bibr" rid="bibr016">IPCC, 2007</xref>). Areas that meet these criteria are not necessarily located at high elevation. Our experimental site is such an example: at 1460 m of altitude and a December through February average temperature of -3.1 °C. Second, at high elevations snowpack is more likely to remain deep even under higher temperatures. Mid-elevation areas where snowpack may be lost entirely would be the areas of greater concern. Managers of public and private lands located in such areas should anticipate increases in cheatgrass density and, in turn, fire size and frequency.</p></sec>
+<sec id="s6"><title>Supplementary material</title>
+<supplementary-material id="elementa.000020.s001" position="float" mimetype="image/tiff" xlink:type="simple" xlink:href="info:doi/10.12952/journal.elementa.000020.s001"><label>Figure S1. </label>
+<caption><title>Comparison between two methods for estimating population growth rate.</title>
+<p>Population growth rate was estimated by subtracting seed production in unplanted quadrats to the seed production in planted quadrats. “Mean correction” shows population growth rates calculated by subtracting the treatment-specific mean of seed production in unplanted quadrats. “Plot correction” shows population growth rates calculated by subtracting the plot-specific values of seed production in unplanted quadrats.</p>
+<p specific-use="supplementary-material-metadata">
+<named-content content-type="file-type">TIF</named-content>
+<named-content content-type="file-size">7.42 MB</named-content></p></caption>
+</supplementary-material>
+<supplementary-material id="elementa.000020.s002" position="float" mimetype="image/tiff" xlink:type="simple" xlink:href="info:doi/10.12952/journal.elementa.000020.s002">
+<label>Figure S2. </label>
+<caption><title>Average daily air temperature increase caused by infra-red heaters is related to soil moisture at 5 cm depth.</title>
+<p>The daily air temperature increase is the difference between temperatures in warming and control treatments. Temperatures were pooled across the three replicates per treatment which were equipped with a data logger.</p>
+<p specific-use="supplementary-material-metadata">
+<named-content content-type="file-type">TIF</named-content>
+<named-content content-type="file-size">2.71 MB</named-content></p></caption>
+</supplementary-material>
+<supplementary-material id="elementa.000020.s003" position="float" mimetype="image/tiff" xlink:type="simple" xlink:href="info:doi/10.12952/journal.elementa.000020.s003"><label>Figure S3. </label>
+<caption><title>Treatment differences in soil temperature recorded at 5 cm depth.</title>
+<p>Data are for the period from mid December to mid June.</p>
+<p specific-use="supplementary-material-metadata">
+<named-content content-type="file-type">TIF</named-content>
+<named-content content-type="file-size">3.21 MB</named-content></p></caption>
+</supplementary-material>
+<supplementary-material id="elementa.000020.s004" position="float" mimetype="image/tiff" xlink:type="simple" xlink:href="info:doi/10.12952/journal.elementa.000020.s004">
+<label>Figure S4. </label><caption><title>Treatment differences in volumetric water content (VWC) at 5 and 20 cm depth.</title>
+<p>Data are for the period from mid December to mid June.</p>
+<p specific-use="supplementary-material-metadata">
+<named-content content-type="file-type">TIF</named-content>
+<named-content content-type="file-size">7.95 MB</named-content></p></caption>
+</supplementary-material>
+<supplementary-material id="elementa.000020.s005" position="float" mimetype="image/tiff" xlink:type="simple" xlink:href="info:doi/10.12952/journal.elementa.000020.s005">
+<label>Figure S5. </label>
+<caption><title>Effect of treatments and ecotypes on cheatgrass population growth rate (λ).</title>
+<p specific-use="supplementary-material-metadata">
+<named-content content-type="file-type">TIF</named-content>
+<named-content content-type="file-size">4.30 MB</named-content></p></caption>
+</supplementary-material>
+<supplementary-material id="elementa.000020.s006" position="float" mimetype="image/tiff" xlink:type="simple" xlink:href="info:doi/10.12952/journal.elementa.000020.s006">
+<label>Figure S6. </label>
+<caption><title>Winter and spring survival rates by treatment and year.</title>
+<p>Letters denote statistically significant Tukey’s HSD contrasts. In particular, snowmelt vs. control (x), warming vs. control (y), and warming vs. snowmelt (z). Bars represent survival rate.</p>
+<p specific-use="supplementary-material-metadata">
+<named-content content-type="file-type">TIF</named-content>
+<named-content content-type="file-size">7.42 MB</named-content></p></caption>
+</supplementary-material>
+<supplementary-material id="elementa.000020.s007" position="float" mimetype="aplication/MSWord" xlink:type="simple" xlink:href="info:doi/10.12952/journal.elementa.000020.s007">
+<label>Table S1. </label>
+<caption><title>Results of Tukey’s HSD tests on treatments differences among “plot corrected” population growth rates.</title>
+<p>Results from a model fit with population growth rate data calculated by subtracting the plot-specific values of seed production in unplanted quadrats to the seed production in planted quadrats.</p>
+<p specific-use="supplementary-material-metadata">
+<named-content content-type="file-type">DOC</named-content>
+<named-content content-type="file-size">0.015 MB</named-content></p></caption>
+</supplementary-material></sec>
+<sec id="s7"><title>Data accessibility statement</title>
+<p>The following dataset was generated:</p>
+<list list-type="bullet"><list-item><p>Plant demographic data: Data available from the Dryad Digital Repository: <related-object content-type="dryad" document-type="dataset"><uri>http://doi.org/10.5061/dryad.63872</uri></related-object>.</p></list-item></list></sec>
+<sec id="s8" sec-type="copyright-statement"><title>Copyright</title>
+<p>© 2014 Compagnoni and Adler. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</p></sec>
+</body>
+<back>
+<ack><title>Acknowledgments</title>
+<p>We thank Mindi Lundberg, Kyle Young, Kevin Smith, Chelsea DeMarco and Molly Olson for providing field help. We thank John Stark, David Koons, Gene Schupp, Mevin Hooten, and two anonymous reviewers for insightful suggestions that greatly improved the quality of the original manuscript.</p></ack>
+<ref-list content-type="parsed"><title>References</title>
+<ref id="bibr001">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Balch</surname><given-names>JK</given-names></name>, 
+<name name-style="western"><surname>Bradley</surname><given-names>BA</given-names></name>, 
+<name name-style="western"><surname>D’Antonio</surname><given-names>CM</given-names></name>, 
+<name name-style="western"><surname>Gómez-Dans</surname><given-names>J</given-names></name>. 
+<year>2013</year>. 
+<article-title>Introduced annual grass increases regional fire activity across the arid western USA (1980–2009)</article-title>. 
+<source>Glob Change Biol</source> 
+<volume>19</volume>: 
+<fpage>173</fpage>–<lpage>183</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr002">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Bradley</surname><given-names>BA</given-names></name>. 
+<year>2009</year>. 
+<article-title>Regional analysis of the impacts of climate change on cheatgrass invasion shows potential risk and opportunity</article-title>. 
+<source>Glob Change Biol</source> 
+<volume>15</volume>: 
+<fpage>196</fpage>–<lpage>208</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr003">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Cavaleri</surname><given-names>MA</given-names></name>, 
+<name name-style="western"><surname>Sack</surname><given-names>L</given-names></name>. 
+<year>2010</year>. 
+<article-title>Comparative water use of native and invasive plants at multiple scales: a global meta-analysis</article-title>. 
+<source>Ecology</source> 
+<volume>91</volume>: 
+<fpage>2705</fpage>–<lpage>2715</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr004">
+<mixed-citation publication-type="book">
+<name name-style="western"><surname>Caswell</surname><given-names>H</given-names></name>. 
+<year>2001</year>. 
+<source>Matrix population models: construction, analysis, and interpretation</source>. 
+<edition>2nd ed</edition>. 
+<publisher-loc>Sunderland, Massachusetts, USA</publisher-loc>: 
+<publisher-name>Sinauer Associates</publisher-name>.</mixed-citation>
+</ref>
+<ref id="bibr005">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Chambers</surname><given-names>JC</given-names></name>, 
+<name name-style="western"><surname>Roundy</surname><given-names>BA</given-names></name>, 
+<name name-style="western"><surname>Blank</surname><given-names>RR</given-names></name>, 
+<name name-style="western"><surname>Meyer</surname><given-names>SE</given-names></name>, 
+<name name-style="western"><surname>Whittaker</surname><given-names>A</given-names></name>. 
+<year>2007</year>. 
+<article-title>What makes Great Basin sagebrush ecosystems invasible by Bromus tectorum?</article-title> 
+<source>Ecol Monogr</source> 
+<volume>77</volume>: 
+<fpage>117</fpage>–<lpage>145</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr006">
+<mixed-citation publication-type="other">
+<name name-style="western"><surname>Compagnoni</surname><given-names>A</given-names></name>, 
+<name name-style="western"><surname>Adler</surname><given-names>PB</given-names></name>. 
+<article-title><italic>In review.</italic> Experimental warming increases cheatgrass (<italic>Bromus tectorum</italic>) population growth rate along an elevation gradient</article-title>. 
+<source>Ecosphere</source>: in review.</mixed-citation>
+</ref>
+<ref id="bibr007">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Concilio</surname><given-names>AL</given-names></name>, 
+<name name-style="western"><surname>Loik</surname><given-names>ME</given-names></name>, 
+<name name-style="western"><surname>Belnap</surname><given-names>J</given-names></name>. 
+<year>2013</year>. 
+<article-title>Global change effects on <italic>Bromus tectorum</italic> L. (Poaceae) at its high-elevation range margin</article-title>. 
+<source>Glob Change Biol</source> 
+<volume>19</volume>: 
+<fpage>161</fpage>–<lpage>172</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr008">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Cramer</surname><given-names>W</given-names></name>, 
+<name name-style="western"><surname>Bondeau</surname><given-names>A</given-names></name>, 
+<name name-style="western"><surname>Woodward</surname><given-names>FI</given-names></name>, 
+<name name-style="western"><surname>Prentice</surname><given-names>IC</given-names></name>, 
+<name name-style="western"><surname>Betts</surname><given-names>RA</given-names></name>, <etal>et al.</etal> 
+<year>2001</year>. 
+<article-title>Global response of terrestrial ecosystem function to CO<sub>2</sub> and climate change: dynamic global vegetation models</article-title>. 
+<source>Glob Change Biol</source> 
+<volume>7</volume>: 
+<fpage>357</fpage>–<lpage>373</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr009">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>D’Antonio</surname><given-names>CM</given-names></name>, 
+<name name-style="western"><surname>Vitousek</surname><given-names>PM</given-names></name>. 
+<year>1992</year>. 
+<article-title>Biological invasions by exotic grasses, the grass/fire cycle, and global change</article-title>. 
+<source> Annu Rev Ecol Syst</source> 
+<volume>23</volume>: 
+<fpage>63</fpage>–<lpage>87</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr010">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Déry</surname><given-names>SJ</given-names></name>, 
+<name name-style="western"><surname>Brown</surname><given-names>RD</given-names></name>. 
+<year>2007</year>. 
+<article-title>Recent Northern hemisphere snow cover extent trends and implications for the snow-albedo feedback</article-title>. 
+<source>Geophys Res Lett</source> 
+<volume>34</volume>: 
+<fpage>L22504</fpage>.</mixed-citation>
+</ref>
+<ref id="bibr011">
+<mixed-citation publication-type="book">
+<name name-style="western"><surname>Dobkin</surname><given-names>DS</given-names></name>, 
+<name name-style="western"><surname>Sauder</surname><given-names>JD</given-names></name>. 
+<year>2004</year>. 
+<source>Shrubsteppe landscapes in jeopardy distributions, abundances, and the uncertain future of birds and small mammals in the Intermountain West</source>. 
+<publisher-loc>Bend, Oregon, USA</publisher-loc>: 
+<publisher-name>High Desert Ecological Research Institute</publisher-name>.</mixed-citation>
+</ref>
+<ref id="bibr012">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Finch</surname><given-names>H</given-names></name>, 
+<name name-style="western"><surname>Allen</surname><given-names>PS</given-names></name>, 
+<name name-style="western"><surname>Meyer</surname><given-names>SE</given-names></name>. 
+<year>2013</year>. 
+<article-title>Environmental factors influencing <italic>Pyrenophora semeniperda</italic>-caused seed mortality in <italic>Bromus tectorum</italic></article-title>. 
+<source>Seed Science Research</source> 
+<volume>23</volume>: 
+<fpage>57</fpage>–<lpage>66</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr013">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Griffith</surname><given-names>AB</given-names></name>, 
+<name name-style="western"><surname>Loik</surname><given-names>ME</given-names></name>. 
+<year>2010</year>. 
+<article-title>Effects of climate and snow depth on Bromus tectorum population dynamics at high elevation</article-title>. 
+<source>Oecologia</source> 
+<volume>164</volume>: 
+<fpage>821</fpage>–<lpage>832</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr014">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Harte</surname><given-names>J</given-names></name>, 
+<name name-style="western"><surname>Shaw</surname><given-names>R</given-names></name>. 
+<year>1995</year>. 
+<article-title>Shifting dominance within a montane vegetation community: results of a climate warming experiment</article-title>. 
+<source>Science</source> 
+<volume>267</volume>: 
+<fpage>876</fpage>–<lpage>880</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr015">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Hejda</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>Pyšek</surname><given-names>P</given-names></name>, 
+<name name-style="western"><surname>Jarošík</surname><given-names>V</given-names></name>. 
+<year>2009</year>. 
+<article-title>Impact of invasive plants on the species richness, diversity and composition of invaded communities</article-title>. 
+<source>J Ecol</source> 
+<volume>97</volume>: 
+<fpage>393</fpage>–<lpage>403</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr016">
+<mixed-citation publication-type="book">
+<collab>IPCC</collab>. 
+<year>2007</year>. 
+<source>Contribution of Working Group I to the fourth assessment report of the Intergovernmental Panel on Climate Change</source>. 
+<publisher-loc>Cambridge, New York, USA</publisher-loc>: 
+<publisher-name>Cambridge University Press</publisher-name>.</mixed-citation>
+</ref>
+<ref id="bibr017">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Klemmedson</surname><given-names>JO</given-names></name>, 
+<name name-style="western"><surname>Smith</surname><given-names>JG</given-names></name>. 
+<year>1964</year>. 
+<article-title>Cheatgrass (<italic>Bromus tectorum</italic> L.)</article-title>. 
+<source>Bot Rev</source> 
+<volume>30</volume>: 
+<fpage>226</fpage>–<lpage>262</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr018">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Knapp</surname><given-names>PA</given-names></name>. 
+<year>1996</year>. 
+<article-title>Cheatgrass (<italic>Bromus tectorum</italic> L.) dominance in the Great Basin desert: History, persistence, and influences to human activities</article-title>. 
+<source>Global Environ Chang</source> 
+<volume>6</volume>: 
+<fpage>37</fpage>–<lpage>52</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr019">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Kreyling</surname><given-names>J</given-names></name>. 
+<year>2010</year>. 
+<article-title>Winter climate change: a critical factor for temperate vegetation performance</article-title>. 
+<source>Ecology</source> 
+<volume>91</volume>: 
+<fpage>1939</fpage>–<lpage>1948</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr020">
+<mixed-citation publication-type="book">
+<name name-style="western"><surname>Lambers</surname><given-names>H</given-names></name>, 
+<name name-style="western"><surname>Chapin</surname><given-names>FS</given-names><suffix>III</suffix></name>, 
+<name name-style="western"><surname>Pons</surname><given-names>TL</given-names></name>. 
+<year>2008</year>. 
+<source>Plant physiological ecology</source>. 
+<edition>2nd ed</edition>. 
+<publisher-loc>New York, NY, USA</publisher-loc>: 
+<publisher-name>Springer</publisher-name>.</mixed-citation>
+</ref>
+<ref id="bibr021">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Leffler</surname><given-names>AJ</given-names></name>, 
+<name name-style="western"><surname>Monaco</surname><given-names>TA</given-names></name>, 
+<name name-style="western"><surname>James</surname><given-names>JJ</given-names></name>. 
+<year>2011</year>. 
+<article-title>Nitrogen acquisition by annual and perennial grass seedlings: testing the roles of performance and plasticity to explain plant invasion</article-title>. 
+<source>Plant Ecol</source> 
+<volume>212</volume>: 
+<fpage>1601</fpage>–<lpage>1611</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr022">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Mack</surname><given-names>RN</given-names></name>, 
+<name name-style="western"><surname>Pyke</surname><given-names>DA</given-names></name>. 
+<year>1983</year>. 
+<article-title>The demography of <italic>Bromus tectorum</italic>: variation in time and space</article-title>. 
+<source>J Ecol</source> 
+<volume>71</volume>: 
+<fpage>69</fpage>–<lpage>93</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr023">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Mack</surname><given-names>RN</given-names></name>, 
+<name name-style="western"><surname>Pyke</surname><given-names>DA</given-names></name>. 
+<year>1984</year>. 
+<article-title>The demography of <italic>Bromus tectorum</italic>: the role of microclimate, grazing and disease</article-title>. 
+<source>J Ecol</source> 
+<volume>72</volume>: 
+<fpage>731</fpage>–<lpage>748</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr024">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Melgoza</surname><given-names>G</given-names></name>, 
+<name name-style="western"><surname>Nowak</surname><given-names>RS</given-names></name>, 
+<name name-style="western"><surname>Tausch</surname><given-names>RJ</given-names></name>. 
+<year>1990</year>. 
+<article-title>Soil water exploitation after fire: competition between <italic>Bromus tectorum</italic> (cheatgrass) and two native species</article-title>. 
+<source>Oecologia</source> 
+<volume>83</volume>: 
+<fpage>7</fpage>–<lpage>13</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr025">
+<mixed-citation publication-type="book">
+<name name-style="western"><surname>Meyer</surname><given-names>SE</given-names></name>, 
+<name name-style="western"><surname>Neslon</surname><given-names>DL</given-names></name>, 
+<name name-style="western"><surname>Clement</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Beckstead</surname><given-names>J</given-names></name>. 
+<year>2008</year>. 
+<article-title>Cheatgrass (<italic>Bromus tectorum</italic>) biocontrol using indigenous fungal pathogens</article-title>, in 
+<source>Proceedings-Shrublands under fire: disturbance and recovery in a changing world; 2006 June 6–8; Cedar City, UT</source>. 
+<publisher-loc>Fort Collins, Colorado, USA</publisher-loc>: 
+<publisher-name>U.S. Department of Agriculture Forest Service</publisher-name>: p. 
+<fpage>61</fpage>–<lpage>67</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr026">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Monson</surname><given-names>RK</given-names></name>, 
+<name name-style="western"><surname>Lipson</surname><given-names>DA</given-names></name>, 
+<name name-style="western"><surname>Burns</surname><given-names>SP</given-names></name>, 
+<name name-style="western"><surname>Turnipseed</surname><given-names>AA</given-names></name>, 
+<name name-style="western"><surname>Delany</surname><given-names>AC</given-names></name>, <etal>et al.</etal> 
+<year>2006</year>. 
+<article-title>Winter forest soil respiration controlled by climate and microbial community composition</article-title>. 
+<source>Nature</source> 
+<volume>439</volume>: 
+<fpage>711</fpage>–<lpage>714</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr027">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Parker</surname><given-names>IM</given-names></name>, 
+<name name-style="western"><surname>Simberloff</surname><given-names>D</given-names></name>, 
+<name name-style="western"><surname>Lonsdale</surname><given-names>WM</given-names></name>, 
+<name name-style="western"><surname>Goodell</surname><given-names>K</given-names></name>, 
+<name name-style="western"><surname>Wonham</surname><given-names>M</given-names></name>, <etal>et al.</etal> 
+<year>1999</year>. 
+<article-title>Impact: toward a framework for understanding the ecological effects of invaders</article-title>. 
+<source>Biological invasions</source> 
+<volume>1</volume>: 
+<fpage>3</fpage>–<lpage>19</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr028">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Parmesan</surname><given-names>C</given-names></name>. 
+<year>2006</year>. 
+<article-title>Ecological and evolutionary responses to recent climate change</article-title>. 
+<source>Annu Rev Ecol Syst</source> 
+<volume>37</volume>: 
+<fpage>637</fpage>–<lpage>669</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr029">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Pauli</surname><given-names>JN</given-names></name>, 
+<name name-style="western"><surname>Zuckerberg</surname><given-names>B</given-names></name>, 
+<name name-style="western"><surname>Whiteman</surname><given-names>JP</given-names></name>, 
+<name name-style="western"><surname>Porter</surname><given-names>W</given-names></name>. 
+<year>2013</year>. 
+<article-title>The subnivium: a deteriorating seasonal refugium</article-title>. 
+<source>Frontiers in Ecology and the Environment</source> 
+<volume>11</volume>: 
+<fpage>260</fpage>–<lpage>267</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr030">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Pierson</surname><given-names>EA</given-names></name>, 
+<name name-style="western"><surname>Mack</surname><given-names>RN</given-names></name>. 
+<year>1990</year>. 
+<article-title>The population biology of <italic>Bromus tectorum</italic> in forests: distinguishing the opportunity for dispersal from environmental restriction</article-title>. 
+<source>Oecologia</source> 
+<volume>84</volume>: 
+<fpage>519</fpage>–<lpage>525</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr031">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Rice</surname><given-names>KJ</given-names></name>, 
+<name name-style="western"><surname>Black</surname><given-names>RA</given-names></name>, 
+<name name-style="western"><surname>Radamaker</surname><given-names>G</given-names></name>, 
+<name name-style="western"><surname>Evans</surname><given-names>RD</given-names></name>. 
+<year>1992</year>. 
+<article-title>Photosynthesis, growth, and biomass allocation in habitat ecotypes of cheatgrass (<italic>Bromus tectorum</italic>)</article-title>. 
+<source>Funct Ecol</source> 
+<volume>6</volume>: 
+<fpage>32</fpage>–<lpage>40</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr032">
+<mixed-citation publication-type="book">
+<collab>R Development Core Team</collab>. 
+<year>2012</year>. 
+<source>R: A language and environment for statistical computing</source>. 
+<publisher-name>R Foundation for Statistical Computing</publisher-name>, 
+<publisher-loc>Vienna, Austria</publisher-loc>. ISBN 3-900051-07-0, URL 
+<uri>http://www.R-project.org</uri>. Accessed September 3, 2013.</mixed-citation>
+</ref>
+<ref id="bibr033">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Root</surname><given-names>TL</given-names></name>, 
+<name name-style="western"><surname>Price</surname><given-names>JT</given-names></name>, 
+<name name-style="western"><surname>Hall</surname><given-names>KR</given-names></name>, 
+<name name-style="western"><surname>Schneider</surname><given-names>SH</given-names></name>, 
+<name name-style="western"><surname>Rosenzweigk</surname><given-names>C</given-names></name>, <etal>et al.</etal> 
+<year>2003</year>. 
+<article-title>Fingerprints of global warming on wild animals and plants</article-title>. 
+<source>Nature</source> 
+<volume>421</volume>: 
+<fpage>57</fpage>–<lpage>60</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr034">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Roundy</surname><given-names>BA</given-names></name>, 
+<name name-style="western"><surname>Hardegree</surname><given-names>SP</given-names></name>, 
+<name name-style="western"><surname>Chambers</surname><given-names>JC</given-names></name>, 
+<name name-style="western"><surname>Whittaker</surname><given-names>A</given-names></name>. 
+<year>2007</year>. 
+<article-title>Prediction of cheatgrass field germination potential using wet thermal accumulation</article-title>. 
+<source>Rangeland Ecology and Management</source> 
+<volume>60</volume>: 
+<fpage>613</fpage>–<lpage>623</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr035">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Schimel</surname><given-names>JP</given-names></name>, 
+<name name-style="western"><surname>Bilbrough</surname><given-names>C</given-names></name>, 
+<name name-style="western"><surname>Welker</surname><given-names>JM</given-names></name>. 
+<year>2004</year>. 
+<article-title>Increased snow depth affects microbial activity and nitrogen mineralization in two Arctic tundra communities</article-title>. 
+<source>Soil Biol Biochem</source> 
+<volume>36</volume>: 
+<fpage>217</fpage>–<lpage>227</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr036">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Schmidt</surname><given-names>SK</given-names></name>, 
+<name name-style="western"><surname>Wilson</surname><given-names>KL</given-names></name>, 
+<name name-style="western"><surname>Monson</surname><given-names>RK</given-names></name>, 
+<name name-style="western"><surname>Lipson</surname><given-names>DA</given-names></name>. 
+<year>2009</year>. 
+<article-title>Exponential growth of “snow molds” at sub-zero temperatures: an explanation for high beneath-snow respiration rates and Q 10 values</article-title>. 
+<source>Biogeochemistry</source> 
+<volume>95</volume>: 
+<fpage>13</fpage>–<lpage>21</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr037">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Smith</surname><given-names>DC</given-names></name>, 
+<name name-style="western"><surname>Meyer</surname><given-names>SE</given-names></name>, 
+<name name-style="western"><surname>Anderson</surname><given-names>VJ</given-names></name>. 
+<year>2008</year>. 
+<article-title>Factors affecting <italic>Bromus tectorum</italic> seed bank carryover in Western Utah</article-title>. 
+<source>Rangeland ecology and management</source> 
+<volume>61</volume>: 
+<fpage>430</fpage>–<lpage>436</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr038">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Stewart</surname><given-names>G</given-names></name>, 
+<name name-style="western"><surname>Hull</surname><given-names>AC</given-names></name>. 
+<year>1949</year>. 
+<article-title>Cheatgrass (<italic>Bromus tectorum</italic> L.)—an ecologic intruder in Southern Idaho</article-title>. 
+<source>Ecology</source> 
+<volume>30</volume>: 
+<fpage>58</fpage>–<lpage>74</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr039">
+<mixed-citation publication-type="inbook">
+<name name-style="western"><surname>Suring</surname><given-names>LH</given-names></name>, 
+<name name-style="western"><surname>Wisdom</surname><given-names>MJ</given-names></name>, 
+<name name-style="western"><surname>Tausch</surname><given-names>RJ</given-names></name>, 
+<name name-style="western"><surname>Miller</surname><given-names>RF</given-names></name>, 
+<name name-style="western"><surname>Rowland</surname><given-names>MM</given-names></name>, <etal>et al.</etal> 
+<year>2005</year>. 
+<article-title>Modeling threats to sagebrush and other shrubland communities</article-title>, in 
+<source>Habitat threats in the sagebrush ecosystems: methods of regional assessment and applications in the Great Basin</source>. 
+<publisher-loc>Lawrence, Kansas, USA</publisher-loc>: 
+<publisher-name>Alliance Communications Group</publisher-name>: p. 
+<fpage>114</fpage>–<lpage>149</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr040">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Thomas</surname><given-names>CD</given-names></name>, 
+<name name-style="western"><surname>Cameron</surname><given-names>A</given-names></name>, 
+<name name-style="western"><surname>Green</surname><given-names>RE</given-names></name>, 
+<name name-style="western"><surname>Bakkenes</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>Beaumont</surname><given-names>LJ.</given-names></name>, <etal>et al.</etal> 
+<year>2004</year>. 
+<article-title>Extinction risk from climate change</article-title>. 
+<source>Nature</source> 
+<volume>427</volume>: 
+<fpage>145</fpage>–<lpage>148</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr041">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Thuiller</surname><given-names>W</given-names></name>, 
+<name name-style="western"><surname>Lavorel</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Araújo</surname><given-names>MB</given-names></name>, 
+<name name-style="western"><surname>Sykes</surname><given-names>MT</given-names></name>, 
+<name name-style="western"><surname>Prentice</surname><given-names>IC</given-names></name>. 
+<year>2005</year>. 
+<article-title>Climate change threats to plant diversity in Europe</article-title>. 
+<source>P Natl Acad Sci Usa</source> 
+<volume>102</volume>: 
+<fpage>8245</fpage>–<lpage>8250</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr042">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Vitousek</surname><given-names>PM</given-names></name>, 
+<name name-style="western"><surname>Walker</surname><given-names>LR.</given-names></name> 
+<year>1989</year>. 
+<article-title>Biological invasion by Myrica faya in Hawai’i: plant demography, nitrogen fixation, ecosystem effects</article-title>. 
+<source>Ecol Monogr</source> 
+<volume>59</volume>: 
+<fpage>247</fpage>–<lpage>265</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr043">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Vitousek</surname><given-names>P</given-names></name>, 
+<name name-style="western"><surname>D’Antonio</surname><given-names>C</given-names></name>, 
+<name name-style="western"><surname>Loope</surname><given-names>L</given-names></name>, 
+<name name-style="western"><surname>Westbrooks</surname><given-names>R</given-names></name>. 
+<year>1996</year>. 
+<article-title>Biological invasions as global environmental change</article-title>. 
+<source>Am Sci</source> 
+<volume>84</volume>: 
+<fpage>468</fpage>–<lpage>478</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr044">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>West</surname><given-names>NE</given-names></name>, 
+<name name-style="western"><surname>Yorks</surname><given-names>TP</given-names></name>. 
+<year>2002</year>. 
+<article-title>Vegetation responses following wildfire on grazed and ungrazed sagebrush semi-desert</article-title>. 
+<source>J Range Manage</source> 
+<volume>55</volume>: 
+<fpage>171</fpage>–<lpage>181</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr045">
+<mixed-citation publication-type="book">
+<name name-style="western"><surname>Whisenant</surname><given-names>SG</given-names></name>. 
+<year>1990</year>. 
+<article-title>Changing fire frequencies on Idaho’s Snake River Plains: ecological and management implications</article-title>, in 
+<source>Proceedings: symposium on cheatgrass invasion, shrub die-off and other aspects of shrub biology and management</source>. 
+<publisher-name>Ogden, Utah, USA</publisher-name>: 
+<publisher-name>USDA</publisher-name>: p. 
+<fpage>4</fpage>–<lpage>10</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr046">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Young</surname><given-names>JA</given-names></name>, 
+<name name-style="western"><surname>Evans</surname><given-names>RA</given-names></name>, 
+<name name-style="western"><surname>Eckert</surname><given-names>RE</given-names></name>. 
+<year>1969</year>. 
+<article-title>Population Dynamics of Downy Brome</article-title>. 
+<source>Weed Sci</source> 
+<volume>17</volume>: 
+<fpage>20</fpage>–<lpage>26</lpage>.</mixed-citation>
+</ref>
+</ref-list>
+</back>
+</article>

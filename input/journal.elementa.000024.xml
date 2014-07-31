@@ -1,0 +1,1089 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article" dtd-version="1.0" xml:lang="en">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">BioOne</journal-id>
+<journal-id journal-id-type="journal-id">Elementa</journal-id>
+<journal-title-group>
+<journal-title>Elementa</journal-title>
+<journal-subtitle>Science of the Anthropocene</journal-subtitle>
+<abbrev-journal-title>Elem. Sci. Anth.</abbrev-journal-title>
+</journal-title-group>
+<contrib-group>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Helmig</surname><given-names>Detlev</given-names></name>
+<xref ref-type="aff" rid="affa"/>
+<role>Editor-in-Chief: Atmospheric Science</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/detlev-helmig/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Blum</surname><given-names>Joel D.</given-names></name>
+<xref ref-type="aff" rid="affb"/>
+<role>Editor-in-Chief: Earth &amp; Environmental Science</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/joel-d-blum/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Zak</surname><given-names>Donald R.</given-names></name>
+<xref ref-type="aff" rid="affb"/>
+<role>Editor-in-Chief: Ecology</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/donald-r-zak/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Deming</surname><given-names>Jody W.</given-names></name>
+<xref ref-type="aff" rid="affc"/>
+<role>Editor-in-Chief: Ocean Science</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/jody-w-deming/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Chang</surname><given-names>Michael E.</given-names></name>
+<xref ref-type="aff" rid="affd"/>
+<role>Editor-in-Chief: Sustainable Engineering</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/michael-e-chang/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Kapuscinski</surname><given-names>Anne</given-names></name>
+<xref ref-type="aff" rid="affe"/>
+<role>Editor-in-Chief: Sustainability Transitions</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/anne-kapuscinski/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Peart</surname><given-names>David R.</given-names></name>
+<xref ref-type="aff" rid="affe"/>
+<role>Editor-in-Chief: Sustainability Transitions</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/david-r-peart/</uri>
+</contrib>
+</contrib-group>
+<aff id="affa">
+<institution>University of Colorado Boulder</institution>
+<country>United States</country>
+</aff>
+<aff id="affb">
+<institution>University of Michigan</institution>
+<country>United States</country>
+</aff>
+<aff id="affc">
+<institution>University of Washington</institution>
+<country>United States</country>
+</aff>
+<aff id="affd">
+<institution>Georgia Institute of Technology</institution>
+<country>United States</country>
+</aff>
+<aff id="affe">
+<institution>Dartmouth</institution>
+<country>United States</country>
+</aff>
+<issn pub-type="epub">2325-1026</issn>
+<publisher>
+<publisher-name>BioOne</publisher-name>
+<publisher-loc>21 Dupont Circle NW, Suite 800, Washington, DC 20036, United States<email>team@elementascience.org</email>
+<uri>http://bioone.org</uri><uri>http://elementascience.org</uri>
+</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">ELEMENTA-D-13-00012</article-id>
+<article-id pub-id-type="doi">10.12952/journal.elementa.000024</article-id>
+<article-categories>
+<subj-group subj-group-type="article-type">
+<subject>Research Article</subject>
+</subj-group>
+<subj-group subj-group-type="domain">
+<subject>Atmospheric Science</subject>
+</subj-group>
+<subj-group subj-group-type="classification">
+<subject>Atmospheric Science</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Anatomy of wintertime ozone associated with oil and natural gas extraction activity in Wyoming and Utah</article-title>
+<alt-title alt-title-type="short-title">Anatomy of wintertime ozone in Wyoming and Utah</alt-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Oltmans</surname><given-names>Samuel</given-names></name>
+<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+<xref ref-type="corresp" rid="cor1"><sup>*</sup></xref></contrib>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Schnell</surname><given-names>Russell</given-names></name>
+<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+</contrib>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Johnson</surname><given-names>Bryan</given-names></name>
+<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+</contrib>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Pétron</surname><given-names>Gabrielle</given-names></name>
+<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+</contrib>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Mefford</surname><given-names>Thomas</given-names></name>
+<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+<xref ref-type="aff" rid="aff2"><sup>2</sup></xref></contrib>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Neely</surname><given-names>Ryan</given-names><suffix>III</suffix></name>
+<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+</contrib>
+</contrib-group>
+<aff id="aff1">
+<label>1</label><institution content-type="dept">CIRES</institution>, <institution>University of Colorado</institution>, <addr-line content-type="city">Boulder</addr-line>, <addr-line content-type="state">Colorado</addr-line>, <country>United States</country>
+</aff>
+<aff id="aff2"><label>2</label>
+<institution content-type="dept">NOAA/ESRL</institution>, <institution>Global Monitoring Division</institution>, <addr-line content-type="city">Boulder</addr-line>, <addr-line specific-use="state">Colorado</addr-line>, <country>United States</country>
+</aff>
+<contrib-group>
+<contrib contrib-type="domain-editor-in-chief" xlink:type="simple">
+<name name-style="western"><surname>Helmig</surname><given-names>Detlev</given-names></name>
+<role>Domain Editor-in-Chief</role>
+</contrib>
+<contrib contrib-type="associate-editor" xlink:type="simple">
+<name name-style="western"><surname>Pfister</surname><given-names>Gabriele</given-names></name>
+<role>Associate Editor</role>
+</contrib>
+</contrib-group>
+<aff id="afff">
+<institution content-type="dept">Institute of Alpine and Arctic Research</institution>
+<institution>University of Colorado Boulder</institution>
+<addr-line content-type="city">Boulder</addr-line>
+<addr-line content-type="state">Colorado</addr-line>
+<country>United States</country>
+</aff>
+<aff id="affg">
+<institution content-type="dept">Atmospheric Chemistry Division</institution>
+<institution>National Center for Atmospheric Research</institution>
+<addr-line content-type="city">Boulder</addr-line>
+<addr-line content-type="state">Colorado</addr-line>
+<country>United States</country>
+</aff>
+<author-notes><corresp id="cor1"><label><sup>*</sup></label><email xlink:type="simple">samuel.j.oltmans@noaa.gov</email></corresp>
+<fn fn-type="conflict">
+<p>The authors do not have any competing interests that might influence the interpretation of this manuscript.</p></fn>
+<fn fn-type="con"><p>Conception and design: SO, RS</p>
+<p>Acquisition of data: SO, RS, BJ, GP, TM, RN</p>
+<p>Analysis and interpretation of data: SO, RS, GP</p>
+<p>Drafting the article or revising it for important intellectual content: SO, RS, GP</p>
+<p>Final approval of the version to be published: SO</p></fn>
+</author-notes>
+<pub-date pub-type="epub" iso-8601-date="2014-03-04">
+<day>04</day>
+<month>03</month>
+<year>2014</year>
+</pub-date>
+<volume content-type="volume">2</volume>
+<elocation-id>000024</elocation-id>
+<history>
+<date date-type="received" iso-8601-date="2013-08-23">
+<day>23</day>
+<month>08</month>
+<year>2013</year>
+</date>
+<date date-type="rev-recd" iso-8601-date="2014-01-14">
+<day>14</day>
+<month>01</month>
+<year>2014</year>
+</date>
+<date date-type="rev-recd" iso-8601-date="2014-01-07">
+<day>07</day>
+<month>01</month>
+<year>2014</year>
+</date>
+<date date-type="accepted" iso-8601-date="2014-01-16">
+<day>16</day>
+<month>01</month>
+<year>2014</year>
+</date>
+</history>
+<permissions><copyright-year>2014</copyright-year>
+<copyright-holder>Oltmans et al.</copyright-holder>
+<license license-type="open-access" xlink:type="simple">
+<license-p><open-access><p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</p>
+</open-access>
+</license-p>
+</license>
+</permissions>
+<abstract>
+<title>Abstract</title>
+<p>Winter maximum daily 8-hour average (MDA8) ozone concentrations in the Upper Green River Basin, Wyoming (UGRBWY) and the Uintah Basin, Utah (UBUT) have frequently exceeded 100 ppb in January, February and March, in the past few years. Such levels are well above the U.S. air quality standard of 75 ppb. In these two remote basins in the Rockies, local ozone precursor emissions result from intense oil and gas extraction activities that release methane, volatile organic compounds (VOCs), and nitrogen oxides (NO<sub>x</sub>) to the atmosphere. These emissions become trapped beneath a stable and shallow (∼50–200 m) boundary layer maintained in low wind conditions. Wintertime surface ozone formation conditions are more likely in the UBUT than in the UGRBWY as the topography of the UBUT is an enclosed basin whereas the UGRBWY is open on its southern perimeter thus allowing for more air turnover. With snow-covered ground, high ozone events regularly begin in mid-December and last into early March in the UBUT whereas they usually do not begin in earnest until about a month later in the UGRBWY and may persist until mid-March. Winters without snow cover and the accompanying cold pool meteorological conditions do not experience high ozone events in either basin. For nine years with ozone observations in the UGRBWY (2005–2013) and four in the UBUT (2010–2013), all years with adequate (≥6 inches) and persistent snow cover, experienced days with ozone values ≥75 ppb except in 2012 in the UGRBWY when persistent high wind (&gt;5 m/s) conditions were prevalent. Year to year differences in the occurrences of high ozone episodes appear to be driven primarily by differing meteorological conditions rather than by variations in ozone precursor levels.</p>
+</abstract>
+<kwd-group>
+<kwd>Winter high ozone episodes</kwd>
+<kwd>oil and gas extraction activity</kwd>
+<kwd>Upper Green River Basin, WY</kwd> 
+<kwd>Uintah Basin, UT</kwd>
+</kwd-group>
+</article-meta>
+</front>
+<body>
+<sec id="s1"><title>Introduction</title>
+<p>Low levels of ultraviolet (UV) radiation and cold temperatures at mid-latitudes of the Northern Hemisphere during winter are conditions not considered conducive for photochemical surface ozone production to unhealthy levels. It has been found, however, that high ozone levels episodes can occur during the winter in Wyoming (<xref ref-type="bibr" rid="bibr015">WDEQ, 2008</xref>; <xref ref-type="bibr" rid="bibr012">Schnell et al., 2009</xref>; <xref ref-type="bibr" rid="bibr016">WDEQ, 2011</xref>) and Utah (<xref ref-type="bibr" rid="bibr009">Martin et al., 2011</xref>) in the vicinity of oil and natural gas extraction activities. While several field studies of this phenomenon (<uri>http://deq.state.wy.us/aqd/Upper Green Winter Ozone Study.asp;</uri> <uri>http://www.deq.utah.gov/locations/uintahbasin/index.htm</uri>) have been carried out and preliminary modeling efforts conducted (<xref ref-type="bibr" rid="bibr002">Carter and Seinfeld, 2012</xref>; <xref ref-type="bibr" rid="bibr011">Rappenglück et al., 2013</xref>; <xref ref-type="bibr" rid="bibr004">Edwards et al., 2013</xref>), a systematic presentation of the anatomy of the high ozone events and the conditions that produce them is warranted. As a criteria pollutant under the US Clean Air Act, ozone levels must meet the National Ambient Air Quality Standard (NAAQS) of a maximum daily 8-hour average (MDA8) with the 3-year average of the annual 4<sup>th</sup> highest value not to exceed 75 ppb. In rural areas wintertime ozone measurements are not common as these regions are believed to be at low risk for NAAQS violations. However, ozone monitors in the Upper Green River Basin (UGRBWY) of Wyoming recorded exceedences in the winter of 2005, the first year that the monitors operated there on a year-round basis. In the Uintah Basin (UBUT) of Utah, ozone monitoring began in winter 2009–2010. In addition, several intensive field studies in both the UGRBWY and UBUT have provided detailed measurements of the ozone events. In the UGRBWY and the UBUT, population levels are low and it is expected that the primary source of precursors is from local intensive oil and natural gas production activities. The locations of various monitoring sites in both basins are depicted in <xref ref-type="fig" rid="elementa.000024.f001">Figure 1</xref>.</p>
+<fig id="elementa.000024.f001" position="float">
+<object-id pub-id-type="doi">10.12952/journal.elementa.000024.f001</object-id>
+<label>Figure 1 </label><caption><title>Physiography of the Upper Green River Basin (UGRBWY), Wyoming and Uintah Basin (UBUT), Utah.</title>
+<p>The topography of the basins in the study showing oil and gas wells (red and blue dots respectively) and locations of measurement sites in the (a) Upper Green River Basin and (b) Uintah Basin. The Upper Green River Basin is surrounded by mountains on all sides except on the south. The Uintah Basin is completely enclosed by mountains except for 3 river channels. The views are on the same scale and illustrate the intensity of the production operations.</p>
+</caption>
+<graphic position="float" mimetype="image" xlink:type="simple" xlink:href="info:doi/10.12952/journal.elementa.000024.f001"/>
+</fig>
+<p>In the UGRBWY there were &gt;7000 operating oil and natural gas wells in 2012. Gas production peaked at &gt;900 billion cubic feet (cu ft) in 2010 in the basin and has exceeded 800 billion cu ft in all years since 2008. Oil production in the UGRBWY was highest in 2010 with more than 7 million barrels produced and has exceeded 6 million barrels every year since 2007.</p>
+<p>In the UBUT there were ∼6000 operating oil and natural gas wells in 2012. Gas production was &gt;370 billion cu ft and oil production was &gt;22 million barrels. These figures represented a ∼20% and ∼45% increase respectively over 2009 production numbers. Emissions associated with oil and gas exploration and extraction can be a significant source of methane and volatile organic compounds (VOCs), primary ozone precursors (<xref ref-type="bibr" rid="bibr007">Katzenstein et al., 2003</xref>; <xref ref-type="bibr" rid="bibr010">Pétron et al., 2012</xref>; <xref ref-type="bibr" rid="bibr006">Karion et al., 2013</xref>; <xref ref-type="bibr" rid="bibr005">Gilman et al., 2013</xref>).</p></sec>
+<sec id="s2"><title>Data</title>
+<p>Measurements for this study were obtained from data repositories available on web sites maintained by the Wyoming and Utah Departments of Environmental Quality, Utah State University, and from the EPA AirNow archive. <xref ref-type="table" rid="elementa.000024.t001">Table 1</xref> summarizes the data used in this study. Surface and profile measurements were based on EPA qualified methods with precision and accuracy of ±5% (<xref ref-type="bibr" rid="bibr016">WDEQ, 2011</xref>; Martin et al., 2011). Although data from one site in each basin (Boulder, Wyoming and Ouray, Utah) are emphasized because of the more extensive suite of measurements available, data from other sites (listed in the table) were also used.</p>
+<table-wrap id="elementa.000024.t001" position="float">
+<object-id pub-id-type="doi">10.12952/journal.elementa.000024.t001</object-id>
+<label>Table 1: </label>
+<caption><title>Information on data used in the study. See <xref ref-type="fig" rid="elementa.000024.f001">Figure 1</xref> for location of sites.</title></caption>
+<alternatives><graphic id="elementa.000024.t001-i" position="float" mimetype="image" xlink:type="simple" xlink:href="info:doi/10.12952/journal.elementa.000024.t001"/>
+<table>
+<colgroup span="1">
+<col width="20%" span="1"/>
+<col width="20%" span="1"/>
+<col width="30%" span="1"/>
+<col width="15%" span="1"/>
+<col width="15%" span="1"/>
+</colgroup>
+<thead align="left">
+<tr>
+<th rowspan="1" colspan="1">
+Location
+</th>
+<th rowspan="1" colspan="1">
+Parameter
+</th>
+<th rowspan="1" colspan="1">
+Type/Frequency
+</th>
+<th rowspan="1" colspan="1">
+Period of Obs.
+</th>
+<th rowspan="1" colspan="1">
+Data Source
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+Boulder, WY
+</td>
+<td rowspan="1" colspan="1">
+Ozone
+</td>
+<td rowspan="1" colspan="1">
+Surface/Hourly
+</td>
+<td rowspan="1" colspan="1">
+2005–2013
+</td>
+<td rowspan="1" colspan="1">
+<xref ref-type="table-fn" rid="tfn1">*</xref>WDEQ, AirNow
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
+Temperature
+</td>
+<td rowspan="1" colspan="1">
+Surface/Hourly
+</td>
+<td rowspan="1" colspan="1">
+2005–2013
+</td>
+<td rowspan="1" colspan="1">
+<xref ref-type="table-fn" rid="tfn2">**</xref>AirNow
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
+Wind Speed
+</td>
+<td rowspan="1" colspan="1">
+Surface/Hourly
+</td>
+<td rowspan="1" colspan="1">
+2005–2013
+</td>
+<td rowspan="1" colspan="1">
+AirNow
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
+UV
+</td>
+<td rowspan="1" colspan="1">
+Surface/Hourly
+</td>
+<td rowspan="1" colspan="1">
+2010–2012
+</td>
+<td rowspan="1" colspan="1">
+WDEQ
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
+NO<sub>x</sub>
+</td>
+<td rowspan="1" colspan="1">
+Surface/Hourly
+</td>
+<td rowspan="1" colspan="1">
+2010–2011
+</td>
+<td rowspan="1" colspan="1">
+WDEQ
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
+Snow Depth
+</td>
+<td rowspan="1" colspan="1">
+Surface/Daily
+</td>
+<td rowspan="1" colspan="1">
+2005–2013
+</td>
+<td rowspan="1" colspan="1">
+<xref ref-type="table-fn" rid="tfn3">***</xref>Utah State Univ.
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+Jonah, WY
+</td>
+<td rowspan="1" colspan="1">
+Ozone
+</td>
+<td rowspan="1" colspan="1">
+Surface/Hourly
+</td>
+<td rowspan="1" colspan="1">
+2007–2012
+</td>
+<td rowspan="1" colspan="1">
+AirNow
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
+Temperature
+</td>
+<td rowspan="1" colspan="1">
+Surface/Hourly
+</td>
+<td rowspan="1" colspan="1">
+2007–2009
+</td>
+<td rowspan="1" colspan="1">
+AirNow
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
+Wind Speed
+</td>
+<td rowspan="1" colspan="1">
+Surface/Hourly
+</td>
+<td rowspan="1" colspan="1">
+2007–2009
+</td>
+<td rowspan="1" colspan="1">
+AirNow
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
+</td></tr>
+<tr>
+<td rowspan="1" colspan="1">
+Juel Spring, WY
+</td>
+<td rowspan="1" colspan="1">
+Ozone
+</td>
+<td rowspan="1" colspan="1">
+Surface/Hourly
+</td>
+<td rowspan="1" colspan="1">
+2010–2013
+</td>
+<td rowspan="1" colspan="1">
+AirNow
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
+Temperature
+</td>
+<td rowspan="1" colspan="1">
+Surface/Hourly
+</td>
+<td rowspan="1" colspan="1">
+2010–2013
+</td>
+<td rowspan="1" colspan="1">
+AirNow
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
+Wind Speed
+</td>
+<td rowspan="1" colspan="1">
+Surface/Hourly
+</td>
+<td rowspan="1" colspan="1">
+2010–2013
+</td>
+<td rowspan="1" colspan="1">
+AirNow
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+Tethered Balloon, WY
+</td>
+<td rowspan="1" colspan="1">
+Ozone
+</td>
+<td rowspan="1" colspan="1">
+Profile/12 min.<break/>
+(4, 33, 67, 100 m)
+</td>
+<td rowspan="1" colspan="1">
+2011
+</td>
+<td rowspan="1" colspan="1">
+WDEQ
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
+Temperature
+</td>
+<td rowspan="1" colspan="1">
+Profile/12 min.
+</td>
+<td rowspan="1" colspan="1">
+2011
+</td>
+<td rowspan="1" colspan="1">
+WDEQ
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
+NMHC
+</td>
+<td rowspan="1" colspan="1">
+Profile/12 min.
+</td>
+<td rowspan="1" colspan="1">
+2011
+</td>
+<td rowspan="1" colspan="1">
+WDEQ
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
+NOX
+</td>
+<td rowspan="1" colspan="1">
+Profile/12 min.
+</td>
+<td rowspan="1" colspan="1">
+2011
+</td>
+<td rowspan="1" colspan="1">
+WDEQ
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+Tall Tower, WY
+</td>
+<td rowspan="1" colspan="1">
+Ozone
+</td>
+<td rowspan="1" colspan="1">
+Profile/12 min.<break/>
+(5, 25, 50, 73 m)
+</td>
+<td rowspan="1" colspan="1">
+2011
+</td>
+<td rowspan="1" colspan="1">
+WDEQ
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
+Temperature
+</td>
+<td rowspan="1" colspan="1">
+Profile/12 min.
+</td>
+<td rowspan="1" colspan="1">
+2011
+</td>
+<td rowspan="1" colspan="1">
+WDEQ
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
+NMHC
+</td>
+<td rowspan="1" colspan="1">
+Profile/12 min.
+</td>
+<td rowspan="1" colspan="1">
+2011
+</td>
+<td rowspan="1" colspan="1">
+WDEQ
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
+NOX
+</td>
+<td rowspan="1" colspan="1">
+Profile/12 min.
+</td>
+<td rowspan="1" colspan="1">
+2011
+</td>
+<td rowspan="1" colspan="1">
+WDEQ
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+Pinedale, WY<break/>
+(CASTNET)
+</td>
+<td rowspan="1" colspan="1">
+Ozone
+</td>
+<td rowspan="1" colspan="1">
+Surface/Hourly
+</td>
+<td rowspan="1" colspan="1">
+2008–2012
+</td>
+<td rowspan="1" colspan="1">
+AirNow
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+Ouray, UT
+</td>
+<td rowspan="1" colspan="1">
+Ozone
+</td>
+<td rowspan="1" colspan="1">
+Surface/Hourly
+</td>
+<td rowspan="1" colspan="1">
+2010–2013
+</td>
+<td rowspan="1" colspan="1">
+AirNow
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
+Temperature
+</td>
+<td rowspan="1" colspan="1">
+Surface/Hourly
+</td>
+<td rowspan="1" colspan="1">
+2010–2013
+</td>
+<td rowspan="1" colspan="1">
+AirNow
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
+Wind Speed
+</td>
+<td rowspan="1" colspan="1">
+Surface/Hourly
+</td>
+<td rowspan="1" colspan="1">
+2010–2013
+</td>
+<td rowspan="1" colspan="1">
+AirNow
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
+Snow Depth
+</td>
+<td rowspan="1" colspan="1">
+Surface/Daily
+</td>
+<td rowspan="1" colspan="1">
+2010–2013
+</td>
+<td rowspan="1" colspan="1">
+Utah State Univ.
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+Red Wash, UT
+</td>
+<td rowspan="1" colspan="1">
+Ozone
+</td>
+<td rowspan="1" colspan="1">
+Surface/Hourly
+</td>
+<td rowspan="1" colspan="1">
+2010–2013
+</td>
+<td rowspan="1" colspan="1">
+AirNow
+</td>
+</tr></tbody>
+</table></alternatives>
+<table-wrap-foot>
+<fn-group>
+<fn id="tfn1"><p>*<uri>http://deq.state.wy.us/aqd/Upper Green Winter Ozone Study.asp</uri></p></fn>
+<fn id="tfn2"><p>**<uri>http://www.airnowtech.org/index.cfm</uri></p></fn>
+<fn id="tfn3"><p>***<uri>http://climate.usurf.usu.edu</uri></p></fn></fn-group></table-wrap-foot></table-wrap>
+<p>In the UGRBWY, as part of the Upper Green Winter Ozone Study (UGWOS) in 2011, vertical profile measurements of ozone, temperature, NMHC, and NO<sub>x</sub> were conducted (<xref ref-type="bibr" rid="bibr016">WDEQ, 2011</xref>) using a tethered balloon with air inlets at four different levels and an instrumented tall tower similarly configured. The tethered balloon measurements were located 6 km southwest of the Boulder, WY surface site and the tall tower observations 5 km south of the Juel Spring surface site. Together, they provided unique details on the temporal and spatial development of the high ozone episodes.</p></sec>
+<sec id="s3"><title>Results</title>
+<sec id="s3a"><title>Upper Green River Basin, WY</title>
+<p>The anatomy of one ozone event in the UGRBWY (winter 2010–2011) is presented in some detail showing how this event fits into the 9 year pattern of winter ozone production in the UGRBWY. After mid-December 2010 the UGRBWY had persistent snow cover and surface temperatures consistently below freezing as shown by measurements at the Boulder, WY site (<xref ref-type="fig" rid="elementa.000024.f002">Figure 2</xref>). Indication of modest ozone enhancements (hourly values exceeding 60 ppb) were seen near the end of December, 2010 into mid-February 2011. During these ∼6 weeks there were only brief periods when wind speeds remained relatively low, below 5m/s (<xref ref-type="fig" rid="elementa.000024.f002">Figure 2b</xref>). Low wind speeds and the deepest snow cover in early March coincided with a peak of the hourly average ozone maximum (∼ 150 ppb) observed at the Boulder site in the winter of 2010–11 (<xref ref-type="fig" rid="elementa.000024.f002">Figure 2a</xref>). Even though there was significant snow cover and generally sunny conditions (based on UV values — <xref ref-type="fig" rid="elementa.000024.f003">Figure 3</xref>) earlier in the season, the lack of sustained low wind speeds (hourly averages regularly exceeded 5 m/s — <xref ref-type="fig" rid="elementa.000024.f002">Figure 2</xref>) were indicative of the lack of strong inversions and a stable boundary layer. In the middle of February there were several relatively brief periods of higher ozone (hourly values exceeding 100 ppb) corresponding to periods of lighter wind speeds.</p>
+<fig id="elementa.000024.f002" position="float">
+<object-id pub-id-type="doi">10.12952/journal.elementa.000024.f002</object-id>
+<label>Figure 2 </label><caption><title>Ozone, wind speed, temperature, and snow depth at Boulder, WY Winter 2010–11.</title>
+<p>(a) Hourly ozone mixing ratio in ppb (blue) and snow depth (black dots); (b) Wind speed in m/s (orange), temperature in °C (green); snow depth in inches (black dots) at Boulder, WY during winter 2010–2011. The 0 °C temperature level is shown by the horizontal green line. Wind speed and temperature are smoothed with a 24 point running mean. Note that the highest ozone concentrations occur in March when the snow is deepest and wind speeds low.</p></caption>
+<graphic position="float" mimetype="image" xlink:type="simple" xlink:href="info:doi/10.12952/journal.elementa.000024.f002"/>
+</fig>
+</sec>
+<sec id="s3b"><title>UGRBWY March 2011 high ozone event</title>
+<p>As introduced above, in early March the strongest ozone event of the season occurred with hourly values just above 150 ppb and maximum daily 8-hr average (MDA8) over 120 ppb. A somewhat briefer episode later in-March, also during a low wind period, had elevated daytime values. In each case the high ozone days coincided with sustained lower wind speeds of &lt; 3 m/s (<xref ref-type="fig" rid="elementa.000024.f003">Figure 3</xref>) whereas brief interruptions of high ozone episodes were associated with only modestly higher wind speeds &gt; 4 m/s. Following the high ozone episode in mid-March, temperatures warmed and the snow melted rapidly ending elevated ozone production for the winter.</p>
+<fig id="elementa.000024.f003" position="float">
+<object-id pub-id-type="doi">10.12952/journal.elementa.000024.f003</object-id>
+<label>Figure 3 </label><caption><title>Ozone, UV radiation, and snow cover at Boulder, WY in winter 2010–2011.</title>
+<p>Maximum daily 8-hour average (MDA8) ozone mixing ratio in ppb (blue), the sum of the UV incoming and outgoing radiation in watts/m<sup>2</sup> (magenta), and daily snow depth (black dots). Note the enhancement in total UV radiation when the deeper snow cover is present.</p></caption>
+<graphic position="float" mimetype="image" xlink:type="simple" xlink:href="info:doi/10.12952/journal.elementa.000024.f003"/>
+</fig>
+<p>The high ozone concentrations were associated with enhanced UV levels (<xref ref-type="fig" rid="elementa.000024.f003">Figure 3</xref>). In late December, the sum of measured incoming and outgoing UV radiation when the ground was covered with snow was equivalent to the measured incoming component in April. In March when there was snow on the ground the sum of incoming and outgoing UV levels were ∼80% higher than the incoming component measured just after the snow had melted at the end of March (<xref ref-type="fig" rid="elementa.000024.f003">Figure 3</xref>).</p></sec>
+<sec id="s3c"><title>2011 intensive UGRBWY ozone study results</title>
+<p>The 2011 UGWOS intensive field study took place from mid-January to the end of March with an enhanced suite of measurements in mid-February through mid-March. A detailed report for this study, as well as reports and data from 2007–2012, are available on the State of Wyoming Department of Environmental Quality website (<uri>http://deq.state.wy.us/aqd/MonitoringData.asp</uri>). Surface observations at the Boulder site from February to mid-March included two high ozone episodes with MDA8 above 120 ppb; the first event is discussed below.</p>
+<p>The elevated ozone production episode from February 28 – March 5, 2011 is illustrative of high ozone events in the UGRBWY (<xref ref-type="fig" rid="elementa.000024.f004">Figure 4</xref>). On February 27 stronger surface winds ventilated the site so that peak ozone and NO<sub>x</sub> values were 57 ppb and 14 ppb respectively. By February 28 the winds had subsided, the sum of the incoming and outgoing UV was almost twice the incoming value and daytime NO<sub>x</sub> values measured at the Boulder site were in excess of 30 ppb (<xref ref-type="fig" rid="elementa.000024.f004">Figure 4</xref>). Ozone values increased dramatically on March 1 and March 2 peaking above 150 and 160 ppb respectively with a strong diurnal cycle (&gt;120 ppb) closely following solar input lagged by a couple of hours. Ozone concentrations rose rapidly to ∼80 ppb in late morning (∼1130 MST), peaked at &gt;150 ppb by mid-afternoon (1400–1500 MST) then diminished to ∼85 ppb by early evening (∼1900 MST) (<xref ref-type="fig" rid="elementa.000024.f004">Figure 4</xref>). NO<sub>x</sub> concentrations measured at the Boulder site exhibited a pattern essentially opposite to that of ozone during this period (<xref ref-type="fig" rid="elementa.000024.f004">Figure 4</xref>).</p>
+<fig id="elementa.000024.f004" position="float">
+<object-id pub-id-type="doi">10.12952/journal.elementa.000024.f004</object-id>
+<label>Figure 4 </label><caption><title>Ozone, NO<sub>x</sub>, wind speed and UV at Boulder, WY February 28 – March 5, 2011.</title>
+<p>(a) Hourly ozone mixing ratio in ppb (blue), wind speed in m/sec (orange) and NO<sub>x</sub> mixing ratio in ppb (red) at Boulder, WY during the intensive observing period. (b) Hourly ozone mixing ratio in ppb (blue), incoming UV in watts/m<sup>2</sup> (red) and the sum of the UV incoming and outgoing radiation in watts/m<sup>2</sup> (magenta). Note: Ozone scale minimum value is 20 ppb.</p></caption>
+<graphic position="float" mimetype="image" xlink:type="simple" xlink:href="info:doi/10.12952/journal.elementa.000024.f004"/>
+</fig>
+</sec>
+<sec id="s3d"><title>UGRBWY tethered balloon and tower measurements</title>
+<p>Tethered balloon observations conducted near the Boulder site during this period (March 1, <xref ref-type="fig" rid="elementa.000024.f005">Figure 5</xref> and March 2, <xref ref-type="fig" rid="elementa.000024.f006">Figure 6</xref>) capture the rapid buildup of ozone in the 80–100 m deep inversion layer through the morning but only measure the beginning of the ozone decay in the evening as the measurements ceased at that time while the tall tower observations near Juel Spring (<xref ref-type="fig" rid="elementa.000024.f007">Figure 7</xref>) show the complete diurnal pattern of ozone in the inversion layer. In addition to the ozone time-height cross-sections for March 1 and 2 for the tethered balloon and the tall tower, cross-sections are shown for measurements of temperature, non-methane hydrocarbons (NMHCs), and NO<sub>x</sub> (<xref ref-type="fig" rid="elementa.000024.f005">Figures 5</xref>, <xref ref-type="fig" rid="elementa.000024.f006">6</xref> and <xref ref-type="fig" rid="elementa.000024.f007">7</xref>). The ∼30 km separation of the Boulder and tower sites provides some insight into the variability of ozone behavior between the two locations, although the development of high ozone levels followed a similar pattern at both sites it is much more pronounced at Boulder than Juel Spring. There was a significant ozone buildup with multiple (12 minute) values &gt;100 ppb at both locations. Late in the morning on March 1 (<xref ref-type="fig" rid="elementa.000024.f005">Figure 5</xref>), ozone levels increased dramatically at the tethered balloon location through the entire sampled layer reaching 125 ppb by 1300 MST and exceeding 150 ppb in the lowest 40 m by 1500 MST. Two hours later, ozone mixing ratios at the balloon site had diminished by ∼70 ppb. At the tower (<xref ref-type="fig" rid="elementa.000024.f007">Figure 7</xref>), ozone also increased in the late morning of March 1, but more modestly up to 90 ppb. By the morning of March 2 ozone levels had reached minimum values of ∼45 ppb at the tethered balloon site compared to 65 ppb at the tower site. This may reflect greater nighttime titration due to the higher NO<sub>x</sub> values at the tethered balloon site (compare panel 4 in <xref ref-type="fig" rid="elementa.000024.f005">Figures 5</xref>, <xref ref-type="fig" rid="elementa.000024.f006">6</xref> and <xref ref-type="fig" rid="elementa.000024.f007">7</xref>). On March 2, the balloon site (<xref ref-type="fig" rid="elementa.000024.f006">Figure 6</xref>) shows an ozone enhancement &gt; 140 ppb, slightly less compared to the previous day, while the tower values were higher than on the previous day.</p>
+<fig id="elementa.000024.f005" position="float">
+<object-id pub-id-type="doi">10.12952/journal.elementa.000024.f005</object-id>
+<label>Figure 5 </label><caption><title>Time-height cross-sections from tethered balloon measurements near the Boulder site in the UGRBWY on March 1, 2011.</title>
+<p>Time-height cross sections of (a) ozone mixing ratio (ppb), (b) temperature (°C), (c) non-methane hydrocarbons (ppb), and (d) NO<sub>x</sub> (ppb). See <xref ref-type="table" rid="elementa.000024.t001">Table 1</xref> and <xref ref-type="bibr" rid="bibr016">WDEQ (2011)</xref> for details on the measurements.</p></caption>
+<graphic position="float" mimetype="image" xlink:type="simple" xlink:href="info:doi/10.12952/journal.elementa.000024.f005"/>
+</fig>
+<fig id="elementa.000024.f006" position="float">
+<object-id pub-id-type="doi">10.12952/journal.elementa.000024.f006</object-id>
+<label>Figure 6 </label><caption><title>Time-height cross-sections from tethered balloon measurements in the UGRBWY on March 2, 2011.</title>
+<p>Time-height cross sections of (a) ozone mixing ratio (ppb), (b) temperature (°C), (c) non-methane hydrocarbons (ppb), and (d) NO<sub>x</sub> (ppb). See <xref ref-type="table" rid="elementa.000024.t001">Table 1</xref> and <xref ref-type="bibr" rid="bibr016">WDEQ (2011)</xref> for details on the measurements.</p></caption>
+<graphic position="float" mimetype="image" xlink:type="simple" xlink:href="info:doi/10.12952/journal.elementa.000024.f006"/>
+</fig>
+<fig id="elementa.000024.f007" position="float">
+<object-id pub-id-type="doi">10.12952/journal.elementa.000024.f007</object-id>
+<label>Figure 7 </label><caption><title>Time-height cross-sections from tall tower measurements near Juel Spring in the UGRBWY on March 1 and 2, 2011.</title>
+<p>Time-height cross sections of (a) ozone mixing ratio (ppb), (b) temperature (°C), (c) non-methane hydrocarbons (ppb), and (d) NO<sub>x</sub> (ppb). Measurements from the tower were continuous March 1 and 2, 2011. See <xref ref-type="table" rid="elementa.000024.t001">Table 1</xref> and <xref ref-type="bibr" rid="bibr016">WDEQ (2011)</xref> for details on the measurements.</p></caption> 
+<graphic position="float" mimetype="image" xlink:type="simple" xlink:href="info:doi/10.12952/journal.elementa.000024.f007"/>
+</fig>
+<p>Each day a well-developed surface temperature inversion is present in the morning that weakens as air warms and the ozone production gets underway (compare panel 2 in <xref ref-type="fig" rid="elementa.000024.f005">Figures 5</xref>, <xref ref-type="fig" rid="elementa.000024.f006">6</xref> and <xref ref-type="fig" rid="elementa.000024.f007">7</xref>). The air is better mixed under these conditions (more uniform temperature and ozone mixing) yet the strong ozone increase stays confined to a relatively shallow layer ∼100 m in thickness. The inversion begins to strengthen quickly in the late afternoon. Although the highest ozone amounts are captured within the altitude range of the tethered balloon observations, some enhancement appears to extend above the 100 m top of the soundings.</p>
+<p>At the tethered balloon site both nitrogen oxides (NO<sub>x</sub>) and non-methane hydrocarbons (NMHCs) were much higher than at the tower location (<xref ref-type="fig" rid="elementa.000024.f005">Figures 5</xref>, <xref ref-type="fig" rid="elementa.000024.f006">6</xref> and <xref ref-type="fig" rid="elementa.000024.f007">7</xref>, panels 3 and 4). At the balloon site NO<sub>x</sub> values were often in excess of 40 ppb while at the tower location values were mostly &lt;10 ppb. The NMHCs at the balloon site were ≥4 ppm and at the tower they were usually &lt;1 ppm. These balloon-site levels are high (NHMC &gt;1 ppm, NO<sub>x</sub> &gt;20 ppb) compared to ambient levels measured in aircraft samples collected midday in the boundary layer over the UBUT under conditions without a capping inversion when no high ozone events were seen (Karion et al., 2012). This appears to be consistent with the proximity of the balloon site to the Pinedale Anticline portion of the UGRBWY field with the highest natural gas production. The time evolution and vertical structure of precursors were highly variable throughout the course of the development of high ozone events perhaps reflecting the variation in transport from specific precursor sources. In general, high precursor levels were seen throughout the vertical column being measured during events where ozone values were high (&gt; 80 ppb).</p></sec>
+<sec id="s3f"><title>UGRBWY winter ozone events, 2008–2013</title>
+<p>To provide a perspective of the annual winter production of ozone in the UGRBWY and how the March 2011 ozone event fits into the historical record of winter ozone production in the UGRBWY, ozone, snow depth, wind speed, and temperature data for January–March, 2008–2013 at Boulder, WY are shown in separate panels in <xref ref-type="fig" rid="elementa.000024.f008">Figure 8</xref>. As may be seen in <xref ref-type="fig" rid="elementa.000024.f008">Figure 8</xref>, 2008 was a year with several high ozone episodes in February and March with MDA8 values up to 120 ppb. The year 2008 was the focus of the wintertime ozone study discussed by <xref ref-type="bibr" rid="bibr012">Schnell et al. (2009)</xref> using data from the Jonah site. The Jonah instrumentation was moved a short distance to Juel Spring in 2011 (see <xref ref-type="fig" rid="elementa.000024.f001">Figure 1</xref> for site locations). In 2008 Jonah (<xref ref-type="fig" rid="elementa.000024.f009">Figure 9</xref>) and Boulder (<xref ref-type="fig" rid="elementa.000024.f008">Figure 8a</xref>) had ozone enhancements during the same periods but with peak MDA8 ozone values 20–30 ppb lower at Jonah. A similar pattern is observed at Juel Spring (<xref ref-type="fig" rid="elementa.000024.f009">Figure 9</xref>) and Boulder (<xref ref-type="fig" rid="elementa.000024.f008">Figure 8d</xref>) in 2011. This is consistent with the differences seen during the intensive observing periods in 2011 between the tethered balloon values (taken near the Boulder site) and the tall tower site (near the Juel Spring location). The winters of 2008, 2011, and 2012 all had snow depths of 6 inches or more throughout the winter in the UGRBWY as may be observed in <xref ref-type="fig" rid="elementa.000024.f008">Figure 8</xref>.</p>
+<fig id="elementa.000024.f008" position="float">
+<object-id pub-id-type="doi">10.12952/journal.elementa.000024.f008</object-id>
+<label>Figure 8 </label><caption><title>Ozone, wind speed, temperature, and snow depth for winter ozone seasons 2008–2013 (a–f) at Boulder, WY.</title>
+<p>Maximum daily 8-hr average ozone mixing ratio (MDA8) in ppb (blue), smoothed (24 hour running mean) wind speed in m/s (orange), temperature in °C (green), and snow depth in inches (black) at Boulder, WY during winters 2008 – 2013. The National Ambient Air Quality of 75 ppb is shown by the blue horizontal line and the 0 °C temperature level is indicated by the horizontal green line. Note the high ozone events in 2008 and 2011 and low ozone winters of 2009, 2010, 2012 and 2013.</p></caption>
+<graphic position="float" mimetype="image" xlink:type="simple" xlink:href="info:doi/10.12952/journal.elementa.000024.f008"/>
+</fig>
+<fig id="elementa.000024.f009" position="float">
+<object-id pub-id-type="doi">10.12952/journal.elementa.000024.f009</object-id>
+<label>Figure 9 </label><caption><title>Ozone, wind speed, temperature, and snow depth at (a) Jonah in 2008 and (b) Juel Spring, WY in 2011.</title><p>Maximum daily 8-hr average ozone mixing ratio (MDA8) in ppb (blue), smoothed wind speed in m/s (orange), temperature in °C (green), snow depth in inches (black dots) at Jonah, WY during winter 2008 and Juel Spring, WY during winter 2011. The National Ambient Air Quality of 75 ppb is shown by the blue horizontal line and the 0 °C temperature level is indicated by the horizontal green line. The measurements at Jonah were discontinued in 2011 and the instruments moved to the nearby Juel Spring site. See <xref ref-type="fig" rid="elementa.000024.f001">Figure 1</xref> for location of sites.</p></caption>
+<graphic position="float" mimetype="image" xlink:type="simple" xlink:href="info:doi/10.12952/journal.elementa.000024.f009"/>
+</fig>
+<p>The other four years with measurements in the UGRBWY (2009, 2010, 2012, and 2013) had only modest ozone enhancements or none at all and no sustained periods of MDA8 ozone exceeding about 70 ppb (<xref ref-type="fig" rid="elementa.000024.f008">Figure 8</xref>). 2013 had no discernible ozone enhancements, although snow cover was only a bit less than in 2007 and 2009 when minor ozone production occurred. In 2013, what little snow there was disappeared by early March. In the UGRBWY it appears that at least 6 inches of snow on the ground are required to cover the vegetation to provide the initial conditions necessary for ozone production.</p></sec>
+<sec id="s3g"><title>Uintah Basin, UT</title>
+<p>As in the case for the UGRBWY, the anatomy of one year with high ozone in the UBUT is shown then this year is put into context using the multi-year record from the basin. Winter ozone measurements began in the UBUT in the winter of 2009–10. In the latter weeks of December 2010 the UBUT had significant snow cover for the first time in the season (<xref ref-type="fig" rid="elementa.000024.f010">Figure 10</xref>). With &gt; 6 inches of snow on the ground, both day and night hourly ozone values measured at Ouray, UT remained above those observed before the ground was covered with snow even though the only ozone enhancement event was a relatively minor one with an hourly value peaking at 65 ppb in late December. Nighttime ozone values did not generally dip below 30 ppb in the UBUT once the ground was covered with snow while prior to snow cover they were often less than 10 ppb. Nighttime values after the snow appeared were approximately the same as daytime values prior to snow cover.</p>
+<fig id="elementa.000024.f010" position="float">
+<object-id pub-id-type="doi">10.12952/journal.elementa.000024.f010</object-id>
+<label>Figure 10 </label><caption><title>Ozone, wind speed, temperature, and snow depth at Ouray, UT winter 2010–2011.</title>
+<p>Hourly ozone mixing ratio in ppb (blue), wind speed in m/s (orange), temperature in °C (green), snow depth in inches (black) at Ouray, UT during winter 2010–2011. The 0 °C temperature level is shown by the horizontal green line.</p></caption>
+<graphic position="float" mimetype="image" xlink:type="simple" xlink:href="info:doi/10.12952/journal.elementa.000024.f010"/>
+</fig>
+<p>The first major ozone episode (with hourly ozone values up to 100 ppb) occurred in the first week in January 2011 and coincided with the first extended period of light winds and cold temperatures. A brief cloudy period (determined from low solar insolation values, not shown) interrupted the high ozone events in the middle of January. In the middle of February, low winds and cold temperatures were associated with hourly ozone concentrations of &gt;140 ppb that dropped to 50 ppb as soon as wind speeds picked up from ∼1.5 m/s to 5 m/s (<xref ref-type="fig" rid="elementa.000024.f010">Figure 10</xref>). Through the remainder of the season, with snow cover that lasted through the first week in March, higher ozone days were only interrupted by periods when higher wind speeds (hourly average of ≥4 m/s) were observed. Although the higher wind speeds generally persisted for a relatively short period, they were usually accompanied by a shift in wind direction indicating a frontal passage. During these periods of lower daytime ozone, NO<sub>x</sub> values were also reduced from 10–20 ppb to &lt;5 ppb indicating that the boundary layer was well ventilated by the synoptic weather changes that brought a fresh air mass into the UBUT.</p>
+<p>In the UBUT the winters of 2010, 2011, and 2013 (<xref ref-type="fig" rid="elementa.000024.f011">Figure 11</xref>) exhibited very strong ozone episodes of MDA8 of 140 ppb in 2011 and 2013. In contrast, in 2012 there was nearly no snow and no high ozone events. Nighttime hourly ozone values were often &lt;10 ppb. Even during sustained periods of lighter winds, MDA8 values were consistently &lt;50 ppb in the absence of snow cover and the associated temperature inversions. With extended periods of snow cover in 2010, 2011 and 2013 and light winds there was a progressive buildup of the peak in daytime ozone values with 41 days in 2010 and 39 days in 2013 with MDA8 exceeding 75 ppb in the UBUT. In 2013 the UBUT experienced 21 days with MDA8 values of &gt;100 ppb.</p>
+<fig id="elementa.000024.f011" position="float">
+<object-id pub-id-type="doi">10.12952/journal.elementa.000024.f011</object-id>
+<label>Figure 11 </label><caption><title>Ozone, wind speed, temperature, and snow depth for winters 2010–2013 (a–d) at Ouray, UT.</title>
+<p>Maximum daily 8-hr average ozone mixing ratio (MDA8) in ppb (blue), smoothed (24 hour running mean) wind speed in m/s (orange), temperature in °C (green), snow depth in inches (black) at Ouray, UT during winters 2010, 2011, 2012, and 2013. The National Ambient Air Quality of 75 ppb is shown by the blue horizontal line and the 0 °C temperature level is indicated by the horizontal green line. Note that 2012 was without snow and lacked elevated winter ozone production.</p></caption>
+<graphic position="float" mimetype="image" xlink:type="simple" xlink:href="info:doi/10.12952/journal.elementa.000024.f011"/>
+</fig></sec></sec>
+<sec id="s4"><title>Discussion and conclusions</title>
+<p>The ozone pollution events in the UGRBWY and UBUT described above are examples of the air confining characteristics of valley topography (<xref ref-type="bibr" rid="bibr001">Bayer and McKee, 1985</xref>). Snow cover in these basins produces a high albedo that promotes strong boundary layer temperature inversions (<xref ref-type="bibr" rid="bibr001">Bayer and McKee, 1985</xref>). These inversions (see <xref ref-type="fig" rid="elementa.000024.f005">Figures 5b</xref> and <xref ref-type="fig" rid="elementa.000024.f006">6b</xref>) are instrumental in confining ozone precursors emitted by oil and natural gas production and processing operations in a shallow boundary layer near the surface that leads to a buildup of precursors (<xref ref-type="bibr" rid="bibr017">Yu and Pielke, 1986</xref>) and photochemical ozone formation in this layer (<xref ref-type="bibr" rid="bibr012">Schnell et al., 2009</xref>).</p>
+<p>In addition, snow cover enhances UV radiation available for photochemical ozone production (<xref ref-type="fig" rid="elementa.000024.f003">Figures 3</xref> and <xref ref-type="fig" rid="elementa.000024.f004">4</xref>), which is an essential ingredient for ozone formation in both the UGRBWY and UBUT. In the UGRBWY adequate snow cover (depth of ∼6 inches) does not guarantee strong ozone formation while in the UBUT all years with persistent measurable snow cover produced high ozone episodes.</p>
+<p>The contrast between years with and without snow on the ground was seen most dramatically in 2012 and 2013 in the UBUT. In the three years with ozone measurements in the UBUT with snow-covered ground, ozone production was strong. The very strong ozone diurnal cycle closely tied to solar UV input is consistent with vigorous photochemical ozone production (<xref ref-type="bibr" rid="bibr008">Logan et al., 1981</xref>). The suggestion is that the much shorter vegetation in the UBUT than in the UGRBWY allowed for UV reflection from snow cover with minimal snow depth in the UBUT.</p>
+<p>That the highest ozone amounts tend to occur in February and March in both basins suggests that increasing availability of UV later in the winter season enhances ozone production. In the UGRBWY, high ozone events generally occur about one week later into March than is seen in the UBUT. This is consistent with snow cover persisting longer in the UGRBWY. In the UBUT snow disappears after about the first week in March while in the UGRBWY the ground is covered with snow into mid-March. A significant difference between the two basins is the more numerous sustained periods of light winds in the UBUT that preserve the low-level inversions and hence prolonged periods of high ozone than in the UGRBWY. These multi-day events in the UBUT show a consistent buildup of daily peak ozone as the events progress that are not readily apparent in the UGRBWY where the ozone events are of shorter duration. High ozone episodes are also more common earlier in the winter in the UBUT where episodes occurred throughout January in all three years that had strong ozone production.</p>
+<p>Another important role of snow cover in the wintertime ozone production and persistence phenomenon is the inhibition of ozone deposition to the surface. This was especially observed in the UBUT where there were extended periods with stable inversion conditions such that ozone values tended to build-up from day-to-day. Nighttime ozone values at the surface remained relatively high with the next day’s ozone production building from the already elevated overnight values. This is especially noticeable at measurements sites that did not have large NO emissions nearby so that there was limited titration of ozone during the night.</p>
+<p>The time development in the vertical of the high ozone events appeared to follow the behavior at the surface. The relatively high time resolution (12 minutes) of both the tethered balloon and tall tower measurements at the Boulder and Juel Spring, WY sites suggest the ozone photochemistry was initiated nearly simultaneously throughout the surface inversion layer. Mixing initiated by heating at the surface during the day probably distributed constituents through the shallow vertical column within the inversion layer that was generally no more than 50–150 m deep. At night, drainage winds would probably keep the boundary layer well mixed due to the rough surface terrain in both basins.</p>
+<p>High ozone events have not occurred in January in the UGRBWY. Even though there may have been adequate snow on the ground in Wyoming earlier in the winter, more frequent, strong surface winds prevented the establishment of a sustained surface inversion that could contain ozone precursors in adequate concentrations near the surface. The relationship between wind speed and ozone is depicted for Boulder in the UGRBWY (<xref ref-type="fig" rid="elementa.000024.f012">Figure 12a</xref>) and Ouray in the UBUT (<xref ref-type="fig" rid="elementa.000024.f012">Figure 12b</xref>) for January through March in three years during the time when the ground was covered with ≥6 inches of snow. In <xref ref-type="fig" rid="elementa.000024.f012">Figure 12</xref>, MDA8 ozone values ≥75 ppb are predominantly associated with daily maximum surface wind speeds &lt;5 m/s. This is especially pronounced in the UBUT (<xref ref-type="fig" rid="elementa.000024.f012">Figure 12b</xref>) where the cutoff is very sharp and the few cases with higher ozone and higher winds all occurred when the wind speed peaked late in the day after ozone production had also peaked.</p>
+<fig id="elementa.000024.f012" position="float">
+<object-id pub-id-type="doi">10.12952/journal.elementa.000024.f012</object-id>
+<label>Figure 12 </label>
+<caption><title>MDA8 ozone (ppb) versus maximum daily hourly average wind speed (m/s) for (a) Boulder, WY and (b) Ouray, UT.</title>
+<p>Data are for each day in three different excess ozone producing years with ≥6 inches of snow cover during the period January to mid-March. Note that the greater number of higher wind speed days in the UGRBWY were associated with more low ozone concentrations days than in the UBUT. The UBUT had appreciably more low wind days and higher ozone concentrations on those days.</p></caption>
+<graphic position="float" mimetype="image" xlink:type="simple" xlink:href="info:doi/10.12952/journal.elementa.000024.f012"/>
+</fig>
+<p>In the UGRBWY wind speeds were much higher on average with the majority of winter days exhibiting wind speeds &gt;5 m/s while in the UBUT the vast majority of days had winds speeds under this threshold. In Wyoming, when higher ozone is associated with higher wind speed days, short periods with winds &gt;6 m/s occurred early in the morning before photochemical ozone production began. In both basins there were days when low wind speeds were not accompanied by enhanced ozone (data values in the lower left portion of the plots) indicating other factors such as low UV due to thick cloud cover and less than adequate time for precursors to build up after a weather event cleaned out the basin are also important in the winter ozone formation equation. In the UGRBWY in 2012 when there was adequate snow cover, there were many more days with high winds (&gt;10 m/s) that likely contributed to the lack of high ozone events due to excellent boundary later mixing and lack of adequately strong temperature inversions.</p>
+<p>Although the data presented above has been shown primarily for the Boulder site in Wyoming and the Ouray location in Utah, other sites in the respective basins exhibit similar patterns. Measurements from the Jonah site in Wyoming (2008) and the nearby Juel Spring location (2011) behaved similarly to the Boulder location but showed somewhat weaker ozone production events. For the more limited number of years of data in the UBUT, the Red Wash site (not shown) behaved in a manner similar to Ouray with high ozone episodes in 2010 and 2011, no events in 2012, and extremely high ozone in 2013.</p>
+<p>Based on annual production numbers there was a modest year-to-year variability in the level of fossil fuel exploration and extraction activities in the UGRBWY and UBUT for the time period studied. Although the number of oil and gas wells being drilled or in production is not a direct indication of ozone precursor emissions, the high level of activity throughout the period (2007–2013) is likely a strong indicator that significant precursors were emitted for all the years investigated in this study. Based on the results shown here changes in production levels do not appear to be the primary driver of wintertime ozone inter-annual variability but rather in both basins, year to year variations in meteorological conditions were the major factor in whether or not high ozone episodes occurred.</p></sec>
+<sec id="s5"><title>Data Accessibility Statement</title>
+<p>Data sources are cited with URLs in the text of the manuscript.</p></sec>
+<sec id="s6" sec-type="copyright-statement"><title>Copyright</title>
+<p>© 2014 Oltmans et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</p>
+</sec>
+</body>
+<back><ack><title>Acknowledgments</title>
+<p>The Wyoming Department of Environmental Quality (DEQ) and Utah DEQ have made data obtained under their auspices readily available through reports and web sites they maintain and through prompt submission to the AirNow and EPA AQS data archives.</p></ack>
+<ref-list content-type="parsed"><title>References</title>
+<ref id="bibr001">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Bader</surname><given-names>DC</given-names></name>, 
+<name name-style="western"><surname>McKee</surname><given-names>TB</given-names></name>. 
+<year>1985</year>. 
+<article-title>Effects of shear, stability and valley characteristics on the destruction of temperature inversions</article-title>. 
+<source>J. Clim. Appl. Meteorol</source> 
+<volume>24</volume>: 
+<fpage>822</fpage>–<lpage>832</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr002">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Carter</surname><given-names>WPL</given-names></name>, 
+<name name-style="western"><surname>Seinfeld</surname><given-names>JH</given-names></name>. 
+<year>2012</year>. 
+<article-title>Winter ozone formation and VOC incremental reactivities in the Upper Green River Basin of Wyoming</article-title>. 
+<source>Atmos. Environ</source> 
+<volume>50</volume>: 
+<fpage>255</fpage>–<lpage>266</lpage>. doi.
+<pub-id pub-id-type="doi">10.1016/j.atmosenv.2011.12.025</pub-id>
+</mixed-citation>
+</ref>
+<ref id="bibr003">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Chameides</surname><given-names>WL</given-names></name>, 
+<name name-style="western"><surname>Fehsenfeld</surname><given-names>F</given-names></name>, 
+<name name-style="western"><surname>Rodgers</surname><given-names>MO</given-names></name>, 
+<name name-style="western"><surname>Cardelino</surname><given-names>C</given-names></name>, 
+<name name-style="western"><surname>Martinez</surname><given-names>J</given-names></name>, <etal>et al.</etal> 
+<year>1992</year>. 
+<article-title>Ozone precursor relationships in the ambient atmosphere</article-title>. 
+<source>J. Geophys. Res.-Atmos</source>. 1992 
+<volume>97</volume>: (<issue>D5</issue>), 
+<fpage>6037</fpage>–<lpage>6055</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr004">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Edwards</surname><given-names>PM</given-names></name>, <etal>et al.</etal> 
+<year>2013</year>. 
+<article-title>Ozone photochemistry in an oil and natural gas extraction region during winter: simulations of a snow-free season in the Uintah Basin, Utah</article-title>. 
+<source>Atmos. Chem. Phys</source> 
+<volume>13</volume>: 
+<fpage>8955</fpage>–<lpage>8971</lpage>. doi:
+<pub-id pub-id-type="doi">10.514/acp-13-8955-2013</pub-id></mixed-citation>
+</ref>
+<ref id="bibr005">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Gilman</surname><given-names>JB</given-names></name>, 
+<name name-style="western"><surname>Lerner</surname><given-names>BM</given-names></name>, 
+<name name-style="western"><surname>Kuster</surname><given-names>WC</given-names></name>, 
+<name name-style="western"><surname>de Gouw</surname><given-names>JA</given-names></name>. 
+<year>2013</year>. 
+<article-title>Source Signature of Volatile Organic Compounds from Oil and Natural Gas Operations in Northeastern Colorado</article-title>. 
+<source>Environ, Sci. Tech</source> 
+<volume>47</volume>: 
+<fpage>1297</fpage>–<lpage>1305</lpage>. doi.
+<pub-id pub-id-type="doi">org/10.1021/es304119a/</pub-id></mixed-citation>
+</ref>
+<ref id="bibr006">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Karion</surname><given-names>A</given-names></name>, <etal>et al.</etal> 
+<year>2013</year>. 
+<article-title>Methane emissions estimate from airborne measurements over a western United States natural gas field</article-title>. 
+<source>Geophys. Res. Lett</source> 
+<volume>40</volume>: 
+<fpage>4393</fpage>–<lpage>4397</lpage>. doi:
+<pub-id pub-id-type="doi">10.1002/grl.50811</pub-id></mixed-citation>
+</ref>
+<ref id="bibr007">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Katzenstein</surname><given-names>AS</given-names></name>, 
+<name name-style="western"><surname>Doezema</surname><given-names>LA</given-names></name>, 
+<name name-style="western"><surname>Simpson</surname><given-names>IJ</given-names></name>, 
+<name name-style="western"><surname>Blake</surname><given-names>DR</given-names></name>, 
+<name name-style="western"><surname>Rowland</surname><given-names>FS</given-names></name>. 
+<year>2003</year>. 
+<article-title>Extensive regional atmospheric hydrocarbon pollution in the southwestern United States</article-title>. 
+<source>Proc. Natl. Acad. Sci. U. S. A.</source> 
+<volume>100</volume>(<issue>21</issue>): 
+<fpage>11975</fpage>–<lpage>11979</lpage>. doi:
+<pub-id pub-id-type="doi">10.1073/pnas.1635258100</pub-id></mixed-citation>
+</ref>
+<ref id="bibr008">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Logan</surname><given-names>JA</given-names></name>, 
+<name name-style="western"><surname>Prather</surname><given-names>MJ</given-names></name>, 
+<name name-style="western"><surname>Wofsy</surname><given-names>SC</given-names></name>, 
+<name name-style="western"><surname>McElroy</surname><given-names>MB</given-names></name>. 
+<year>1981</year>. 
+<article-title>Tropospheric chemistry: A global perspective</article-title>. 
+<source>J. Geophys. Res</source> 
+<volume>86</volume>: 
+<fpage>7210</fpage>–<lpage>7254</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr009">
+<mixed-citation publication-type="other">
+<name name-style="western"><surname>Martin</surname><given-names>R</given-names></name>, 
+<name name-style="western"><surname>Moore</surname><given-names>K</given-names></name>, 
+<name name-style="western"><surname>Mansfield</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>Hill</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Harper</surname><given-names>K</given-names></name>, 
+<name name-style="western"><surname>Shorthill</surname><given-names>H</given-names></name>. 
+<year>2011</year>. 
+<article-title>Final Report: Uintah Basin Winter Ozone and Air Quality Study December 2010–March 2011</article-title>. 
+<uri>http://rd.usu.edu/files/uploads/ubos_2010-11_final_report.pdf</uri>
+<source>Energy Dynamics Laboratory, Utah State University Research Foundation (USURF)</source> Submitted To: Uintah Impact Mitigation Special Service District, 
+<publisher-loc>320 North Aggie Boulevard, Vernal, Utah 84078</publisher-loc>.</mixed-citation>
+</ref>
+<ref id="bibr010">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Pétron</surname><given-names>G</given-names></name>, 
+<name name-style="western"><surname>Frost</surname><given-names>G</given-names></name>, 
+<name name-style="western"><surname>Miller</surname><given-names>BR</given-names></name>, 
+<name name-style="western"><surname>Hirsch</surname><given-names>AI</given-names></name>, 
+<name name-style="western"><surname>Montzka</surname><given-names>SA</given-names></name>, <etal>et al.</etal> 
+<year>2012</year>. 
+<article-title>Hydrocarbon emissions characterization in the Colorado Front Range: A pilot study</article-title>. 
+<source>J. Geophys. Res</source> 
+<volume>117</volume>: 
+<fpage>D4</fpage>. doi:
+<pub-id pub-id-type="doi">10.1029/2011JD016360</pub-id></mixed-citation>
+</ref>
+<ref id="bibr011">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Rappenglück</surname><given-names>B</given-names></name>, 
+<name name-style="western"><surname>Ackermann</surname><given-names>L</given-names></name>, 
+<name name-style="western"><surname>Alvarez</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Golovko</surname><given-names>J</given-names></name>, 
+<name name-style="western"><surname>Buhr</surname><given-names>M</given-names></name>, <etal>et al.</etal> 
+<year>2013</year>. 
+<article-title>Strong wintertime ozone events in the Upper Green River, Wyoming</article-title>. 
+<source>Atmos. Chem. Phys. Discuss</source> 
+<volume>13</volume>: 
+<fpage>17953</fpage>–<lpage>18005</lpage>. doi: 
+<pub-id pub-id-type="doi">10.5194/acpd-13-17953-2013</pub-id></mixed-citation>
+</ref>
+<ref id="bibr012">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Schnell</surname><given-names>RC</given-names></name>, 
+<name name-style="western"><surname>Oltmans</surname><given-names>SJ</given-names></name>, 
+<name name-style="western"><surname>Neely</surname><given-names>RR</given-names></name>, 
+<name name-style="western"><surname>Endres</surname><given-names>MS</given-names></name>, 
+<name name-style="western"><surname>Molenar</surname><given-names>JV</given-names></name>, 
+<name name-style="western"><surname>White</surname><given-names>AB</given-names></name>. 
+<year>2009</year>. 
+<article-title>Rapid photochemical production of ozone at high concentrations in a rural site during winter</article-title>. 
+<source>Nature Geoscience</source> 
+<volume>2</volume>: 
+<fpage>120</fpage>–<lpage>122</lpage>. doi:
+<pub-id pub-id-type="doi">10.1038/ngeo415</pub-id></mixed-citation>
+</ref>
+<ref id="bibr013">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Sillman</surname><given-names>S</given-names></name>. 
+<year>1999</year>. 
+<article-title>The relationship between ozone, NO<sub>x</sub>, and hydrocarbons in urban and polluted rural environments</article-title>. 
+<source>Atmos. Environ</source> 
+<volume>33</volume>: 
+<fpage>1821</fpage>–<lpage>1845</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr014">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Sillman</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>He</surname><given-names>D</given-names></name>. 
+<year>2002</year>. 
+<article-title>Some theoretical results concerning O<sub>3</sub>-NO<sub>x</sub>-VOC chemistry and NO<sub>x</sub>-VOC indicators</article-title>. 
+<source>J. Geophys. Res</source> 
+<volume>107</volume>: 
+<fpage>4659</fpage>. doi:
+<pub-id pub-id-type="doi">10.1029/201JD00123</pub-id></mixed-citation>
+</ref>
+<ref id="bibr015">
+<mixed-citation publication-type="other">
+<collab>WDEQ</collab>. 
+<year>2008</year>. 
+<article-title>Final Report: 2008 Upper Green River Winter Ozone Study</article-title>. 
+<uri>http://deq.state.wy.us/aqd/downloads/AirMonitor/FinalReport10-08.pdf</uri>.</mixed-citation>
+</ref>
+<ref id="bibr016">
+<mixed-citation publication-type="other">
+<collab>WDEQ</collab>. 
+<year>2011</year>. 
+<article-title>Final_UGWOS_2011_Ozone_Study_Report</article-title>. 
+<uri>http://deq.state.wy.us/aqd/downloads/AirMonitor/Final_UGWOS_2011_Ozone_Study_Report_Text_and_Appendices.pdf</uri>.</mixed-citation>
+</ref>
+<ref id="bibr017">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Yu</surname><given-names>C-H</given-names></name>, 
+<name name-style="western"><surname>Pielke</surname><given-names>RA</given-names></name>. 
+<year>1986</year>. 
+<article-title>Mesoscale air quality under stagnant synoptic cold season conditions in the Lake Powell area</article-title>. 
+<source>Atmos. Environ</source> 
+<volume>20</volume>: 
+<fpage>1751</fpage>–<lpage>1762</lpage>.</mixed-citation>
+</ref>
+</ref-list>
+</back>
+</article>

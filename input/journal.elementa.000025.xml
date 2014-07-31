@@ -1,0 +1,988 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="policy-bridge" dtd-version="1.0" xml:lang="en">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">BioOne</journal-id>
+<journal-id journal-id-type="journal-id">Elementa</journal-id>
+<journal-title-group>
+<journal-title>Elementa</journal-title>
+<journal-subtitle>Science of the Anthropocene</journal-subtitle>
+<abbrev-journal-title>Elem. Sci. Anth.</abbrev-journal-title>
+</journal-title-group>
+<contrib-group>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Helmig</surname><given-names>Detlev</given-names></name>
+<xref ref-type="aff" rid="affa"/>
+<role>Editor-in-Chief: Atmospheric Science</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/detlev-helmig/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Blum</surname><given-names>Joel D.</given-names></name>
+<xref ref-type="aff" rid="affb"/>
+<role>Editor-in-Chief: Earth &amp; Environmental Science</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/joel-d-blum/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Zak</surname><given-names>Donald R.</given-names></name>
+<xref ref-type="aff" rid="affb"/>
+<role>Editor-in-Chief: Ecology</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/donald-r-zak/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Deming</surname><given-names>Jody W.</given-names></name>
+<xref ref-type="aff" rid="affc"/>
+<role>Editor-in-Chief: Ocean Science</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/jody-w-deming/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Chang</surname><given-names>Michael E.</given-names></name>
+<xref ref-type="aff" rid="affd"/>
+<role>Editor-in-Chief: Sustainable Engineering</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/michael-e-chang/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Kapuscinski</surname><given-names>Anne</given-names></name>
+<xref ref-type="aff" rid="affe"/>
+<role>Editor-in-Chief: Sustainability Transitions</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/anne-kapuscinski/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Peart</surname><given-names>David R.</given-names></name>
+<xref ref-type="aff" rid="affe"/>
+<role>Editor-in-Chief: Sustainability Transitions</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/david-r-peart/</uri>
+</contrib>
+</contrib-group>
+<aff id="affa">
+<institution>University of Colorado Boulder</institution>
+<country>United States</country>
+</aff>
+<aff id="affb">
+<institution>University of Michigan</institution>
+<country>United States</country>
+</aff>
+<aff id="affc">
+<institution>University of Washington</institution>
+<country>United States</country>
+</aff>
+<aff id="affd">
+<institution>Georgia Institute of Technology</institution>
+<country>United States</country>
+</aff>
+<aff id="affe">
+<institution>Dartmouth</institution>
+<country>United States</country>
+</aff>
+<issn pub-type="epub">2325-1026</issn>
+<publisher>
+<publisher-name>BioOne</publisher-name>
+<publisher-loc>21 Dupont Circle NW, Suite 800, Washington, DC 20036, United States<email>team@elementascience.org</email>
+<uri>http://bioone.org</uri><uri>http://elementascience.org</uri>
+</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">ELEMENTA-D-13-00007</article-id>
+<article-id pub-id-type="doi">10.12952/journal.elementa.000025</article-id>
+<article-categories>
+<subj-group subj-group-type="article-type">
+<subject>Policy Bridge</subject>
+</subj-group>
+<subj-group subj-group-type="domain">
+<subject>Ocean Science</subject>
+</subj-group>
+<subj-group subj-group-type="classification">
+<subject>Atmospheric Science</subject>
+<subj-group>
+<subject>Ocean-Atmosphere Interactions</subject>
+</subj-group>
+<subj-group>
+<subject>Cryosphere-Atmosphere Interactions</subject>
+</subj-group>
+</subj-group>
+<subj-group subj-group-type="classification">
+<subject>Ocean Science</subject>
+<subj-group>
+<subject>Physical Oceanography</subject>
+</subj-group>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Climate change and ice hazards in the Beaufort Sea</article-title>
+<alt-title alt-title-type="short-title">Climate change and ice hazards in the Beaufort Sea</alt-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Barber</surname><given-names>D. G.</given-names></name>
+<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+<xref ref-type="corresp" rid="cor1"><sup>*</sup></xref>
+</contrib>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>McCullough</surname><given-names>G.</given-names></name>
+<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+</contrib>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Babb</surname><given-names>D.</given-names></name>
+<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+</contrib>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Komarov</surname><given-names>A. S.</given-names></name>
+<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+</contrib>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Candlish</surname><given-names>L. M.</given-names></name>
+<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+</contrib>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Lukovich</surname><given-names>J.V.</given-names></name>
+<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+</contrib>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Asplin</surname><given-names>M.</given-names></name>
+<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+</contrib>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Prinsenberg</surname><given-names>S.</given-names></name>
+<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+</contrib>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Dmitrenko</surname><given-names>I.</given-names></name>
+<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+</contrib>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Rysgaard</surname><given-names>S.</given-names></name>
+<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
+<xref ref-type="aff" rid="aff4"><sup>4</sup></xref>
+</contrib></contrib-group>
+<aff id="aff1"><label>1</label>
+<institution content-type="dept">Centre for Earth Observation Science</institution>, <institution>University of Manitoba</institution>, <addr-line content-type="city">Winnipeg</addr-line>, <addr-line content-type="state">Manitoba</addr-line>, <country>Canada</country>
+</aff>
+<aff id="aff2"><label>2</label><institution content-type="dept">Coastal Ocean Science Bedford Institute of Oceanography, Department of Fisheries and Oceans Canada</institution>, <addr-line content-type="city">Dartmouth</addr-line>, <addr-line content-type="state">Nova Scotia</addr-line>, <country>Canada</country></aff>
+<aff id="aff3"><label>3</label><institution content-type="dept">Greenland Climate Research Centre</institution>, <institution>Greenland Institute of Natural Resources</institution>, <addr-line content-type="city">Nuuk</addr-line>, <country>Greenland</country></aff>
+<aff id="aff4"><label>4</label><institution content-type="dept">Arctic Research Centre (ARC)</institution>, <institution>Aarhus University</institution>, <addr-line content-type="city">Aarhus</addr-line>, <country>Denmark</country></aff>
+<contrib-group>
+<contrib contrib-type="domain-editor-in-chief" xlink:type="simple">
+<name name-style="western"><surname>Deming</surname><given-names>Jody W.</given-names></name>
+<xref ref-type="aff" rid="afff"/>
+<role>Domain Editor-in-Chief</role>
+</contrib>
+<contrib contrib-type="associate-editor" xlink:type="simple">
+<name name-style="western"><surname>Carmack</surname><given-names>Edward C.</given-names></name>
+<role>Associate Editor</role>
+<xref ref-type="aff" rid="affg"/>
+</contrib>
+</contrib-group>
+<aff id="afff">
+<institution content-type="dept">Department of Biological Oceanography</institution>
+<institution>University of Washington</institution>
+<addr-line content-type="city">Seattle</addr-line>
+<addr-line content-type="state">Washington</addr-line>
+<country>United States</country>
+</aff>
+<aff id="affg">
+<institution>Fisheries and Oceans Canada</institution>
+<country>Canada</country>
+</aff>
+<author-notes>
+<corresp id="cor1"><label><sup>*</sup></label><email xlink:type="simple">David.Barber@umanitoba.ca</email></corresp>
+<fn fn-type="conflict"><p>There are no competing interests with regards to this manuscript.</p></fn>
+<fn fn-type="con">
+<p>Contributed to conception and design: DGB</p>
+<p>Contributed to acquisition of data: DGB, GM, DB, ASK, LMC, JVL, SP</p>
+<p>Contributed to analysis and interpretation of data: DGB, GM, DB, ASK, LMC, JVL, SP, MA, SR</p>
+<p>Drafted and/or revised the article: DGB, GM, DB, ASK, LMC, JVL, MA, ID, SR</p>
+<p>Approved the submitted version for publication: DGB, GM, LMC</p></fn>
+</author-notes>
+<pub-date pub-type="epub" iso-8601-date="2014-03-04">
+<day>04</day>
+<month>03</month>
+<year>2014</year>
+</pub-date>
+<volume content-type="volume">2</volume>
+<elocation-id>000025</elocation-id>
+<history>
+<date date-type="received" iso-8601-date="2013-07-02">
+<day>02</day>
+<month>07</month>
+<year>2013</year>
+</date>
+<date date-type="rev-recd" iso-8601-date="2014-01-14">
+<day>14</day>
+<month>01</month>
+<year>2014</year>
+</date>
+<date date-type="rev-recd" iso-8601-date="2013-11-25">
+<day>25</day>
+<month>11</month>
+<year>2013</year>
+</date>
+<date date-type="accepted" iso-8601-date="2014-01-20">
+<day>20</day>
+<month>01</month>
+<year>2014</year>
+</date>
+</history>
+<permissions>
+<copyright-year>2014</copyright-year>
+<copyright-holder>Barber et al.</copyright-holder>
+<license license-type="open-access" xlink:type="simple">
+<license-p><open-access><p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</p>
+</open-access>
+</license-p>
+</license>
+</permissions>
+<abstract><title>Abstract</title>
+<p>Recent reductions in the summer extent of sea ice have focused the world’s attention on the effects of climate change. Increased CO<sub>2</sub>-derived global warming is rapidly shrinking the Arctic multi-year ice pack. This shift in ice regimes allows for increasing development opportunities for large oil and gas deposits known to occur throughout the Arctic. Here we show that hazardous ice features remain a threat to stationary and mobile infrastructure in the southern Beaufort Sea. With the opening up of the ice pack, forecasting of high-frequency oscillations or local eddy-driven ice motion will be a much more complex task than modeling average ice circulation. Given the observed reduction in sea ice extent and thickness this rather counterintuitive situation, associated with a warming climate, poses significant hazards to Arctic marine oil and gas development and marine transportation. Accurate forecasting of hazardous ice motion will require improved real-time surface wind and ocean current forecast models capable of ingesting local satellite-derived wind data and/or local, closely-spaced networks of anemometers and improved methods of determining high-frequency components of surface ocean current fields ‘up-stream’ from drilling and extraction operations.</p>
+</abstract>
+<kwd-group>
+<kwd>climate change</kwd>
+<kwd>sea ice</kwd>
+<kwd>arctic</kwd>
+</kwd-group>
+<funding-group>
+<funding-statement>This work was conducted under a joint ArcticNet — Oil and Gas Industry Partnership program with funding from both Imperial Oil and BP. Funding was also provided by ArcticNet, the Natural Sciences and Engineering Research Council (NSERC), the Canada Research Chairs (CRC) program, the University of Manitoba, and the Canada Excellence Research Chairs (CERC) program. Data from this program are freely available to the public through the Polar Data Catalogue (University of Waterloo) or by contacting the lead author.</funding-statement></funding-group>
+</article-meta>
+</front>
+<body>
+<sec id="s1"><title>Introduction</title>
+<p>It is becoming increasingly apparent that climate change is having a significant impact on sea ice conditions in the northern hemisphere. The multiyear sea ice (MYI) pack is rapidly shrinking (<xref ref-type="bibr" rid="bibr041">Polyakov et al., 2012</xref>; <xref ref-type="bibr" rid="bibr008">Comiso, 2012</xref>). This loss of thick ice has significant implications throughout the ocean-sea ice-atmosphere interface and, through teleconnections, to temperate and even tropical parts of our planet (e.g., <xref ref-type="bibr" rid="bibr007">Budikova, 2009</xref>; <xref ref-type="bibr" rid="bibr013">Francis and Vavrus, 2012</xref>). The impacts of this abrupt change extend throughout physical, biological, and biogeochemical aspects of the icescape due to the control sea ice has on mass, gas and energy fluxes. There are also many impacts of a practical nature affecting Inuit use of the icescape and the safe operation of maritime industries now working to develop newly accessible Arctic resources.</p>
+<p>Shipping and the oil and gas industry are particularly susceptible to the changing icescape as they require information on ice hazards and the oceanic and atmospheric forcing of these hazards. Drill ships in particular will require improved forecasting of large, dense ice features that may cause unmanageable collisions with stationary platforms. Ironically, the decrease in MYI has actually increased the frequency and relative velocities of certain ice hazards (<xref ref-type="bibr" rid="bibr014">Galley et al., 2013</xref>) as global climate change affects both local and regional wind fields (<xref ref-type="bibr" rid="bibr038">Overland et al., 2012</xref>; <xref ref-type="bibr" rid="bibr039">Ogi and Wallace, 2012</xref>). Ocean forcing of sea ice remains poorly understood, relative to wind forcing, partly because of a paucity of <italic>in situ</italic> under-ice ocean current data.</p>
+<p>The high dependence of ice floe drift velocity on geostrophic winds was established as early as the 1970s by investigators such as <xref ref-type="bibr" rid="bibr053">Thorndike and Colony (1982)</xref>, who reported sea ice motion to wind velocity correlations of 0.95 and 0.85 in summer and winter, respectively. Recent studies have pointed to increases in drift velocity that can be attributed to increased storminess in the Arctic and regional increases in wind stress in summer, with implications for vertical mixing and erosion of the halocline (<xref ref-type="bibr" rid="bibr017">Hakkinen et al., 2008</xref>; <xref ref-type="bibr" rid="bibr002">Bourgain and Gascard, 2011</xref>). <xref ref-type="bibr" rid="bibr051">Spreen et al. (2011)</xref> ascribe accelerated drift to a thinner ice cover, while <xref ref-type="bibr" rid="bibr044">Rampal et al. (2009)</xref> also attribute changes in ice drift and deformation primarily to sea ice conditions compared to atmospheric forcing, based on an assessment of the International Arctic Buoy Programme data from 1979 to 2007. Investigations of sea ice drift, using beacons launched during the International Polar Year Circumpolar Flaw Lead system study in winter 2007–2008 (<xref ref-type="bibr" rid="bibr001">Barber et al., 2010</xref>) showed seasonality in ice drift-to-wind ratios and angles that corresponded to expected variation of internal ice stress in the Beaufort Sea, with the most responsive ice-atmosphere coupling from mid-November to January, prior to annual compacting of the seasonal ice zone along the coast of the Canadian Arctic Archipelago (CAA) and the adjacent perennial ice pack (<xref ref-type="bibr" rid="bibr045">Richter-Menge et al., 2002</xref>; <xref ref-type="bibr" rid="bibr029">Lukovich et al., 2011</xref>).</p>
+<p>Recent studies have highlighted the fact that ice shelves along the NW flank of Ellesmere Island have lost significant mass and area (e.g., <xref ref-type="bibr" rid="bibr009">Copland et al., 2007</xref>). Three-quarters of the 7500–8900 km<sup>2</sup> total shelf area, estimated from records of Robert Peary’s 1906 expedition (<xref ref-type="bibr" rid="bibr050">Spedding, 1977</xref>, as quoted in Jefferies, 1987; <xref ref-type="bibr" rid="bibr054">Vincent et al., 2001</xref>) had disintegrated by 1960 (<xref ref-type="bibr" rid="bibr011">England et al., 2008</xref>); by 2008 only 720 km<sup>2</sup> remained (<xref ref-type="bibr" rid="bibr037">Mueller et al., 2008</xref>). Although the loss represents an annualized disintegration rate of 29 km<sup>2</sup> a<sup>−1</sup> since 1960, in fact, most has occurred in massive events, sometimes grouped in a single year. For example, in 2008, a total of 214 km<sup>2</sup> of shelf ice was lost, including the entire Markham Shelf, and large blocks calved from the Serson and Ward Hunt Shelves (50, 122 and 22 km<sup>2</sup>, respectively; <xref ref-type="bibr" rid="bibr037">Mueller et al., 2008</xref>; <xref ref-type="bibr" rid="bibr011">England et al., 2008</xref>). Ice islands originating from such events typically enter either the CAA and drift through the inter-island straits, or they become entrained within the Beaufort Gyre (BG) where in the past they have drifted for years. A prime example is ice island T-3 that was detected in 1950 roughly 650 km northwest of Barrow, Alaska (<xref ref-type="bibr" rid="bibr023">Koenig et al., 1952</xref>). T-3 drifted in the BG for 27 years, completing two revolutions before exiting the Arctic through Fram Strait (<xref ref-type="bibr" rid="bibr022">Jeffries, 1992</xref>). <xref ref-type="bibr" rid="bibr022">Jeffries (1992)</xref> estimated that between 1946 and 1992 there were 600 ice islands identified in the Arctic Ocean.</p>
+<p>The region NW of Ellesmere Island also represents the origin of extreme MYI features that, like the ice islands, become entrained within the BG and circulate towards regions of potential offshore development. These extreme MYI features arise due to the convergence of sea ice within the BG and the Transpolar Drift Stream against the NW flank of the CAA (<xref ref-type="bibr" rid="bibr003">Bourke and Garrett, 1987</xref>). This region has been described as the most dynamic region of the Arctic marine icescape. It created the thickest (<xref ref-type="bibr" rid="bibr056">Wadhams et al., 2011</xref>) and most heavily deformed sea ice in the world (<xref ref-type="bibr" rid="bibr003">Bourke and Garrett, 1987</xref>; <xref ref-type="bibr" rid="bibr034">Melling, 2002</xref>). Both the ice islands and the highly deformed first year and thick MYI created here pose a significant potential hazard to industrial operations as they drift south and southwest through the southern Beaufort Sea.</p>
+<p>The objective of this research is to illustrate some of the current ice-related hazards in the southern Beaufort Sea in order to inform ice management planning for ship navigation and for the oil and gas industry in the area, and potentially wherever industrial development is planned or underway in other Arctic marine areas. We also present data which demonstrate that in the marginal ice zone, over short periods (hours to days, at least) thick MYI and glacial ice can travel significant distances (km) in any direction relative to the general ice flow field, thereby posing a particular challenge to forecasting paths of hazardous ice features in the southern Beaufort Sea.</p></sec>
+<sec id="s2"><title>Methods</title>
+<p>Data presented in this study were collected between August 12 and August 20, 2011, in the eastern Beaufort Sea pack ice, at and near stations 140–150 km WNW of Banks Island (75.0°N 128.9°W) during Leg 2A of the 2011 ArcticNet mission of the CCGS <italic>Amundsen</italic>. The ice here is a mix of MYI floes interspersed with glacial ice, embedded in or among younger first and second year ice floes. This complex icescape is created by pack ice carried by the BG advecting against the western and northern coast of the CAA. We selected this area to study ice hazards because it lies upstream of license areas for oil and gas exploration to the south and southwest (<xref ref-type="fig" rid="elementa.000025.f001">Figure 1</xref>). Two on-ice stations were intensively investigated: Site 1 (August 16, 2011) and Site 2 (August 18, 2011), denoted as S1 and S2 respectively, on MYI with an average thickness of 6.6 m and 4.1 m respectively.</p>
+<fig id="elementa.000025.f001" position="float">
+<object-id pub-id-type="doi">10.12952/journal.elementa.000025.f001</object-id>
+<label>Figure 1 </label><caption><title>Photographs of thick MYI, glacial ice and a map showing the location of industry exploration.</title>
+<p>Example photographs of: A) thick MYI, B) glacial ice and C) location of significant license areas for oil and gas exploration in the Southern Beaufort Sea. The southern limb of the Beaufort Gyre advects ice features, such as in A and B, into the lease areas depicted in C.</p></caption><graphic position="float" mimetype="image" xlink:type="simple" xlink:href="info:doi/10.12952/journal.elementa.000025.f001">
+</graphic>
+</fig>
+<p>Sea ice thickness was surveyed using a helicopter-mounted electromagnetic induction (EMI) system. Four surveys were flown in the vicinity of sites S1 and S2, each comprising 4–6 parallel transects, with each transect 10–15 km in length. The overall system comprises the EMI instrument, a laser profiler, a nadir-facing video system, and support navigation, control and archive systems. The EMI method for measurements of sea ice thickness over seawater is well established, as are its limitations (e.g., <xref ref-type="bibr" rid="bibr043">Prinsenberg and Holladay, 1993</xref>). At our typical survey altitude of 2–4 m, the footprint of the system was roughly 20–35 m in diameter over 5–10 m thick ice. Further details are reported by <xref ref-type="bibr" rid="bibr020">Holladay (2006)</xref>. We compared EMI ice thickness data with direct measurements in 58 coincident augured holes at S1 and S2. Although the helicopter-borne EMI system underestimated drill hole thickness in 8–10 m thick ice by as much as 2–3 m, in 5–7 m thick ice the average difference was insignificant (mean difference = 0.06 m, s.d. = 0.68 m, n = 14).</p>
+<p>Fifteen position-only ice beacons were deployed by helicopter and air-ice boat on ice islands and MYI ice floes to track ice motion in the region. Ten were Canatec Associates International Ltd beacons which transmitted at 15-min intervals, and five were Oceanetics model 703 iridium ice tracking buoys, transmitting at 2-h intervals. Two main components of ice motion in the region, parallel shift and rotation, were measured using a RADARSAT sea ice motion tracking system (<xref ref-type="bibr" rid="bibr025">Komarov and Barber, 2013</xref>) applied to sequential Synthetic Aperture Radar (SAR) images. The sea ice tracking approach employs a phase-correlation technique to detect both the translational and the rotational components of sea ice motion. Further details of this ice motion tracking system are reported elsewhere (<xref ref-type="bibr" rid="bibr024">Komarov 2009</xref>; <xref ref-type="bibr" rid="bibr025">Komarov and Barber, 2013</xref>). In this study we derive sea ice motion (and surface wind fields—see below) both from sequential RADARSAT-1 and from RADARSAT-2 ScanSAR, with images at daily intervals. In addition, selected floes were identified visually in successive RADARSAT images and overlay maps were created to illustrate local, anomalous ice motion.</p>
+<p>Ship-based wind records, Canadian Meteorological Centre (CMC) forecast winds, and the North American Regional Reanalysis (NARR) winds were used to assess atmospheric forcing of ice motion. A micrometeorological tower located on the front deck of the <italic>Amundsen</italic> provided continuous monitoring of wind speed. Wind speed data used in this paper are corrected to 10 m above ocean surface. Additional details on the ship winds are available elsewhere (<xref ref-type="bibr" rid="bibr010">Else et al., 2012</xref>), NARR winds (<xref ref-type="bibr" rid="bibr035">Mesinger et al., 2006</xref>) and CMC winds (<xref ref-type="bibr" rid="bibr028">Laroche et al., 1999</xref>). CMC and NARR forecasts were generated at three-hourly intervals on August 16 and 18, 2011, for comparison with the ship’s winds. Local and regional over-water wind speeds were also calculated from RADARSAT-2 dual-polarization HH-HV ScanSAR images as a function of HH normalized radar cross section (NRCS), HV NRCS, incidence angle and noise floor of the SAR instrument. For RADARSAT-1 and 2 single-polarization HH images the model predictors are HH NRCS, and the incidence angle only. Further details are provided in <xref ref-type="bibr" rid="bibr026">Komarov et al. (2013)</xref>.</p>
+<p>A 600 kHz Z-cell Nortek Aquadopp acoustic Doppler current profiler (ADCP) was installed to measure upper ocean currents at both stations. Current speed and direction were recorded at 1-min intervals for 17.5 and 19.0 h at S1 and S2, respectively, in thirty 2-m vertical cells extending from 0.5–60.5 m below the bottom surface of the ice. The instrument (and ice floe) track was logged at 10-sec intervals with a Garmin Etrex GPS. Currents were first corrected to true north (Natural Resources Canada at <uri>http://geomag.nrcan.gc.ca/calc/mdcal-eng.php</uri>) and then further corrected by subtraction of ice drift velocity. Due to the proximity of the magnetic pole, it is not unreasonable to doubt the accuracy of magnetic compass records. However, the GPS record of instrument drift provides a means to test this record. Given the proximity of numerous keels, some to at least 30-m depth, we expect ocean currents in the shallowest bins, sheltered by these keels, to be dragged in the direction of drift. In fact, in the 19-h record at S2, the mean of current directions reported 4 and 6 m under the ice were on average within 2° of the mean of ice drift directions calculated from GPS tracks. At S1, currents at 4 and 6 m tracked an average of 22–25° to the right of ice drift. Hence, we can be reasonably confident that the record of current directions at S2 is accurate to a few degrees, and at S1, to within about 25°. Even at S1, the rotation, at least, of shallow currents is real, and the general direction—moving to the WSW, with rotation to the right—of currents in shallow sheltered water does tend to follow the track of the ice floe (<xref ref-type="fig" rid="elementa.000025.f002">Figure 2</xref>).</p>
+<fig id="elementa.000025.f002" position="float">
+<object-id pub-id-type="doi">10.12952/journal.elementa.000025.f002</object-id>
+<label>Figure 2 </label><caption><title>Ice motion and under-ice currents at Site 1 and Site 2.</title>
+<p>Panels at left are current velocity time-depth cross-sections, with speeds indicated by the colour scale at right. Superimposed black lines show ice floe velocity, with positive values indicating eastward (northward) motion. Charts at right show relative ice motion and water circulation at four depths, starting at coordinates 0,0. Simultaneous tracks of three ice islands are also shown (for S2 only). Water circulation tracks were determined by summing incremental velocities. See <xref ref-type="fig" rid="elementa.000025.f006">Figure 6</xref> and <xref ref-type="fig" rid="elementa.000025.f007">7</xref> for site locations.</p></caption>
+<graphic position="float" mimetype="image" xlink:type="simple" xlink:href="info:doi/10.12952/journal.elementa.000025.f002">
+</graphic>
+</fig></sec>
+<sec id="s3"><title>Results and discussion</title>
+<sec id="s3a"><title>Field observations on multi-year ice</title>
+<p>In preparation for the Amundsen mission, multiyear floes of potential interest were identified by a Canatec Consulting (Calgary) RADARSAT analysis team. We note here that none of the features that they identified were actually observed to be unmanageable ice features (e.g., in the sense that they would pose an unmanageable hazard to drill ships). In consequence, we used the <italic>Amundsen’s</italic> helicopter to conduct visual surveys and select study sites within a 200-km radius of the ship. Although, the region appeared to be dominated by first and second year ice, nonetheless, embedded MYI was common. Sea ice thickness distributions at both S1 and S2 showed an open water mode, 0 m thick, and within the ice, modes at 1, 3 and 6–7 m thickness (<xref ref-type="fig" rid="elementa.000025.f003">Figure 3</xref>). In the four EMI surveys flown, 20–40% of the ice was &gt; 4 m thick. Several observations were ≥ 10 m, the saturation limit of the EMI. At S1 and S2, both in MYI, mean thicknesses measured by boreholes were of the order of 3–5 m, but a few holes were 10–15 m deep. In air-ice boat surveys, we identified several thicker floes in the region. <xref ref-type="fig" rid="elementa.000025.f001">Figure 1A</xref> shows one example of a floe with maximum sail height more than 10 m above water and a visible keel reaching more than 40 m below the water surface.</p>
+<fig id="elementa.000025.f003" position="float">
+<object-id pub-id-type="doi">10.12952/journal.elementa.000025.f003</object-id>
+<label>Figure 3 </label><caption><title>Sea ice thickness distributions derived from the helicopter-borne EMI induction system in the study area.</title><p>Values of 8–10 m underestimate thicknesses measured at coincident augur holes. The EMI system saturated at 10-m thickness so that maximum values should be considered as ≥ 10 m.</p></caption>
+<graphic position="float" mimetype="image" xlink:type="simple" xlink:href="info:doi/10.12952/journal.elementa.000025.f003">
+</graphic>
+</fig>
+<p>During the helicopter surveys we identified 17 glacial ice features that ranged in size from hundreds to thousands of meters in diameter. All had drafts greater than the surrounding sea ice (by visual inspection) and most were embedded within the multiyear and/or first-year sea ice (<xref ref-type="fig" rid="elementa.000025.f001">Figure 1b</xref>). Some had gravel on their surface (anywhere from small stones and gravel to boulders the size of a small car), which <xref ref-type="bibr" rid="bibr022">Jeffries (1992)</xref> described as a characteristic of ice islands with glacial origins. These features were visually obvious from the helicopter, due to the deformation of the sea ice surrounding the glacial floes and to dark ice surfaces (when rocks and gravel were present). None could be distinguished on SAR.</p>
+<p>These glacial ice features probably derive from the collapse of the ice shelves along the NW flank of the CAA (<xref ref-type="bibr" rid="bibr022">Jeffries, 1992</xref>; <xref ref-type="bibr" rid="bibr009">Copland et al., 2007</xref>). If the Arctic continues to warm, it is likely that this loss of ice mass flux will continue at the present rate at least as long as suitable shelf ice material remains. Historically, such ice islands have survived for several years to decades as they drift around the BG (e.g., ice island T-3 described above; <xref ref-type="bibr" rid="bibr023">Koenig et al., 1952</xref>; <xref ref-type="bibr" rid="bibr022">Jeffries, 1992</xref>; <xref ref-type="bibr" rid="bibr046">Rigor et al., 2002</xref>; <xref ref-type="bibr" rid="bibr047">Rigor and Wallace, 2004</xref>), but statistics of MYI age need to be revisited now that there has been such a dramatic reduction in MYI in the BG (<xref ref-type="bibr" rid="bibr008">Comiso, 2012</xref>) and an increase in summer melt (<xref ref-type="bibr" rid="bibr040">Perovich et al., 2008</xref>) and velocity (<xref ref-type="bibr" rid="bibr014">Galley et al., 2013</xref>) of the BG icescape.</p>
+<p>A key feature of any ice management system is the use of reliable local surface winds for wave height and ice motion modeling. Although the wind speed recorded at the ship was modeled reasonably well by CMC, and modestly overestimated by NARR, neither predicted wind direction adequately (<xref ref-type="fig" rid="elementa.000025.f004">Figure 4</xref>). Even the light breeze on August 18 (∼ 3 m s<sup>−1</sup>) was mispredicted by roughly 60°. Moderate (at best) to poor agreement between forecast and observed winds is an ongoing issue (e.g., <xref ref-type="bibr" rid="bibr015">Garrett, 1985</xref>; <xref ref-type="bibr" rid="bibr006">Bromwich et al., 2009</xref>) that requires new approaches to surface wind forecasting.</p>
+<fig id="elementa.000025.f004" position="float">
+<object-id pub-id-type="doi">10.12952/journal.elementa.000025.f004</object-id>
+<label>Figure 4 </label><caption><title>Comparisons of surface winds.</title> <p>Wind roses showing ship-based (black), NARR (red), and CMC (blue) wind speed and direction at 3-h intervals on August 16 (06–15 h, left panel) and August 18 (00–21 h, right panel), 2011. Retrieved SAR wind speed values for August 16 (2.97 m s<sup>−1</sup>) and August 18 (5.76 m s<sup>−1</sup>) are shown as magenta circles in each panel.</p></caption>
+<graphic position="float" mimetype="image" xlink:type="simple" xlink:href="info:doi/10.12952/journal.elementa.000025.f004">
+</graphic>
+</fig>
+<p>One such approach may incorporate local wind speed estimates using RADARSAT. We applied the method of <xref ref-type="bibr" rid="bibr026">Komarov et al. (2013)</xref> using RADARSAT-2 HH-HV and RADARSAT-1 HH imagery over the study area. A surface wind product derived from a RADARSAT-2 HH-HV image acquired on August 16, 2011, is shown in <xref ref-type="fig" rid="elementa.000025.f005">Figure 5</xref>. Owing to calm wind conditions on August 16, retrieved SAR wind speeds underestimated ship wind speeds, although they were within the error reported for the method (1m s<sup>−1</sup>; <xref ref-type="bibr" rid="bibr026">Komarov et al., 2013</xref>), while on August 18 the average ship wind speed (2.8 m s<sup>−1</sup>; <xref ref-type="fig" rid="elementa.000025.f004">Figure 4</xref>) was very well predicted by SAR. From the low wind speeds for regional (CMC and NARR) and local (ship and SAR retrieved) winds on August 16 and 18, we infer that local atmospheric forcing played a minor role in the drift of ice features recorded at stations S1 and S2.</p>
+<fig id="elementa.000025.f005" position="float">
+<object-id pub-id-type="doi">10.12952/journal.elementa.000025.f005</object-id>
+<label>Figure 5 </label><caption><title>Surface wind speed, in open water, derived from a model.</title> <p>Surface wind speed, in open water, derived from a model (<xref ref-type="bibr" rid="bibr026">Komarov <italic>et al.</italic>, 2013</xref>) relating RADARSAT-2 backscatter to surface winds through their effect on wave height. Wave estimates are valid for open water areas outside of and within the sea ice pack. Wind speed is extracted from a RADARSAT-2 HH-HV Image acquired on Aug 16, 15:46, 2011. Color bar indicates wind speed in m s<sup>−1</sup>. Yellow vectors denote sea ice motion derived from a SAR image pair August 15, 15:23—August 16, 15:46, 2011. M’Clure Strait and the NW corner of Banks Island are visible near the right corner of the image.</p></caption>
+<graphic position="float" mimetype="image" xlink:type="simple" xlink:href="info:doi/10.12952/journal.elementa.000025.f005">
+</graphic>
+</fig>
+<p>Differences in wind direction between the ship-based, reanalysis and forecast data may be attributed to the coarse resolution of the numerical models unable to capture small-scale wind and ice drift variability. The advantage of the SAR retrieval algorithm over the numerical model output resides in its ability to capture ice drift and wind effects over spatial scales on the order of hundreds of meters. Furthermore, for wind speeds in excess of 2 m s<sup>−1</sup>—values for which accurate wind representation in forecasting ice hazards and drift are increasingly important—retrieved SAR wind speeds are shown to outperform model and reanalysis data. <xref ref-type="bibr" rid="bibr026">Komarov et al. (2013)</xref> report that SAR-derived wind speeds fit buoy data with a root-mean-square error (RMSE) = 1.6 m s<sup>−1</sup> (for HH-VV). <xref ref-type="bibr" rid="bibr006">Bromwich et al. (2009)</xref> reported that the Polar Weather Research and Forecasting model (PWRF; considered state-of-the-art for arctic weather modeling) predicted SHEBA (Surface Heat Budget of the Arctic Ocean, 1997–1998) ice camp data with RMSE = 1.5 (January) to 1.6 (August) m s<sup>−1</sup>. However, the PWRF model output retained a bias of −0.6 m s<sup>−1</sup>; here the Komarov method outperformed the PWRF model, with a reported bias for the prediction of the validation set of only 0.1 m s<sup>−1</sup>.</p>
+<p>Ice beacon trajectories and ice motion tracking from a SAR image pair (15:17 August 17 and 15:35 August 18, 2011) are shown in <xref ref-type="fig" rid="elementa.000025.f006">Figure 6</xref>, overlaid on the first image of the pair. The SAR-derived vectors agree well with the beacon recording motion at S2 over the same period. We observed a similarly close fit of the SAR-derived ice track with trajectories of beacons placed at S1 two days earlier (not shown).</p>
+<fig id="elementa.000025.f006" position="float">
+<object-id pub-id-type="doi">10.12952/journal.elementa.000025.f006</object-id>
+<label>Figure 6 </label><caption><title>RADARSAT derived ice motion.</title> <p>RADARSAT derived ice motion between images acquired on August 17, 15:17, and August 18, 15:35, 2011, showing the average ice motion as yellow vectors. Beacon data, shown in other colours, in general indicate good agreement between the general ice motion and the motion of particular floes. This general agreement breaks down, however, when one examines the motion of thick ice features (e.g., red and blue lines in C. Site 1) which were marine glacial features with drafts &gt; 40 m.</p></caption>
+<graphic position="float" mimetype="image" xlink:type="simple" xlink:href="info:doi/10.12952/journal.elementa.000025.f006">
+</graphic>
+</fig>
+<p>Variability in drift direction among floes, and between ice islands and floes, was first observed as different displacements, between helicopter flights, of readily distinguishable ice features. It was confirmed by beacon tracks over the next few days of the study. While S1 and S2 moved coherently southward with the surrounding ice pack, several ice islands, on which we also placed beacons, did not. From August 16 to 17 three of these drifted first westward and then northwestward, across and then opposite to the general flow of the sea ice (<xref ref-type="fig" rid="elementa.000025.f007">Figures 7</xref> and <xref ref-type="fig" rid="elementa.000025.f008">8</xref>); through the late afternoon and evening of August 17 they continued to drift northward before, on the morning of August 18, turning southeastward (<xref ref-type="fig" rid="elementa.000025.f006">Figure 6C</xref>).</p>
+<fig id="elementa.000025.f007" position="float">
+<object-id pub-id-type="doi">10.12952/journal.elementa.000025.f007</object-id>
+<label>Figure 7 </label><caption><title>Displacement of selected floes over 24 h.</title> <p>RADARSAT image acquired at 15:46 UTC 16 August, 2011 (white = ice, black = open water), with selected floes indicated by blue cross-hatch. Yellow cross-hatch indicates positions of same floes at 15:17 on 17 August; pale yellow indicates overlap. Red arrows indicate displacement of selected floes over the ∼ 24 h between images. Letters highlight three regions where the daily motion varied greatly, both locally and relative to the average pack motion (<italic>c.f.</italic> <xref ref-type="fig" rid="elementa.000025.f006">Figure 6</xref>). ‘S1’ and ‘S2’ indicate ADCP locations. The area within the white rectangle is enlarged in <xref ref-type="fig" rid="elementa.000025.f008">Figure 8</xref>.</p></caption>
+<graphic position="float" mimetype="image" xlink:type="simple" xlink:href="info:doi/10.12952/journal.elementa.000025.f007">
+</graphic>
+</fig>
+<fig id="elementa.000025.f008" position="float">
+<object-id pub-id-type="doi">10.12952/journal.elementa.000025.f008</object-id>
+<label>Figure 8 </label><caption><title>Displacement of ice floes with ice beacon tracking data.</title> <p>See <xref ref-type="fig" rid="elementa.000025.f007">Figure 7</xref> for context. Here, cyan lines indicate tracks of ice beacons on three ice islands over the period between retrieval of RADARSAT images on August 16 and 17 (with adjacent arrows indicating the direction of travel). The ice islands are not visible at the resolution of the RADARSAT 2 data. Note the clockwise rotation of floe “A” which, together with displacements of surrounding floes and beacon tracks, suggests a local clockwise eddy.</p></caption>
+<graphic position="float" mimetype="image" xlink:type="simple" xlink:href="info:doi/10.12952/journal.elementa.000025.f008">
+</graphic>
+</fig>
+<p>Stations S1 and S2 drifted 4–5 km to the southeast during the ADCP deployments following the regional motion of the pack (<xref ref-type="fig" rid="elementa.000025.f002">Figure 2</xref>). A periodic element in the motion of both drift trajectories (semi-diurnal) is roughly consistent with either inertial or tidal oscillations; the length of each record, less than two full periods of the oscillation, is too brief to distinguish between these two forcings with any certainty. In ADCP bins nearest the under-ice surface, ocean currents tended to follow the ice (as would be expected if water within or near the range of keel depths was dragged with the ice); deeper currents tended more eastward (at S1) or northwestward, opposite to the ice motion (at S2). The ADCP range of 60 m reached to the upper halocline (from local CTD profile observations; not shown) and hence to the upper boundary of Pacific water flow (<xref ref-type="bibr" rid="bibr032">Melling, 1998</xref>; <xref ref-type="bibr" rid="bibr031">McLaughlin et al., 2002</xref>). The vertical velocity gradients described can be explained as a reconciliation between the drag of the ice floes, following the atmospherically forced southerly flow of the BG in this region, and Pacific water, which here flows prevailingly northward along the coast of the CAA, or eastward towards M’Clure Strait (<xref ref-type="bibr" rid="bibr031">McLaughlin et al., 2002</xref>).</p>
+<p>The large ice floe on which we established station S1 drifted southeastward from August 16 to 17, following the general motion of the regional pack. Over the same period, two nearby ice islands moved westward, across the paths of vectors describing general pack motion, and a third drifted to the northwest, opposite to the pack (<xref ref-type="fig" rid="elementa.000025.f008">Figure 8</xref>). The base of the ice islands reached deeper (greater than 70 m, given the freeboard in excess of 10 m) than most keels under the MYI floes. Nonetheless, the westward and northwestward travel of the ice islands was not explained by interaction of the relatively thick ice islands with the deep currents recorded at nearby S1 (<xref ref-type="fig" rid="elementa.000025.f002">Figure 2</xref>), which were eastward at the time. On closer examination, the ice islands and several nearby floes moved coherently. The largest of these floes, “A” in <xref ref-type="fig" rid="elementa.000025.f008">Figure 8</xref>, clearly rotated clockwise and, while two ice islands and two floes just to the south drifted westward, a third floe just to the north drifted to the southeast. Together, these motions are best explained by a clockwise eddy structure centered near the north end of floe “A”.</p>
+<p>These deviations from the general motion of the pack were not unique. In the same image, we note that two nearby floes at “B” in <xref ref-type="fig" rid="elementa.000025.f007">Figure 7</xref> drifted perpendicular to the path of the pack, but in opposite directions. Similarly, several floes at “C” drifted to the east-northeast, again perpendicular to the average flow field of the ice pack. The average speed of these floes across the path of the pack was of the same order as the speed of the pack itself, in the range of 4–8 km d<sup>−1</sup>. None of these anomalous tracks are adequately explained by wind, whether measured at the ship or modeled, or by local under-ice current records, measured only 10–20 km away, or forcing by the regional motion of the pack (all floes described were separated by at least 1–5 km of open water). In fact, without very local surface wind and ocean current observations, iceberg trajectory models fail to report motion due to high-frequency current structure (inertial or tidal motion, eddies) with sufficient precision to forecast local motion of hazardous ice features (e.g., <xref ref-type="bibr" rid="bibr016">Gaskill and Rochester, 1983</xref>). More specifically, it has long been accepted that currents or current profiles recorded at a well rig are not adequate indicators of currents at icebergs as little as a few kilometers distant (e.g., <xref ref-type="bibr" rid="bibr015">Garrett, 1985</xref>). Near-field near-future velocity is as well forecasted by near-field antecedent velocity, with the error estimate for the forecast trajectory estimated by the high-frequency variability in the antecedent velocity. Using this and related approaches, the uncertainty in the forecast trajectory, over periods of hours, typically exceeds the full trajectory length (<xref ref-type="bibr" rid="bibr015">Garrett, 1985</xref>). Wind-driven iceberg trajectory models, without ocean current forcing, develop significant errors very quickly. Using such a model in a study of 28 iceberg trajectories in the Hibernia oil field, <xref ref-type="bibr" rid="bibr012">Finlayson et al. (1992)</xref> reported a median error of 6 km (and a maximum error of 25 km) after only 12 h.</p>
+<p>Given that both marine glacial ice and thick MYI are significant hazards to mobile or stationary infrastructure, the modeling and prediction of this highly dynamic floe field remains a significant challenge to ice management in the southern Beaufort Sea and in other locations with a similar icescape (e.g. the CAA, Baffin Bay, Fram Strait, and along the coasts of Greenland).</p></sec>
+<sec id="s3b"><title>Hazardous ice features</title>
+<p>With increasing oil and gas development planned in the southern Beaufort Sea, it is important that we learn whether the ice islands and the hazardous MYI that we have described are likely to persist given the well-known reduction in extent and average thickness of the BG icescape. Here, we use evidence from relevant literature to discuss potential changes in glacial and multiyear ice mass, velocity and circulation as they may constitute hazards to Arctic marine industries.</p>
+<p>Sea ice along the northwest flank of the CAA experiences great internal stresses as it is compressed against the CAA and is thus described as the most dynamically active and thickest sea ice in the world (<xref ref-type="bibr" rid="bibr003">Bourke and Garrett, 1987</xref>; <xref ref-type="bibr" rid="bibr033">Melling, 1999</xref>). These characteristics are ascribed to the large-scale drift patterns of Arctic sea ice which act to transport and pile ice up along the northwest coasts of the CAA and Greenland. Due to the stresses and geographical constraints of the area, ice can remain there for years, growing thicker and more heavily ridged (<xref ref-type="bibr" rid="bibr056">Wadhams et al., 2011</xref>). Hence, this region has been referred to as a “redoubt” of Arctic MYI, where MYI coverage has remained relatively constant from 1980 through to 2011 (<xref ref-type="bibr" rid="bibr056">Wadhams et al., 2011</xref>; <xref ref-type="bibr" rid="bibr030">Maslanik et al. 2011</xref>). Although <xref ref-type="bibr" rid="bibr030">Maslanik et al. (2011)</xref> note a reduction in the spatial coverage of 5+ year old ice within this region from a fairly stable ∼ 400 000 km<sup>2</sup> between 1980 and 2005 to a minimum of ∼ 110 000 km<sup>2</sup> in 2011, with significant losses in 2008 after the 2007 sea ice minimum, this MYI remains a reflection of the imbalance between the export and import of MYI from this region. It continues to be exported southwards along the coast of the CAA into the Beaufort Sea via the Beaufort Gyre (<xref ref-type="bibr" rid="bibr030">Maslanik et al., 2011</xref>) with a possible recent increase in the quantity of ice transported southwards out of the region north of the CAA (<xref ref-type="bibr" rid="bibr052">Stroeve et al., 2011</xref>). On the other hand, faster melt of MYI during its transition through the southern BG (e.g., <xref ref-type="bibr" rid="bibr040">Perovich et al., 2008</xref>) has reduced the amount of MYI transported back towards the CAA on the northern limb of the BG (<xref ref-type="bibr" rid="bibr030">Maslanik et al., 2011</xref>).</p>
+<p>This reduction of MYI is accompanied by a reduction in the average thickness of sea ice (<xref ref-type="bibr" rid="bibr018">Haas et al., 2008</xref>). Measurements of ice thickness are sparse in the eastern Beaufort Sea; hence we refer to the helicopter-borne EMI ice thickness surveys of <xref ref-type="bibr" rid="bibr019">Haas et al. (2010)</xref> over the North Pole and submarine thickness surveys of <xref ref-type="bibr" rid="bibr055">Wadhams (1990)</xref>, <xref ref-type="bibr" rid="bibr056">Wadhams et al. (2011)</xref>, <xref ref-type="bibr" rid="bibr048">Rothrock et al. (1999)</xref> and <xref ref-type="bibr" rid="bibr049">Rothrock et al. (2008)</xref>. <xref ref-type="bibr" rid="bibr018">Haas et al. (2008)</xref> compared ice thickness data from 1991, 2001, 2004 and 2007 for the region over the North Pole and found a regime shift from earlier MYI dominance to first year ice dominance by 2007. As part of this regime shift a decrease in mean ice thickness of up to 44% occurred between 2001 and 2007, to a mean thickness of 1.27 ± 0.77 m in 2007. <xref ref-type="bibr" rid="bibr056">Wadhams et al. (2011)</xref> compared submarine data from 1976, 1987, 2004 and 2007 from north of Greenland between 20°W and 30°W and found a reduction in mean drafts from 5.5–6.5 m (1976) to 4.5–6.0 m (1987) down to 3.5–4.0 m (2004 and 2007). Historically, submarine-based ice thickness data from along the CAA is sparse; however, sea ice within the northern portion of the nearby region of declassified submarine sonar data (the ‘SCICEX box’; <xref ref-type="bibr" rid="bibr049">Rothrock et al., 2008</xref>) was shown to decrease by as much as 2.3 m between the periods of 1958–1976 and 1993–1997 (<xref ref-type="bibr" rid="bibr048">Rothrock et al., 1999</xref>). In another analysis the same area decreased from thicknesses of 4–5 m in 1988 (<xref ref-type="bibr" rid="bibr049">Rothrock et al., 2008</xref>) to thicknesses of 2.5–4 m in 2008 (<xref ref-type="bibr" rid="bibr027">Kwok and Rothrock, 2009</xref>). Clearly, in these regions, there has been a dramatic reduction in ice thickness. However, significant thick MYI remains. From their 2004 and 2007 surveys, <xref ref-type="bibr" rid="bibr056">Wadhams et al. (2011)</xref> also reported that in spite of the widespread trend to thinner MYI, much unmanageably thick MYI remained along the northern coast of the CAA. West of 50°W off the north coast of Ellesmere Island, they reported mean drafts of 5–6 m. <xref ref-type="bibr" rid="bibr019">Haas et al. (2010)</xref> found similarly thick MYI along the coast of Ellesmere Island during aerial surveys in April 2009. In the region we studied in August 2011, 20–40% of the ice was &gt; 4 m thick. Clearly, enough of the Arctic’s old, thick MYI persists off the coast of the CAA to remain a significant threat to potential oil and gas infrastructure.</p>
+<p>Is this also true of the CAA ice shelves, the source of ice islands to the Beaufort Gyre (BG)? Certainly, since 2008, there have been further calving events from the remaining shelves. Based on comparison of two MODIS satellite images (August 29, 2008, and August 13, 2013), only a few small remnants of the Serson Ice Shelf remain. An 80-km<sup>2</sup> section of the Ward Hunt Ice Shelf was lost between August 2008 and August 2013, leaving two large segments separated by 5–6 km of open sea and very exposed to erosion or further weakening by marine forces. Only the Milne Ice Shelf appears to be largely intact. The remaining shelf ice survives in a weakened condition. Calving from the Ward Hunt Ice Shelf in 2008 was accompanied by widespread fracturing throughout the shelf, preconditioning it for future deterioration (<xref ref-type="bibr" rid="bibr037">Mueller et al., 2008</xref>). Moreover, it may have thinned by as much as 15 m between 1981 and 2002 (<xref ref-type="bibr" rid="bibr005">Braun, 2012</xref>, as quoted in <xref ref-type="bibr" rid="bibr036">Mortimer et al., 2012</xref>). The Milne Ice Shelf, too, has thinned; it lost 8 m in average thickness in the 28 years from 1981 to 2009 (<xref ref-type="bibr" rid="bibr036">Mortimer et al, 2012</xref>). Such thinning has further contributed to weakening of the remaining shelf ice. Although sustained warming probably accounts for thinning and thereby weakening of the shelves, the more proximate cause of calving events is likely to have been processes associated with increasingly frequent, longer periods of exposure to open water and loose pack ice along shelf margins. Historically there has been a broad band of multiyear landfast sea ice located along the seaward face of the ice shelves that held it in place and protected it from external forces—mainly direct thermal and mechanical erosion by waves, and direct collisions with mobile pack ice (<xref ref-type="bibr" rid="bibr009">Copland et al., 2007</xref>; <xref ref-type="bibr" rid="bibr042">Pope et al. 2012</xref>). Major calving events from 2005 to 2008 all occurred during periods when the protective band of multiyear landfast sea ice was not present (<xref ref-type="bibr" rid="bibr037">Mueller et al., 2008</xref>; <xref ref-type="bibr" rid="bibr036">Mortimer et al., 2012</xref>). The consequence is that the ice shelves of Ellesmere Island are expected to continue to deteriorate and collapse (<xref ref-type="bibr" rid="bibr004">Braun et al., 2004</xref>; <xref ref-type="bibr" rid="bibr009">Copland et al., 2007</xref>; <xref ref-type="bibr" rid="bibr037">Mueller et al., 2008</xref>; <xref ref-type="bibr" rid="bibr036">Mortimer et al., 2012</xref>). In the last 5 years, at least 130 km<sup>2</sup> have been lost from the 720 km<sup>2</sup> of ice shelf extent in 2008. At this rate of disintegration, the last of the shelf ice will deteriorate in the next two decades. Given the increased exposure of the two remaining parts of the Ward Hunt Ice Shelf and the weakened state of both the Ward Hunt and the Milne Ice Shelves, it is unlikely that they will survive even that long. Meanwhile, until the remaining ice shelves are completely gone, the continued calving of the shelves will maintain or even, for a brief time, increase the population of ice islands in the Beaufort Sea.</p></sec></sec>
+<sec id="s4"><title>Conclusions and recommendations</title>
+<p>Arctic climate change would lead us to believe that sea ice hazards are decreasing in the Beaufort Sea as we increase the proportion of annual ice and decrease the proportion of perennial ice. Our results show that, in fact, significant challenges remain in terms of the detection and prediction of motion of sea and glacial ice hazards. Each of the thick ice features identified during our field program (<xref ref-type="fig" rid="elementa.000025.f001">Figure 1</xref>) were of sufficient size and mass that a drill ship would have to detach to evade them or icebreakers would have to tow or break them up (difficult to impossible depending on mass). The many hazardous glacial and multiyear ice features that remain in the southern Beaufort Sea are difficult or impossible to distinguish by satellite remote sensing. We expect these hazards to exist for at least the next several decades, because the BG will continue to carry glacial and MYI southward from along the CAA into hydrocarbon exploration areas and to circulate at least some of this ice back to the MYI-generating NW flank of the CAA, making development of an ice management system for oil and gas development challenging.</p>
+<p>Our observation of a highly variable circulation of small but very thick ice islands and MYI floes illustrates a number of key challenges: 1) we need better remote sensing detection methods to be able to distinguish marine glacial ice entrained in sea ice; 2) we need improved surface wind direction forecasting if we are to describe the average flow field of the ice with useful accuracy; 3) we need high resolution measurements of near-surface currents since high frequency oscillations and eddies force deviations in sea ice motion away from the average flow field. We summarize recommendations into three areas required for management of ice hazards:</p>
+<p><bold><italic>1. Hazardous ice feature detection:</italic></bold> Current active microwave satellite sensors have limited ability to detect hazardous ice features. Future research is required to exploit polarimetry and the higher temporal resolution data which will be available through constellation missions (e.g., Radarsat Constellation and the ESA missions). Given the limitations of current state-of-the-art satellite hazardous ice detection, dedicated aircraft surveillance may continue to be necessary for the foreseeable future in ice management systems. Because hazardous ice features may be hidden among manageable floes, the required density of flight surveillance will be higher than, for instance, in the managing for icebergs in the north Atlantic Ocean. However, this solution is inevitably limited by weather conditions. Very high resolution optical satellite data may be used to supplement airborne surveillance, but they are limited to cloud-free days.</p>
+<p><bold><italic>2. Wind field observations and forecasting:</italic></bold> Local wind estimates from satellite data (e.g., <xref ref-type="bibr" rid="bibr025">Komarov and Barber, 2013</xref>) may provide improved forecasting of wind speed; with the advent of the proposed SAR constellation system by the European and Canadian Space Agencies, repeat coverage would be reduced to 3 h, making this approach a good candidate for estimating the local surface wind field. We recommend further research into the potential for estimating wind direction by SAR. For now, however, improved forecasting of wind direction will require local wind observations, at the very least including winds recorded at oil or gas extraction support vessels and permanent platforms. One further option may be installation of recoverable or disposable anemometers, with real-time telemetry, on upstream floes, a solution that would require parallel development of modeling routines that self-correct semi-continuously using real-time, local wind data from a Lagrangian network of observatories.</p>
+<p><bold><italic>3. Surface current observations:</italic></bold> It is possible that High Frequency Coastal RADAR (sometimes called CODAR, i.e. Coastal Ocean Dynamics Applications RADAR) could be used to measure the surface current field updrift of installations. It can be effective over a range of 30–50 km. However, since it measures only radial components of velocity, multiple stations would be required to characterize current vector fields precisely enough to model high-frequency ice drift velocities (local deviations from the average pack motion) in a field updrift of a drill rig or other structure. An alternative would be an array of upward looking Acoustic Doppler Current Profilers installed as a real-time cable network upstream of any drill ship location. Such an ADCP network would need a spatial resolution on the order of 10 km to adequately represent or model the highly variable surface currents illustrated in <xref ref-type="fig" rid="elementa.000025.f002">Figure 2</xref>. An ice motion forecasting model would also benefit from data on pack compression rates, due to ice-ice and ice-shore interactions, telemetered from stress sensors in the updrift pack. We realize that these recommendations may seem impractical at this time, for to implement them fully would require development of sea-ice-capable observational instruments and of forecast models capable of ingesting moving arrays of real-time observational data. We believe, however, that, in the long term, developing such a system is possible and that the benefits of an accurate forecasting model could outweigh the costs of the system.</p>
+<p>The results that we have presented here illustrate a very complex circulation regime with forcing by both the ocean and the atmosphere combining in ways that make precise prediction of ice motion a significant challenge yet paramount to avoiding unwanted interactions of ice and industrial operations. We conclude that development of potential oil reserves in the Arctic, particularly in the Beaufort Sea, will require significant investments in technology and modeling capability if a fully functioning operational ice management system is to be developed.</p></sec>
+<sec id="s5"><title>Data accessibility statement</title>
+<p>The following publically available datasets were used:</p>
+<p>National Centers for Environmental Prediction, National Weather Service, NOAA, U.S. Department of Commerce. 2005, updated monthly. <italic>NCEP North American Regional Reanalysis (NARR)</italic>. Research Data Archive at the National Center for Atmospheric Research, Computational and Information Systems Laboratory.</p>
+<p><uri>http://rda.ucar.edu/datasets/ds608.0</uri>.</p>
+<p><bold>The following datasets were generated:</bold></p>
+<p>GPS Ice motion beacon data - ArcticNet 2011 - South Beaufort Sea - <uri>http://www.polardata.ca</uri>
+ CCIN #11726</p>
+<p>Snow and Sea Ice thickness using a Helicopter EM Induction System - ArcticNet 2011 - Beaufort Sea - <uri>http://www.polardata.ca</uri> CCIN #11725</p>
+</sec>
+<sec id="s6" sec-type="copyright-statement"><title>Copyright</title>
+<p>© 2014 Barber et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</p></sec>
+</body>
+<back><ack><title>Acknowledgments</title>
+<p>This work is a contribution to the Arctic Science Partnership (ASP) and the ArcticNet Networks of Centres of Excellence. We thank Dmitri Matskevich (Exxon Mobile Upstream Research) for useful discussions during the field program and Martin Fortier (ArcticNet), Jim Hawkins and Neal Darlow (Imperial Oil) for project management. NCEP Reanalysis data was provided by the NOAA/OAR/ESRL PSD, Boulder, Colorado, USA, from their Web site at <uri>http://www.esrl.noaa.gov/psd/</uri>. We also thank the Canadian Ice Service, Environment Canada, for providing the RADARSAT data, and the officers and crew of the NGCC Amundsen for excellence in field support. This work benefitted greatly from the contributions of two anonymous reviewers. It is dedicated to our colleague, Dr. Klaus Hochheim, who tragically lost his life while conducting sea ice research in northern Canada in September 2013.</p>
+</ack>
+<ref-list content-type="parsed"><title>References</title>
+<ref id="bibr001">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Barber</surname><given-names>DG</given-names></name>, 
+<name name-style="western"><surname>Asplin</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>Gratton</surname><given-names>Y</given-names></name>, 
+<name name-style="western"><surname>Lukovich</surname><given-names>J</given-names></name>, 
+<name name-style="western"><surname>Galley</surname><given-names>R</given-names></name>, 
+<name name-style="western"><surname>Raddatz</surname><given-names>R</given-names></name>, 
+<name name-style="western"><surname>Leitch</surname><given-names>D</given-names></name>. 
+<year>2010</year>. 
+<article-title>The International Polar Year (IPY) Circumpolar Flaw Lead (CFL) system study: Introduction and physical system</article-title>. 
+<source>Atmos Ocean</source> 
+<volume>48</volume>(<issue>4</issue>): 
+<fpage>225</fpage>–<lpage>243</lpage>. doi:
+<pub-id pub-id-type="doi">10.3137/OC317.2010</pub-id></mixed-citation>
+</ref>
+<ref id="bibr002">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Bourgain</surname><given-names>P</given-names></name>, 
+<name name-style="western"><surname>Gascard</surname><given-names>JC</given-names></name>. 
+<year>2011</year>. 
+<article-title>The Arctic Ocean halocline and its interannual variability from 1997 to 2008</article-title>. 
+<source>Deep-Sea Res Part I</source> 
+<volume>58</volume>(<issue>7</issue>): 
+<fpage>745</fpage>–<lpage>756</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr003">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Bourke</surname><given-names>RH</given-names></name>, 
+<name name-style="western"><surname>Garrett</surname><given-names>RP</given-names></name>. 
+<year>1987</year>. 
+<article-title>Sea ice thickness distribution in the Arctic Ocean</article-title>. 
+<source>Cold Regions Sci Tech</source> 
+<volume>13</volume>: 
+<fpage>259</fpage>–<lpage>280</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr004">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Braun</surname><given-names>C</given-names></name>, 
+<name name-style="western"><surname>Hardy</surname><given-names>DR</given-names></name>, 
+<name name-style="western"><surname>Bradley</surname><given-names>RS</given-names></name>, 
+<name name-style="western"><surname>Sahanatien</surname><given-names>V</given-names></name>. 
+<year>2004</year>. 
+<article-title>Surface mass balance of the Ward Hunt Ice Rise and Ward Hunt Ice Shelf, Ellesmere Island, Nunavut, Canada</article-title>. 
+<source>J Geophys Res</source> 
+<volume>109</volume>: 
+<fpage>D22110</fpage>. doi:
+<pub-id pub-id-type="doi">10.1029/2004JD004560</pub-id></mixed-citation>
+</ref>
+<ref id="bibr005">
+<mixed-citation publication-type="inbook">
+<name name-style="western"><surname>Braun</surname><given-names>C</given-names></name>. 
+<year>2012</year>. 
+<chapter-title>The surface mass balance of the Ward Hunt Ice Shelf and the Ward Hunt Ice Rise, Ellesmere Island, Nunavut, Canada</chapter-title>, in 
+<name name-style="western"><surname>Copland</surname><given-names>L</given-names></name>, 
+<name name-style="western"><surname>Mueller</surname><given-names>DR</given-names></name>, eds. 
+<source>Arctic Ice Shelves and Ice Islands</source>, 
+<publisher-loc>Netherlands</publisher-loc>: 
+<publisher-name>Springer, Dordrecht</publisher-name> (in press).</mixed-citation>
+</ref>
+<ref id="bibr006">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Bromwich</surname><given-names>DH</given-names></name>, 
+<name name-style="western"><surname>Hines</surname><given-names>KM</given-names></name>, 
+<name name-style="western"><surname>Bai</surname><given-names>L-S</given-names></name>. 
+<year>2009</year>. 
+<article-title>Development and testing of Polar Weather Research and Forecasting model: 2. Arctic Ocean</article-title>. 
+<source>J Geophys Res</source> 
+<volume>114</volume>: 
+<fpage>D08122</fpage>. doi:
+<pub-id pub-id-type="doi">10.1029/208JD010300</pub-id></mixed-citation>
+</ref>
+<ref id="bibr007">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Budikova</surname><given-names>D</given-names></name>. 
+<year>2009</year>. 
+<article-title>Role of Arctic sea ice in global atmospheric circulation: A review</article-title>. 
+<source>Global Planet Change</source> 
+<volume>68</volume>(<issue>3</issue>): 
+<fpage>149</fpage>–<lpage>163</lpage>. doi:
+<pub-id pub-id-type="doi">10.1016/j. gloplacha.2009.04.001</pub-id></mixed-citation>
+</ref>
+<ref id="bibr008">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Comiso</surname><given-names>J</given-names></name>. 
+<year>2012</year>. 
+<article-title>Large decadal decline of Arctic MYI cover</article-title>. 
+<source>J Climate</source> 
+<volume>25</volume>: 
+<fpage>1176</fpage>–<lpage>1193</lpage>. doi:
+<pub-id pub-id-type="doi">10.1175/JCLI-D-11-00113.1</pub-id></mixed-citation>
+</ref>
+<ref id="bibr009">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Copland</surname><given-names>L</given-names></name>, 
+<name name-style="western"><surname>Mueller</surname><given-names>DR</given-names></name>, 
+<name name-style="western"><surname>Weir</surname><given-names>L</given-names></name>. 
+<year>2007</year>. 
+<article-title>Rapid loss of the Ayles Ice Shelf, Ellesmere Island, Canada</article-title>. 
+<source>Geophys Res Lett</source> 
+<volume>34</volume>: 
+<fpage>L21501</fpage>. doi:
+<pub-id pub-id-type="doi">10.1029/2007GL031809</pub-id></mixed-citation>
+</ref>
+<ref id="bibr010">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Else</surname><given-names>B</given-names></name>, 
+<name name-style="western"><surname>Galley</surname><given-names>R</given-names></name>, 
+<name name-style="western"><surname>Papakyriakou</surname><given-names>T</given-names></name>, 
+<name name-style="western"><surname>Miller</surname><given-names>LA</given-names></name>, 
+<name name-style="western"><surname>Mucci</surname><given-names>A</given-names></name>, 
+<name name-style="western"><surname>Barber</surname><given-names>DG</given-names></name>. 
+<year>2012</year>. 
+<article-title>Sea surface pCO<sub>2</sub> cycles and CO<sub>2</sub> fluxes at landfast sea ice edges in Amundsen Gulf, Canada</article-title>. 
+<source>J Geophys Res Oceans</source> (in press).</mixed-citation>
+</ref>
+<ref id="bibr011">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>England</surname><given-names>JH</given-names></name>, 
+<name name-style="western"><surname>Lakemen</surname><given-names>TR</given-names></name>, 
+<name name-style="western"><surname>Lemmen</surname><given-names>DS</given-names></name>, 
+<name name-style="western"><surname>Bednarski</surname><given-names>JM</given-names></name>, 
+<name name-style="western"><surname>Stewart</surname><given-names>TG</given-names></name>, 
+<name name-style="western"><surname>Evans</surname><given-names>DJA</given-names></name>. 
+<year>2008</year>. 
+<article-title>A millennial-scale record of Arctic Ocean sea ice variability and the demise of the Ellesmere Island ice shelves</article-title>. 
+<source>Geophys Res Lett</source> 
+<volume>35</volume>: 
+<fpage>L19502</fpage>. doi:
+<pub-id pub-id-type="doi">10.1029/2008GL034470</pub-id></mixed-citation>
+</ref>
+<ref id="bibr012">
+<mixed-citation publication-type="other">
+<name name-style="western"><surname>Finlayson</surname><given-names>DJ</given-names></name>, 
+<name name-style="western"><surname>Bobbitt</surname><given-names>J</given-names></name>, 
+<name name-style="western"><surname>Rudkin</surname><given-names>P</given-names></name>, 
+<name name-style="western"><surname>Jordaan</surname><given-names>IJ</given-names></name>. 
+<year>1992</year>. 
+<article-title>Iceberg Trajectory Model – real-time verification</article-title>. 
+<source>Environmental Studies Research Funds Report No. 113</source> , 
+<publisher-loc>Calgary</publisher-loc> 
+<page-range>ix +47</page-range> p.</mixed-citation>
+</ref>
+<ref id="bibr013">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Francis</surname><given-names>JA</given-names></name>, 
+<name name-style="western"><surname>Vavrus</surname><given-names>SJ</given-names></name>. 
+<year>2012</year>. 
+<article-title>Evidence linking Arctic amplification to extreme weather in mid-latitudes</article-title>. 
+<source>Geophys Res Lett</source> 
+<volume>39</volume>: 
+<fpage>L06801</fpage>. doi:
+<pub-id pub-id-type="doi">10.1029/2012GL051000, 2012</pub-id></mixed-citation>
+</ref>
+<ref id="bibr014">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Galley</surname><given-names>RJ</given-names></name>, 
+<name name-style="western"><surname>Else</surname><given-names>BGT</given-names></name>, 
+<name name-style="western"><surname>Prinsenberg</surname><given-names>SJ</given-names></name>, 
+<name name-style="western"><surname>Barber</surname><given-names>DG</given-names></name>. 
+<year>2013</year>. 
+<article-title>Sea ice concentration, extent, age, motion and thickness in regions of proposed offshore oil and gas development near the Mackenzie Delta - Canadian Beaufort Sea</article-title>. 
+<source>Arctic</source> 
+<volume>66</volume>(<issue>1</issue>): 
+<fpage>105</fpage>–<lpage>116</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr015">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Garrett</surname><given-names>C</given-names></name>. 
+<year>1985</year>. 
+<article-title>Statistical prediction of iceberg trajectories</article-title>. 
+<source>Cold Regions Sci Tech</source> 
+<volume>11</volume>: 
+<fpage>255</fpage>–<lpage>266</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr016">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Gaskill</surname><given-names>HS</given-names></name>, 
+<name name-style="western"><surname>Rochester</surname><given-names>J</given-names></name>. 
+<year>1983</year>. 
+<article-title>A new technique for iceberg drift prediction</article-title>. 
+<source>Cold Regions Sci Tech</source> 
+<volume>8</volume>(<issue>3</issue>): 
+<fpage>223</fpage>–<lpage>234</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr017">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Hakkinen</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Proshutinsky</surname><given-names>A</given-names></name>, 
+<name name-style="western"><surname>Ashik</surname><given-names>I</given-names></name>. 
+<year>2008</year>. 
+<article-title>Sea ice drift in the Arctic since the 1950s</article-title>, 
+<source>Geophys Res Lett</source> 
+<volume>35</volume>: 
+<fpage>L19704</fpage>. doi:
+<pub-id pub-id-type="doi">10.1029/2008GL034791</pub-id></mixed-citation>
+</ref>
+<ref id="bibr018">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Haas</surname><given-names>C</given-names></name>, 
+<name name-style="western"><surname>Pfaffling</surname><given-names>A</given-names></name>, 
+<name name-style="western"><surname>Hendricks</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Rabenstein</surname><given-names>L</given-names></name>, 
+<name name-style="western"><surname>Etienne</surname><given-names>JL</given-names></name>, 
+<name name-style="western"><surname>Rigor</surname><given-names>I</given-names></name>. 
+<year>2008</year>. 
+<article-title>Reduced ice thickness in Arctic Transpolar Drift favors ice retreat</article-title>. 
+<source>Geophys Res Lett</source> 
+<volume>35</volume>: 
+<fpage>L17501</fpage>. doi:
+<pub-id pub-id-type="doi">10.1029/2008GL034457</pub-id></mixed-citation>
+</ref>
+<ref id="bibr019">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Haas</surname><given-names>C</given-names></name>, 
+<name name-style="western"><surname>Hendricks</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Eicken</surname><given-names>H</given-names></name>, 
+<name name-style="western"><surname>Herber</surname><given-names>A</given-names></name>. 
+<year>2010</year>. 
+<article-title>Synoptic airborne thickness surveys reveal state of Arctic sea ice cover</article-title>. 
+<source>Geophys Res Lett</source> 
+<volume>37</volume>: 
+<fpage>L09501</fpage>. doi:
+<pub-id pub-id-type="doi">10.1029/2010GL042652</pub-id></mixed-citation>
+</ref>
+<ref id="bibr020">
+<mixed-citation publication-type="other">
+<name name-style="western"><surname>Holladay</surname><given-names>JS</given-names></name>. 
+<year>2006</year>. 
+<article-title>Application of Airborne and Surface-based EM/laser Measurements to Ice/water/sediment Models at Mackenzie Delta Sites</article-title>. 
+<source>Ocean Sciences Division, Maritimes Region, Fisheries and Oceans Canada, Bedford Institute of Oceanography</source>. 
+<uri>http://www.dfo-mpo.gc.ca/Library/324817.pdf</uri></mixed-citation>
+</ref>
+<ref id="bibr021">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Jeffries</surname><given-names>MO</given-names></name>. 
+<year>1987</year>. 
+<article-title>The growth, structure and disintegration of Arctic ice shelves</article-title>. 
+<source>Polar Record</source> 
+<volume>23</volume>(<issue>147</issue>): 
+<fpage>631</fpage>–<lpage>649</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr022">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Jeffries</surname><given-names>MO</given-names></name>. 
+<year>1992</year>. 
+<article-title>Arctic ice shelves and ice islands: Origin, growth and disintegration, physical characteristics, structural-stratigraphic variability and dynamics</article-title>. 
+<source>Rev Geophys</source> 
+<volume>30</volume>: 
+<fpage>245</fpage>–<lpage>267</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr023">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Koenig</surname><given-names>LS</given-names></name>, 
+<name name-style="western"><surname>Greenway</surname><given-names>KR</given-names></name>, 
+<name name-style="western"><surname>Dunbar</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>Haatersly-Smith</surname><given-names>G</given-names></name>. 
+<year>1952</year>. 
+<article-title>Arctic Ice Islands</article-title>. 
+<source>Arctic</source> 
+<volume>5</volume>: 
+<fpage>67</fpage>–<lpage>103</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr024">
+<mixed-citation publication-type="other">
+<name name-style="western"><surname>Komarov</surname><given-names>A</given-names></name>. 
+<year>2009</year>. 
+<article-title>Sea ice tracking system – technical documentation</article-title>, 
+<source>CIS Internal Report, Canadian Ice Service, Ottawa</source>, 
+<fpage>33</fpage> pp.</mixed-citation>
+</ref>
+<ref id="bibr025">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Komarov</surname><given-names>A</given-names></name>, 
+<name name-style="western"><surname>Barber</surname><given-names>D</given-names></name>. 
+<year>2013</year>. 
+<article-title>Sea ice motion tracking from sequential dual-polarization RADARSAT-2 images</article-title>. 
+<source>IEEE Trans on Geoscience and Remote Sensing</source> (in press). doi:
+<pub-id pub-id-type="doi">10.1109/TGRS.2012.2236845</pub-id></mixed-citation>
+</ref>
+<ref id="bibr026">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Komarov</surname><given-names>A</given-names></name>, 
+<name name-style="western"><surname>Zabeline</surname><given-names>V</given-names></name>, 
+<name name-style="western"><surname>Barber</surname><given-names>D</given-names></name>. 
+<year>2013</year>. 
+<article-title>Ocean surface wind speed retrieval from C-band SAR images without wind direction input</article-title>. 
+<source>IEEE Transactions on Geoscience and Remote Sensing</source> (in press). doi:
+<pub-id pub-id-type="doi">10.1109/TGRS.2013.2246171</pub-id></mixed-citation>
+</ref>
+<ref id="bibr027">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Kwok</surname><given-names>R</given-names></name>, 
+<name name-style="western"><surname>Rothrock</surname><given-names>DA</given-names></name>. 
+<year>2009</year>. 
+<article-title>Decline in Arctic sea ice thickness from submarine and ICESat records: 1958–2008</article-title>. 
+<source>Geophys Res Lett</source> 
+<volume>36</volume>: 
+<fpage>L15501</fpage>. doi:
+<pub-id pub-id-type="doi">10.1029/2009GL039035</pub-id></mixed-citation>
+</ref>
+<ref id="bibr028">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Laroche</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Gauthier</surname><given-names>P</given-names></name>, 
+<name name-style="western"><surname>St-James</surname><given-names>J</given-names></name>, 
+<name name-style="western"><surname>Morneau</surname><given-names>J</given-names></name>. 
+<year>1999</year>. 
+<article-title>Implementation of a 3D variational data assimilation system at the Canadian Meteorological Centre. Part II: The regional analysis</article-title>. 
+<source>Atmosphere-Ocean</source> 
+<volume>37.3</volume>: 
+<fpage>281</fpage>–<lpage>307</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr029">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Lukovich</surname><given-names>JV</given-names></name>, 
+<name name-style="western"><surname>Babb</surname><given-names>DG</given-names></name>, 
+<name name-style="western"><surname>Barber</surname><given-names>DG</given-names></name>. 
+<year>2011</year>. 
+<article-title>On the scaling laws derived from ice beacon trajectories in the southern Beaufort Sea during the International Polar Year — Circumpolar Flaw Lead study, 2007–2008</article-title>. 
+<source>J Geophys Res</source> 
+<volume>116</volume>: 
+<fpage>C00G07</fpage>.</mixed-citation>
+</ref>
+<ref id="bibr030">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Maslanik</surname><given-names>J</given-names></name>, 
+<name name-style="western"><surname>Stroeve</surname><given-names>J</given-names></name>, 
+<name name-style="western"><surname>Fowler</surname><given-names>C</given-names></name>, 
+<name name-style="western"><surname>Emery</surname><given-names>W</given-names></name>. 
+<year>2011</year>. 
+<article-title>Distribution and trends in Arctic sea ice age through spring 2011</article-title>. 
+<source>Geophys Res Lett</source> 
+<volume>38</volume>:
+<fpage>L13502</fpage>. doi: 
+<pub-id pub-id-type="doi">10.1029/2011GL047735</pub-id></mixed-citation>
+</ref>
+<ref id="bibr031">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>McLaughlin</surname><given-names>F</given-names></name>, 
+<name name-style="western"><surname>Carmack</surname><given-names>E</given-names></name>, 
+<name name-style="western"><surname>Macdonald</surname><given-names>R</given-names></name>, 
+<name name-style="western"><surname>Weaver</surname><given-names>AJ</given-names></name>, 
+<name name-style="western"><surname>Smith</surname><given-names>J</given-names></name>. 
+<year>2002</year>. 
+<article-title>The Canada Basin, 1989–1995: Upstream events and far-field effects of the Barents Sea</article-title>. 
+<source>J Geophys Res</source> 
+<volume>107</volume>(<issue>C7</issue>): 
+<fpage>3082</fpage>.</mixed-citation>
+</ref>
+<ref id="bibr032">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Melling</surname><given-names>H</given-names></name>. 
+<year>1998</year>. 
+<article-title>Hydrographic changes in the Canada Basin of the Arctic Ocean: 1979–1996</article-title>. 
+<source>J Geophys Res</source> 
+<volume>103</volume>(<issue>C4</issue>): 
+<fpage>7637</fpage>–<lpage>7645</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr033">
+<mixed-citation publication-type="inbook">
+<name name-style="western"><surname>Melling</surname><given-names>H</given-names></name>.
+<year>1999</year>. 
+<chapter-title>Exchanges of freshwater through the shallow straits of the North American Arctic</chapter-title>, in 
+<name name-style="western"><surname>Lewis</surname><given-names>EL</given-names></name>, 
+<name name-style="western"><surname>Jones</surname><given-names>EP</given-names></name>, eds. 
+<source>The Freshwater Budget of the Arctic Ocean</source>. 
+<publisher-loc>Netherlands</publisher-loc>: 
+<publisher-name>Kluwer Academic Publishers</publisher-name>: p. 
+<fpage>479</fpage>–<lpage>502</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr034">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Melling</surname><given-names>H</given-names></name>. 
+<year>2002</year>. 
+<article-title>Sea ice of the northern Canadian Arctic Archipelago</article-title>. 
+<source>J Geophys Res</source> 
+<volume>107</volume>(<issue>C11</issue>): 
+<fpage>3181</fpage>. doi:
+<pub-id pub-id-type="doi">10.1029/2001JC001102</pub-id></mixed-citation>
+</ref>
+<ref id="bibr035">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Mesinger</surname><given-names>F</given-names></name>, 
+<name name-style="western"><surname>DiMego</surname><given-names>G</given-names></name>, 
+<name name-style="western"><surname>Kalnay</surname><given-names>E</given-names></name>, 
+<name name-style="western"><surname>Mitchell</surname><given-names>K</given-names></name>, 
+<name name-style="western"><surname>Shafran</surname><given-names>PC</given-names></name>, <etal>et al.</etal> 
+<year>2006</year>. 
+<article-title>North American regional reanalysis</article-title>. 
+<source>Bull Amer Meteor Soc</source> 
+<volume>87</volume>(<issue>3</issue>): 
+<fpage>343</fpage>–<lpage>360</lpage>. doi:
+<uri>http://dx.doi.org/10.1175/BAMS-87-3-343</uri></mixed-citation>
+</ref>
+<ref id="bibr036">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Mortimer</surname><given-names>CA</given-names></name>, 
+<name name-style="western"><surname>Copland</surname><given-names>L</given-names></name>, 
+<name name-style="western"><surname>Mueller</surname><given-names>DR</given-names></name>. 
+<year>2012</year>. 
+<article-title>Volume and area changes of the Milne Ice Shelf, Ellesmere Island, Nunavut, Canada, since 1950</article-title>. 
+<source>J Geophys Res</source> 
+<volume>117</volume>: 
+<fpage>F04011</fpage>. doi:
+<pub-id pub-id-type="doi">10.1029/2011JF002074</pub-id></mixed-citation>
+</ref>
+<ref id="bibr037">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Mueller</surname><given-names>DR</given-names></name>, 
+<name name-style="western"><surname>Copland</surname><given-names>L</given-names></name>, 
+<name name-style="western"><surname>Hamilton</surname><given-names>A</given-names></name>, 
+<name name-style="western"><surname>Stern</surname><given-names>D</given-names></name>. 
+<year>2008</year>. 
+<article-title>Examining Arctic ice shelves prior to the 2008 breakup</article-title>. 
+<source>EOS</source> 
+<volume>89</volume>(<issue>49</issue>): 
+<fpage>502</fpage>–<lpage>503</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr038">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Overland</surname><given-names>JE</given-names></name>, 
+<name name-style="western"><surname>Francis</surname><given-names>JA</given-names></name>, 
+<name name-style="western"><surname>Hanna</surname><given-names>E</given-names></name>, 
+<name name-style="western"><surname>Wang</surname><given-names>M</given-names></name>. 
+<year>2012</year>. 
+<article-title>The recent shift in early summer Arctic atmospheric circulation</article-title>. 
+<source>Geophys Res Lett</source> 
+<volume>39</volume>: 
+<fpage>L19804</fpage>. doi:
+<pub-id pub-id-type="doi">10.1029/2012GL053268</pub-id></mixed-citation>
+</ref>
+<ref id="bibr039">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Ogi</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>Wallace</surname><given-names>JM</given-names></name>. 
+<year>2012</year>. 
+<article-title>The role of summer surface wind anomalies in the summer Arctic sea ice extent in 2010 and 2011</article-title>. 
+<source>Geophys Res Lett</source> 
+<volume>39</volume>: 
+<fpage>L09704</fpage>. doi:
+<pub-id pub-id-type="doi">10.1029/2012GL051330</pub-id></mixed-citation>
+</ref>
+<ref id="bibr040">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Perovich</surname><given-names>DK</given-names></name>, 
+<name name-style="western"><surname>Richter-Menge</surname><given-names>JA</given-names></name>, 
+<name name-style="western"><surname>Jones</surname><given-names>KF</given-names></name>, 
+<name name-style="western"><surname>Light</surname><given-names>B</given-names></name>. 
+<year>2008</year>. 
+<article-title>Sunlight, water, and ice: Extreme Arctic sea ice melt during the summer of 2007</article-title>. 
+<source>Geophys Res Lett</source> 
+<volume>35</volume>: 
+<fpage>L11501</fpage>. doi:
+<pub-id pub-id-type="doi">10.1029/2008GL034007</pub-id></mixed-citation>
+</ref>
+<ref id="bibr041">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Polyakov</surname><given-names>IV</given-names></name>, 
+<name name-style="western"><surname>Walsh</surname><given-names>JE</given-names></name>, 
+<name name-style="western"><surname>Kwok</surname><given-names>R</given-names></name>. 
+<year>2012</year>. 
+<article-title>Recent changes of Arctic MYI coverage and the likely causes</article-title>. 
+<source>Bull Amer Meteor Soc</source> 
+<volume>93</volume>(<issue>2</issue>): 
+<fpage>145</fpage>–<lpage>151</lpage>. doi:
+<pub-id pub-id-type="doi">10.1175/BAMS-D-11-00070.1</pub-id></mixed-citation>
+</ref>
+<ref id="bibr042">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Pope</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Copland</surname><given-names>L</given-names></name>, 
+<name name-style="western"><surname>Mueller</surname><given-names>D</given-names></name>. 
+<year>2012</year>. 
+<article-title>Loss of multiyear landfast sea ice from Yelverton Bay, Ellesmere Island, Nunavut, Canada</article-title>. 
+<source>Arctic Antarctic Alpine Res</source> 
+<volume>44</volume>(<issue>2</issue>): 
+<fpage>210</fpage>–<lpage>221</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr043">
+<mixed-citation publication-type="other">
+<name name-style="western"><surname>Prinsenberg</surname><given-names>SJ</given-names></name>, 
+<name name-style="western"><surname>Holladay</surname><given-names>JS</given-names></name>. 
+<year>1993</year>. 
+<article-title>Using air-borne electromagnetic ice thickness sensor to validate remotely sensed marginal ice zone properties</article-title>. 
+<source>Port and Ocean Engineering under Arctic Conditions (POAC 93)</source>: 
+<fpage>936</fpage>–<lpage>948</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr044">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Rampal</surname><given-names>P</given-names></name>, 
+<name name-style="western"><surname>Weiss</surname><given-names>J</given-names></name>, 
+<name name-style="western"><surname>Marsan</surname><given-names>D</given-names></name>. 
+<year>2009</year>. 
+<article-title>Positive trend in the mean speed and deformation rate of Arctic sea ice, 1979–2007</article-title>. 
+<source>J Geophys Res</source> 
+<volume>114</volume>: 
+<fpage>C05013</fpage>. doi:
+<pub-id pub-id-type="doi">10.1029/2008JC005066</pub-id></mixed-citation>
+</ref>
+<ref id="bibr045">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Richter-Menge</surname><given-names>JA</given-names></name>, 
+<name name-style="western"><surname>McNutt</surname><given-names>SL</given-names></name>, 
+<name name-style="western"><surname>Overland</surname><given-names>JE</given-names></name>, 
+<name name-style="western"><surname>Kwok</surname><given-names>R</given-names></name>. 
+<year>2002</year>. 
+<article-title>Relating Arctic pack ice stress and deformation under winter conditions</article-title>. 
+<source>J Geophys Res</source> 
+<volume>107</volume>(<issue>C10</issue>): 
+<fpage>8040</fpage>. doi:
+<pub-id pub-id-type="doi">10.1029/2000JC000477</pub-id></mixed-citation>
+</ref>
+<ref id="bibr046">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Rigor</surname><given-names>IG</given-names></name>, 
+<name name-style="western"><surname>Wallace</surname><given-names>JM</given-names></name>, 
+<name name-style="western"><surname>Colony</surname><given-names>RL</given-names></name>. 
+<year>2002</year>. 
+<article-title>Response of sea ice to the Arctic Oscillation</article-title>. 
+<source>J Climate</source> 
+<volume>15</volume>(<issue>18</issue>): 
+<fpage>2648</fpage>–<lpage>2663</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr047">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Rigor</surname><given-names>IG</given-names></name>, 
+<name name-style="western"><surname>Wallace</surname><given-names>JM</given-names></name>. 
+<year>2004</year>. 
+<article-title>Variations in the age of Arctic sea-ice and summer sea-ice extent</article-title>. 
+<source>Geophys Res Lett</source> 
+<volume>31</volume>(<issue>9</issue>).</mixed-citation>
+</ref>
+<ref id="bibr048">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Rothrock</surname><given-names>DA</given-names></name>, 
+<name name-style="western"><surname>Yu</surname><given-names>Y</given-names></name>, 
+<name name-style="western"><surname>Maykut</surname><given-names>GA</given-names></name>. 
+<year>1999</year>. 
+<article-title>Thinning of the Arctic Sea-Ice Cover</article-title>. 
+<source>Geophys Res Lett</source> 
+<volume>26</volume>(<issue>23</issue>): 
+<fpage>3469</fpage>–<lpage>3472</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr049">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Rothrock</surname><given-names>DA</given-names></name>, 
+<name name-style="western"><surname>Percival</surname><given-names>DB</given-names></name>, 
+<name name-style="western"><surname>Wensnahan</surname><given-names>M</given-names></name>. 
+<year>2008</year>. 
+<article-title>The decline in arctic sea-ice thickness: separating the spatial, annual, and interannual variability in a quarter century of submarine data</article-title>. 
+<source>J Geophys Res</source> 
+<volume>113</volume>: 
+<fpage>C05003</fpage>. doi:
+<pub-id pub-id-type="doi">10.1029/JC004252</pub-id></mixed-citation>
+</ref>
+<ref id="bibr050">
+<mixed-citation publication-type="other">
+<name name-style="western"><surname>Spedding</surname><given-names>LG</given-names></name>. 
+<year>1977</year>. 
+<article-title>Ice Island Count, Southern Beaufort Sea, 1976</article-title>. 
+<source>Report IPRT-13ME-77 of Arctic Petroleum Operations Association Project 99-3</source>.</mixed-citation>
+</ref>
+<ref id="bibr051">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Spreen</surname><given-names>G</given-names></name>, 
+<name name-style="western"><surname>Kwok</surname><given-names>R</given-names></name>, 
+<name name-style="western"><surname>Menemenlis</surname><given-names>D</given-names></name>. 
+<year>2011</year>. 
+<article-title>Trends in Arctic sea ice drift and role of wind forcing: 1992–2009</article-title>. 
+<source> Geophys Res Lett</source> 
+<volume>38</volume>: 
+<fpage>L19501</fpage>. doi:
+<pub-id pub-id-type="doi">10.1029/2011GL048970</pub-id></mixed-citation>
+</ref>
+<ref id="bibr052">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Stroeve</surname><given-names>JS</given-names></name>, 
+<name name-style="western"><surname>Maslanik</surname><given-names>J</given-names></name>, 
+<name name-style="western"><surname>Serreze</surname><given-names>MC</given-names></name>, 
+<name name-style="western"><surname>Rigor</surname><given-names>I</given-names></name>, 
+<name name-style="western"><surname>Meier</surname><given-names>W</given-names></name>, 
+<name name-style="western"><surname>Fowler</surname><given-names>C</given-names></name>. 
+<year>2011</year>. 
+<article-title>Sea ice response to an extreme negative phase of the Arctic Oscillation during winter 2009/2010</article-title>. 
+<source>Geophys Resh Lett</source> 
+<volume>38</volume>: 
+<fpage>L0502</fpage>. doi: 
+<pub-id pub-id-type="doi">10.1029/2010GL045662</pub-id></mixed-citation>
+</ref>
+<ref id="bibr053">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Thorndike</surname><given-names>AS</given-names></name>, 
+<name name-style="western"><surname>Colony</surname><given-names>R</given-names></name>. 
+<year>1982</year>. 
+<article-title>Sea ice motion in response to geostrophic winds</article-title>. 
+<source>J Geophys Res Oceans (1978–2012)</source> 
+<volume>87</volume>(<issue>C8</issue>): 
+<fpage>5845</fpage>–<lpage>5852</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr054">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Vincent</surname><given-names>WF</given-names></name>, 
+<name name-style="western"><surname>Gibson</surname><given-names>JAE</given-names></name>, 
+<name name-style="western"><surname>Jeffries</surname><given-names>MO</given-names></name>. 
+<year>2001</year>. 
+<article-title>Ice shelf collapse, climate change, and habitat loss in the Canadian high Arctic</article-title>. 
+<source>Polar Record</source> 
+<volume>37</volume>(<issue>201</issue>): 
+<fpage>133</fpage>–<lpage>142</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr055">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Wadhams</surname><given-names>P</given-names></name>. 
+<year>1990</year>. 
+<article-title>Evidence for thinning of the Arctic ice cover north of Greenland</article-title>. 
+<source>Nature</source> 
+<volume>345</volume>: 
+<fpage>795</fpage>–<lpage>797</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr056">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Wadhams</surname><given-names>P</given-names></name>, 
+<name name-style="western"><surname>Hughes</surname><given-names>N</given-names></name>, 
+<name name-style="western"><surname>Rodrigues</surname><given-names>J</given-names></name>. 
+<year>2011</year>. 
+<article-title>Arctic sea ice thickness characteristics in winter 2004 and 2007 from submarine sonar transects</article-title>. 
+<source>J Geophys Res</source> 
+<volume>116</volume>: 
+<fpage>C00E02</fpage>. doi:
+<pub-id pub-id-type="doi">10.1029/2011JC006982</pub-id></mixed-citation>
+</ref>
+</ref-list>
+</back>
+</article>

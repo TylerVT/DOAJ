@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="commentary" dtd-version="1.0" xml:lang="en">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">BioOne</journal-id>
+<journal-id journal-id-type="journal-id">Elementa</journal-id>
+<journal-title-group>
+<journal-title>Elementa</journal-title>
+<journal-subtitle>Science of the Anthropocene</journal-subtitle>
+<abbrev-journal-title>Elem. Sci. Anth.</abbrev-journal-title>
+</journal-title-group>
+<contrib-group>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Helmig</surname><given-names>Detlev</given-names></name>
+<xref ref-type="aff" rid="affa"/>
+<role>Editor-in-Chief: Atmospheric Science</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/detlev-helmig/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Blum</surname><given-names>Joel D.</given-names></name>
+<xref ref-type="aff" rid="affb"/>
+<role>Editor-in-Chief: Earth &amp; Environmental Science</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/joel-d-blum/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Zak</surname><given-names>Donald R.</given-names></name>
+<xref ref-type="aff" rid="affb"/>
+<role>Editor-in-Chief: Ecology</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/donald-r-zak/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Deming</surname><given-names>Jody W.</given-names></name>
+<xref ref-type="aff" rid="affc"/>
+<role>Editor-in-Chief: Ocean Science</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/jody-w-deming/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Chang</surname><given-names>Michael E.</given-names></name>
+<xref ref-type="aff" rid="affd"/>
+<role>Editor-in-Chief: Sustainable Engineering</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/michael-e-chang/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Kapuscinski</surname><given-names>Anne</given-names></name>
+<xref ref-type="aff" rid="affe"/>
+<role>Editor-in-Chief: Sustainability Transitions</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/anne-kapuscinski/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Peart</surname><given-names>David R.</given-names></name>
+<xref ref-type="aff" rid="affe"/>
+<role>Editor-in-Chief: Sustainability Transitions</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/david-r-peart/</uri>
+</contrib>
+</contrib-group>
+<aff id="affa">
+<institution>University of Colorado Boulder</institution>
+<country>United States</country>
+</aff>
+<aff id="affb">
+<institution>University of Michigan</institution>
+<country>United States</country>
+</aff>
+<aff id="affc">
+<institution>University of Washington</institution>
+<country>United States</country>
+</aff>
+<aff id="affd">
+<institution>Georgia Institute of Technology</institution>
+<country>United States</country>
+</aff>
+<aff id="affe">
+<institution>Dartmouth</institution>
+<country>United States</country>
+</aff>
+<issn pub-type="epub">2325-1026</issn>
+<publisher>
+<publisher-name>BioOne</publisher-name>
+<publisher-loc>21 Dupont Circle NW, Suite 800, Washington, DC 20036, United States<email>team@elementascience.org</email><uri>http://bioone.org</uri><uri>http://elementascience.org</uri>
+</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">ELEMENTA-D-13-00011</article-id>
+<article-id pub-id-type="doi">10.12952/journal.elementa.000009</article-id>
+<article-categories>
+<subj-group subj-group-type="article-type">
+<subject>Commentary</subject>
+</subj-group>
+<subj-group subj-group-type="domain">
+<subject>Earth and Environmental Science</subject>
+</subj-group>
+<subj-group subj-group-type="classification">
+<subject>Earth and Environmental Science</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Does air capture constitute a viable backstop against a bad CO<sub>2</sub> trip?</article-title></title-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Broecker</surname><given-names>Wally</given-names></name>
+<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+<xref ref-type="corresp" rid="cor1"><sup>*</sup></xref>
+</contrib>
+</contrib-group>
+<aff id="aff1"><label>1</label>
+<institution>Lamont-Doherty Earth Observatory of Columbia University</institution>, <addr-line content-type="city">Palisades</addr-line>, <addr-line content-type="state">New York</addr-line>, <country>United States</country></aff>
+<contrib-group>
+<contrib contrib-type="domain-editor-in-chief" xlink:type="simple">
+<name name-style="western"><surname>Blum</surname><given-names>Joel D.</given-names></name>
+<role>Domain Editor-in-Chief</role>
+<xref ref-type="aff" rid="afff"/>
+</contrib>
+</contrib-group>
+<aff id="afff">
+<institution content-type="dept">Department of Earth &amp; Environmental Sciences</institution>
+<institution>University of Michigan</institution>
+<addr-line content-type="state">Michigan</addr-line>
+<addr-line content-type="city">Ann Arbor</addr-line>
+<country>United States</country>
+</aff>
+<author-notes><corresp id="cor1"><label><sup>*</sup></label><email xlink:type="simple">broecker@ldeo.columbia.edu</email></corresp></author-notes>
+<pub-date pub-type="epub" iso-8601-date="2013-12-4">
+<day>4</day>
+<month>12</month>
+<year>2013</year>
+</pub-date>
+<volume content-type="volume">1</volume>
+<elocation-id>000009</elocation-id>
+<history>
+<date date-type="received" iso-8601-date="2013-08-19">
+<day>19</day>
+<month>08</month>
+<year>2013</year>
+</date>
+<date date-type="accepted" iso-8601-date="2013-10-08">
+<day>08</day>
+<month>10</month>
+<year>2013</year>
+</date>
+</history>
+<permissions>
+<copyright-year>2013</copyright-year>
+<copyright-holder>Broecker</copyright-holder>
+<license license-type="open-access" xlink:type="simple">
+<license-p><open-access><p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</p>
+</open-access>
+</license-p>
+</license>
+</permissions>
+</article-meta>
+</front>
+<body><sec id="s1"><title/>
+<p>Despite all the talk about reducing fossil fuel CO<sub>2</sub> emissions, the amount produced each year keeps rising. In 1990, it was 20 billion tons. By 2013 it had risen to 32 billion tons. The content in our atmosphere which has increased from its natural level of 280 parts per million in 1850 to just under 400 parts per million (ppm) in 2013, is currently going up at a rate of 2.5 ppm per year. Recent discoveries of vast amounts of recoverable natural gas and petroleum insure a steady supply for many decades to come. This glut holds down the price of fossil fuel energy, setting back the thrust to substitute renewables. If population continues to rise one percent per year and if per capita fossil fuel energy use continues to rise by three percent per year, then the rate of CO<sub>2</sub> rise will reach 5 ppm per year by 2030.</p>
+<p>Despite these sobering facts, little of consequence is being done to meet this challenge. We continue to nibble when bold action is needed. These nibbles by developed countries have been swamped by increased energy demand in traditionally poor countries. As long as this state of affairs persists, the world will continue to warm and at an ever faster pace. As in none of the areas of concern regarding the consequences of global warming can firm predictions be made, we are, in a sense, flying blind. We suspect that bad weather may lie ahead but can’t seem to find a way to change course. As the late Roger Revelle often said, “we are conducting man’s greatest geophysical experiment.” And that it is.</p>
+<p>Although there can be no certainty regarding the consequences of the ongoing CO<sub>2</sub> buildup, it would be exceeding foolish to disregard the possibility that they will be of a magnitude that will bring about a global crisis. Even if the odds of this happening are small, we should have a contingency plan to deal with it were it to happen. Our military spends billions of dollars each year to maintain the capability to deal with a global war. The NIH spends untold tens of millions of dollars preparing to ward off a pandemic. Yet, we spend only a pittance preparing to cope with a global climate crisis.</p>
+<p>Were such a crisis to befall us, we would have two major response options. One would be to pull CO<sub>2</sub> back out of the atmosphere and bury it in the pore spaces in strata well below the Earth’s surface. The other would be to alter the Earth’s reflectivity in order to reduce the solar input. The former would constitute a permanent solution for it would offer a means to stabilize the atmosphere’s CO<sub>2</sub> content at some optimum level. The latter would constitute only a band aid designed to tide us over until a permanent solution could be implemented. Both of these are often referred to as geo-engineering schemes. Although this is certainly the case for albedo modification, I consider CO<sub>2</sub> capture and storage to be a form of waste management. For reasons similar to those which forced us into garbage disposal and into sewage treatment, we should bite the bullet and put away the CO<sub>2</sub> we produce.</p>
+<p>Although there are several fledgling projects directed at air capture, only a few tens of million dollars has been spent on them. Three groups in the U.S. (<xref ref-type="bibr" rid="bibr006">Stolaroff et al., 2008</xref>; <xref ref-type="bibr" rid="bibr003">Choi et al., 2011</xref>; <xref ref-type="bibr" rid="bibr005">Lackner et al., 2012</xref>) and one in Switzerland (<xref ref-type="bibr" rid="bibr002">Baciocchi et al., 2006</xref>) have been pursuing research on air capture for over a decade, yet none of them have garnered the funds necessary to build and test a complete and automated proto-type. In the absence of such demonstration units, a very wide range of cost estimates float about. They range from <xref ref-type="bibr" rid="bibr005">Klaus Lackner’s (2012)</xref> claim that it can likely be done for less than 100 dollars a ton of CO<sub>2</sub>, to an estimate by <xref ref-type="bibr" rid="bibr004">House et al. (2011)</xref> of 1000 dollars a ton of CO<sub>2</sub>. If Lackner is correct, then, for example, the cost of retrieving the CO<sub>2</sub> produced by automobiles would add less than one dollar per gallon to the price of gasoline. This would certainly be affordable. But if the <xref ref-type="bibr" rid="bibr004">House et al. (2011)</xref> estimate were to turn out to be the correct one, then it would add ten dollars a gallon to the price of gasoline. Because of this very wide range, it is widely believed that the cost would lie somewhere in the middle, leading to a consensus cost of about 600 dollars a ton of CO<sub>2</sub> (<xref ref-type="bibr" rid="bibr001">American Physical Society, 2011</xref>). If this proves to be the price, then air capture of CO<sub>2</sub> is unlikely to be viable.</p>
+<p>Many who oppose the air capture option view stack capture as the better way to go. The CO<sub>2</sub> content of power plant effluent is about 10 percent while that of air is 250 times less. But as Lackner points out, the thermodynamic cost of air capture does not scale with concentration. Rather, it scales with the logarithm of concentration. Looked at in this way, the difference in energy cost is closer to a factor of two. And, as discussed below, air capture has other advantages that would likely balance out much of the twofold difference. Also, in a crisis, air capture could be implemented far more rapidly.</p>
+<p>To understand this, it is necessary to understand how air capture might be done. As I happen to be a long-time colleague of Klaus Lackner, I am quite familiar with his views on this. I find him to be both a brilliant physicist and also a very thorough and honest man. He has spent much of the last 13 years working on this problem. For this reason, I assign a much higher likelihood to his cost estimate than to those made by others. As outlined in <xref ref-type="bibr" rid="bibr005">Lackner et al. (2012)</xref>, they are convinced that air capture should be done using modular units that could be mass produced and shipped in containers to the sites of deployment. If such a unit were to capture one ton of CO<sub>2</sub> per day, then to capture the 32 billion tons per year that we currently produce would require about 100 million such units. Lackner estimates that the amount of material required to build each unit would be comparable to that in an automobile. As one ton of CO<sub>2</sub> per day is the amount of CO<sub>2</sub> released by about 40 automobiles, in order to compensate for the globes 500 million or so autos would require 13 million Lackner units. Although a seemingly enormous number, producing these units certainly falls well within the limits of the world’s industrial capacity. For example we, as a world, manufacture about 80 million automobiles each year.</p>
+<p>Working with his colleague, Allen Wright, Lackner happened upon a commercially available plastic loaded with chemically active islands which exchange H<sub>2</sub>O for CO<sub>2</sub>. When exposed to air, CO<sub>2</sub> is taken up and H<sub>2</sub>O is released, then, when bathed in water, the plastic is rehydrated and the CO<sub>2</sub> is released. It has two very important advantages over sodium hydroxide, the traditional CO<sub>2</sub> absorbent. First, rather than being a highly caustic liquid, it is an inert solid. Second, four times less energy is required to remove CO<sub>2</sub> from Lackner’s plastic than from sodium hydroxide.</p>
+<p>Lackner envisions packing fibers into mattress-shaped collection units. As they would be exposed directly to the atmosphere, no pumps would be needed. The wind would do the job for free. Once loaded with CO<sub>2</sub>, the mattresses would be placed in sealed chambers where they would be ‘sprayed’ with water. Once the CO<sub>2</sub> had been released, the chamber gas would be pumped through a secondary absorber allowing the CO<sub>2</sub> to be separated from the chamber air. The pure CO<sub>2</sub> recovered in this way would be compressed until it liquefied. The liquid CO<sub>2</sub> would be piped to the site of burial. Wright and Lackner have repeated the CO<sub>2</sub> - H<sub>2</sub>O cycle hundreds of times without any indication that the plastic loses its CO<sub>2</sub> uptake capacity. If it were to, it could be rejuvenated by rinsing it with a sodium bicarbonate solution.</p>
+<p>A distinct advantage of air capture over stack capture is that the CO<sub>2</sub> would be buried at the collection site rather than piped hundreds of miles away. As water competes with carbon dioxide for sites on the plastic, air capture would be more efficient were it carried out in arid areas. As much of the world’s dry lands have a low population density, there would be less environmental opposition to their installation. Also, as these dry areas receive full sunshine, the energy needed to operate the collection modules could be supplied by solar-voltaic panels or solar-thermal units.</p>
+<p>Another advantage of air capture relative to stack capture is that there would not be the necessity to strip the air of all of its CO<sub>2</sub>. The important thing for air capture would be to optimize the rate of uptake of CO<sub>2</sub>. It turns out that this would be achieved at something like 30 percent removal.</p>
+<p>Yet another advantage is that air capture units would be mass produced and mass installed. By contrast, refitting existing electrical power plants for stack capture would require custom designs and time-consuming approvals. This being the case, in a crisis situation, air capture units could be constructed and installed far more rapidly.</p>
+<p>Now I don’t want to mislead regarding how massive and expensive this would be. If 100 million units are required to match today’s production, then in order to bring the CO<sub>2</sub> content down would require 100 million additional units for each 2.5 ppm per year reduction. So, if we wanted to draw it down by 10 ppm per year, we would have to have 400 million additional Lackner units. As there would certainly be a limit on the amount of capital which could be devoted to this activity, so also would there be a limit on how rapidly CO<sub>2</sub> could be drawn down. In a crisis situation, this might require that some form of albedo modification be introduced on an interim basis until CO<sub>2</sub> had been drawn down to an acceptable level.</p>
+<p>As much of the world’s GNP goes into producing CO<sub>2,</sub> reversing the trend by air capture will be a very expensive proposition. But looked at in a positive way, the capture and storage of CO<sub>2</sub> would create an industry 10 to 20 percent the size of the energy industry (i.e., lots of jobs). Once implemented, it would raise the price of fossil fuel energy, supplying an additional edge for renewable sources.</p>
+<p>In my estimation, it is of the utmost importance that a research and development effort be launched with the aim of finding out the best way to conduct air capture and what the cost would be. Currently the people carrying out research on this subject are involved with for-profit companies. As I have already said, progress has been very slow. No one has found a way to raise the money necessary to move at the needed speed. Governments are only marginally involved. Industry sees it as either too far off or as a threat to its bottom line. Venture capitalists don’t see any short-term profit in it. This being the case, there should be a government-funded entity charged with this task. It should be run in an open manner welcoming a wide range of scientists to share in the effort. As did the Manhattan Project, it should have set goals and time tables.</p>
+<p>One might ask whether such an effort would be wasted were no crisis to emerge. The answer is ‘no.’ Eventually the dependence on fossil fuels will come to an end and the world will be powered by renewables. But, as this energy utopia lies many decades in the future, by the time we arrive there, we will be saddled with an atmosphere laden with excess CO<sub>2</sub>. As we will experience a whole series of global climates as CO<sub>2</sub> undergoes its rise, a consensus will likely be reached that some lower CO<sub>2</sub> content would improve global well being. As it will take the ocean a century or more to suck up the desired amount of CO<sub>2</sub>, the world would likely opt to speed it up. This would require air capture.</p>
+<p>Another issue will be how to fuel our transportation fleet. The major option currently under consideration is rechargeable batteries. Although they will prove ideal for local run-abouts, they will not be satisfactory for long-distance land transport, let alone ships and airplanes. Further, our automobiles are wonderful gadgets. They serve us well. If it weren’t for the CO<sub>2</sub> and other pollutants they emit, there would be no reason to do away with them. With air capture, there would be no need to do this. Hydrogen produced by the electrolysis of water could be combined with CO<sub>2</sub> captured from the atmosphere to manufacture liquid fuels. Done in this way, CO<sub>2</sub> and H<sub>2</sub>O would be combined to make liquid fuel and oxygen gas. The liquid fuel would then be burned in oxygen producing CO<sub>2</sub> and H<sub>2</sub>O. Everything would be recycled. As shown by Germany during World War II and by South Africa during the apartheid, manufacturing artificial gasoline is readily doable.</p>
+<p>As mentioned above, I look at air capture as a scheme for waste management. Garbage brought disease to our streets. We learned to dispose of it. Sewage poisoned our waters. We learned to treat it. CO<sub>2</sub> threatens to change our climate. Hence we must learn how to capture and bury it.</p>
+<p>When asked about whether an effort should be launched to develop a means to capture CO<sub>2</sub> from the atmosphere, a common response is “It can wait. We should instead increase our efforts to bring about the transition to renewable energy. Touting air capture will take the pressure off.” Although I agree that this is a valid concern, I don’t buy it. Just as it took a long time to go from the Ford Model T to the Toyota Corolla, developing these modules will require many iterations. Hence the development of a viable, cost effective and environmentally acceptable means of capturing CO<sub>2</sub> from the atmosphere will take several decades. Added to the time required to engineer and fabricate proto types will be long-term field testing. As repair, modification and replacement of these units will be expensive, before we start to build and deploy them in large numbers, we must learn by experience how they will react to their environmental setting. They will have to survive wind and dust storms and also snow and ice. As they will attract the local fauna, threats from birds, pack rats, and a host of other creatures of the wild will certainly have to be dealt with.</p>
+<p>The bottom line is that air capture not only offers a backstop against a bad CO<sub>2</sub> trip, but it could also be used to draw CO<sub>2</sub> back down once the energy utopia has been reached, and eventually it could be used in the manufacture of gasoline. However, as its viability is heavily dependent on cost, a major effort should be initiated to narrow the wide range of estimates currently in play. The best way to do this would be to create a university-based entity charged with this task.</p></sec>
+<sec id="s2" sec-type="copyright-statement"><title>Copyright</title>
+<p>© 2013 Broecker. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</p></sec>
+</body>
+<back>
+<ref-list content-type="parsed"><title>References</title>
+<ref id="bibr001">
+<mixed-citation publication-type="book">
+<collab>American Physical Society</collab>. 
+<year>2011</year>. 
+<source>Direct air capture of CO<sub>2</sub> with chemicals: A technology assessment for the APS Panel on Public Affairs</source>. 
+<publisher-loc>Washington, DC</publisher-loc>: 
+<publisher-name>American Physical Society</publisher-name>.</mixed-citation>
+</ref>
+<ref id="bibr002">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Baciocchi</surname><given-names>R</given-names></name>, 
+<name name-style="western"><surname>Storti</surname><given-names>G</given-names></name>, and 
+<name name-style="western"><surname>Mazzotti</surname><given-names>M</given-names></name> 
+<year>2006</year>. 
+<article-title>Process design and energy requirements for the capture of carbon dioxide from air</article-title>. 
+<source>Chem. Eng. Process</source> 
+<volume>45</volume>: 
+<fpage>1047</fpage>–<lpage>1058</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr003">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Choi</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Drese</surname><given-names>JH</given-names></name>, 
+<name name-style="western"><surname>Eisenberger</surname><given-names>PM</given-names></name>, 
+<name name-style="western"><surname>Jones</surname><given-names>CW</given-names></name>. 
+<year>2011</year>. 
+<article-title>Application of amine-tethered solid sorbents for direct CO<sub>2</sub> capture from the ambient air</article-title>. 
+<source>Environ. Sci. Technol.</source> 
+<volume>45</volume>: 
+<fpage>2420</fpage>–<lpage>2427</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr004">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>House</surname><given-names>KZ</given-names></name>, 
+<name name-style="western"><surname>Baclig</surname><given-names>AC</given-names></name>, 
+<name name-style="western"><surname>Ranjan</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>van Nierop</surname><given-names>EA</given-names></name>, 
+<name name-style="western"><surname>Wilcox</surname><given-names>J</given-names></name>, 
+<name name-style="western"><surname>Herzog</surname><given-names>HJ</given-names></name>. 
+<year>2011</year>. 
+<article-title>Economic and energetic analysis of capturing CO<sub>2</sub> from ambient air</article-title>. 
+<source>Proceedings National Acad. Sci.</source> 
+<volume>108</volume>(<issue>51</issue>): 
+<fpage>20428</fpage>–<lpage>20433</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr005">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Lackner</surname><given-names>KS</given-names></name>, 
+<name name-style="western"><surname>Brennan</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Matter</surname><given-names>JM</given-names></name>, 
+<name name-style="western"><surname>Park</surname><given-names>A-HA</given-names></name>, 
+<name name-style="western"><surname>Wright</surname><given-names>A</given-names></name>, 
+<name name-style="western"><surname>van der Zwaan</surname><given-names>B</given-names></name>. 
+<year>2012</year>. 
+<article-title>The urgency of the development of CO<sub>2</sub> capture from ambient air</article-title>. 
+<source>PNAS</source> 
+<volume>109</volume>(<issue>33</issue>): 
+<fpage>13156</fpage>–<lpage>13162</lpage>. doi: 
+<pub-id pub-id-type="doi">10.1073/pnas.1108765109</pub-id></mixed-citation>
+</ref>
+<ref id="bibr006">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Stolaroff</surname><given-names>JK</given-names></name>, 
+<name name-style="western"><surname>Keith</surname><given-names>DW</given-names></name>, 
+<name name-style="western"><surname>Lowry</surname><given-names>GV</given-names></name> 
+<year>2008</year>. 
+<article-title>Carbon dioxide capture from atmospheric air using sodium hydroxide spray</article-title>. 
+<source>Environ. Sci. Technol.</source> 
+<volume>42</volume>: 
+<fpage>2728</fpage>–<lpage>2735</lpage>.</mixed-citation>
+</ref></ref-list></back>
+</article>

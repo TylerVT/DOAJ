@@ -1,0 +1,768 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="commentary" dtd-version="1.0" xml:lang="en">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">BioOne</journal-id>
+<journal-id journal-id-type="journal-id">Elementa</journal-id>
+<journal-title-group>
+<journal-title>Elementa</journal-title>
+<journal-subtitle>Science of the Anthropocene</journal-subtitle>
+<abbrev-journal-title>Elem. Sci. Anth.</abbrev-journal-title>
+</journal-title-group>
+<contrib-group>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Helmig</surname><given-names>Detlev</given-names></name>
+<xref ref-type="aff" rid="affa"/>
+<role>Editor-in-Chief: Atmospheric Science</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/detlev-helmig/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Blum</surname><given-names>Joel D.</given-names></name>
+<xref ref-type="aff" rid="affb"/>
+<role>Editor-in-Chief: Earth &amp; Environmental Science</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/joel-d-blum/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Zak</surname><given-names>Donald R.</given-names></name>
+<xref ref-type="aff" rid="affb"/>
+<role>Editor-in-Chief: Ecology</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/donald-r-zak/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Deming</surname><given-names>Jody W.</given-names></name>
+<xref ref-type="aff" rid="affc"/>
+<role>Editor-in-Chief: Ocean Science</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/jody-w-deming/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Chang</surname><given-names>Michael E.</given-names></name>
+<xref ref-type="aff" rid="affd"/>
+<role>Editor-in-Chief: Sustainable Engineering</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/michael-e-chang/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Kapuscinski</surname><given-names>Anne</given-names></name>
+<xref ref-type="aff" rid="affe"/>
+<role>Editor-in-Chief: Sustainability Transitions</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/anne-kapuscinski/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Peart</surname><given-names>David R.</given-names></name>
+<xref ref-type="aff" rid="affe"/>
+<role>Editor-in-Chief: Sustainability Transitions</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/david-r-peart/</uri>
+</contrib>
+</contrib-group>
+<aff id="affa">
+<institution>University of Colorado Boulder</institution>
+<country>United States</country>
+</aff>
+<aff id="affb">
+<institution>University of Michigan</institution>
+<country>United States</country>
+</aff>
+<aff id="affc">
+<institution>University of Washington</institution>
+<country>United States</country>
+</aff>
+<aff id="affd">
+<institution>Georgia Institute of Technology</institution>
+<country>United States</country>
+</aff>
+<aff id="affe">
+<institution>Dartmouth</institution>
+<country>United States</country>
+</aff>
+<issn pub-type="epub">2325-1026</issn>
+<publisher>
+<publisher-name>BioOne</publisher-name>
+<publisher-loc>21 Dupont Circle NW, Suite 800, Washington, DC 20036, United States<email>team@elementascience.org</email><uri>http://bioone.org</uri><uri>http://elementascience.org</uri></publisher-loc></publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">ELEMENTA-D-13-00010</article-id>
+<article-id pub-id-type="doi">10.12952/journal.elementa.000010</article-id>
+<article-categories>
+<subj-group subj-group-type="article-type">
+<subject>Commentary</subject>
+</subj-group>
+<subj-group subj-group-type="domain">
+<subject>Ocean Science</subject>
+</subj-group>
+<subj-group subj-group-type="classification">
+<subject>Ocean Science</subject>
+<subj-group>
+<subject>Biological Oceanography</subject>
+</subj-group>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>The changing Arctic Ocean</article-title>
+<alt-title alt-title-type="short-title">The changing Arctic Ocean</alt-title>
+</title-group>
+<contrib-group><contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Arrigo</surname><given-names>Kevin R.</given-names></name>
+<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+<xref ref-type="corresp" rid="cor1"><sup>*</sup></xref></contrib>
+</contrib-group>
+<aff id="aff1"><label>1</label>
+<institution>Stanford University</institution>, <addr-line content-type="city">Stanford</addr-line>, <addr-line content-type="state">California</addr-line>, <country>United States</country></aff>
+<contrib-group>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Deming</surname><given-names>Jody W.</given-names></name>
+<role>Domain Editor-in-Chief</role>
+<xref ref-type="aff" rid="afff"/>
+</contrib>
+</contrib-group>
+<aff id="afff">
+<institution content-type="dept">Department of Biological Oceanography</institution>
+<institution>University of Washington</institution>
+<addr-line content-type="city">Seattle</addr-line>
+<addr-line content-type="state">Washington</addr-line>
+<country>United States</country>
+</aff>
+<author-notes><corresp id="cor1"><label><sup>*</sup></label><email xlink:type="simple">arrigo@stanford.edu</email></corresp></author-notes>
+<pub-date pub-type="epub" iso-8601-date="2013-12-4">
+<day>4</day>
+<month>12</month>
+<year>2013</year>
+</pub-date>
+<volume content-type="volume">1</volume>
+<elocation-id>000010</elocation-id>
+<history>
+<date date-type="received" iso-8601-date="2013-08-12">
+<day>12</day>
+<month>08</month>
+<year>2013</year>
+</date>
+<date date-type="rev-recd">
+<day>23</day>
+<month>09</month>
+<year>2013</year>
+</date>
+<date date-type="accepted" iso-8601-date="2013-09-24">
+<day>24</day>
+<month>09</month>
+<year>2013</year>
+</date>
+</history>
+<permissions><copyright-year>2013</copyright-year>
+<copyright-holder>Arrigo</copyright-holder>
+<license license-type="open-access" xlink:type="simple">
+<license-p><open-access><p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</p>
+</open-access>
+</license-p>
+</license>
+</permissions>
+<kwd-group>
+<kwd>Arctic Ocean</kwd>
+<kwd>Climate change</kwd>
+</kwd-group>
+</article-meta>
+</front>
+<body>
+<sec id="s1"><title/><p>The vast frozen surface of the Arctic Ocean, often referred to as the polar ice cap, separates the atmosphere from the underlying ocean, reflects incoming radiation from the sun back out to space, and provides a unique habitat for creatures ranging in size from microbes to 1500 pound (680 kg) polar bears. While the amount of Arctic sea ice has waxed and waned with the seasons for all of recorded human history, a large fraction would always persist throughout the year. This old, multiyear sea ice reached thicknesses of several meters and resisted melting, even in the polar summer (<xref ref-type="bibr" rid="bibr013">Eicken et al., 1995</xref>).</p>
+<p>As temperatures have increased in recent decades, much of this old ice has disappeared and been replaced by thinner first-year ice that melts earlier in spring (<xref ref-type="bibr" rid="bibr027">Maslanik et al., 2011</xref>). Earlier melt has allowed the surface ocean to absorb more solar radiation, delaying the onset of freeze-up in the fall. As a result, a positive feedback has developed in which rising Arctic Ocean temperatures have been accompanied by a markedly thinner and less extensive sea ice cover and an ever-lengthening open water season, which allows the ocean to absorb more radiation, further increasing the temperature (<xref ref-type="bibr" rid="bibr029">Perovich, 2011</xref>). Estimates suggest that the volume of sea ice in the Arctic today is only 20% of that present just a few decades ago (<xref ref-type="bibr" rid="bibr024">Laxon et al., 2013</xref>). Scientists are no longer debating if the Arctic Ocean will eventually become ice-free in summer — they are debating when, with estimates ranging from 20 to 50 years from now (<xref ref-type="bibr" rid="bibr042">Wang and Overland, 2009</xref>).</p>
+<p>For some, the loss of Arctic sea ice is a unique opportunity. Improved access to ice-free Arctic waters has sparked interest in the development of a viable Arctic commercial fishery. It has also fuelled interest from energy companies wishing to explore the shallow continental shelves for fossil hydrocarbons. Already, a more predictably ice-free Northwest Passage (<xref ref-type="bibr" rid="bibr032">Smith and Stephenson, 2013</xref>), a northern gateway between the Atlantic and Pacific oceans, has resulted in increased commercial ship traffic in Arctic waters. As all of these activities ramp up, it is essential that strategies are developed and implemented to minimize environmental degradation (<xref ref-type="bibr" rid="bibr028">Pew, 2013</xref>).</p>
+<p>For others, the loss of Arctic sea ice looks to be a disaster in the making, particularly for indigenous populations that rely on the ocean for their food. Access to the interior ice pack for hunting is hampered as shore-fast ice diminishes and pack ice retreats further from shore. Subsistence whaling is becoming more difficult as the sea ice historically used as a reliable hunting platform disappears (<xref ref-type="bibr" rid="bibr036">Struzik, 2012</xref>). Newly ice-free waters are encouraging the northward migration of non-native animals, such as killer whales, that compete with native species and indigenous humans for food (<xref ref-type="bibr" rid="bibr019">Higdon, Hauser and Ferguson, 2012</xref>). And coastal populations are rapidly losing valuable land to erosion (<xref ref-type="bibr" rid="bibr033">Solomon, 2005</xref>; <xref ref-type="bibr" rid="bibr023">Kittel et al., 2011</xref>) caused by intense wave action from frequent and stronger storms (<xref ref-type="bibr" rid="bibr018">Hakkinen, Proshutinsky and Ashik, 2008</xref>) with more intense storm surges (<xref ref-type="bibr" rid="bibr040">Vermaire et al., 2013</xref>) in increasingly ice-free waters.</p>
+<p>Yet the consequences of Arctic sea ice loss extend far beyond the subsistence and commercial activities of humans - there will be profound ecological implications as well. Some of these are already apparent, such as habitat reduction for large mammals like ringed seals and polar bears that require stable sea ice in spring/summer for reproduction and feeding (<xref ref-type="bibr" rid="bibr035">Stirling and Derocher, 2012</xref>). But most consequences are still playing out and our ability to either understand or predict them is limited. This is particularly true for the smallest Arctic inhabitants on which the rest of the marine ecosystem relies.</p></sec>
+<sec id="s2"><title>The base of the Arctic Ocean food web</title>
+<p>All of the energy that fuels the highly productive marine ecosystems of the Arctic Ocean originates in the activity of microscopic algae that utilize the energy of the sun to make organic matter during photosynthesis. These algae live both in the sea ice and in the water column (phytoplankton). As the sun rises higher in the sky during the Arctic spring, enough light energy passes through the ice to allow algae in the ice to grow, generally attached to the bottom where nutrients are plentiful (<xref ref-type="bibr" rid="bibr005">Arrigo, Lizotte and Mock, 2010</xref>). Sea ice algae can attain population levels sufficient to color the ice with their brown pigments. Eventually, the ice warms and algae are released into the water column, where most of them sink. On the shallow continental shelves, ice algae provide some of the food early in the spring for a rich fauna of benthic invertebrates, and in turn, the animals that depend on the benthos for food, including diving ducks, walruses, and gray whales (<xref ref-type="bibr" rid="bibr012">Dunton et al., 2005</xref>; <xref ref-type="bibr" rid="bibr026">Leong et al., 2005</xref>; <xref ref-type="bibr" rid="bibr017">Grebmeier et al., 2006</xref>).</p>
+<p>After the ice melts, phytoplankton take over, growing rapidly in the surface ocean until they consume all of the available nutrients (<xref ref-type="bibr" rid="bibr020">Hill and Cota, 2005</xref>). The amount of phytoplankton usually far exceeds that of the ice algae, particularly on the nutrient-rich continental shelves (<xref ref-type="bibr" rid="bibr005">Arrigo, Lizotte and Mock, 2010</xref>). While a significant fraction of this phytoplankton biomass sinks to the sea floor, more is eaten in the water column by zooplankton such as krill and copepods, which are themselves fed upon by fish, birds, and ultimately seals and whales (<xref ref-type="bibr" rid="bibr026">Leong et al., 2005</xref>; <xref ref-type="bibr" rid="bibr039">Tremblay et al., 2012</xref>).</p>
+<p>This regular pattern of production and consumption in Arctic waters is now being altered by the earlier retreat and overall loss of sea ice. Ice algae cannot begin to grow until the sun is high enough in the sky and sufficient radiation can penetrate the ice, so earlier sea ice retreat means a shorter growing season. Although a shorter growing season does not necessarily translate to a reduction in overall ice-algal production (nutrient supply may ultimately determine that level despite length of growing season; <xref ref-type="bibr" rid="bibr016">Gradinger, 2009</xref>; <xref ref-type="bibr" rid="bibr030">Pineault et al., 2013</xref>), where it does, the potential delivery of food to the benthos will be less. A reduction in sea ice algae may not have immediately obvious ecological implications, however, because as the window for sea ice algal growth is closing, the window for phytoplankton is opening. The amount of primary production by phytoplankton in Arctic waters is closely tied to sea ice extent and particularly the length of the open water season (<xref ref-type="bibr" rid="bibr003">Arrigo, van Dijken and Pabi, 2008</xref>; <xref ref-type="bibr" rid="bibr004">Arrigo and van Dijken, 2011</xref>). As sea ice has declined in recent decades, phytoplankton productivity has accelerated dramatically. Between 1998 and 2012, the average amount of open water area in the Arctic Ocean and total annual primary production both increased by approximately 30% as the length of the open water season increased by 45%. The largest increases in annual production (30–112%) have been in marginal seas along the Pacific side of the Arctic where the loss of sea ice and the increase in the length of the growing season is greatest (Arrigo et al., submitted; <xref ref-type="bibr" rid="bibr008">Bélanger, Babin and Tremblay, 2013</xref>).</p>
+<p>Whether this increase in productivity will continue as sea ice declines further is not known. Models disagree as to the consequences of Arctic sea ice loss. Some predict lower production as ice melt intensifies ocean stratification, which will make it more difficult for nutrients to mix into surface waters (<xref ref-type="bibr" rid="bibr041">Walsh et al., 2005</xref>). Other models predict that reduced ice cover will expose more ocean surface to winds, thereby diminishing stratification and bringing more nutrients to the surface (<xref ref-type="bibr" rid="bibr049">Zhang et al., 2010</xref>). Observational work has confirmed that such upwelling of nutrients does stimulate primary production, yet apparently only in coastal regions of the Arctic (<xref ref-type="bibr" rid="bibr038">Tremblay et al., 2011</xref>). What the remote sensing data clearly show is that, in the short term, the loss of sea ice has resulted in a dramatic increase in Arctic productivity — a major perturbation to the Arctic marine ecosystem.</p>
+<p>One consequence of the replacement of old, thick multiyear ice by first year ice is that conditions are now more favorable for phytoplankton to bloom beneath the ice pack (<xref ref-type="bibr" rid="bibr014">Fortier et al., 2002</xref>). Historically, thick, snow-covered sea ice transmitted too little light to the water column below and phytoplankton bloomed predominantly in open water along the retreating ice edge (<xref ref-type="bibr" rid="bibr001">Alexander and Niebauer, 1981</xref>). Now, the younger, thinner ice pack is more uniform and supports more numerous melt ponds (<xref ref-type="bibr" rid="bibr031">Polashenski Perovich and Courville, 2012</xref>), which transmit far more light than bare ice (<xref ref-type="bibr" rid="bibr015">Frey, Perovich and Light, 2011</xref>; <xref ref-type="bibr" rid="bibr006">Arrigo et al., 2012</xref>), making under-ice phytoplankton blooms possible. One example of a particularly large and well-documented under-ice phytoplankton bloom was observed in the Chukchi Sea in 2011. This bloom stretched for over 130 km beneath a continuous cover of pack ice that ranged in thickness from 0.8 to 1.3 m with a melt pond fraction of 25–50% (<xref ref-type="bibr" rid="bibr006">Arrigo et al., 2012</xref>). Phytoplankton biomass was extremely high from the sea surface down to approximately 30 m and growth rates were double those measured in nearby open water. Productivity under the ice exceeded 80 g C m<sup>−2</sup> yr<sup>−1</sup>, more than 10 times the value attained in the same area after the sea ice had retreated. Phytoplankton blooms beneath the ice have the potential to dramatically alter the timing and magnitude of production on the vast continental shelves of the Arctic Ocean. However, they remain virtually unexplored and an accounting of their contributions to regional energy and carbon budgets is currently missing.</p></sec>
+<sec id="s3"><title>A new and improved Arctic?</title>
+<p>In light of these changes, it might be easy to conclude that a more productive Arctic marine ecosystem is a beneficial consequence of climate change. However, the story is not so simple. More primary production does not necessarily mean more food for the marine ecosystem. Some or all of the increase in production measured between 1998 and 2012 may simply be recycled in the upper ocean. More research is needed to determine how much of this new production is being exported to other components of the ecosystem. Most likely the elevated primary production on the Arctic shelves will increase the flux of organic matter to the sediments, thereby increasing rates of denitrification (<xref ref-type="bibr" rid="bibr043">Ward et al., 2008</xref>; <xref ref-type="bibr" rid="bibr009">Chang and Devol, 2009</xref>; <xref ref-type="bibr" rid="bibr002">Altabet et al., 2012</xref>; <xref ref-type="bibr" rid="bibr022">Kalvelage et al., 2013</xref>), a process that converts fixed nitrogen to relatively unusable nitrogen gas. This loss of fixed nitrogen would act as a negative feedback, limiting further increases in new production in the Arctic.</p>
+<p>Finally, while rates of Arctic productivity are increasing rapidly now, there are limits on how much production the Arctic Ocean can support. New sources of nitrogen are required to fuel additional new production, yet potential sources for these nutrients are not clear. The deep Arctic basins contain moderately high nitrate concentrations (<xref ref-type="bibr" rid="bibr010">Codispoti et al., 2013</xref>), but the strong halocline currently prevents their mixing into surface waters, except under episodic conditions of strong atmospheric forcing (<xref ref-type="bibr" rid="bibr037">Tremblay and Gagnon, 2009</xref>). Water flow from the Bering Sea through Bering Strait has increased by 50% in the last decade (<xref ref-type="bibr" rid="bibr046">Woodgate, Weingartner and Lindsay, 2012</xref>), but whether or not this increase is associated with an increased flux of nutrients is not known. In short, we lack a sufficient understanding of the ongoing physical and chemical responses to altered Arctic climate to know what the dramatic changes observed over the last few decades portend for the future.</p></sec>
+<sec id="s4"><title>Major pitfalls?</title>
+<p>Sea ice in the Arctic is retreating 2.4 days earlier each year (<xref ref-type="bibr" rid="bibr004">Arrigo and Van Dijken, 2011</xref>), accelerating the blooms of open water phytoplankton (<xref ref-type="bibr" rid="bibr021">Kahru et al., 2011</xref>). Moreover, under-ice phytoplankton blooms develop even earlier and in much colder water (<xref ref-type="bibr" rid="bibr006">Arrigo et al., 2012</xref>). Together, these changes could intensify the mismatch that sometimes occurs between the life cycles of phytoplankton and their zooplankton grazers (<xref ref-type="bibr" rid="bibr011">Conover and Huntley, 1991</xref>), ultimately decreasing the food available to fish, birds, and mammals (<xref ref-type="bibr" rid="bibr026">Loeng et al., 2005</xref>), many of which time their migrations and reproduction cycle to coincide with peak Arctic productivity (<xref ref-type="bibr" rid="bibr034">Soreide et al., 2010</xref>; <xref ref-type="bibr" rid="bibr045">Wassmann et al., 2010</xref>; <xref ref-type="bibr" rid="bibr044">Wassmann, 2011</xref>). Thus, although primary production may continue to increase, its timing may shift such that an increasing fraction will become unavailable to feed the pelagic marine ecosystem, resulting in a further shift to a benthic-dominated ecosystem, in contrast to recent predictions (<xref ref-type="bibr" rid="bibr017">Grebmeier et al., 2006</xref>).</p>
+<p>Linked to the same rise in atmospheric carbon dioxide that has resulted in Arctic warming is the acidification of the Arctic Ocean, which is likely to intensify as ice continues to disappear (<xref ref-type="bibr" rid="bibr047">Yamamoto et al., 2012</xref>). Decreasing ocean pH has reduced carbonate ion concentrations in surface waters, making it more difficult for calcifying organisms to make their shells and other supporting structures, particularly on shallow shelves (<xref ref-type="bibr" rid="bibr048">Yamamoto-Kawai et al., 2009</xref>; <xref ref-type="bibr" rid="bibr007">Bates, Mathis and Cooper, 2009</xref>). Ocean acidification in the Arctic will negatively affect pelagic organisms like pteropods (<xref ref-type="bibr" rid="bibr025">Lischka and Riebesell, 2012</xref>), but could be especially detrimental to shallow-water benthic mollusks and crustaceans (<xref ref-type="bibr" rid="bibr007">Bates, Mathis and Cooper, 2009</xref>) on which large marine mammals feed. So, while phytoplankton could fare well in a changing Arctic, the combined effects of a reduced sea ice cover and acidifying surface waters could spell disaster for both pelagic and benthic ecosystems, on which many indigenous human populations rely.</p></sec>
+<sec id="s5"><title>Our global experiment</title>
+<p>The Arctic Ocean is indeed a bellwether of change — and the Arctic marine ecosystem is changing at an alarming rate. Sea ice is declining rapidly as temperatures rise faster than anywhere else on Earth. The balance between sea ice primary production and water column production is likely shifting in favor of the phytoplankton. Over most of the Arctic Ocean, annual rates of phytoplankton production are increasing dramatically. The timing of production is shifting to earlier in the year in many areas, and in places like the Chukchi Sea, phytoplankton productivity is greatest when the ocean is still covered in ice. And the ocean is acidifying.</p>
+<p>There is no geo-engineering solution to both increasing Arctic temperatures and decreasing ocean pH. So the only way to stabilize the Arctic Ocean is to reduce atmospheric levels of carbon dioxide and other greenhouse gases. The big questions are “does the global community have the political will to do it?” and “is it already too late?”</p></sec>
+<sec id="s6" sec-type="copyright-statement"><title>Copyright</title>
+<p>© 2013 Arrigo. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</p></sec>
+</body>
+<back>
+<ref-list content-type="parsed"><title>References</title>
+<ref id="bibr001">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Alexander</surname><given-names>V</given-names></name>, 
+<name name-style="western"><surname>Niebauer</surname><given-names>HJ</given-names></name>. 
+<year>1981</year>. 
+<article-title>Oceanography of the eastern Bering Sea ice-edge zone in spring</article-title>. 
+<source>Limnol Oceanogr</source> 
+<volume>26</volume>(<issue>6</issue>): 
+<fpage>1111</fpage>–<lpage>1125</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr002">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Altabet</surname><given-names>MA</given-names></name>, 
+<name name-style="western"><surname>Ryabenko</surname><given-names>E</given-names></name>, 
+<name name-style="western"><surname>Stramma</surname><given-names>L</given-names></name>, 
+<name name-style="western"><surname>Wallace</surname><given-names>DWR</given-names></name>, 
+<name name-style="western"><surname>Frank</surname><given-names>M</given-names></name>, <etal>et al.</etal> 
+<year>2012</year>. 
+<article-title>An eddy-stimulated hotspot for fixed nitrogen-loss from the Peru oxygen minimum zone</article-title>. 
+<source>Biogeosci</source> 
+<volume>9</volume>: 
+<fpage>4897</fpage>–<lpage>4908</lpage></mixed-citation>
+</ref>
+<ref id="bibr003">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Arrigo</surname><given-names>KR</given-names></name>, 
+<name name-style="western"><surname>van Dijken</surname><given-names>GL</given-names></name>, 
+<name name-style="western"><surname>Pabi</surname><given-names>S</given-names></name>. 
+<year>2008</year>. 
+<article-title>The impact of a shrinking Arctic ice cover on marine primary production</article-title>. 
+<source>Geophys Res Lett</source> 
+<volume>35</volume>: <fpage>L19603</fpage>. doi:
+<pub-id pub-id-type="doi">10.1029/2008GL035028</pub-id></mixed-citation>
+</ref>
+<ref id="bibr004">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Arrigo</surname><given-names>KR</given-names></name>, 
+<name name-style="western"><surname>van Dijken</surname><given-names>GL</given-names></name>. 
+<year>2011</year>. 
+<article-title>Secular trends in Arctic Ocean net primary production</article-title>. 
+<source>J Geophys Res</source> 
+<volume>116</volume>: <fpage>C09011</fpage>.</mixed-citation>
+</ref>
+<ref id="bibr005">
+<mixed-citation publication-type="inbook">
+<name name-style="western"><surname>Arrigo</surname><given-names>KR</given-names></name>, 
+<name name-style="western"><surname>Lizotte</surname><given-names>MP</given-names></name>, 
+<name name-style="western"><surname>Mock</surname><given-names>T</given-names></name>. 
+<year>2010</year>. 
+<chapter-title>Primary producers and sea ice</chapter-title>, chapter 8 in 
+<name name-style="western"><surname>Thomas</surname><given-names>DN</given-names></name>, 
+<name name-style="western"><surname>Dieckmann</surname></name>, eds., 
+<source>Sea Ice</source>, 
+<edition>2nd Edition</edition>. 
+<publisher-loc>Oxford, UK</publisher-loc>: 
+<publisher-name>Blackwell Science, Ltd</publisher-name>.: 
+<fpage>283</fpage>–<lpage>326</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr006">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Arrigo</surname><given-names>KR</given-names></name>, 
+<name name-style="western"><surname>Perovich</surname><given-names>DK</given-names></name>, 
+<name name-style="western"><surname>Pickart</surname><given-names>RS</given-names></name>, 
+<name name-style="western"><surname>Brown</surname><given-names>ZW</given-names></name>, 
+<name name-style="western"><surname>van Dijken</surname><given-names>GL</given-names></name>, <etal>et al.</etal> 
+<year>2012</year>. 
+<article-title>Massive phytoplankton blooms under Arctic sea ice</article-title>. 
+<source>Science</source> 
+<volume>336</volume>: 
+<fpage>1408</fpage>.</mixed-citation>
+</ref>
+<ref id="bibr007">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Bates</surname><given-names>NR</given-names></name>, 
+<name name-style="western"><surname>Mathis</surname><given-names>T</given-names></name>, 
+<name name-style="western"><surname>Cooper</surname><given-names>LW</given-names></name>. 
+<year>2009</year>. 
+<article-title>Ocean acidification and biologically induced seasonality of carbonate mineral saturation states in the western Arctic Ocean</article-title>. 
+<source>J Geophys Res</source> 
+<volume>114</volume>: <fpage>C11007</fpage>. doi: 
+<pub-id pub-id-type="doi">10.1029/2008JC004862</pub-id></mixed-citation>
+</ref>
+<ref id="bibr008">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Bélanger</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Babin</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>Tremblay</surname><given-names>J-E</given-names></name>. 
+<year>2013</year>. 
+<article-title>Increasing cloudiness in Arctic damps the increase in phytoplankton primary production due to sea ice receding</article-title>. 
+<source>Biogeosci</source> 
+<volume>10</volume>(<issue>6</issue>): 
+<fpage>4087</fpage>–<lpage>4101</lpage>. doi: 
+<pub-id pub-id-type="doi">10.5194/bg-10-4087-2013</pub-id></mixed-citation>
+</ref>
+<ref id="bibr009">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Chang</surname><given-names>BX</given-names></name>, 
+<name name-style="western"><surname>Devol</surname><given-names>AH</given-names></name>. 
+<year>2009</year>. 
+<article-title>Seasonal and spatial patterns of sedimentary denitrification rates in the Chukchi Sea</article-title>. 
+<source>Deep-Sea Res Part II</source> 
+<volume>56</volume>(<issue>17</issue>): 
+<fpage>1339</fpage>–<lpage>1350</lpage>. doi: 
+<pub-id pub-id-type="doi">10.1016/j.dsr2.2008.10.024</pub-id></mixed-citation>
+</ref>
+<ref id="bibr010">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Codispoti</surname><given-names>LA</given-names></name>, 
+<name name-style="western"><surname>Kelly</surname><given-names>V</given-names></name>, 
+<name name-style="western"><surname>Thessen</surname><given-names>A</given-names></name>, 
+<name name-style="western"><surname>Matrai</surname><given-names>P</given-names></name>, 
+<name name-style="western"><surname>Suttles</surname><given-names>S</given-names></name>, <etal>et al.</etal> 
+<year>2013</year>. 
+<article-title>Synthesis of primary production in the Arctic Ocean: III. Nitrate and phosphate based estimates of net community production</article-title>. 
+<source>Prog Oceanogr</source> 
+<volume>110</volume>: 
+<fpage>107</fpage>–<lpage>125</lpage>. doi:
+<pub-id pub-id-type="doi">10.1016/j.pocean.2012.11.006</pub-id></mixed-citation>
+</ref>
+<ref id="bibr011">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Conover</surname><given-names>RJ</given-names></name>, 
+<name name-style="western"><surname>Huntley</surname><given-names>M</given-names></name>. 
+<year>1991</year>. 
+<article-title>Copepods in ice-covered seas–Distribution, adaptations to seasonally limited food, metabolism, growth patterns and life cycle strategies in polar seas</article-title>. 
+<source>J Mar Sys</source> 
+<volume>2</volume>: 
+<fpage>1</fpage>–<lpage>41</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr012">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Dunton</surname><given-names>KH</given-names></name>, 
+<name name-style="western"><surname>Goodall</surname><given-names>JL</given-names></name>, 
+<name name-style="western"><surname>Schonberg</surname><given-names>SV</given-names></name>, 
+<name name-style="western"><surname>Grebmeier</surname><given-names>JM</given-names></name>, 
+<name name-style="western"><surname>Maidment</surname><given-names>DR</given-names></name>. 
+<year>2005</year>. 
+<article-title>Multi-decadal synthesis of benthic–pelagic coupling in the western arctic: Role of cross-shelf advective processes</article-title>. 
+<source>Deep-Sea Res Part II</source> 
+<volume>52</volume>(<issue>24–26</issue>): 
+<fpage>3462</fpage>–<lpage>3477</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr013">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Eicken</surname><given-names>H</given-names></name>, 
+<name name-style="western"><surname>Lensu</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>Lepparanta</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>Tucker</surname><given-names>WB</given-names></name>, 
+<name name-style="western"><surname>Gow</surname><given-names>AJ</given-names></name>, <etal>et al.</etal> 
+<year>1995</year>. 
+<article-title>Thickness, structure, and properties of level multiyear ice in the Eurasian sector of the Arctic-Ocean</article-title>. 
+<source>J Geophys Res</source> 
+<volume>100</volume>(<issue>C11</issue>): <fpage>22697</fpage>–<lpage>22710</lpage>. doi: 
+<pub-id pub-id-type="doi">10.1029/95JC02188</pub-id></mixed-citation>
+</ref>
+<ref id="bibr014">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Fortier</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>Fortier</surname><given-names>L</given-names></name>, 
+<name name-style="western"><surname>Michel</surname><given-names>C</given-names></name>, 
+<name name-style="western"><surname>Legendre</surname><given-names>L</given-names></name>. 
+<year>2002</year>. 
+<article-title>Climatic and biological forcing of the vertical flux of biogenic particles under seasonal Arctic sea ice</article-title>. 
+<source>Mar Ecol Prog Ser</source> 
+<volume>225</volume>: 
+<fpage>1</fpage>–<lpage>16</lpage>. doi: 
+<pub-id pub-id-type="doi">10.3354/meps225001</pub-id></mixed-citation>
+</ref>
+<ref id="bibr015">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Frey</surname><given-names>KE</given-names></name>, 
+<name name-style="western"><surname>Perovich</surname><given-names>DK</given-names></name>, 
+<name name-style="western"><surname>Light</surname><given-names>B</given-names></name>. 
+<year>2011</year>. 
+<article-title>The spatial distribution of solar radiation under a melting Arctic sea ice cover</article-title>. 
+<source>Geophys Res Lett</source> 
+<volume>38</volume>: <fpage>L22501</fpage>. doi:
+<pub-id pub-id-type="doi">10.1029/2011GL049421</pub-id></mixed-citation>
+</ref>
+<ref id="bibr016">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Gradinger</surname><given-names>R</given-names></name>. 
+<year>2009</year>. 
+<article-title>Sea-ice algae: Major contributors to primary production and algal biomass in the Chukchi and Beaufort Seas during May/June 2002</article-title>. 
+<source>Deep-Sea Res Part I</source> 
+<volume>56</volume>(<issue>17</issue>): 
+<fpage>1201</fpage>–<lpage>1212</lpage>. doi: 
+<pub-id pub-id-type="doi">10.1016/j.dsr2.2008.10.016</pub-id></mixed-citation>
+</ref>
+<ref id="bibr017">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Grebmeier</surname><given-names>JM</given-names></name>, 
+<name name-style="western"><surname>Cooper</surname><given-names>LW</given-names></name>, 
+<name name-style="western"><surname>Feder</surname><given-names>HM</given-names></name>, 
+<name name-style="western"><surname>Sirenko</surname><given-names>BI</given-names></name>. 
+<year>2006</year>. 
+<article-title>Ecosystem dynamics of the Pacific-influenced Northern Bering and Chukchi Seas in the Amerasian Arctic</article-title>, 
+<source>Prog Oceanogr</source> 
+<volume>71</volume>(<issue>2–4</issue>): 
+<fpage>331</fpage>–<lpage>361</lpage>. doi:
+<pub-id pub-id-type="doi">10.1016/j.pocean.2006.10.001</pub-id></mixed-citation>
+</ref>
+<ref id="bibr018">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Hakkinen</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Proshutinsky</surname><given-names>A</given-names></name>, 
+<name name-style="western"><surname>Ashik</surname><given-names>I</given-names></name>. 
+<year>2008</year>. 
+<article-title>Sea ice drift in the Arctic since the 1950s</article-title>. 
+<source>Geophys Res Lett</source> 
+<volume>35</volume>(<issue>19</issue>): <fpage>L19704</fpage>. doi: 
+<pub-id pub-id-type="doi">10.1029/2008GL034791</pub-id></mixed-citation>
+</ref>
+<ref id="bibr019">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Higdon</surname><given-names>JW</given-names></name>, 
+<name name-style="western"><surname>Hauser</surname><given-names>DDW</given-names></name>, 
+<name name-style="western"><surname>Ferguson</surname><given-names>SH</given-names></name>. 
+<year>2012</year>. 
+<article-title>Killer whales (<italic>Orcinus orca</italic>) in the Canadian Arctic: Distribution, prey items, group sizes, and seasonality</article-title>. 
+<source>Mar Mammal Sci</source> 
+<volume>28</volume>(<issue>2</issue>): 
+<fpage>E93</fpage>–<lpage>E109</lpage>. doi: 
+<pub-id pub-id-type="doi">10.1111/j.1748-7692.2011.00489.x</pub-id></mixed-citation>
+</ref>
+<ref id="bibr020">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Hill</surname><given-names>V</given-names></name>, 
+<name name-style="western"><surname>Cota</surname><given-names>G</given-names></name>. 
+<year>2005</year>. 
+<article-title>Spatial patterns of primary production on the shelf, slope and basin of the Western Arctic in 2002</article-title>. 
+<source>Deep-Sea Res Part II</source> 
+<volume>52</volume>: 
+<fpage>3344</fpage>–<lpage>3354</lpage></mixed-citation>
+</ref>
+<ref id="bibr021">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Kahru</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>Brotas</surname><given-names>V</given-names></name>, 
+<name name-style="western"><surname>Manzano-Sarabia</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>Mitchell</surname><given-names>BG</given-names></name>. 
+<year>2011</year>. 
+<article-title>Are phytoplankton blooms occurring earlier in the Arctic?</article-title> 
+<source>Glob Change Biol</source> 
+<volume>17</volume>: 
+<fpage>1733</fpage>–<lpage>1739</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr022">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Kalvelage</surname><given-names>T</given-names></name>, 
+<name name-style="western"><surname>Lavik</surname><given-names>G</given-names></name>, 
+<name name-style="western"><surname>Lam</surname><given-names>P</given-names></name>, 
+<name name-style="western"><surname>Contreras</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Arteaga</surname><given-names>L</given-names></name>, <etal>et al.</etal> 
+<year>2013</year>. 
+<article-title>Nitrogen cycling driven by organic matter export in the South Pacific oxygen minimum zone</article-title>. 
+<source>Nature Geosci</source> 
+<volume>6</volume>: 
+<fpage>228</fpage>–<lpage>234</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr023">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Kittel</surname><given-names>TGF</given-names></name>, 
+<name name-style="western"><surname>Baker</surname><given-names>BB</given-names></name>, 
+<name name-style="western"><surname>Higgins</surname><given-names>JV</given-names></name>, 
+<name name-style="western"><surname>Haney</surname><given-names>JC</given-names></name>. 
+<year>2011</year>. 
+<article-title>Climate vulnerability of ecosystems and landscapes on Alaska’s North Slope</article-title>. 
+<source>Region Env Change</source> 
+<volume>11</volume>(<issue>1</issue>): 
+<fpage>S249</fpage>–<lpage>S264</lpage>. doi: 
+<pub-id pub-id-type="doi">10.1007/s10113-010-0180-y</pub-id></mixed-citation>
+</ref>
+<ref id="bibr024">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Laxon</surname><given-names>SW</given-names></name>, 
+<name name-style="western"><surname>Giles</surname><given-names>KA</given-names></name>, 
+<name name-style="western"><surname>Ridout</surname><given-names>AL</given-names></name>, 
+<name name-style="western"><surname>Wingham</surname><given-names>DJ</given-names></name>, 
+<name name-style="western"><surname>Willatt</surname><given-names>R</given-names></name>, <etal>et al.</etal> 
+<year>2013</year>. 
+<article-title>CryoSat-2 estimates of Arctic sea ice thickness and volume</article-title>. 
+<source>Geophys Res Lett</source> 
+<volume>40</volume>: 
+<fpage>732</fpage>–<lpage>737</lpage>. doi:
+<pub-id pub-id-type="doi">10.1002/grl.50193</pub-id></mixed-citation>
+</ref>
+<ref id="bibr025">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Lischka</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Riebesell</surname><given-names>U</given-names></name>. 
+<year>2012</year>. 
+<article-title>Synergistic effects of ocean acidification and warming on overwintering pteropods in the Arctic</article-title>. 
+<source>Glob Change Biol</source> 
+<volume>18</volume>(<issue>12</issue>): 
+<fpage>3517</fpage>–<lpage>3528</lpage>. doi: 
+<pub-id pub-id-type="doi">10.1111/gcb.12020</pub-id></mixed-citation>
+</ref>
+<ref id="bibr026">
+<mixed-citation publication-type="book">
+<name name-style="western"><surname>Loeng</surname><given-names>H</given-names></name>, 
+<name name-style="western"><surname>Brander</surname><given-names>K</given-names></name>, 
+<name name-style="western"><surname>Carmack</surname><given-names>E</given-names></name>, 
+<name name-style="western"><surname>Denisenko</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Drinkwater</surname><given-names>K</given-names></name>, <etal>et al.</etal> 
+<year>2005</year>. 
+<source>Marine Systems</source>. (Arctic Climate Impact Assessment) 
+<publisher-loc>Cambridge, UK</publisher-loc>: 
+<publisher-name>Cambridge Univ. Press</publisher-name>: 
+<fpage>453</fpage>–<lpage>538</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr027">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Maslanik</surname><given-names>J</given-names></name>, 
+<name name-style="western"><surname>Stroeve</surname><given-names>J</given-names></name>, 
+<name name-style="western"><surname>Fowler</surname><given-names>C</given-names></name>, 
+<name name-style="western"><surname>Emery</surname><given-names>W</given-names></name>. 
+<year>2011</year>. 
+<article-title>Distribution and trends in Arctic sea ice age through spring 2011</article-title>. 
+<source>Geophys Res Lett</source> 
+<volume>38</volume>: <fpage>L13502</fpage>.</mixed-citation>
+</ref>
+<ref id="bibr028">
+<mixed-citation publication-type="other">
+<collab>Pew Charitable Trusts</collab>. 
+<year>2013</year>. 
+<article-title>Oceans North: Protecting Life in the Arctic [Internet]</article-title>. 
+Available at <uri>http://www.pewenvironment.org/campaigns/oceans-north-protecting-life-in-the-arctic/id/8589935755</uri></mixed-citation>
+</ref>
+<ref id="bibr029">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Perovich</surname><given-names>DK</given-names></name>. 
+<year>2011</year>. 
+<article-title>The changing Arctic sea ice cover</article-title>. 
+<source>Oceanogr</source> 
+<volume>24</volume>(<issue>3</issue>): 
+<fpage>162</fpage>–<lpage>173</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr030">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Pineault</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Tremblay</surname><given-names>J-E</given-names></name>, 
+<name name-style="western"><surname>Gosselin</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>Thomas</surname><given-names>H</given-names></name>, 
+<name name-style="western"><surname>Shadwick</surname><given-names>E</given-names></name>. 
+<year>2013</year>. 
+<article-title>The isotopic signature of particulate organic C and N in bottom ice: Key influencing factors and applications for tracing the fate of ice-algae in the Arctic Ocean</article-title>. 
+<source>J Geophys Res</source> 
+<volume>118</volume>(<issue>1</issue>): 
+<fpage>287</fpage>–<lpage>300</lpage>. doi: 
+<pub-id pub-id-type="doi">10.1029/2012JC008331</pub-id></mixed-citation>
+</ref>
+<ref id="bibr031">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Polashenski</surname><given-names>C</given-names></name>, 
+<name name-style="western"><surname>Perovich</surname><given-names>D</given-names></name>, 
+<name name-style="western"><surname>Courville</surname><given-names>Z</given-names></name>. 
+<year>2012</year>. 
+<article-title>The mechanisms of sea ice melt pond formation and evolution</article-title>. 
+<source>J Geophys Res</source> 
+<volume>117</volume>(<issue>C1</issue>): <fpage>C01001</fpage>. doi:
+<pub-id pub-id-type="doi">10.1029/2011JC007231</pub-id></mixed-citation>
+</ref>
+<ref id="bibr032">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Smith</surname><given-names>LC</given-names></name>, 
+<name name-style="western"><surname>Stephenson</surname><given-names>SR</given-names></name>. 
+<year>2013</year>. 
+<article-title>New Trans-Arctic shipping routes navigable by midcentury</article-title>. 
+<source>Proc Nat Acad Sci</source> 
+<volume>110</volume>(<issue>13</issue>): 
+<fpage>E1191</fpage>–<lpage>95</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr033">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Solomon</surname><given-names>S</given-names></name>. 
+<year>2005</year>. 
+<article-title>Spatial and temporal variability of shoreline change in the Beaufort-Mackenzie region, Northwest Territories, Canada</article-title>. 
+<source>Geo-Mar Lett</source> 
+<volume>25</volume>: 
+<fpage>127</fpage>–<lpage>137</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr034">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Soreide</surname><given-names>JE</given-names></name>, 
+<name name-style="western"><surname>Leu</surname><given-names>E</given-names></name>, 
+<name name-style="western"><surname>Berge</surname><given-names>J</given-names></name>, 
+<name name-style="western"><surname>Graeve</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>Falk-Petersen</surname><given-names>S</given-names></name>. 
+<year>2010</year>. 
+<article-title>Timing of blooms, algal food quality and <italic>Calanus glacialis</italic> reproduction and growth in a changing Arctic</article-title>. 
+<source>Glob Change Biol</source> 
+<volume>16</volume>(<issue>11</issue>): 
+<fpage>3154</fpage>–<lpage>3163</lpage>. doi: 
+<pub-id pub-id-type="doi">10.1111/j.1365-2486.2010.02175.x</pub-id></mixed-citation>
+</ref>
+<ref id="bibr035">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Stirling</surname><given-names>I</given-names></name>, 
+<name name-style="western"><surname>Derocher</surname><given-names>AE</given-names></name>. 
+<year>2012</year>. 
+<article-title>Effects of climate warming on polar bears: a review of the evidence</article-title>. 
+<source>Glob Change Biol</source> 
+<volume>18</volume>(<issue>9</issue>): 
+<fpage>2694</fpage>–<lpage>2706</lpage>. doi: 
+<pub-id pub-id-type="doi">10.1111/j.1365-2486.2012.02753.x</pub-id></mixed-citation>
+</ref>
+<ref id="bibr036">
+<mixed-citation publication-type="other">
+<name name-style="western"><surname>Struzik</surname><given-names>E</given-names></name>. 
+<year>2012</year>. 
+<article-title>As Arctic melts, Inuit face tensions with outside world [Internet]</article-title>. 
+<source>YaleE360</source>. 
+Available at <uri>http://e360.yale.edu/feature/as_arctic_melts_inuit_face_tensions_with_outside_world/2577/</uri></mixed-citation>
+</ref>
+<ref id="bibr037">
+<mixed-citation publication-type="inbook">
+<name name-style="western"><surname>Tremblay</surname><given-names>JE</given-names></name>, 
+<name name-style="western"><surname>Gagnon</surname><given-names>J</given-names></name>. 
+<year>2009</year>. 
+<chapter-title>The effects of irradiance and nutrient supply on the productivity of Arctic waters: a perspective on climate change. Influence of Climate Change on the Changing Arctic and Sub-Arctic Conditions</chapter-title>, in 
+<name name-style="western"><surname>Nihoul</surname><given-names>JCJ</given-names></name>, 
+<name name-style="western"><surname>Kostianoy</surname><given-names>AG</given-names></name>, eds., 
+<source>Influence of Climate Change on the Changing Arctic and Sub-Arctic Conditions</source>. 
+<publisher-loc>Dordrecht, The Netherlands</publisher-loc>: 
+<publisher-name>Springer Netherlands (Nato Science for Peace and Security Series C: Environmental Security)</publisher-name>: 
+<fpage>73</fpage>–<lpage>93</lpage>.</mixed-citation>
+</ref> 
+<ref id="bibr038">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Tremblay</surname><given-names>JE</given-names></name>, 
+<name name-style="western"><surname>Belanger</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Barber</surname><given-names>DG</given-names></name>, 
+<name name-style="western"><surname>Asplin</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>Martin</surname><given-names>J</given-names></name>, <etal>et al.</etal> 
+<year>2011</year>. 
+<article-title>Climate forcing multiplies biological productivity in the coastal Arctic Ocean</article-title>. 
+<source>Geophys Res Lett</source> 
+<volume>38</volume>: <fpage>L18604</fpage>, doi: 
+<pub-id pub-id-type="doi">10.1029/2011GL048825</pub-id></mixed-citation>
+</ref>
+<ref id="bibr039">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Tremblay</surname><given-names>J-E</given-names></name>, 
+<name name-style="western"><surname>Robert</surname><given-names>D</given-names></name>, 
+<name name-style="western"><surname>Varela</surname><given-names>DE</given-names></name>, 
+<name name-style="western"><surname>Lovejoy</surname><given-names>C</given-names></name>, 
+<name name-style="western"><surname>Darnis</surname><given-names>G</given-names></name>, 
+<name name-style="western"><surname>Nelson</surname><given-names>RJ</given-names></name>, 
+<name name-style="western"><surname>Sastri</surname><given-names>AR</given-names></name>. 
+<year>2012</year>. 
+<article-title>Current state and trends in Canadian Arctic marine ecosystems: I. Primary production</article-title>. 
+<source>Climatic Change</source> 
+<volume>115</volume>(<issue>1</issue>): 
+<fpage>161</fpage>–<lpage>178</lpage>. doi: 
+<pub-id pub-id-type="doi">10.1007/s10584-012-0496-3</pub-id></mixed-citation>
+</ref>
+<ref id="bibr040">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Vermaire</surname><given-names>JC</given-names></name>, 
+<name name-style="western"><surname>Pisaric</surname><given-names>MFJ</given-names></name>, 
+<name name-style="western"><surname>Thienpont</surname><given-names>JR</given-names></name>, 
+<name name-style="western"><surname>Courtney Mustaphi</surname><given-names>CJ</given-names></name>, 
+<name name-style="western"><surname>Kokelj</surname><given-names>SV</given-names></name>, <etal>et al.</etal> 
+<year>2013</year>. 
+<article-title>Arctic climate warming and sea ice declines lead to increased storm surge activity</article-title>. 
+<source>Geophys Res Lett</source> 
+<volume>40</volume>: 
+<fpage>1386</fpage>–<lpage>1390</lpage>. doi:
+<pub-id pub-id-type="doi">10.1002/grl.50191</pub-id>
+</mixed-citation>
+</ref>
+<ref id="bibr041">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Walsh</surname><given-names>JJ</given-names></name>, 
+<name name-style="western"><surname>Dieterle</surname><given-names>DA</given-names></name>, 
+<name name-style="western"><surname>Maslowski</surname><given-names>W</given-names></name>, 
+<name name-style="western"><surname>Grebmeier</surname><given-names>JM</given-names></name>, 
+<name name-style="western"><surname>Whitledge</surname><given-names>TE</given-names></name>, <etal>et al.</etal> 
+<year>2005</year>.
+<article-title>A numerical model of seasonal primary production within the Chukchi/Beaufort Seas</article-title>. 
+<source>Deep-Sea Res Part II</source> 
+<volume>52</volume>: 
+<fpage>3541</fpage>–<lpage>3576</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr042">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Wang</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>Overland</surname><given-names>JE</given-names></name>. 
+<year>2009</year>. 
+<article-title>A sea ice free summer Arctic within 30 years?</article-title>  <source>Geophys Res Lett</source> 
+<volume>36</volume>: <fpage>L07502</fpage>. doi: 
+<pub-id pub-id-type="doi">10.1029/2009GL037820</pub-id></mixed-citation>
+</ref>
+<ref id="bibr043">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Ward</surname><given-names>BB</given-names></name>, 
+<name name-style="western"><surname>Tuit</surname><given-names>CB</given-names></name>, 
+<name name-style="western"><surname>Jayakumar</surname><given-names>A</given-names></name>, 
+<name name-style="western"><surname>Rich</surname><given-names>JJ</given-names></name>, 
+<name name-style="western"><surname>Moffett</surname><given-names>J</given-names></name>, <etal>et al.</etal> 
+<year>2008</year>. 
+<article-title>Organic carbon, and not copper, controls denitrification in oxygen minimum zones of the ocean</article-title>. 
+<source>Deep-Sea Res Part I</source> 
+<volume>55</volume>: 
+<fpage>1672</fpage>–<lpage>1683</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr044">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Wassmann</surname><given-names>P</given-names></name>. 
+<year>2011</year>. 
+<article-title>Arctic marine ecosystems in an era of rapid climate change</article-title>. 
+<source>Prog Oceanogr</source> 
+<volume>90</volume>: 
+<fpage>1</fpage>–<lpage>17</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr045">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Wassmann</surname><given-names>P</given-names></name>, 
+<name name-style="western"><surname>Duarte</surname><given-names>CM</given-names></name>, 
+<name name-style="western"><surname>Agusti</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Sejr</surname><given-names>MK</given-names></name>. 
+<year>2010</year>. 
+<article-title>Footprints of climate change in the Arctic marine Ecosystem</article-title>. 
+<source>Glob Change Biol</source> 
+<volume>17</volume>: 
+<fpage>1235</fpage>–<lpage>1249</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr046">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Woodgate</surname><given-names>RA</given-names></name>, 
+<name name-style="western"><surname>Weingartner</surname><given-names>TJ</given-names></name>, 
+<name name-style="western"><surname>Lindsay</surname><given-names>R</given-names></name>. 
+<year>2012</year>. 
+<article-title>Observed increases in Bering Strait oceanic fluxes from the Pacific to the Arctic from 2001 to 2011 and their impacts on the Arctic Ocean water column</article-title>. 
+<source>Geophys Res Lett</source> 
+<volume>39</volume>: <fpage>L24603</fpage>.</mixed-citation>
+</ref>
+<ref id="bibr047">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Yamamoto</surname><given-names>A</given-names></name>, 
+<name name-style="western"><surname>Kawamiya</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>Ishida</surname><given-names>A</given-names></name>, 
+<name name-style="western"><surname>Yamanaka</surname><given-names>Y</given-names></name>, 
+<name name-style="western"><surname>Watanabe</surname><given-names>S</given-names></name>. 
+<year>2012</year>. 
+<article-title>Impact of rapid sea-ice reduction in the Arctic Ocean on the rate of ocean acidification</article-title>. 
+<source>Biogeosci</source> 
+<volume>9</volume>(<issue>6</issue>): 
+<fpage>2365</fpage>–<lpage>2375</lpage>. doi: 
+<pub-id pub-id-type="doi">10.5194/bg-9-2365-2012</pub-id></mixed-citation>
+</ref>
+<ref id="bibr048">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Yamamoto-Kawai</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>McLaughlin</surname><given-names>FA</given-names></name>, 
+<name name-style="western"><surname>Carmack</surname><given-names>EC</given-names></name>, 
+<name name-style="western"><surname>Nishino</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Shimada</surname><given-names>K</given-names></name>. 
+<year>2009</year>. 
+<article-title>Aragonite undersaturation in the Arctic Ocean: Effects of ocean acidification and sea ice melt</article-title>. 
+<source>Science</source> 
+<volume>326</volume>(<issue>5956</issue>): 
+<fpage>1098</fpage>–<lpage>1100</lpage>. doi: 
+<pub-id pub-id-type="doi">10.1126/science.1174190</pub-id></mixed-citation>
+</ref>
+<ref id="bibr049">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Zhang</surname><given-names>J</given-names></name>, 
+<name name-style="western"><surname>Spitz</surname><given-names>YH</given-names></name>, 
+<name name-style="western"><surname>Steele</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>Ashjian</surname><given-names>C</given-names></name>, 
+<name name-style="western"><surname>Campbell</surname><given-names>R</given-names></name>, <etal>et al.</etal> 
+<year>2010</year>. 
+<article-title>Modeling the impact of declining sea ice on the Arctic marine planktonic ecosystem</article-title>. 
+<source>J Geophys Res</source> <volume>115</volume>: <fpage>C10015</fpage>.</mixed-citation>
+</ref>
+</ref-list></back>
+</article>

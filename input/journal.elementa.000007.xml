@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="commentary" dtd-version="1.0" xml:lang="en">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">BioOne</journal-id>
+<journal-id journal-id-type="journal-id">Elementa</journal-id>
+<journal-title-group>
+<journal-title>Elementa</journal-title>
+<journal-subtitle>Science of the Anthropocene</journal-subtitle>
+<abbrev-journal-title>Elem. Sci. Anth.</abbrev-journal-title>
+</journal-title-group>
+<contrib-group>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Helmig</surname><given-names>Detlev</given-names></name>
+<xref ref-type="aff" rid="affa"/>
+<role>Editor-in-Chief: Atmospheric Science</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/detlev-helmig/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Blum</surname><given-names>Joel D.</given-names></name>
+<xref ref-type="aff" rid="affb"/>
+<role>Editor-in-Chief: Earth &amp; Environmental Science</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/joel-d-blum/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Zak</surname><given-names>Donald R.</given-names></name>
+<xref ref-type="aff" rid="affb"/>
+<role>Editor-in-Chief: Ecology</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/donald-r-zak/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Deming</surname><given-names>Jody W.</given-names></name>
+<xref ref-type="aff" rid="affc"/>
+<role>Editor-in-Chief: Ocean Science</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/jody-w-deming/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Chang</surname><given-names>Michael E.</given-names></name>
+<xref ref-type="aff" rid="affd"/>
+<role>Editor-in-Chief: Sustainable Engineering</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/michael-e-chang/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Kapuscinski</surname><given-names>Anne</given-names></name>
+<xref ref-type="aff" rid="affe"/>
+<role>Editor-in-Chief: Sustainability Transitions</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/anne-kapuscinski/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Peart</surname><given-names>David R.</given-names></name>
+<xref ref-type="aff" rid="affe"/>
+<role>Editor-in-Chief: Sustainability Transitions</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/david-r-peart/</uri>
+</contrib>
+</contrib-group>
+<aff id="affa">
+<institution>University of Colorado Boulder</institution>
+<country>United States</country>
+</aff>
+<aff id="affb">
+<institution>University of Michigan</institution>
+<country>United States</country>
+</aff>
+<aff id="affc">
+<institution>University of Washington</institution>
+<country>United States</country>
+</aff>
+<aff id="affd">
+<institution>Georgia Institute of Technology</institution>
+<country>United States</country>
+</aff>
+<aff id="affe">
+<institution>Dartmouth</institution>
+<country>United States</country>
+</aff>
+<issn pub-type="epub">2325-1026</issn>
+<publisher>
+<publisher-name>BioOne</publisher-name>
+<publisher-loc>21 Dupont Circle NW, Suite 800, Washington, DC 20036, United States<email>team@elementascience.org</email>
+<uri>http://bioone.org</uri><uri>http://elementascience.org</uri>
+</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">ELEMENTA-D-13-00015</article-id>
+<article-id pub-id-type="doi">10.12952/journal.elementa.000007</article-id>
+<article-categories>
+<subj-group subj-group-type="article-type">
+<subject>Commentary</subject>
+</subj-group>
+<subj-group subj-group-type="domain">
+<subject>Ocean Science</subject>
+</subj-group>
+<subj-group subj-group-type="classification">
+<subject>Ocean Science</subject>
+<subj-group>
+<subject>Chemical Oceanography</subject>
+</subj-group>
+</subj-group>
+</article-categories>
+<title-group><article-title>Building an integrated coastal ocean acidification monitoring network in the U.S.</article-title>
+<alt-title alt-title-type="short-title">Monitoring coastal ocean acidification in the U.S.</alt-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Mathis</surname><given-names>Jeremy T.</given-names></name>
+<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+<xref ref-type="corresp" rid="cor1"><sup>*</sup></xref>
+</contrib>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Feely</surname><given-names>Richard A.</given-names></name>
+<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+</contrib>
+</contrib-group>
+<aff id="aff1"><label>1</label>
+<institution>NOAA/Pacific Marine Environmental Laboratory</institution>, <addr-line content-type="city">Seattle</addr-line>, <addr-line content-type="state">Washington</addr-line>, <country>United States</country></aff>
+<contrib-group>
+<contrib contrib-type="domain-editor-in-chief" xlink:type="simple">
+<name name-style="western"><surname>Deming</surname><given-names>Jody W.</given-names></name>
+<role>Domain Editor-in-Chief</role>
+<xref ref-type="aff" rid="afff"/>
+</contrib>
+</contrib-group>
+<aff id="afff">
+<institution content-type="dept">Department of Biological Oceanography</institution>
+<institution>University of Washington</institution>
+<addr-line content-type="city">Seattle</addr-line>
+<addr-line content-type="state">Washington</addr-line>
+<country>United States</country>
+</aff>
+<author-notes><corresp id="cor1"><label><sup>*</sup></label><email xlink:type="simple">jeremy.mathis@noaa.gov</email></corresp></author-notes>
+<pub-date pub-type="epub" iso-8601-date="2013-12-4">
+<day>4</day>
+<month>12</month>
+<year>2013</year>
+</pub-date>
+<volume content-type="volume">1</volume>
+<elocation-id>000007</elocation-id>
+<history>
+<date date-type="received" iso-8601-date="2013-09-05">
+<day>05</day>
+<month>09</month>
+<year>2013</year>
+</date>
+<date date-type="rev-recd">
+<day>08</day>
+<month>10</month>
+<year>2013</year>
+</date>
+<date date-type="accepted" iso-8601-date="2013-10-11">
+<day>11</day>
+<month>10</month>
+<year>2013</year>
+</date>
+</history>
+<permissions>
+<copyright-year>2013</copyright-year>
+<copyright-holder>Mathis and Feely</copyright-holder>
+<license license-type="open-access" xlink:type="simple">
+<license-p><open-access><p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</p>
+</open-access>
+</license-p>
+</license>
+</permissions>
+<kwd-group>
+<kwd>Ocean Acidification</kwd>
+<kwd>Monitoring Network</kwd>
+<kwd>Coastal Processes</kwd>
+</kwd-group>
+</article-meta>
+</front>
+<body>
+<sec id="s1"><title>Introduction</title>
+<p>Since the beginning of the Industrial Revolution, the release of carbon dioxide (CO<sub>2</sub>) from industrial and agricultural activities around the world has increased the amount of CO<sub>2</sub> in the atmosphere, leading to warming temperatures and changes in weather patterns and climate. However, a significant part of the potential atmospheric CO<sub>2</sub> increase has been naturally mitigated as the oceans have absorbed about 30% of all of the CO<sub>2</sub> released every year (<xref ref-type="bibr" rid="bibr013">Feely et al., 2013</xref>). This absorption has caused CO<sub>2</sub> inventories in the ocean to increase by billions of tons, especially in the last 50 to 100 years (<xref ref-type="bibr" rid="bibr030">Sabine and Tanhua, 2010</xref>). Initially, many scientists focused on the benefits of the ocean removing this greenhouse gas from the atmosphere, until the downside became dramatically obvious in the past few decades (e.g., <xref ref-type="bibr" rid="bibr010">Feely et al., 2004</xref>, <xref ref-type="bibr" rid="bibr012">2009</xref>; <xref ref-type="bibr" rid="bibr023">Orr et al., 2005</xref>; <xref ref-type="bibr" rid="bibr009">Fabry et al., 2008</xref>; <xref ref-type="bibr" rid="bibr007">Doney et al., 2009</xref>). Observations made by hundreds of scientists at thousands of locations have unambiguously shown that CO<sub>2</sub> absorbed by the ocean is changing the fundamental chemistry of the seawater through a process called Ocean Acidification (OA; e.g., <xref ref-type="bibr" rid="bibr004">Caldeira and Wickett, 2003</xref>, <xref ref-type="bibr" rid="bibr005">2005</xref>; <xref ref-type="bibr" rid="bibr012">Feely et al., 2009</xref>; <xref ref-type="bibr" rid="bibr020">Mathis et al., 2011</xref>).</p>
+<p>When CO<sub>2</sub> is absorbed by seawater, chemical reactions occur that reduce seawater pH and saturation states of biologically important calcium carbonate minerals, such as calcite and aragonite, which are the essential building blocks for the skeletons and shells of many marine organisms. Prior to mankind’s release of CO<sub>2</sub> into the environment, most areas of the surface ocean were supersaturated with respect to calcium carbonate minerals. This supersaturation means that there was abundant material for calcifying organisms to build their skeletons and shells. Since then, the pH of surface ocean waters has fallen by an average of 0.1 pH units, which represents a 30% increase in seawater acidity (e.g., <xref ref-type="bibr" rid="bibr012">Feely et al., 2009</xref>; <xref ref-type="bibr" rid="bibr003">Byrne et al., 2010</xref>). Future predictions indicate that if the oceans continue to absorb CO<sub>2</sub> based on business-as-usual emission scenarios, they will be 150% more acidic by the end of this century. This scenario would lead to pH levels that the oceans have not experienced for more than 20 million years (<xref ref-type="bibr" rid="bibr016">Hönisch et al., 2012</xref>), when CO<sub>2</sub> levels were naturally very high in the atmosphere and marine calcifying species such as coral reefs, crabs, and oysters were severely limited in their geographic range or completely non-existent (<xref ref-type="bibr" rid="bibr027">Pörtner et al., 2004</xref>; <xref ref-type="bibr" rid="bibr025">Payne and Clapham, 2012</xref>).</p>
+<p>The problem of OA is particularly disconcerting for coastal areas where nearly all ocean-based economic and subsistence activities occur within a few hundred kilometers of shore (<xref ref-type="bibr" rid="bibr006">Cooley and Doney, 2009</xref>). These areas are already under threat from multiple stressors, such as overfishing, pollution, and hypoxia brought on by eutrophication (<xref ref-type="bibr" rid="bibr026">Pörtner, 2012</xref>; <xref ref-type="bibr" rid="bibr032">Whittman and Pörtner, 2013</xref>). On a local scale, the combined effects from OA and other natural and anthropogenic processes have already led to failures in hatcheries that rear larval shellfish (e.g., <xref ref-type="bibr" rid="bibr001">Barton et al., 2012</xref>) and caused the degradation and destruction of some planktonic shells (e.g., <xref ref-type="bibr" rid="bibr002">Bednaršek et al., 2012</xref>). While direct organismal impacts have been limited to date, over 1 billion people derive 100% of their protein supply directly from the ocean. Although there is a great deal of variability in organismal responses, even within the same groups, several commercial and subsistence species have shown a low tolerance to OA conditions that are already present at certain times of the year (<xref ref-type="bibr" rid="bibr018">Kroeker et al., 2013</xref>; <xref ref-type="bibr" rid="bibr032">Whittman and Pörtner, 2013</xref>) and will only worsen in the coming decades. Given the variability in ecosystem responses to OA, there will likely be both winners and losers throughout the marine environment. In the U.S., fisheries from the Bering Sea to the Gulf of Maine are at risk from this potentially looming stressor. There is a critical need for intensive time series measurements and repeat hydrographic cruises in high productivity coastal and estuarine systems, as CO<sub>2</sub> and carbonate ion concentrations in these waters can vary substantially on time scales from hours to decades due to tides, photosynthesis, terrestrial inputs, and ocean circulation patterns.</p></sec>
+<sec id="s2"><title>Building an observing network</title>
+<p>The existing coastal OA observing network in the U.S. has been largely built and sustained by the National Oceanic and Atmospheric Administration (NOAA) through partnerships with academic institutions around the county (<xref ref-type="fig" rid="elementa.000007.f001">Figure 1</xref>). The observation network consists of hydrographic surveys, mooring time series sites, ship-based and autonomous underway observations, and focused laboratory studies that have created a robust foundation in our understanding of OA. The major challenge going forward will be to determine where assets need to be placed around the U.S. to best meet the needs of regional stakeholders, especially in the context of shrinking federal and state budgets. The only viable solution to this problem is to effectively integrate the resources that are available through a cohesive network, where measurements and process studies are complementary to one other. This goal can be achieved by focusing on and integrating four critical aspects of OA in coastal regions: 1) spatial extent, 2) temporal duration, 3) level of intensity, and 4) biological responses.</p>
+<fig id="elementa.000007.f001" position="float">
+<object-id pub-id-type="doi">10.12952/journal.elementa.000007.f001</object-id>
+<label>Figure 1</label> <caption><title>Map showing the locations of current U.S. coastal assets that represent the ocean acidification network.</title><p>Red dots represent moorings that are currently deployed. Green dots show future mooring locations. Yellow triangles show the locations where OA measurements are routinely made during time-series cruises or from non-moored fixed platforms. Green lines show the location of cruises where underway measurements are made from volunteer observing ships (VOS) and ships of opportunity (SOO). Blue lines show the location of dedicated hydrographic cruises. Much of the data collected from these assets can be found at <uri>http://www.pmel.noaa.gov/co2/story/Ocean+Acidification</uri>.</p></caption>
+<graphic position="float" mimetype="image" xlink:type="simple" xlink:href="info:doi/10.12952/journal.elementa.000007.f001"/></fig>
+<p>We currently have the tools and capabilities to constrain the observational aspects of coastal OA, although we are limited in our geographic scope due to the current size of the monitoring network. The spatial extent of OA events can be quantified using a combination of hydrographic surveys and underway measurements of the carbonate system and pH. A major emphasis that is currently being undertaken is the expansion of the ship- and glider-based observation programs by adding pH and other biogeochemical measurements to provide important information on the changing conditions in coastal waters, which can have a high degree of spatial variability. One of the most exciting developments in the past few years has been the addition of autonomous wave gliders to the pool of instruments capable of measuring OA (<xref ref-type="fig" rid="elementa.000007.f002">Figure 2</xref>). These gliders can operate independently and be deployed for months at a time while covering thousands of square miles with very high spatial resolution. Up to now, these gliders have been used to supplement ship-based observations (to be described in future publications), but they may become the workhorses for constraining the spatial extent of OA in the U.S. coastal regions and estuarine environments that are grossly under-sampled.</p>
+<fig id="elementa.000007.f002" position="float">
+<object-id pub-id-type="doi">10.12952/journal.elementa.000007.f002</object-id>
+<label>Figure 2</label> <caption><title>An example (data have not been fully verified) of the integration of data from four different OA platforms off the U.S. West Coast where <italic>p</italic>CO<sub>2</sub> (µatm) measurements were made in 2012.</title>
+<p>A) surface underway <italic>p</italic>CO<sub>2</sub> data from a hydrographic survey cruise, B) surface wave glider <italic>p</italic>CO<sub>2</sub> data, C) <italic>p</italic>CO<sub>2</sub> along the Oregon coast calculated from dissolved inorganic carbon (DIC) and total alkalinity (TA) measurements taken from CTD hydrocasts, and D) surface <italic>p</italic>CO<sub>2</sub> data from a mooring off of the Washington coast.</p></caption>
+<graphic position="float" mimetype="image" xlink:type="simple" xlink:href="info:doi/10.12952/journal.elementa.000007.f002"/>
+</fig>
+<p>As the scope of autonomous glider operations expand, it will still be necessary to conduct dedicated hydrographic cruises where discrete carbonate measurements can be made. Currently, these cruises are conducted along the U.S. East and West coasts approximately every other year, and they have provided valuable new insights into the spatial variability of OA (<xref ref-type="bibr" rid="bibr011">Feely et al., 2008</xref>; <xref ref-type="bibr" rid="bibr021">Mathis et al., 2012</xref>; <xref ref-type="bibr" rid="bibr031">Wang et al., 2013</xref>). Off the West Coast, subsurface waters from intermediate depths (∼120–250 m) are upwelled along the coast, generally during the months of April through September. These “upwelled waters” are naturally rich in CO<sub>2</sub> and lower in pH than the waters they replace. This naturally high-CO<sub>2</sub> condition is exacerbated by the uptake of anthropogenic CO<sub>2</sub> at the surface and can lead to regions of aragonite undersaturation at or near the surface. Over the past few years, seawater undersaturated with respect to aragonite has been observed upwelling onto large portions of the continental shelf, reaching depths of approximately 40–120 m along most of the West Coast and all the way to the surface off of northern California and parts of Oregon (<xref ref-type="bibr" rid="bibr011">Feely et al., 2008</xref>; <xref ref-type="bibr" rid="bibr015">Harris et al., 2013</xref>).</p>
+<p>While seasonal upwelling of the undersaturated waters onto the shelf is a natural phenomenon in this region, the oceanic uptake of anthropogenic CO<sub>2</sub> has increased the areal extent of the affected area, which will only expand as CO<sub>2</sub> levels continue to rise. The combination of natural processes and anthropogenic CO<sub>2</sub> may make the coastal marine ecosystem on the U.S. West Coast particularly vulnerable to OA impacts, which have already led to the near total failure of developing oysters in both aquaculture facilities and natural ecosystems along the Washington and Oregon coast (<xref ref-type="bibr" rid="bibr001">Barton et al., 2012</xref>). Going forward, there is a critical need to maintain these cruises and expand the regional coverage to include the Gulf of Mexico and waters around Alaska with an observational frequency of once every three to four years for each region. These cruises, when supplemented with wave glider surveys, will continue to provide key insights into the spatial extent of OA, even though they are limited in their ability to evaluate the temporal scale of low pH events. Fortunately, we have the other tools to deal with this aspect of the problem.</p>
+<p>The temporal extent of OA events can be extremely important in the coastal ocean due to the life cycles and tolerance levels of sensitive organisms. Preliminary studies have shown that some larval and juvenile organisms can have lower resiliency when exposed to water that is corrosive to carbonate shells, so the timing of onset and duration of undersaturated conditions can be critical (e.g., <xref ref-type="bibr" rid="bibr024">Parker et al., 2012</xref>; <xref ref-type="bibr" rid="bibr019">Long et al., 2013</xref>; <xref ref-type="bibr" rid="bibr032">Whittman and Pörtner, 2013</xref>). OA measurements in the coastal ocean have shown significant biogeochemical variability over a wide range of timescales from sub-diurnal to decadal periods. Therefore, time series records are essential for characterizing the natural variability and secular trends in OA and for determining the physical and biological mechanisms controlling the coastal carbonate system. The biological and chemical responses to natural perturbations are particularly important with regard to evaluating potential responses to anthropogenic forcing because, in many cases, the natural variability can be several times greater than the change induced from anthropogenic inputs. Instrumental advances over the past 15 years have allowed for the deployment of completely autonomous moorings capable of sampling properties of chemical, biological, and physical interests with resolutions as good as a minute, with durations of a year or more.</p>
+<p>To quantify both short-term variability and long-term trends, a number of autonomous sensors have been developed that can quantify the carbonate system, particularly the partial pressure of CO<sub>2</sub> (<italic>p</italic>CO<sub>2</sub>) and pH, along with ancillary measurements like temperature, salinity, dissolved oxygen, and nitrate, which also provide important biogeochemical data relevant to OA. In the past five years, these sensors have been deployed on a number of moorings around the coastal U.S. in a variety of environments (<xref ref-type="fig" rid="elementa.000007.f001">Figure 1</xref>). <italic>In situ</italic> measurements from these moorings are already providing a growing body of evidence that episodic phenomena are extremely important causes of variability to CO<sub>2</sub>/low pH events and the related biogeochemical processes that they induce (<xref ref-type="fig" rid="elementa.000007.f002">Figure 2</xref>). The data have begun to show that there is a great deal of variability in the duration and extent of OA events across different regions (<xref ref-type="bibr" rid="bibr015">Harris et al., 2013</xref>; <xref ref-type="bibr" rid="bibr022">Mathis et al., 2013</xref>).</p>
+<p>To better coordinate these activities, an international effort to build a Global Ocean Acidification Observing Network (GOA-ON) was started in Seattle during a workshop in June 2012. Sixty-two scientists from twenty-three counties came together and developed three primary goals for GOA-ON: 1) identify spatial/temporal patterns and assess generality of response, document and assess variation to infer driving mechanisms and quantify rates of change in the marine environment; 2) measure biological responses to physical/chemical changes, quantify these rates of change and identify areas of vulnerability; and 3) provide spatially and temporally resolved data for model conditions and evaluations. A year later, a second meeting was held in St. Andrews, Scotland, where eighty-five scientists from twenty-eight counties worked together to further define the framework of GOA-ON and develop an implementation plan. Over the next few years, the integration and synthesis of data from this network should provide new insights into OA processes, particularly in coastal regions.</p></sec>
+<sec id="s3"><title>Monitoring ecosystem changes</title>
+<p>A recent study in the Bering Sea (<xref ref-type="bibr" rid="bibr022">Mathis et al., 2013</xref>) showed that aragonite can become undersaturated in the bottom waters over the continental shelf for at least four months each year. While cruise data had shown that low saturation states do occur in the Bering Sea (<xref ref-type="bibr" rid="bibr021">Mathis et al., 2012</xref>), the continuous data from the mooring quantified the duration of the event and the level of intensity, as aragonite saturation state had not reached its minimum during the period of direct cruise observations in the region. This ability to meet the need to evaluate spatial extent, duration and intensity of undersaturation clearly shows the importance of using these platforms (cruises and mooring) in tandem.</p>
+<p>The continuous data collected from the existing coastal OA moorings are also critical in evaluating the prognostic models used in OA projections (e.g., <xref ref-type="bibr" rid="bibr029">Rykaczewski and Dunne, 2010</xref>; <xref ref-type="bibr" rid="bibr014">Gruber et al., 2012</xref>). Model outputs can span entire coastlines, but they must be validated both spatially and temporally. Ship-based time series measurements are impractical and too costly for routinely measuring variability over intervals from a week to a month, which is necessary for model validation, so it will be necessary to rely on moorings to provide these data. Although these new mooring technologies are still underutilized, along with autonomous gliders they represent our best chance to quantify OA at the necessary resolution for model forecasting, which is a critical need for coastal stakeholders.</p>
+<p>Another important breakthrough in the past few years that will also improve our understanding of spatial and temporal variability in the coastal ocean is the development of empirical algorithms that can estimate carbonate chemistry based on a limited number of fairly routine oceanographic measurements such as temperature, dissolved oxygen, and nitrate (<xref ref-type="bibr" rid="bibr017">Juranek et al., 2009</xref>; <xref ref-type="bibr" rid="bibr008">Evans et al., 2013</xref>). The cost of deploying a fully outfitted OA mooring that can directly measure the carbonate system can exceed $150,000. However, by deploying sensors that just measure basic parameters of temperature, salinity and oxygen, the cost can go down by a substantial amount. While the use of these algorithms will not replace fully outfitted OA moorings, they do offer a way to increase the spatial coverage, particularly in areas of high variability. One weakness of the algorithms is that they must be updated every 3–5 years with discrete measurements of the carbonate system, which can only be obtained through hydrographic cruises, further reinforcing the need to continue these activities.</p></sec>
+<sec id="s4"><title>Summary</title>
+<p>We certainly have the tools in the toolbox to build a fully integrated coastal observing network that can constrain the spatial extent, temporal duration, and intensity of OA. However, the observations of ocean biogeochemistry have to be made with a directed focus toward biological impacts on organisms that are commercially important or keystone species in the food web. Laboratory-based experiments have been underway for several years to study the impacts on both calcifying and non-calcifying organisms when exposed to high CO<sub>2</sub> conditions. These studies have been successful in many ways yet only provide a first approximation in our understanding of how OA will impact ocean biology due to biases that can be introduced in laboratory settings. To alleviate these issues, laboratory-based studies should be supplemented with <italic>in situ</italic> incubation studies that are done simultaneously during survey cruises, so that the biological manipulations can be more directly integrated with realistic environmental conditions. Additionally, new technological advances have allowed some of the laboratory-based experiments to be moved into actual ocean environments, where certain parameters (like CO<sub>2</sub> levels) can be manipulated while allowing organisms to be reared under more natural conditions. These mesocosm experiments have been shown to be very successful (e.g., <xref ref-type="bibr" rid="bibr028">Riebesell et al., 2007</xref>) by European scientists and would be an invaluable tool for evaluating OA responses in U.S. coastal ecosystems.</p>
+<p>Quantifying the extent, duration, intensity, and biological impacts of OA along the expansive U.S. coastline is going to be a challenging and expensive undertaking. However, when one considers the billions of dollars in economic revenue at stake and the cultural identities that are at risk from the impacts on fisheries around the country, including loss of fisheries, there is really no choice but to continue to develop and expand the U.S. OA monitoring effort. Doing so will take multilateral integration between a number of scientific, stakeholder, and policy groups, and each region will require a unique strategy for dealing with the consequences of OA. In general, though, we should follow through with the basic concept of deploying integrated complementary platforms that can provide a holistic view of OA, as shown in <xref ref-type="fig" rid="elementa.000007.f002">Figure 2</xref>.</p>
+<p>Utilizing this framework, we would deploy a fully outfitted OA mooring with several other smaller moorings in the region, while the area is routinely surveyed by autonomous wave gliders (weeks to months) and hydrographic cruises (every 3–4 years) that include <italic>in situ</italic> biological manipulation experiments of sensitive organisms specific to that region. These data would then feed directly into the validation of OA forecast models and empirical relationships that provide the baseline understanding for supporting laboratory-based manipulation experiments with organisms and deploying ocean mesocosm experiments when key species vulnerabilities are identified. By employing this holistic approach, we may finally be able to determine the impact of OA in U.S. coastal waters and quantify the economic and societal costs.</p>
+</sec>
+<sec id="s5" sec-type="copyright-statement"><title>Copyright</title>
+<p>© 2013 Mathis and Feely. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</p></sec>
+</body>
+<back>
+<ref-list content-type="parsed"><title>References</title>
+<ref id="bibr001">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Barton</surname><given-names>A</given-names></name>, 
+<name name-style="western"><surname>Hales</surname><given-names>B</given-names></name>, 
+<name name-style="western"><surname>Waldbusser</surname><given-names>GG</given-names></name>, 
+<name name-style="western"><surname>Langdon</surname><given-names>C</given-names></name>, 
+<name name-style="western"><surname>Feely</surname><given-names>RA</given-names></name>. 
+<year>2012</year>. 
+<article-title>The Pacific oyster, <italic>Crassostrea gigas</italic>, shows negative correlation to naturally elevated carbon dioxide levels: Implications for near-term ocean acidification effects</article-title>. 
+<source>Limnol. Oceanogr.</source> 
+<volume>57</volume>(<issue>3</issue>): 
+<fpage>698</fpage>–<lpage>710</lpage>.doi: 
+<pub-id pub-id-type="doi">10.4319/lo.2012.57.3.0698</pub-id></mixed-citation>
+</ref>
+<ref id="bibr002">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Bednaršek</surname><given-names>N</given-names></name>, 
+<name name-style="western"><surname>Tarling</surname><given-names>GA</given-names></name>, 
+<name name-style="western"><surname>Bakker</surname><given-names>DCE</given-names></name>, 
+<name name-style="western"><surname>Fielding</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Jones</surname><given-names>EM</given-names></name>, <etal>et al.</etal> 
+<year>2012</year>. 
+<article-title>Extensive dissolution of live pteropods in the Southern Ocean</article-title>. 
+<source>Nature Geosci.</source> 
+<volume>5</volume>: 
+<fpage>881</fpage>–<lpage>885</lpage>. doi: 
+<pub-id pub-id-type="doi">10.1038/ngeo1635</pub-id></mixed-citation>
+</ref>
+<ref id="bibr003">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Byrne</surname><given-names>RH</given-names></name>, 
+<name name-style="western"><surname>Meckling</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Feely</surname><given-names>RA</given-names></name>, 
+<name name-style="western"><surname>Liu</surname><given-names>X</given-names></name>. 
+<year>2010</year>. 
+<article-title>Direct observations of basin-wide acidification of the North Pacific Ocean</article-title>. 
+<source>Geophys. Res. Lett.</source> 
+<volume>37</volume>: <fpage>L02601</fpage>. doi:
+<pub-id pub-id-type="doi">10.1029/2009GL040999</pub-id>.</mixed-citation>
+</ref>
+<ref id="bibr004">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Caldeira</surname><given-names>K</given-names></name>, 
+<name name-style="western"><surname>Wickett</surname><given-names>ME</given-names></name>. 
+<year>2003</year>. 
+<article-title>Anthropogenic carbon and ocean pH</article-title>. 
+<source>Nature</source><volume>425</volume>(<issue>6956</issue>): 
+<fpage>365</fpage>. doi:
+<pub-id pub-id-type="doi">10.1038/425365a</pub-id></mixed-citation>
+</ref>
+<ref id="bibr005">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Caldeira</surname><given-names>K</given-names></name>, 
+<name name-style="western"><surname>Wickett</surname><given-names>ME</given-names></name>. 
+<year>2005</year>. 
+<article-title>Ocean model predictions of chemistry changes from carbon dioxide emissions to the atmosphere and ocean</article-title>. 
+<source>J. Geophys. Res.</source> 
+<volume>110</volume>: <fpage>C09S04</fpage>. doi:
+<pub-id pub-id-type="doi">10.1029/2004JC002671</pub-id></mixed-citation>
+</ref>
+<ref id="bibr006">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Cooley</surname><given-names>SR</given-names></name>, 
+<name name-style="western"><surname>Doney</surname><given-names>SC</given-names></name>. 
+<year>2009</year>. 
+<article-title>Anticipating ocean acidification’s economic consequences for commercial fisheries</article-title>. 
+<source>Environ. Res. Lett.</source> 
+<volume>4</volume>(<issue>2</issue>). doi: 
+<pub-id pub-id-type="doi">10.1088/1748-9326/4/2/024007</pub-id></mixed-citation>
+</ref>
+<ref id="bibr007">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Doney</surname><given-names>SC</given-names></name>, 
+<name name-style="western"><surname>Balch</surname><given-names>WM</given-names></name>, 
+<name name-style="western"><surname>Fabry</surname><given-names>VJ</given-names></name>, 
+<name name-style="western"><surname>Feely</surname><given-names>RA</given-names></name>. 
+<year>2009</year>. 
+<article-title>Ocean acidification: A critical emerging problem for the ocean sciences</article-title>. 
+<source>Oceanography</source> 
+<volume>22</volume>(<issue>4</issue>): 
+<fpage>16</fpage>–<lpage>25</lpage>. doi:
+<pub-id pub-id-type="doi">10.5670/oceanog.2009.93</pub-id></mixed-citation>
+</ref>
+<ref id="bibr008">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Evans</surname><given-names>W</given-names></name>, 
+<name name-style="western"><surname>Mathis</surname><given-names>JT</given-names></name>, 
+<name name-style="western"><surname>Winsor</surname><given-names>P</given-names></name>, 
+<name name-style="western"><surname>Statscewich</surname><given-names>H</given-names></name>, 
+<name name-style="western"><surname>Whitledge</surname><given-names>TE</given-names></name>. 
+<year>2013</year>. 
+<article-title>A regression modeling approach for studying carbonate system variability in the Northern Gulf of Alaska</article-title>. 
+<source>J. Geophys. Res.</source> 
+<volume>118</volume>: 
+<fpage>476</fpage>–<lpage>489</lpage>. doi:
+<pub-id pub-id-type="doi">10.1029/2012JC008246</pub-id></mixed-citation>
+</ref>
+<ref id="bibr009">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Fabry</surname><given-names>VJ</given-names></name>, 
+<name name-style="western"><surname>Seibel</surname><given-names>BA</given-names></name>, 
+<name name-style="western"><surname>Feely</surname><given-names>RA</given-names></name>, 
+<name name-style="western"><surname>Orr</surname><given-names>JC</given-names></name>. 
+<year>2008</year>. 
+<article-title>Impacts of ocean acidification on marine fauna and ecosystem processes</article-title>. 
+<source>ICES J. Mar. Sci.</source> 
+<volume>65</volume>(<issue>3</issue>): 
+<fpage>414</fpage>–<lpage>432</lpage>. doi:
+<pub-id pub-id-type="doi">10.1093/icesjms/fsn048</pub-id></mixed-citation>
+</ref>
+<ref id="bibr010">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Feely</surname><given-names>RA</given-names></name>, 
+<name name-style="western"><surname>Sabine</surname><given-names>CL</given-names></name>, 
+<name name-style="western"><surname>Lee</surname><given-names>K</given-names></name>, 
+<name name-style="western"><surname>Berelson</surname><given-names>W</given-names></name>, 
+<name name-style="western"><surname>Kleypas</surname><given-names>J</given-names></name>, <etal>et al.</etal> 
+<year>2004</year>. 
+<article-title>Impact of anthropogenic CO<sub>2</sub> on the CaCO<sub>3</sub> system in the oceans</article-title>. 
+<source>Science</source> 
+<volume>305</volume>(<issue>5682</issue>): 
+<fpage>362</fpage>–<lpage>366</lpage>. doi:
+<pub-id pub-id-type="doi">10.1126/science.1097329</pub-id></mixed-citation>
+</ref>
+<ref id="bibr011">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Feely</surname><given-names>RA</given-names></name>, 
+<name name-style="western"><surname>Sabine</surname><given-names>CL</given-names></name>, 
+<name name-style="western"><surname>Hernandez-Ayon</surname><given-names>JM</given-names></name>, 
+<name name-style="western"><surname>Ianson</surname><given-names>D</given-names></name>, 
+<name name-style="western"><surname>Hales</surname><given-names>B</given-names></name>. 
+<year>2008</year>. 
+<article-title>Evidence for upwelling of corrosive “acidified” water onto the continental shelf</article-title>. 
+<source>Science</source> 
+<volume>320</volume>(<issue>5882</issue>): 
+<fpage>1490</fpage>–<lpage>1492</lpage>. doi:
+<pub-id pub-id-type="doi">10.1126/science.1155676</pub-id></mixed-citation>
+</ref>
+<ref id="bibr012">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Feely</surname><given-names>RA</given-names></name>, 
+<name name-style="western"><surname>Doney</surname><given-names>SC</given-names></name>, 
+<name name-style="western"><surname>Cooley</surname><given-names>SR</given-names></name>. 
+<year>2009</year>. 
+<article-title>Ocean acidification: Present conditions and future changes in a high-CO<sub>2</sub> world</article-title>. 
+<source>Oceanography</source> 
+<volume>22</volume>: 
+<fpage>36</fpage>–<lpage>47</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr013">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Feely</surname><given-names>RA</given-names></name>, 
+<name name-style="western"><surname>Wanninkhof</surname><given-names>R</given-names></name>, 
+<name name-style="western"><surname>Sabine</surname><given-names>CL</given-names></name>, 
+<name name-style="western"><surname>Mathis</surname><given-names>JT</given-names></name>, 
+<name name-style="western"><surname>Takahashi</surname><given-names>T</given-names></name>, <etal>et al.</etal> 
+<year>2013</year>. 
+<article-title>Global ocean carbon cycle, in “State of the Climate in 2012, Global Oceans.”</article-title> 
+<source>Bull. Am. Meteorol. Soc.</source> 
+<volume>94</volume>(<issue>8</issue>): 
+<fpage>S72</fpage>–<lpage>S75</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr014">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Gruber</surname><given-names>N</given-names></name>, 
+<name name-style="western"><surname>Hauri</surname><given-names>C</given-names></name>, 
+<name name-style="western"><surname>Lachkar</surname><given-names>Z</given-names></name>, 
+<name name-style="western"><surname>Loher</surname><given-names>D</given-names></name>, 
+<name name-style="western"><surname>Frölicher</surname><given-names>TL</given-names></name>, <etal>et al.</etal> 
+<year>2012</year>. 
+<article-title>Rapid progression of ocean acidification in the California Current system</article-title>. 
+<source>Science</source> 
+<volume>337</volume>: 
+<fpage>220</fpage>–<lpage>223</lpage>. doi:
+<pub-id pub-id-type="doi">10.1126/science.1216773</pub-id></mixed-citation>
+</ref>
+<ref id="bibr015">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Harris</surname><given-names>KE</given-names></name>, 
+<name name-style="western"><surname>DeGrandpre</surname><given-names>MD</given-names></name>, 
+<name name-style="western"><surname>Hales</surname><given-names>B</given-names></name>. 
+<year>2013</year>. 
+<article-title>Aragonite saturation state dynamics in a coastal upwelling zone</article-title>. 
+<source>Geophys. Res. Lett.</source> 
+<volume>40</volume>(<issue>11</issue>): 
+<fpage>2720</fpage>–<lpage>2725</lpage>. doi:
+<pub-id pub-id-type="doi">10.1002/grl.50460</pub-id></mixed-citation>
+</ref>
+<ref id="bibr016">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Hönisch</surname><given-names>B</given-names></name>, 
+<name name-style="western"><surname>Ridgwell</surname><given-names>A</given-names></name>, 
+<name name-style="western"><surname>Schmidt</surname><given-names>DN</given-names></name>, 
+<name name-style="western"><surname>Thomas</surname><given-names>E</given-names></name>, 
+<name name-style="western"><surname>Gibbs</surname><given-names>SJ</given-names></name>, <etal>et al.</etal> 
+<year>2012</year>. 
+<article-title>The geological record of ocean acidification</article-title>. 
+<source>Science</source> 
+<volume>335</volume>: 
+<fpage>1058</fpage>–<lpage>1063</lpage>. doi: 
+<pub-id pub-id-type="doi">10.1126/science.1208277</pub-id></mixed-citation>
+</ref>
+<ref id="bibr017">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Juranek</surname><given-names>LW</given-names></name>, 
+<name name-style="western"><surname>Feely</surname><given-names>RA</given-names></name>, 
+<name name-style="western"><surname>Peterson</surname><given-names>WT</given-names></name>, 
+<name name-style="western"><surname>Alin</surname><given-names>SR</given-names></name>, 
+<name name-style="western"><surname>Hales</surname><given-names>B</given-names></name>, <etal>et al.</etal> 
+<year>2009</year>. 
+<article-title>A novel method for determination of aragonite saturation state on the continental shelf of central Oregon using multi-parameter relationships with hydrographic data</article-title>. 
+<source>Geophys. Res. Lett.</source> 
+<volume>36</volume>: <fpage>L24601</fpage>. doi:
+<pub-id pub-id-type="doi">10.1029/2009GL040778</pub-id></mixed-citation>
+</ref>
+<ref id="bibr018">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Kroeker</surname><given-names>KJ</given-names></name>, 
+<name name-style="western"><surname>Kordas</surname><given-names>RL</given-names></name>, 
+<name name-style="western"><surname>Crim</surname><given-names>R</given-names></name>, 
+<name name-style="western"><surname>Hendriks</surname><given-names>IE</given-names></name>, 
+<name name-style="western"><surname>Ramajo</surname><given-names>L</given-names></name>, <etal>et al.</etal> 
+<year>2013</year>. 
+<article-title>Impacts of ocean acidification on marine organisms: Quantifying sensitivities and interaction with warming</article-title>. 
+<source>Glob. Change Biol.</source> 
+<volume>19</volume>: 
+<fpage>1884</fpage>–<lpage>1896</lpage>. doi: 
+<pub-id pub-id-type="doi">10.1111/gcb.12179</pub-id></mixed-citation>
+</ref>
+<ref id="bibr019">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Long</surname><given-names>WC</given-names></name>, 
+<name name-style="western"><surname>Swiney</surname><given-names>KM</given-names></name>, 
+<name name-style="western"><surname>Foy</surname><given-names>RJ</given-names></name>. 
+<year>2013</year>. 
+<article-title>Effects of ocean acidification on the embryos and larvae of red king crab, <italic>Paralithodes camtschaticus</italic></article-title>. 
+<source>Mar. Pollut. Bull</source><volume>69</volume>: 
+<fpage>38</fpage>–<lpage>47</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr020">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Mathis</surname><given-names>JT</given-names></name>, 
+<name name-style="western"><surname>Cross</surname><given-names>JN</given-names></name>, 
+<name name-style="western"><surname>Bates</surname><given-names>NR</given-names></name>. 
+<year>2011</year>. 
+<article-title>The role of ocean acidification in systemic carbonate mineral suppression in the Bering Sea</article-title>. 
+<source>Geophys. Res. Lett.</source> 
+<volume>38</volume>: <fpage>L19602</fpage>. doi:
+<pub-id pub-id-type="doi">10.1029/2011GL048884</pub-id></mixed-citation>
+</ref>
+<ref id="bibr021">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Mathis</surname><given-names>JT</given-names></name>, 
+<name name-style="western"><surname>Pickart</surname><given-names>RS</given-names></name>, 
+<name name-style="western"><surname>Byrne</surname><given-names>RH</given-names></name>, 
+<name name-style="western"><surname>McNeil</surname><given-names>CL</given-names></name>, 
+<name name-style="western"><surname>Moore</surname><given-names>GWK</given-names></name>, <etal>et al.</etal> 
+<year>2012</year>. 
+<article-title>Storm-induced upwelling of high <italic>p</italic>CO<sub>2</sub> waters onto the continental shelf of the western Arctic Ocean and implications for carbonate mineral saturation states</article-title>. 
+<source>Geophys. Res. Lett.</source> 
+<volume>39</volume>(<issue>7</issue>): <fpage>L07606</fpage>. doi:
+<pub-id pub-id-type="doi">10.1029/2012GL051574</pub-id></mixed-citation>
+</ref>
+<ref id="bibr022">
+<mixed-citation publication-type="other">
+<name name-style="western"><surname>Mathis</surname><given-names>JT</given-names></name>, 
+<name name-style="western"><surname>Cross</surname><given-names>JN</given-names></name>, 
+<name name-style="western"><surname>Monacci</surname><given-names>N</given-names></name>, 
+<name name-style="western"><surname>Feely</surname><given-names>RA</given-names></name>, 
+<name name-style="western"><surname>Stabeno</surname><given-names>P</given-names></name>. 
+<year>2013</year>. 
+<article-title>Evidence of prolonged aragonite undersaturations in the bottom waters of the southern Bering Sea shelf from autonomous sensors</article-title>. 
+<source>Deep Sea Res. II</source>: in press. doi:
+<pub-id pub-id-type="doi">10.1016/j.dsr2.2013.07.019</pub-id></mixed-citation>
+</ref>
+<ref id="bibr023">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Orr</surname><given-names>JC</given-names></name>, 
+<name name-style="western"><surname>Fabry</surname><given-names>VJ</given-names></name>, 
+<name name-style="western"><surname>Aumont</surname><given-names>O</given-names></name>, 
+<name name-style="western"><surname>Bopp</surname><given-names>L</given-names></name>, 
+<name name-style="western"><surname>Doney</surname><given-names>SC</given-names></name>, <etal>et al.</etal> 
+<year>2005</year>. 
+<article-title>Anthropogenic ocean acidification over the twenty-first century and its impact on calcifying organisms</article-title>. 
+<source>Nature</source> 
+<volume>437</volume>(<issue>7059</issue>): 
+<fpage>681</fpage>–<lpage>686</lpage>. doi:
+<pub-id pub-id-type="doi">10.1038/nature04095</pub-id></mixed-citation>
+</ref>
+<ref id="bibr024">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Parker</surname><given-names>LM</given-names></name>, 
+<name name-style="western"><surname>Ross</surname><given-names>PM</given-names></name>, 
+<name name-style="western"><surname>O’Connor</surname><given-names>WA</given-names></name>, 
+<name name-style="western"><surname>Borysko</surname><given-names>L</given-names></name>, 
+<name name-style="western"><surname>Raftos</surname><given-names>DA</given-names></name>, <etal>et al.</etal> 
+<year>2012</year>. 
+<article-title>Adult exposure influences offspring response to ocean acidification in oysters</article-title>. 
+<source>Glob. Change Biol.</source> 
+<volume>18</volume>: 
+<fpage>82</fpage>–<lpage>92</lpage>. doi: 
+<pub-id pub-id-type="doi">10.1111/j.1365-2486.2011.02520.x</pub-id></mixed-citation>
+</ref>
+<ref id="bibr025">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Payne</surname><given-names>JL</given-names></name>, and 
+<name name-style="western"><surname>Clapham</surname><given-names>ME</given-names></name>. 
+<year>2012</year>. 
+<article-title>End-Permian mass extinction in the oceans: An ancient analog for the twenty-first century?</article-title> 
+<source>Annu. Rev. Earth Planet. Sci.</source> 
+<volume>40</volume>: 
+<fpage>89</fpage>–<lpage>111</lpage>. doi: 
+<pub-id pub-id-type="doi">10.1146/annurev-earth-042711-105329</pub-id></mixed-citation>
+</ref>
+<ref id="bibr026">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Pörtner</surname><given-names>HO</given-names></name>. 
+<year>2012</year>. 
+<article-title>Integrating climate-related stressor effects on marine organisms: Unifying principles linking molecule to ecosystem-level changes</article-title>. 
+<source>Mar. Ecol. Prog. Ser.</source> 
+<volume>470</volume>: 
+<fpage>273</fpage>–<lpage>290</lpage>. doi:
+<pub-id pub-id-type="doi">10.3354/meps10123</pub-id></mixed-citation>
+</ref>
+<ref id="bibr027">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Pörtner</surname><given-names>HO</given-names></name>, 
+<name name-style="western"><surname>Langenbuch</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>Reipschläger</surname><given-names>A</given-names></name>. 
+<year>2004</year>. 
+<article-title>Biological impact of elevated ocean CO<sub>2</sub> concentrations: Lessons from animal physiology and Earth history</article-title>. 
+<source>J. Oceanogr.</source> 
+<volume>60</volume>: 
+<fpage>705</fpage>–<lpage>718</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr028">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Riebesell</surname><given-names>U</given-names></name>, 
+<name name-style="western"><surname>Schulz</surname><given-names>KG</given-names></name>, 
+<name name-style="western"><surname>Bellerby</surname><given-names>RGJ</given-names></name>, 
+<name name-style="western"><surname>Botros</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>Fritsche</surname><given-names>P</given-names></name>, <etal>et al.</etal> 
+<year>2007</year>. 
+<article-title>Enhanced biological carbon consumption in a high CO<sub>2</sub> ocean</article-title>. 
+<source>Nature</source> 
+<volume>450</volume>: 
+<fpage>545</fpage>–<lpage>548</lpage>. doi:
+<pub-id pub-id-type="doi">10.1038/nature06267</pub-id></mixed-citation>
+</ref>
+<ref id="bibr029">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Rykaczewski</surname><given-names>RR</given-names></name>, 
+<name name-style="western"><surname>Dunne</surname><given-names>JP</given-names></name>. 
+<year>2010</year>. 
+<article-title>Enhanced nutrient supply to the California Current Ecosystem with global warming and increased stratification in an earth system model</article-title>. 
+<source>Geophys. Res. Lett.</source> 
+<volume>37</volume>: <fpage>L21606</fpage>. doi:
+<pub-id pub-id-type="doi">10.1029/2010GL045019</pub-id></mixed-citation>
+</ref>
+<ref id="bibr030">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Sabine</surname><given-names>CL</given-names></name>, 
+<name name-style="western"><surname>Tanhua</surname><given-names>T</given-names></name>. 
+<year>2010</year>. 
+<article-title>Estimation of anthropogenic CO<sub>2</sub> inventories in the ocean</article-title>. 
+<source>Annu. Rev. Mar. Sci.</source> 
+<volume>2</volume>: 
+<fpage>175</fpage>–<lpage>198</lpage>. doi:
+<pub-id pub-id-type="doi">10.1146/annurev-marine-120308-080947</pub-id></mixed-citation>
+</ref>
+<ref id="bibr031">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Wang</surname><given-names>ZA</given-names></name>, 
+<name name-style="western"><surname>Wanninkhof</surname><given-names>R</given-names></name>, 
+<name name-style="western"><surname>Cai</surname><given-names>W-J</given-names></name>, 
+<name name-style="western"><surname>Byrne</surname><given-names>RH</given-names></name>, 
+<name name-style="western"><surname>Hu</surname><given-names>X</given-names></name>, <etal>et al.</etal> 
+<year>2013</year>. 
+<article-title>The marine inorganic carbon system along the Gulf of Mexico and Atlantic coasts of the United States: Insights from a transregional coastal carbon study</article-title>. 
+<source>Limnol. Oceanogr.</source> 
+<volume>58</volume>(<issue>1</issue>): 
+<fpage>325</fpage>–<lpage>342</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr032">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Whittmann</surname><given-names>AC</given-names></name>, 
+<name name-style="western"><surname>Pörtner</surname><given-names>H-O</given-names></name>. 
+<year>2013</year>. 
+<article-title>Sensitivities of extant animal taxa to ocean acidification</article-title>.
+<source>Nature Clim. Change</source> 2013. doi:
+<pub-id pub-id-type="doi">10.1038/nclimate1982</pub-id></mixed-citation>
+</ref>
+</ref-list></back>
+</article>

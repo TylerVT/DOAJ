@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="commentary" dtd-version="1.0" xml:lang="en">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">BioOne</journal-id>
+<journal-id journal-id-type="journal-id">Elementa</journal-id>
+<journal-title-group>
+<journal-title>Elementa</journal-title>
+<journal-subtitle>Science of the Anthropocene</journal-subtitle>
+<abbrev-journal-title>Elem. Sci. Anth.</abbrev-journal-title>
+</journal-title-group>
+<contrib-group>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Helmig</surname><given-names>Detlev</given-names></name>
+<xref ref-type="aff" rid="affa"/>
+<role>Editor-in-Chief: Atmospheric Science</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/detlev-helmig/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Blum</surname><given-names>Joel D.</given-names></name>
+<xref ref-type="aff" rid="affb"/>
+<role>Editor-in-Chief: Earth &amp; Environmental Science</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/joel-d-blum/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Zak</surname><given-names>Donald R.</given-names></name>
+<xref ref-type="aff" rid="affb"/>
+<role>Editor-in-Chief: Ecology</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/donald-r-zak/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Deming</surname><given-names>Jody W.</given-names></name>
+<xref ref-type="aff" rid="affc"/>
+<role>Editor-in-Chief: Ocean Science</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/jody-w-deming/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Chang</surname><given-names>Michael E.</given-names></name>
+<xref ref-type="aff" rid="affd"/>
+<role>Editor-in-Chief: Sustainable Engineering</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/michael-e-chang/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Kapuscinski</surname><given-names>Anne</given-names></name>
+<xref ref-type="aff" rid="affe"/>
+<role>Editor-in-Chief: Sustainability Transitions</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/anne-kapuscinski/</uri>
+</contrib>
+<contrib contrib-type="domain-editor-in-chief">
+<name name-style="western"><surname>Peart</surname><given-names>David R.</given-names></name>
+<xref ref-type="aff" rid="affe"/>
+<role>Editor-in-Chief: Sustainability Transitions</role>
+<uri>http://elementascience.org/about/expertise-and-collaboration/david-r-peart/</uri>
+</contrib>
+</contrib-group>
+<aff id="affa">
+<institution>University of Colorado Boulder</institution>
+<country>United States</country>
+</aff>
+<aff id="affb">
+<institution>University of Michigan</institution>
+<country>United States</country>
+</aff>
+<aff id="affc">
+<institution>University of Washington</institution>
+<country>United States</country>
+</aff>
+<aff id="affd">
+<institution>Georgia Institute of Technology</institution>
+<country>United States</country>
+</aff>
+<aff id="affe">
+<institution>Dartmouth</institution>
+<country>United States</country>
+</aff>
+<issn pub-type="epub">2325-1026</issn>
+<publisher>
+<publisher-name>BioOne</publisher-name>
+<publisher-loc>21 Dupont Circle NW, Suite 800, Washington, DC 20036, United States<email>team@elementascience.org</email>
+<uri>http://bioone.org</uri><uri>http://elementascience.org</uri></publisher-loc></publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">ELEMENTA-D-13-00013</article-id>
+<article-id pub-id-type="doi">10.12952/journal.elementa.000008</article-id>
+<article-categories>
+<subj-group subj-group-type="article-type">
+<subject>Commentary</subject>
+</subj-group>
+<subj-group subj-group-type="domain">
+<subject>Ecology</subject>
+</subj-group>
+<subj-group subj-group-type="classification">
+<subject>Ecology</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Biological invasions: Prospects for slowing a major global change</article-title>
+<alt-title alt-title-type="short-title">Slowing biological invasions</alt-title></title-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Simberloff</surname><given-names>Daniel</given-names></name>
+<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+<xref ref-type="corresp" rid="cor1"><sup>*</sup></xref>
+</contrib>
+</contrib-group>
+<aff id="aff1"><label>1</label>
+<institution content-type="dept">Department of Ecology &amp; Evolutionary Biology</institution>, <institution>University of Tennessee, Knoxville</institution>, <addr-line content-type="city">Knoxville</addr-line>, <addr-line content-type="state">Tennessee</addr-line>, <country>United States</country></aff>
+<contrib-group>
+<contrib contrib-type="domain-editor-in-chief" xlink:type="simple">
+<name name-style="western"><surname>Zak</surname><given-names>Donald R.</given-names></name>
+<role>Domain Editor-in-Chief</role>
+<xref ref-type="aff" rid="afff"/>
+</contrib>
+</contrib-group>
+<aff id="afff">
+<institution content-type="dept">School of Natural Resources &amp; Environment</institution>
+<institution>University of Michigan</institution>
+<addr-line content-type="city">Ann Arbor</addr-line>
+<addr-line content-type="state">Michigan</addr-line>
+<country>United States</country>
+</aff>
+<author-notes><corresp id="cor1"><label><sup>*</sup></label><email xlink:type="simple">dsimberloff@utk.edu</email></corresp></author-notes>
+<pub-date pub-type="epub" iso-8601-date="2013-12-4">
+<day>4</day>
+<month>12</month>
+<year>2013</year></pub-date>
+<volume content-type="volume">1</volume>
+<elocation-id>000008</elocation-id>
+<history>
+<date date-type="received" iso-8601-date="2013-09-02">
+<day>02</day>
+<month>09</month>
+<year>2013</year>
+</date>
+<date date-type="rev-recd">
+<day>06</day>
+<month>10</month>
+<year>2013</year>
+</date>
+<date date-type="accepted" iso-8601-date="2013-10-07">
+<day>07</day>
+<month>10</month>
+<year>2013</year>
+</date>
+</history>
+<permissions><copyright-year>2013</copyright-year>
+<copyright-holder>Simberloff</copyright-holder>
+<license license-type="open-access" xlink:type="simple">
+<license-p><open-access><p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</p>
+</open-access>
+</license-p>
+</license>
+</permissions>
+<kwd-group>
+<kwd>ecosystem impact</kwd>
+<kwd>eradication</kwd>
+<kwd>maintenance management</kwd>
+</kwd-group>
+</article-meta>
+</front>
+<body><sec id="s1"><title/>
+<p>One of the greatest ongoing ecological changes of the Anthropocene is the rearrangement of the earth’s biogeography, as people deliberately or inadvertently move species around. We have been doing this for a long time – the Lapita people from southeast Asia brought various plants and animals (including the Pacific rat) to many islands in the Pacific beginning about 3,000 years ago. However, the number of species introduced to new regions has massively increased in the last few decades as the forces that transport them have grown. From 1970 to 2010, the amount of cargo shipped by sea tripled, and it is on course to double once again by 2030. Amount of air cargo is growing even more rapidly, and passenger air travel is increasing at almost as high a rate. We could as well call the Anthropocene the Homogeocene.</p>
+<p>The array of impacts of introduced species is staggering. Most obvious are those of introduced predators on native prey (e.g., rats on many island seabird populations [<xref ref-type="bibr" rid="bibr024">Pascal, 2011</xref>]) and introduced herbivores on native island vegetation (e.g., <xref ref-type="bibr" rid="bibr008">Cronk, 1989</xref>). The spread of the Burmese python (<italic>Python molurus bivittatus</italic>) in Florida and the subsequent drastic decline of populations of prey species ranging in size from rabbits to bobcats (<xref ref-type="bibr" rid="bibr012">Dorcas et al., 2012</xref>) is a noteworthy recent example. Introduced species can compete with native species and also transmit new pathogens to them. The North American gray squirrel (<italic>Sciurus carolinensis</italic>) does both to the European red squirrel (<italic>S. vulgaris</italic>), outcompeting it for nuts and spreading the parapox virus, to which the gray squirrel is resistant and the red squirrel is highly susceptible (<xref ref-type="bibr" rid="bibr026">Rushton et al., 2006</xref>). The red squirrel population has declined drastically in Great Britain, and the gray squirrel is now spreading on the continent from an initial escape from captivity in Italy (<xref ref-type="bibr" rid="bibr040">Wauters, Tosi and Gurnell, 2002</xref>). Competition can be between unrelated species – in New Zealand, the introduced wasp <italic>Vespula vulgaris</italic> outcompetes threatened native birds for “honeydew” produced by scale insects (<xref ref-type="bibr" rid="bibr005">Beggs and Wardle, 2006</xref>). Introduced parasites and pathogens devastate native species. Examples include avian malaria, a major threat to many native Hawaiian birds (<xref ref-type="bibr" rid="bibr037">van Riper et al., 1986</xref>) after its introduction with Asian caged songbirds; crayfish plague, introduced to Europe with resistant North American crayfish and currently ravaging native crayfish (<xref ref-type="bibr" rid="bibr020">Lodge et al., 2012</xref>); and white-nose disease, a European fungus threatening several North American bat species (<xref ref-type="bibr" rid="bibr036">Turner, Reeder and Coleman, 2011</xref>). Some native species undergo a kind of “genetic extinction” from hybridization with related invaders. For instance, North American mallards (<italic>Anas platyrhynchos</italic>) introduced for hunting have extensively hybridized with native Hawaiian ducks (<italic>A. wyvilliana</italic>) and New Zealand grey ducks (<italic>A. superciliosa superciliosa</italic>)(<xref ref-type="bibr" rid="bibr025">Rhymer and Simberloff, 1996</xref>). In addition to these frequently occurring types of impacts, particular invasions can have idiosyncratic but nonetheless devastating effects. For example, the North American cane toad (<italic>Rhinella marina</italic>), brought to Australia in an ill-advised attempt at biological control of introduced beetles on cane, kills threatened native predators such as quolls when they attack the highly toxic toad (<xref ref-type="bibr" rid="bibr032">Smith and Phillips, 2006</xref>).</p>
+<p>Invasion biologists, especially recently, have explored ways in which particular invasions affect entire ecosystems (<xref ref-type="bibr" rid="bibr039">Vitousek and Walker, 1989</xref>; <xref ref-type="bibr" rid="bibr013">Ehrenfeld, 2011</xref>; <xref ref-type="bibr" rid="bibr028">Simberloff, 2011</xref>), for instance by changing nutrient cycles, fire or hydrological regimes, or physical structure. Such changes affect many species simultaneously. In Florida, invasion by Australian paperbark (<italic>Melaleuca quinquenervia</italic>) leads to more frequent, hotter lightning-induced fires, to which native plants such as sawgrass (<italic>Cladium jamaicense</italic>) and muhly grass (<italic>Muhlenbergia capillaris</italic>) are maladapted (<xref ref-type="bibr" rid="bibr027">Serbesoff-King, 2003</xref>). This invasion is thus transforming parts of the “river of grass” into patches of paperbark-dominated forest, with consequent changes in the animal community. Introduced plant pathogens that devastate the dominant native vegetation can dramatically modify an entire ecosystem. The Asian chestnut blight fungus (<italic>Cryphonectria parasitica</italic>) spread through eastern North America in the early 20<sup>th</sup> century, removing what had been the dominant tree in many regions, and thereby extinguishing insects host-specific on chestnut (<xref ref-type="bibr" rid="bibr023">Opler, 1978</xref>) as well as changing nutrient cycles (<xref ref-type="bibr" rid="bibr014">Ellison et al., 2005</xref>).</p> 
+<p>Just as global warming would probably continue for decades even if greenhouse gas emissions were suddenly to be rigorously regulated, so would invasion impacts continue long into the future even if all species introductions were suddenly to cease miraculously today. This is because some introduced species remain quite restricted and innocuous for many years before quite abruptly exploding across the landscape with major impacts (<xref ref-type="bibr" rid="bibr009">Crooks, 2011</xref>), and some impacts take a long time to build to substantial levels. In short, there is an “invasion debt” of impacts that will be experienced in the future of currently harmless introductions that are already present (<xref ref-type="bibr" rid="bibr015">Essl et al., 2011</xref>).</p>
+<p>The wealth of invasion impacts already detected, the great increase in research revealing previously undetected impacts, and the growth of trade and travel that bring invasions have induced a pessimism among a segment of the scientific community, who take the attitude that we cannot do much to slow the flood of new invasions or to mitigate the impacts of those that are established, so we should abandon the costly effort and “learn to love them” (e.g., <xref ref-type="bibr" rid="bibr010">Davis, 2009</xref>; <xref ref-type="bibr" rid="bibr011">Davis et al., 2011</xref>; <xref ref-type="bibr" rid="bibr038">Vince, 2011</xref>; <xref ref-type="bibr" rid="bibr034">Thomas, 2013</xref>). They should, according to <xref ref-type="bibr" rid="bibr021">Marris (2010)</xref>, be accepted as part of the “new normal.” Among restoration ecologists, a movement has arisen arguing that the combination of biological invasions and global climate change is increasingly making the idea of conserving ecosystems and restoring damaged ones an expensive, hopeless pipe dream and that we should accept the resultant “novel ecosystems” as an inevitable part of a “new ecological world order” (<xref ref-type="bibr" rid="bibr017">Hobbs, Higgs and Hall, 2013</xref>).</p>
+<p>The public, although sensitized to particularly dramatic regional invasions such as those of the Burmese python in Florida and the “killer alga” <italic>Caulerpa taxifolia</italic> in the Mediterranean (<xref ref-type="bibr" rid="bibr022">Meinesz, 1999</xref>), does not view invasions in general as a major global change of the order of that caused by anthropogenic climate change or land use change. This relative lack of concern is shown by the lethargic response to the issue by policymakers in most nations, which is reflected in the absence of substantial effective regulations that would stem the flow of invaders. For instance, in the United States (one of the nations in which invasions have received the most attention), one can still legally purchase many of the most ecologically damaging invasive plants at garden centers. Until 2012 one could legally buy, sell, and ship Burmese pythons in the United States. The federal regulation stopping such activity came too late, after the python population had exploded in Florida and gained international public attention. Although damaging invasions are increasingly publicized, pronouncements in scientific journals about a “new normal,” “learn to love them,” and a “new ecological world order,” though minority viewpoints, are avidly publicized by the popular media in much the same way that scientifically credentialed deniers of anthropogenic climate change attract disproportionate attention and justify policymakers in forestalling enacting policies appropriate to the scope and scale of the problem. Momentum is building in many nations to take more aggressive action, but, as with global warming, even the invaders that are already present will generate an increasing range of problems in the future (<xref ref-type="bibr" rid="bibr015">Essl et al., 2011</xref>), at least without a greatly enhanced response.</p>
+<p>The contention that we cannot do much to prevent or to mitigate invasions, the chief argument for the “learn to love them” school, is incorrect, but the various effective courses of action are not well known by the public. In fact, there are many ways to stem the arrival of new invaders, to eradicate recent invaders, and to keep well-established ones at low densities, and incremental as well as major advances in relevant technologies have occurred recently. The most efficient approach is to keep invaders out in the first place, and the biggest impediment to doing so is the failure of most nations to restrict planned introductions and to constrict pathways, such as ballast water and untreated wood packing, that inadvertently introduce species. A further problem has been simply maintaining an adequately large corps of trained inspectors of incoming people and cargo. However, New Zealand has achieved notable successes in both of these matters, suggesting that other nations could accomplish a lot if the political will were present (<xref ref-type="bibr" rid="bibr030">Simberloff, 2013</xref>).</p>
+<p>The second line of defense is an early detection-rapid response (EDRR) system. Again New Zealand has led the way in developing such a system, an Exotic Pest and Disease Hotline and a staff of trained responders, but few nations have followed. Many invasions have been found early by alert citizens, and this observation has led to mobilization of volunteers to work at the front lines on EDDR systems in both Australia and the United States (<xref ref-type="bibr" rid="bibr030">Simberloff, 2013</xref>).</p>
+<p>A variety of methods have successfully eradicated over 1,100 invasions of various taxa to aid conservation (<xref ref-type="bibr" rid="bibr016">Genovesi, 2011</xref>), and many more invasions have been eradicated for agricultural or public health purposes. The complexity of such operations and size of target areas has increased substantially. For instance, goats were eradicated from Santiago Island (58,000 ha) by a combination of the classic Judas goat technique and endocrine injections to prolong estrus (<xref ref-type="bibr" rid="bibr006">Campbell et al., 2005</xref>), while the melon fly (<italic>Bactrocera cucurbitae</italic>) was eradicated from the Ryukyu Archipelago, including Okinawa and Amami, by a combination of the sterile-male and male-annihilation methods (<xref ref-type="bibr" rid="bibr018">Iwahashi, 1996</xref>; <xref ref-type="bibr" rid="bibr019">Kuba et al., 1996</xref>). To date, eradication of aquatic and marine invaders has proven more difficult than eradication of terrestrial ones, although there are recent notable successes, such as eradication of the killer alga <italic>Caulerpa taxifolia</italic> from two regions of California (<xref ref-type="bibr" rid="bibr002">Anderson, 2005</xref>) and the Caribbean black-striped mussel (<italic>Mytilopsis sallei</italic>) from northern Australia (<xref ref-type="bibr" rid="bibr003">Bax et al., 2001</xref>).</p>
+<p>If eradication is not attempted or fails, mechanical or physical methods, chemical methods, and biological control can sometimes maintain invasive populations at low levels, and all these technologies have seen recent advances. Mechanical and physical approaches are sometimes impractical because of the high cost of labor, although the use of volunteers or prison work crews has contributed greatly to successful maintenance management in certain cases (<xref ref-type="bibr" rid="bibr030">Simberloff, 2013</xref>). In the wake of <italic>Silent Spring</italic> (<xref ref-type="bibr" rid="bibr007">Carson, 1962</xref>), the use of pesticides and herbicides became a bête noire of conservationists. However, many pesticides and herbicides in use today have few if any non-target impacts and have, in some cases, provided good short- and medium-term control of damaging invaders, including the rescue of the endemic Christmas Island red land crab <italic>Gecarcoidea natalis</italic> from likely extinction by invading yellow crazy ants (<italic>Anoplolepis gracilipes</italic>) (<uri>http://www.deh.gov.au/parks/christmas/fauna/crazy.html</uri>, accessed 8/29/06). However, the expense and evolution of resistance to chemicals work against their effective long-term use, and, in addition, for many chemicals with no known short-term non-target impacts, the effects of chronic exposure are unstudied. Potential non-target impacts have bedeviled biological control as well, although tightened testing procedures for insects introduced to control invasive plants have been greatly improved (<xref ref-type="bibr" rid="bibr029">Simberloff, 2012</xref>). Several insect invasions have also been well controlled by introduced parasitoids or predators, but testing and monitoring procedures for non-target impacts are more lax than those for natural enemies of invasive plants (<xref ref-type="bibr" rid="bibr029">Simberloff, 2012</xref>).</p>
+<p>Finally, several novel approaches to eradication and maintenance management of invaders suggest that some currently intractable invasions may become manageable in the future. Striking recent advances include the use of toxic “BioBullets” to kill zebra mussels (<xref ref-type="bibr" rid="bibr001">Aldridge, Elliott and Moggridge, 2006</xref>) and a synthetic mimic of a larval pheromone to attract migrating sea lampreys (<xref ref-type="bibr" rid="bibr033">Sorensen et al., 2005</xref>). In addition, a number of “autocidal” methods are under development in which the genetics or physiology of an invasive species is turned against it, as, for example, the use of transgenes to cause common carp to produce all-male progeny (<xref ref-type="bibr" rid="bibr004">Bax and Thresher, 2009</xref>; <xref ref-type="bibr" rid="bibr035">Thresher et al., 2013</xref>).</p>
+<p>In sum, biological invasions will continue to be a major feature of the Anthropocene, with myriad and diverse far-reaching impacts. However, their advance can be slowed and their effects mitigated by political will and ongoing progress in invasion biology and management technologies (<xref ref-type="bibr" rid="bibr031">Simberloff et al., 2013</xref>).</p></sec>
+<sec id="s2" sec-type="copyright-statement"><title>Copyright</title>
+<p>© 2013 Simberloff. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</p></sec>
+</body>
+<back>
+<ref-list content-type="parsed"><title>References</title>
+<ref id="bibr001">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Aldridge</surname><given-names>DC</given-names></name>, 
+<name name-style="western"><surname>Elliott</surname><given-names>P</given-names></name>, 
+<name name-style="western"><surname>Moggridge</surname><given-names>GD</given-names></name>. 
+<year>2006</year>. 
+<article-title>Microencapsulated BioBullets for the control of biofouling zebra mussels</article-title>. 
+<source>Environ. Sci. Technol.</source> 
+<volume>40</volume>: 
+<fpage>975</fpage>–<lpage>979</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr002">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Anderson</surname><given-names>LWJ</given-names></name>. 
+<year>2005</year>. 
+<article-title>California’s reaction to <italic>Caulerpa taxifolia</italic>: a model for invasive species rapid response</article-title>. 
+<source>Biol. Invasions</source> 
+<volume>7</volume>: 
+<fpage>1003</fpage>–<lpage>1016</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr003">
+<mixed-citation publication-type="inbook">
+<name name-style="western"><surname>Bax</surname><given-names>N</given-names></name>, 
+<name name-style="western"><surname>Hewitt</surname><given-names>C</given-names></name>, 
+<name name-style="western"><surname>Campbell</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>Thresher</surname><given-names>R</given-names></name>. 
+<year>2001</year>. 
+<chapter-title>Man-made marinas as sheltered islands for alien marine organisms: establishment and world-first eradication of a marine pest</chapter-title>, in 
+<name name-style="western"><surname>Clout</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>Veitch</surname><given-names>D</given-names></name>, eds. 
+<source>Turning the Tide: Eradication of Invasive Species</source>. 
+<publisher-loc>Aukland, NZ</publisher-loc>: 
+<publisher-name>World Conservation Union [IUCN] Species Survival Commission</publisher-name>: p. 
+<fpage>8</fpage>.</mixed-citation>
+</ref>
+<ref id="bibr004">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Bax</surname><given-names>NJ</given-names></name>, 
+<name name-style="western"><surname>Thresher</surname><given-names>RE</given-names></name>. 
+<year>2009</year>. 
+<article-title>Ecological, behavioral and genetic factors influencing the recombinant control of invasive pests</article-title>. 
+<source>Ecol. Applic.</source> 
+<volume>19</volume>: 
+<fpage>873</fpage>–<lpage>888</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr005">
+<mixed-citation publication-type="inbook">
+<name name-style="western"><surname>Beggs</surname><given-names>JR</given-names></name>, 
+<name name-style="western"><surname>Wardle</surname><given-names>D</given-names></name>. 
+<year>2006</year>. 
+<chapter-title>Keystone species: competition for honeydew among exotic and indigenous species</chapter-title>, in 
+<name name-style="western"><surname>Allen</surname><given-names>RB</given-names></name>, 
+<name name-style="western"><surname>Lee</surname><given-names>WG</given-names></name>, eds. 
+<source>Biological Invasions in New Zealand</source>. 
+<publisher-loc>Berlin</publisher-loc>: 
+<publisher-name>Springer</publisher-name>: p. 
+<fpage>281</fpage>–<lpage>294</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr006">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Campbell</surname><given-names>KJ</given-names></name>, 
+<name name-style="western"><surname>Baxter</surname><given-names>GS</given-names></name>, 
+<name name-style="western"><surname>Murray</surname><given-names>PJ</given-names></name>, 
+<name name-style="western"><surname>Coblentz</surname><given-names>BE</given-names></name>, 
+<name name-style="western"><surname>Donlan</surname><given-names>CE</given-names></name>, <etal>et al.</etal> 
+<year>2005</year>. 
+<article-title>Increasing the efficacy of Judas goats by sterilization and pregnancy termination</article-title>. 
+<source>Wildl. Res.</source> 
+<volume>32</volume>: 
+<fpage>737</fpage>–<lpage>743</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr007">
+<mixed-citation publication-type="book">
+<name name-style="western"><surname>Carson</surname><given-names>R</given-names></name>. 
+<year>1962</year>. 
+<source>Silent Spring</source>. 
+<publisher-loc>Boston</publisher-loc>: 
+<publisher-name>Houghton Mifflin</publisher-name>.</mixed-citation>
+</ref>
+<ref id="bibr008">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Cronk</surname><given-names>QCB</given-names></name>. 
+<year>1989</year>. 
+<article-title>The past and present vegetation of St Helena</article-title>. 
+<source>J. Biogeogr.</source> 
+<volume>16</volume>: 
+<fpage>47</fpage>–<lpage>64</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr009">
+<mixed-citation publication-type="inbook">
+<name name-style="western"><surname>Crooks</surname><given-names>JA</given-names></name>. 
+<year>2011</year>. 
+<chapter-title>Lag times</chapter-title>, in 
+<name name-style="western"><surname>Simberloff</surname><given-names>D</given-names></name>, 
+<name name-style="western"><surname>Rejmánek</surname><given-names>M</given-names></name>, eds. 
+<source>Encyclopedia of Biological Invasions</source>. 
+<publisher-loc>Berkeley, CA</publisher-loc>: 
+<publisher-name>Univ of California Press</publisher-name>: p. 
+<fpage>404</fpage>–<lpage>410</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr010">
+<mixed-citation publication-type="book">
+<name name-style="western"><surname>Davis</surname><given-names>MA</given-names></name>. 
+<year>2009</year>. 
+<source>Invasion Biology</source>. 
+<publisher-loc>New York</publisher-loc>: 
+<publisher-name>Oxford Univ Press</publisher-name>.</mixed-citation>
+</ref>
+<ref id="bibr011">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Davis</surname><given-names>MA</given-names></name>, 
+<name name-style="western"><surname>Chew</surname><given-names>MK</given-names></name>, 
+<name name-style="western"><surname>Hobbs</surname><given-names>RJ</given-names></name>, 
+<name name-style="western"><surname>Lugo</surname><given-names>AE</given-names></name>, 
+<name name-style="western"><surname>Ewel</surname><given-names>JJ</given-names></name>, <etal>et al.</etal> 
+<year>2011</year>. 
+<article-title>Don’t judge species on their origins</article-title>. 
+<source>Nature</source> 
+<volume>474</volume>: 
+<fpage>153</fpage>–<lpage>154</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr012">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Dorcas</surname><given-names>ME</given-names></name>, 
+<name name-style="western"><surname>Willson</surname><given-names>JD</given-names></name>, 
+<name name-style="western"><surname>Reed</surname><given-names>RN</given-names></name>, 
+<name name-style="western"><surname>Snow</surname><given-names>RW</given-names></name>, 
+<name name-style="western"><surname>Rochford</surname><given-names>MR</given-names></name>, <etal>et al.</etal> 
+<year>2012</year>. 
+<article-title>Severe mammal declines coincide with proliferation of invasive Burmese pythons in Everglades National Park</article-title>. 
+<source>Proc. Nat. Acad. Sci. (USA)</source> 
+<volume>109</volume>: 
+<fpage>2418</fpage>–<lpage>2422</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr013">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Ehrenfeld</surname><given-names>JG</given-names></name>. 
+<year>2011</year>. 
+<article-title>Ecosystem consequences of biological invasions</article-title>. 
+<source>Annu. Rev. Ecol. Evol. Syst.</source> 
+<volume>41</volume>: 
+<fpage>59</fpage>–<lpage>80</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr014">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Ellison</surname><given-names>AM</given-names></name>, 
+<name name-style="western"><surname>Bank</surname><given-names>MS</given-names></name>, 
+<name name-style="western"><surname>Clinton</surname><given-names>BD</given-names></name>, 
+<name name-style="western"><surname>Colburn</surname><given-names>EA</given-names></name>, 
+<name name-style="western"><surname>Elliott</surname><given-names>K</given-names></name>, <etal>et al.</etal> 
+<year>2005</year>. 
+<article-title>Loss of foundation species: consequences for the structure and dynamics of forested ecosystems</article-title>. 
+<source>Frontiers in Ecology and the Environment</source> 
+<volume>9</volume>: 
+<fpage>479</fpage>–<lpage>486</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr015">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Essl</surname><given-names>F</given-names></name>, 
+<name name-style="western"><surname>Dullinger</surname><given-names>S</given-names></name>, 
+<name name-style="western"><surname>Rabitsch</surname><given-names>W</given-names></name>, 
+<name name-style="western"><surname>Hulme</surname><given-names>PE</given-names></name>, 
+<name name-style="western"><surname>Hülber</surname><given-names>K</given-names></name>, <etal>et al.</etal> 
+<year>2011</year>. 
+<article-title>Socioeconomic legacy yields an invasion debt</article-title>. 
+<source>Proc. Nat. Acad. Sci. (USA)</source> 
+<volume>108</volume>: 
+<fpage>203</fpage>–<lpage>207</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr016">
+<mixed-citation publication-type="inbook">
+<name name-style="western"><surname>Genovesi</surname><given-names>P</given-names></name>.
+<year>2011</year>. 
+<chapter-title>Eradication</chapter-title>, in 
+<name name-style="western"><surname>Simberloff</surname><given-names>D</given-names></name>, 
+<name name-style="western"><surname>Rejmánek</surname><given-names>M</given-names></name>, eds. 
+<source>Encyclopedia of Biological Invasions</source>. 
+<publisher-loc>Berkeley</publisher-loc>: 
+<publisher-name>Univ of California Press</publisher-name>: p. 
+<fpage>198</fpage>–<lpage>203</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr017">
+<mixed-citation publication-type="book">
+<name name-style="western"><surname>Hobbs</surname><given-names>RJ</given-names></name>, 
+<name name-style="western"><surname>Higgs</surname><given-names>ES</given-names></name>, 
+<name name-style="western"><surname>Hall</surname><given-names>CM</given-names></name>, eds. 
+<year>2013</year>. 
+<source>Novel Ecosystems: Intervening in the New Ecological World Order</source>. 
+<publisher-loc>Oxford, UK</publisher-loc>: 
+<publisher-name>John Wiley &amp; Sons</publisher-name>.</mixed-citation>
+</ref>
+<ref id="bibr018">
+<mixed-citation publication-type="inbook">
+<name name-style="western"><surname>Iwahashi</surname><given-names>O</given-names></name>. 
+<year>1996</year>, 
+<chapter-title>Problems encountered during long-term SIT program in Japan</chapter-title>, in 
+<name name-style="western"><surname>McPheron</surname><given-names>BA</given-names></name>, 
+<name name-style="western"><surname>Steck</surname><given-names>GJ</given-names></name>, eds. 
+<source>Fruit Fly Pests: A World Assessment of Their Biology and Management</source>. 
+<publisher-loc>Delray Beach, FL</publisher-loc>: 
+<publisher-name>St. Lucie Press</publisher-name>: p. 
+<fpage>391</fpage>–<lpage>398</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr019">
+<mixed-citation publication-type="inbook">
+<name name-style="western"><surname>Kuba</surname><given-names>H</given-names></name>, 
+<name name-style="western"><surname>Kohama</surname><given-names>T</given-names></name>, 
+<name name-style="western"><surname>Kakinohana</surname><given-names>H</given-names></name>, 
+<name name-style="western"><surname>Yamagishi</surname><given-names>M</given-names></name>, 
+<name name-style="western"><surname>Kinjo</surname><given-names>K</given-names></name>, <etal>et al.</etal> 
+<year>1996</year>. 
+<chapter-title>The successful eradication programs of the melon fly in Okinawa</chapter-title>, in 
+<name name-style="western"><surname>McPheron</surname><given-names>BA</given-names></name>, 
+<name name-style="western"><surname>Steck</surname><given-names>GJ</given-names></name>, eds. 
+<source>Fruit Fly Pests: A World Assessment of Their Biology and Management</source>. 
+<publisher-loc>Delray Beach, FL</publisher-loc>: 
+<publisher-name>St. Lucie Press</publisher-name>: p. 
+<fpage>534</fpage>–<lpage>550</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr020">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Lodge</surname><given-names>DM</given-names></name>, 
+<name name-style="western"><surname>Deines</surname><given-names>A</given-names></name>, 
+<name name-style="western"><surname>Gherardi</surname><given-names>F</given-names></name>, 
+<name name-style="western"><surname>Yeo</surname><given-names>DCJ</given-names></name>, 
+<name name-style="western"><surname>Arcella</surname><given-names>T</given-names></name>, <etal>et al.</etal> 
+<year>2012</year>. 
+<article-title>Global introductions of crayfishes: evaluating the impact of species invasions on ecosystem services</article-title>. 
+<source>Annual Review of Ecology, Evolution, and Systematics</source> 
+<volume>43</volume>: 
+<fpage>449</fpage>–<lpage>472</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr021">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Marris</surname><given-names>E</given-names></name>, 
+<year>2010</year>. 
+<article-title>The new normal</article-title>. 
+<source>Conservation Magazine</source> 
+<volume>11</volume>: 
+<fpage>13</fpage>–<lpage>17</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr022">
+<mixed-citation publication-type="book">
+<name name-style="western"><surname>Meinesz</surname><given-names>A</given-names></name>.
+<year>1999</year>. 
+<source>Killer Algae</source>. 
+<publisher-loc>Chicago</publisher-loc>: 
+<publisher-name>University of Chicago Press</publisher-name>.</mixed-citation>
+</ref>
+<ref id="bibr023">
+<mixed-citation publication-type="inbook">
+<name name-style="western"><surname>Opler</surname><given-names>PA</given-names></name>. 
+<year>1978</year>. 
+<chapter-title>Insects of American chestnut: possible importance and conservation concern</chapter-title>, in 
+<name name-style="western"><surname>McDonald</surname><given-names>J</given-names></name>, ed. 
+<source>The American Chestnut Symposium</source>. <publisher-loc>Morgantown, WV</publisher-loc>: <publisher-name>West Virginia University Press</publisher-name>: <fpage>83</fpage>–<lpage>85</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr024">
+<mixed-citation publication-type="inbook">
+<name name-style="western"><surname>Pascal</surname><given-names>M</given-names></name>. 
+<year>2011</year>. 
+<chapter-title>Rats</chapter-title>, in: 
+<name name-style="western"><surname>Simberloff</surname><given-names>D</given-names></name>, 
+<name name-style="western"><surname>Rejmánek</surname><given-names>M</given-names></name>, eds. 
+<source>Encyclopedia of Biological Invasions</source>. 
+<publisher-loc>Berkeley</publisher-loc>: 
+<publisher-name>Univ of California Press</publisher-name>: p. 
+<fpage>571</fpage>–<lpage>575</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr025">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Rhymer</surname><given-names>J</given-names></name>, 
+<name name-style="western"><surname>Simberloff</surname><given-names>D</given-names></name>. 
+<year>1996</year>. 
+<article-title>Extinction by hybridization and introgression</article-title>. 
+<source>Annu. Rev. Ecol Syst.</source> 
+<volume>27</volume>: 
+<fpage>83</fpage>–<lpage>109</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr026">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Rushton</surname><given-names>SP</given-names></name>, 
+<name name-style="western"><surname>Lurz</surname><given-names>PWW</given-names></name>, 
+<name name-style="western"><surname>Gurnell</surname><given-names>J</given-names></name>, 
+<name name-style="western"><surname>Nettleton</surname><given-names>P</given-names></name>, 
+<name name-style="western"><surname>Bruemmer</surname><given-names>C</given-names></name>, <etal>et al.</etal> 
+<year>2006</year>. 
+<article-title>Disease threats posed by alien species: the role of a poxvirus in the decline of the native red squirrel in Britain</article-title>. 
+<source>Epidemiology and Infection</source> 
+<volume>134</volume>: 
+<fpage>521</fpage>–<lpage>533</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr027">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Serbesoff-King</surname><given-names>K</given-names></name>. 
+<year>2003</year>. 
+<article-title><italic>Melaleuca</italic> in Florida: a literature review on the taxonomy, distribution, biology, ecology, economic importance and control measures</article-title>. 
+<source>J. Aquat. Plant Mgt.</source> 
+<volume>41</volume>: 
+<fpage>98</fpage>–<lpage>112</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr028">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Simberloff</surname><given-names>D</given-names></name>. 
+<year>2011</year>. 
+<article-title>How common are invasion-induced ecosystem impacts?</article-title> 
+<source>Biol Invasions</source> 
+<volume>13</volume>: 
+<fpage>1255</fpage>–<lpage>1268</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr029">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Simberloff</surname><given-names>D</given-names></name>. 
+<year>2012</year>. 
+<article-title>Risks of biological control for conservation purposes</article-title>. 
+<source>BioControl</source> 
+<volume>57</volume>: 
+<fpage>263</fpage>–<lpage>276</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr030">
+<mixed-citation publication-type="other">
+<name name-style="western"><surname>Simberloff</surname><given-names>D</given-names></name>. 
+<year>2013</year>. 
+<article-title>Biological invasions: What’s worth fighting for and what can be won?</article-title> 
+<source>Ecological Engineering</source>, in press.</mixed-citation>
+</ref>
+<ref id="bibr031">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Simberloff</surname><given-names>D</given-names></name>, 
+<name name-style="western"><surname>Martin</surname><given-names>J-L</given-names></name>, 
+<name name-style="western"><surname>Genovesi</surname><given-names>P</given-names></name>, 
+<name name-style="western"><surname>Maris</surname><given-names>V</given-names></name>, 
+<name name-style="western"><surname>Wardle</surname><given-names>DA</given-names></name>, <etal>et al.</etal> 
+<year>2013</year>. 
+<article-title>Impacts of biological invasions: what’s what and the way forward</article-title>. 
+<source>Trends Ecol. Evol.</source> 
+<volume>28</volume>: 
+<fpage>58</fpage>–<lpage>66</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr032">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Smith</surname><given-names>JG</given-names></name>, 
+<name name-style="western"><surname>Phillips</surname><given-names>BL</given-names></name>.
+<year>2006</year>. 
+<article-title>Toxic tucker: the potential impact of cane toads on Australian reptiles</article-title>. 
+<source>Pacific Conserv Biol</source> 
+<volume>12</volume>: 
+<fpage>40</fpage>–<lpage>49</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr033">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Sorensen</surname><given-names>PW</given-names></name>, 
+<name name-style="western"><surname>Fine</surname><given-names>JM</given-names></name>, 
+<name name-style="western"><surname>Dvornikovs</surname><given-names>V</given-names></name>, 
+<name name-style="western"><surname>Jeffrey</surname><given-names>CS</given-names></name>, 
+<name name-style="western"><surname>Shao</surname><given-names>F</given-names></name>, <etal>et al.</etal> 
+<year>2005</year>. 
+<article-title>Mixture of new sulfated steroids functions as a migratory pheromone in the sea lamprey</article-title>. 
+<source>Nature Chemical Biology</source> 
+<volume>1</volume>: 
+<fpage>324</fpage>–<lpage>328</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr034">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Thomas</surname><given-names>CD</given-names></name>. 
+<year>2013</year>. 
+<article-title>The Anthropocene could raise biological diversity</article-title>. 
+<source>Nature</source> 
+<volume>502</volume>: 
+<fpage>7</fpage>.</mixed-citation>
+</ref>
+<ref id="bibr035">
+<mixed-citation publication-type="other">
+<name name-style="western"><surname>Thresher</surname><given-names>R</given-names></name>, 
+<name name-style="western"><surname>Hayes</surname><given-names>K</given-names></name>, 
+<name name-style="western"><surname>Bax</surname><given-names>N</given-names></name>, 
+<name name-style="western"><surname>Teem</surname><given-names>J</given-names></name>, 
+<name name-style="western"><surname>Benfey</surname><given-names>T</given-names></name>, <etal>et al.</etal> 
+<year>2013</year>. 
+<article-title>Genetic control of invasive fish: technological options and its role in Integrated Pest Management</article-title>. 
+<source>Biol.Invasions</source>, in press.</mixed-citation>
+</ref>
+<ref id="bibr036">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Turner</surname><given-names>GG</given-names></name>, 
+<name name-style="western"><surname>Reeder</surname><given-names>DM</given-names></name>, 
+<name name-style="western"><surname>Coleman</surname><given-names>JTH</given-names></name>. 
+<year>2011</year>. 
+<article-title>A five-year assessment of mortality and geographic spread of white-nose syndrome in North American bats, with a look at the future. Update of white-nose syndrome in bats</article-title>. 
+<source>Bat Research News</source> 
+<volume>52</volume>: 
+<fpage>13</fpage>–<lpage>27</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr037">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>van Riper</surname><given-names>C</given-names><suffix>III</suffix></name>, 
+<name name-style="western"><surname>van Riper</surname><given-names>SG</given-names></name>, 
+<name name-style="western"><surname>Goff</surname><given-names>ML</given-names></name>, 
+<name name-style="western"><surname>Laird</surname><given-names>M</given-names></name>. 
+<year>1986</year>. 
+<article-title>The epizootiology and ecological significance of malaria in Hawaiian land birds</article-title>. 
+<source>Ecol Monogr</source> 
+<volume>56</volume>: 
+<fpage>327</fpage>–<lpage>344</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr038">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Vince</surname><given-names>G</given-names></name>. 
+<year>2011</year>. 
+<article-title>Embracing invasives</article-title>. 
+<source>Science</source> 
+<volume>331</volume>: 
+<fpage>1383</fpage>–<lpage>1384</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr039">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Vitousek</surname><given-names>PM</given-names></name>, 
+<name name-style="western"><surname>Walker</surname><given-names>LR</given-names></name>. 
+<year>1989</year>. 
+<article-title>Biological invasion by <italic>Myrica faya</italic> in Hawai’i: plant demography, nitrogen fixation, ecosystem effects</article-title>. 
+<source>Ecol. Monogr</source> 
+<volume>59</volume>: 
+<fpage>247</fpage>–<lpage>265</lpage>.</mixed-citation>
+</ref>
+<ref id="bibr040">
+<mixed-citation publication-type="journal">
+<name name-style="western"><surname>Wauters</surname><given-names>LA</given-names></name>, 
+<name name-style="western"><surname>Tosi</surname><given-names>G</given-names></name>, 
+<name name-style="western"><surname>Gurnell</surname><given-names>J</given-names></name>. 
+<year>2002</year>. 
+<article-title>Interspecific competition in tree squirrels: do introduced grey squirrels (<italic>Sciurus carolinensis</italic>) deplete tree seeds hoarded by red squirrels (<italic>S. vulgaris</italic>)?</article-title> 
+<source>Behav Ecol Sociobiol</source> 
+<volume>51</volume>: 
+<fpage>360</fpage>–<lpage>367</lpage>.</mixed-citation>
+</ref></ref-list>
+</back>
+</article>
